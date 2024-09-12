@@ -169,6 +169,16 @@ Explore our extensive list of GenAI agent implementations, ranging from simple t
 
     #### Implementation 🛠️
     • Implement a multi-step process involving question anonymization, high-level planning, task breakdown, adaptive information retrieval and question answering, continuous re-planning, and rigorous answer verification to ensure grounded and accurate responses.
+15. **[Multi agent research team-Autogen]
+
+    Overview 🔎
+
+ 
+An advanced RAG solution designed to tackle complex questions that simple semantic similarity-based retrieval cannot solve. This approach uses a sophisticated deterministic graph as the "brain" 🧠 of a highly controllable autonomous agent, capable of answering non-trivial questions from your own data.
+Implementation 🛠️
+
+ 
+The implementation involves anonymizing questions for privacy, followed by high-level planning and task breakdown to manage sub-tasks effectively. Adaptive information retrieval dynamically sources data, and continuous re-planning adjusts strategies as needed. Rigorous answer verification ensures that responses remain grounded and accurate throughout the process.
 
 ## Getting Started
 
