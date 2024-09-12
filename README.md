@@ -15,7 +15,7 @@ Welcome to one of the most extensive and dynamic collections of Generative AI (G
 
 Don't miss out on cutting-edge developments, new tutorials, and community insights!
 
-**[Subscribe to the GenAI Agents Newsletter](https://diamantai.substack.com/?r=336pe4&utm_campaign=pub-share-checklist)**
+**[Subscribe to the GenAI Agents Newsletter of DiamantAI](https://diamantai.substack.com/?r=336pe4&utm_campaign=pub-share-checklist)**
 
 ## Introduction
 
