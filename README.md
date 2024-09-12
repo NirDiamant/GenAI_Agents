@@ -118,9 +118,17 @@ Explore our extensive list of GenAI agent implementations, ranging from simple t
     #### Implementation 🛠️
     Utilizes LangGraph to orchestrate a workflow that classifies input text using GPT models, applies content-specific processing, and converts the processed text to speech using OpenAI's TTS API. The system adapts its output based on the identified content type (general, poem, news, or joke).
 
+9. **[Music Compositor Agent (LangGraph)](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/music_compositor_agent_langgraph.ipynb)**
+   
+    #### Overview 🔎
+    An AI Music Compositor using LangGraph and OpenAI's language models generates custom musical compositions based on user input. The system processes the input through specialized components, each contributing to the final musical piece, which is then converted to a playable MIDI file.
+
+    #### Implementation 🛠️
+    LangGraph orchestrates a workflow that transforms user input into a musical composition, using ChatOpenAI (GPT-4) to generate melody, harmony, and rhythm, which are then style-adapted. The final AI-generated composition is converted to a MIDI file using music21 and can be played back using pygame.
+
 ### 🚀 Advanced Agent Architectures
 
-9. **[Memory-Enhanced Conversational Agent](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/memory_enhanced_conversational_agent.ipynb)**
+10. **[Memory-Enhanced Conversational Agent](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/memory_enhanced_conversational_agent.ipynb)**
    
     #### Overview 🔎
     A memory-enhanced conversational AI agent incorporates short-term and long-term memory systems to maintain context within conversations and across multiple sessions, improving interaction quality and personalization.
@@ -128,7 +136,7 @@ Explore our extensive list of GenAI agent implementations, ranging from simple t
     #### Implementation 🛠️
     Integrates a language model with separate short-term and long-term memory stores, utilizes a prompt template incorporating both memory types, and employs a memory manager for storage and retrieval. The system includes an interaction loop that updates and utilizes memories for each response.
 
-10. **[Multi-Agent Collaboration System](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/multi_agent_collaboration_system.ipynb)**
+11. **[Multi-Agent Collaboration System](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/multi_agent_collaboration_system.ipynb)**
     
     #### Overview 🔎
     A multi-agent collaboration system combining historical research with data analysis, leveraging large language models to simulate specialized agents working together to answer complex historical questions.
@@ -136,7 +144,7 @@ Explore our extensive list of GenAI agent implementations, ranging from simple t
     #### Implementation 🛠️
     Utilizes a base Agent class to create specialized HistoryResearchAgent and DataAnalysisAgent, orchestrated by a HistoryDataCollaborationSystem. The system follows a five-step process: historical context provision, data needs identification, historical data provision, data analysis, and final synthesis.
 
-11. **[Self-Improving Agent](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/self_improving_agent.ipynb)**
+12. **[Self-Improving Agent](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/self_improving_agent.ipynb)**
     
     #### Overview 🔎
     A Self-Improving Agent using LangChain engages in conversations, learns from interactions, and continuously improves its performance over time through reflection and adaptation.
@@ -144,7 +152,7 @@ Explore our extensive list of GenAI agent implementations, ranging from simple t
     #### Implementation 🛠️
     Integrates a language model with chat history management, response generation, and a reflection mechanism. The system employs a learning system that incorporates insights from reflection to enhance future performance, creating a continuous improvement loop.
 
-12. **[Task-Oriented Agent](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/task_oriented_agent.ipynb)**
+13. **[Task-Oriented Agent](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/task_oriented_agent.ipynb)**
     
     #### Overview 🔎
     A language model application using LangChain that summarizes text and translates the summary to Spanish, combining custom functions, structured tools, and an agent for efficient text processing.
@@ -152,7 +160,7 @@ Explore our extensive list of GenAI agent implementations, ranging from simple t
     #### Implementation 🛠️
     Utilizes custom functions for summarization and translation, wrapped as structured tools. Employs a prompt template to guide the agent, which orchestrates the use of tools. An agent executor manages the process, taking input text and producing both an English summary and its Spanish translation.
 
-13. **[Internet Search and Summarize Agent](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/search_the_internet_and_summarize.ipynb)**
+14. **[Internet Search and Summarize Agent](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/search_the_internet_and_summarize.ipynb)**
     
     #### Overview 🔎
     An intelligent web research assistant that combines web search capabilities with AI-powered summarization, automating the process of gathering information from the internet and distilling it into concise, relevant summaries.
@@ -162,7 +170,7 @@ Explore our extensive list of GenAI agent implementations, ranging from simple t
 
 ## 🌟 Special Advanced Technique 🌟
 
-14. **[Sophisticated Controllable Agent for Complex RAG Tasks 🤖](https://github.com/NirDiamant/Controllable-RAG-Agent)**
+15. **[Sophisticated Controllable Agent for Complex RAG Tasks 🤖](https://github.com/NirDiamant/Controllable-RAG-Agent)**
 
     #### Overview 🔎
     An advanced RAG solution designed to tackle complex questions that simple semantic similarity-based retrieval cannot solve. This approach uses a sophisticated deterministic graph as the "brain" 🧠 of a highly controllable autonomous agent, capable of answering non-trivial questions from your own data.
