@@ -169,16 +169,18 @@ Explore our extensive list of GenAI agent implementations, ranging from simple t
 
     #### Implementation 🛠️
     • Implement a multi-step process involving question anonymization, high-level planning, task breakdown, adaptive information retrieval and question answering, continuous re-planning, and rigorous answer verification to ensure grounded and accurate responses.
-15. **[Multi agent research team-Autogen]
 
-    Overview 🔎
+15. **[Multi agent research team - Autogen](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/research_team_autogen.ipynb)**
 
- 
-An advanced RAG solution designed to tackle complex questions that simple semantic similarity-based retrieval cannot solve. This approach uses a sophisticated deterministic graph as the "brain" 🧠 of a highly controllable autonomous agent, capable of answering non-trivial questions from your own data.
-Implementation 🛠️
 
- 
-The implementation involves anonymizing questions for privacy, followed by high-level planning and task breakdown to manage sub-tasks effectively. Adaptive information retrieval dynamically sources data, and continuous re-planning adjusts strategies as needed. Rigorous answer verification ensures that responses remain grounded and accurate throughout the process.
+    #### Overview 🔎 
+  
+    This technique explores a multi-agent system for collaborative research using the AutoGen library. It employs agents to solve tasks collaboratively, focusing on efficient execution and quality assurance. The system enhances research by distributing tasks among specialized agents.  
+    
+    #### Implementation 🛠️
+    
+    Agents are configured with specific roles using the GPT-4 model, including admin, developer, planner, executor, and quality assurance. Interaction management ensures orderly communication with defined transitions. Task execution involves collaborative planning, coding, execution, and quality checking, demonstrating a scalable framework for various domains.  
+
 
 ## Getting Started
 
