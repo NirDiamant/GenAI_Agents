@@ -184,6 +184,18 @@ Explore our extensive list of GenAI agent implementations, ranging from simple t
     #### Implementation 🛠️
     • Implement a multi-step process involving question anonymization, high-level planning, task breakdown, adaptive information retrieval and question answering, continuous re-planning, and rigorous answer verification to ensure grounded and accurate responses.
 
+15. **[Multi agent research team - Autogen](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/research_team_autogen.ipynb)**
+
+
+    #### Overview 🔎 
+  
+    This technique explores a multi-agent system for collaborative research using the AutoGen library. It employs agents to solve tasks collaboratively, focusing on efficient execution and quality assurance. The system enhances research by distributing tasks among specialized agents.  
+    
+    #### Implementation 🛠️
+    
+    Agents are configured with specific roles using the GPT-4 model, including admin, developer, planner, executor, and quality assurance. Interaction management ensures orderly communication with defined transitions. Task execution involves collaborative planning, coding, execution, and quality checking, demonstrating a scalable framework for various domains.  
+
+
 ## Getting Started
 
 To begin exploring and building GenAI agents:
