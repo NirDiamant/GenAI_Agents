@@ -186,8 +186,8 @@ Explore our extensive list of GenAI agent implementations, ranging from simple t
     Agents are configured with specific roles using the GPT-4 model, including admin, developer, planner, executor, and quality assurance. Interaction management ensures orderly communication with defined transitions. Task execution involves collaborative planning, coding, execution, and quality checking, demonstrating a scalable framework for various domains.  
 
     #### Additional Resources 📚
-    - **[comprehensive solution with UI](https://github.com/yanivvak/dream-team)**
-    -**[Blogpost](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/build-your-dream-team-with-autogen/ba-p/4157961)**
+    - **[comprehensive solution with UI](https://github.com/yanivvak/dream-team)** 
+    - **[Blogpost](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/build-your-dream-team-with-autogen/ba-p/4157961)**
 
 ## 🌟 Special Advanced Technique 🌟
 
