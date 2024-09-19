@@ -35,7 +35,7 @@ This comprehensive collection of RAG tutorials and implementations complements t
 
 ## A Community-Driven Knowledge Hub
 
-This repository thrives on community contributions! Join our Discord community — the central hub for discussing agent development, sharing ideas, and collaborating on projects:
+**This repository grows stronger with your contributions!** Join our vibrant Discord community — the central hub for shaping and advancing this project together 🤝
 
 **[GenAI Agents Discord Community](https://discord.gg/cA6Aa4uyDX)**
 
