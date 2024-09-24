@@ -92,7 +92,6 @@ Explore our extensive list of GenAI agent implementations, ranging from simple t
    #### Implementation 🛠️
    Step-by-step guide on using LangGraph to create a StateGraph workflow. The tutorial covers key concepts such as state management, node creation, and graph compilation. It demonstrates these principles by constructing a simple text analysis pipeline, serving as a foundation for more advanced agent architectures.
 
-### 🔍 Task-Specific Agents (including LangGraph implementations)
 
 ### 🔍 Task-Specific Agents
 
