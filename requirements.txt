@@ -14,7 +14,7 @@ dataclasses-json==0.6.7
 debugpy==1.8.5
 decorator==5.1.1
 distro==1.9.0
-duckduckgo_search==6.2.11
+duckduckgo_search==6.2.13
 executing==2.1.0
 frozenlist==1.4.1
 greenlet==3.0.3
@@ -54,7 +54,7 @@ pandas==2.2.2
 parso==0.8.4
 pillow==10.4.0
 platformdirs==4.2.2
-primp==0.6.1
+primp==0.6.3
 prompt_toolkit==3.0.47
 psutil==6.0.0
 pure_eval==0.2.3
@@ -64,9 +64,9 @@ Pygments==2.18.0
 python-dateutil==2.9.0.post0
 python-dotenv==1.0.1
 pytz==2024.1
-pywin32==306
 PyYAML==6.0.2
 pyzmq==26.2.0
+pywin32==306; platform_system == "Windows"
 regex==2024.7.24
 requests==2.32.3
 six==1.16.0
