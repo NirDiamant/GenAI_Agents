@@ -16,6 +16,15 @@ Don't miss out on cutting-edge developments, new tutorials, and community insigh
 
 **[Subscribe to the GenAI Agents Newsletter of DiamantAI](https://diamantai.substack.com/?r=336pe4&utm_campaign=pub-share-checklist)**
 
+
+## 🎉 Join the AgentCraft Hackathon in conjunction with LangChain!
+
+[![AgentCraft Hackathon](images\banner.png)](https://www.tensorops.ai/aiagentsonlinehackathon)
+
+**[Register Now for the AgentCraft Hackathon!](https://www.tensorops.ai/aiagentsonlinehackathon)**
+
+Join us to build innovative AI agents and contribute to this open source while winning prizes!
+
 ## Introduction
 
 Generative AI agents are at the forefront of artificial intelligence, revolutionizing the way we interact with and leverage AI technologies. This repository is designed to guide you through the development journey, from basic agent implementations to advanced, cutting-edge systems.
