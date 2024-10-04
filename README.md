@@ -19,7 +19,7 @@ Don't miss out on cutting-edge developments, new tutorials, and community insigh
 
 ## 🎉 Join the AgentCraft Hackathon in conjunction with LangChain!
 
-[![AgentCraft Hackathon](images\banner.png)](https://www.tensorops.ai/aiagentsonlinehackathon)
+[![AgentCraft Hackathon](images/banner.png)](https://www.tensorops.ai/aiagentsonlinehackathon)
 
 **[Register Now for the AgentCraft Hackathon!](https://www.tensorops.ai/aiagentsonlinehackathon)**
 
