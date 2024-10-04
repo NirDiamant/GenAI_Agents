@@ -2,6 +2,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/nir-diamant-759323134/)
 [![Twitter](https://img.shields.io/twitter/follow/NirDiamantAI?label=Follow%20@NirDiamantAI&style=social)](https://twitter.com/NirDiamantAI)
 [![Discord](https://img.shields.io/badge/Discord-Join%20our%20community-7289da?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/cA6Aa4uyDX)
+<iframe src="https://diamantai.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
 
 
 > 🌟 **Support This Project:** Your sponsorship fuels innovation in GenAI agent development. **[Become a sponsor](https://github.com/sponsors/NirDiamant)** to help maintain and expand this valuable resource!
