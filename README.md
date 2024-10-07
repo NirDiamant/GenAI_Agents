@@ -248,7 +248,7 @@ We welcome contributions from the community! If you have a new technique or impr
 
 ## Contributors
 
-[![Contributors](https://contrib.rocks/image?repo=NirDiamant/RAG_Techniques)](https://github.com/NirDiamant/GenAI_Agents/graphs/contributors)
+[![Contributors](https://contrib.rocks/image?repo=NirDiamant/GenAI_Agents)](https://github.com/NirDiamant/GenAI_Agents/graphs/contributors)
 
 ## License
 
