@@ -1,4 +1,4 @@
-# Contributing to GenAI Agents Playground
+# Contributing to GenAI Agents repo
 
 Welcome to the world's most comprehensive repository of Generative AI Agent tutorials and implementations! 🌟 We're thrilled you're interested in contributing to this dynamic knowledge base. Your expertise and creativity can help us push the boundaries of GenAI agent technology.
 
