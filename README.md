@@ -33,13 +33,10 @@ Our goal is to provide a valuable resource for everyone - from beginners taking 
 
 Furthermore, this repository serves as a platform for showcasing innovative agent creations. Whether you've developed a novel agent architecture or found an innovative application for existing techniques, we encourage you to share your work with the community.
 
-## Related Project
+## Related Projects
 
-If you're interested in Retrieval-Augmented Generation (RAG) techniques, check out our sister project:
-
-📚 **[Advanced RAG Techniques Repository](https://github.com/NirDiamant/RAG_Techniques)**
-
-This comprehensive collection of RAG tutorials and implementations complements the GenAI Agents Playground, offering insights into enhancing AI systems with external knowledge retrieval.
+📚 Explore my **[comprehensive guide on RAG techniques](https://github.com/NirDiamant/RAG_Techniques)** to complement these agent implementations with advanced retrieval methods.
+🖋️ Check out my **[Prompt Engineering Techniques guide](https://github.com/NirDiamant/Prompt_Engineering)** to enhance your AI agents with effective prompting strategies.
 
 ## A Community-Driven Knowledge Hub
 
