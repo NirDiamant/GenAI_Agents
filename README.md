@@ -35,8 +35,8 @@ Furthermore, this repository serves as a platform for showcasing innovative agen
 
 ## Related Projects
 
-📚 Explore my **[comprehensive guide on RAG techniques](https://github.com/NirDiamant/RAG_Techniques)** to complement these agent implementations with advanced retrieval methods.
-🖋️ Check out my **[Prompt Engineering Techniques guide](https://github.com/NirDiamant/Prompt_Engineering)** to enhance your AI agents with effective prompting strategies.
+📚 Dive into my **[comprehensive guide on RAG techniques](https://github.com/NirDiamant/RAG_Techniques)** to learn about integrating external knowledge into AI systems, enhancing their capabilities with up-to-date and relevant information retrieval.
+🖋️ Explore my **[Prompt Engineering Techniques guide](https://github.com/NirDiamant/Prompt_Engineering)** for an extensive collection of prompting strategies, from fundamental concepts to advanced methods, improving your ability to communicate effectively with AI language models.
 
 ## A Community-Driven Knowledge Hub
 
