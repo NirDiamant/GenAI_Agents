@@ -208,9 +208,18 @@ Explore our extensive list of GenAI agent implementations, ranging from simple t
     - **[comprehensive solution with UI](https://github.com/yanivvak/dream-team)** 
     - **[Blogpost](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/build-your-dream-team-with-autogen/ba-p/4157961)**
 
+
+17. **[Podcast Internet Search and Generate Agent 🎙️](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/generate_podcast_agent_langgraph.ipynb)**
+    
+    #### Overview 🔎
+    A two step agent that first searches the internet for a given topic and then generates a podcast on the topic found. The search step uses a search agent and search function to find the most relevant information. The second step uses a podcast generation agent and generation function to create a podcast on the topic found.
+
+    #### Implementation 🛠️
+    Utilizes LangGraph to orchestrate a two-step workflow. The first step involves a search agent and function to gather information from the internet. The second step uses a podcast generation agent and function to create a podcast based on the gathered information.
+
 ## 🌟 Special Advanced Technique 🌟
 
-17. **[Sophisticated Controllable Agent for Complex RAG Tasks 🤖](https://github.com/NirDiamant/Controllable-RAG-Agent)**
+18. **[Sophisticated Controllable Agent for Complex RAG Tasks 🤖](https://github.com/NirDiamant/Controllable-RAG-Agent)**
 
     #### Overview 🔎
     An advanced RAG solution designed to tackle complex questions that simple semantic similarity-based retrieval cannot solve. This approach uses a sophisticated deterministic graph as the "brain" 🧠 of a highly controllable autonomous agent, capable of answering non-trivial questions from your own data.
