@@ -112,7 +112,7 @@ To ensure consistency and readability across all notebooks:
 
 To ensure the highest quality and readability of our code:
 
-1. **Write Clean Code:** Follow best practices for clean, readable code.
+1. **Write Clean Code:** Follow best practices for clean, readable code, Document every function and Class.
 2. **Use Comments:** Add clear and concise comments to explain complex logic.
 3. **Format Your Code:** Use consistent formatting throughout your contribution.
 4. **Language Model Review:** After completing your code, consider passing it through a language model for additional formatting and readability improvements. This extra step can help make your code even more accessible and maintainable.
