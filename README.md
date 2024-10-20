@@ -222,6 +222,14 @@ Explore our extensive list of GenAI agent implementations, ranging from simple t
     #### Additional Resources 📚
     - **[Swarm Repo](https://github.com/openai/swarm)** 
 
+18. **[Podcast Internet Search and Generate Agent 🎙️](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/generate_podcast_agent_langgraph.ipynb)**
+
+    #### Overview 🔎
+    A two step agent that first searches the internet for a given topic and then generates a podcast on the topic found. The search step uses a search agent and search function to find the most relevant information. The second step uses a podcast generation agent and generation function to create a podcast on the topic found.
+
+    #### Implementation 🛠️
+    Utilizes LangGraph to orchestrate a two-step workflow. The first step involves a search agent and function to gather information from the internet. The second step uses a podcast generation agent and function to create a podcast based on the gathered information.
+
 ## 🌟 Special Advanced Technique 🌟
 
 18. **[Sophisticated Controllable Agent for Complex RAG Tasks 🤖](https://github.com/NirDiamant/Controllable-RAG-Agent)**
