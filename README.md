@@ -14,7 +14,10 @@ Welcome to one of the most extensive and dynamic collections of Generative AI (G
 
 Don't miss out on cutting-edge developments, new tutorials, and community insights!
 
-**[Subscribe to DiamantAI's Newsletter](https://diamantai.substack.com/?r=336pe4&utm_campaign=pub-share-checklist)**
+**[Subscribe to DiamantAI's top 1% AI-focused Newsletter](https://diamantai.substack.com/?r=336pe4&utm_campaign=pub-share-checklist)**
+
+[![AgentCraft Hackathon](images/substack_image.png)](https://diamantai.substack.com/?r=336pe4&utm_campaign=pub-share-checklist)
+
 
 
 ## 🎉 Join the AgentCraft Hackathon in conjunction with LangChain!
