@@ -71,32 +71,38 @@ For new notebooks or significant additions to existing ones, please follow this 
 
 1. **Title and Overview:** Clear title and brief overview of the agent.
 
-2. **Detailed Explanation:** Cover motivation, key components, agent architecture, and benefits.
+2. **Required Packages:** Include all necessary package installations at the beginning of the notebook using pip install commands. For example:
+   ```python
+   !pip install package1
+   !pip install package2
+   ```
 
-3. **Visual Representation:** Include a diagram to visualize the agent's architecture. We recommend using Mermaid syntax for creating these diagrams. Here's how to do it:
+3. **Detailed Explanation:** Cover motivation, key components, agent architecture, and benefits.
 
-• Create a graph using Mermaid's graph TD (top-down) syntax<br>
-• You can use Claude or other AI assistants to help you design the graph if needed<br>
-• Paste your Mermaid code into [Mermaid Live Editor](https://mermaid.live/)<br>
-• In the "Actions" tab of Mermaid Live Editor, download the SVG file of your diagram<br>
-• Store the SVG file in the [images folder](https://github.com/NirDiamant/GenAI_Agents/tree/main/images) of the repository<br>
-• Use an appropriate, descriptive name for the file<br>
-• In your notebook, display the image using Markdown syntax:<br>
+4. **Visual Representation:** Include a diagram to visualize the agent's architecture. We recommend using Mermaid syntax for creating these diagrams. Here's how to do it:
+
+• Create a graph using Mermaid's graph TD (top-down) syntax  
+• You can use Claude or other AI assistants to help you design the graph if needed  
+• Paste your Mermaid code into [Mermaid Live Editor](https://mermaid.live/)  
+• In the "Actions" tab of Mermaid Live Editor, download the SVG file of your diagram  
+• Store the SVG file in the [images folder](https://github.com/NirDiamant/GenAI_Agents/tree/main/images) of the repository  
+• Use an appropriate, descriptive name for the file  
+• In your notebook, display the image using Markdown syntax:  
   ```markdown
   ![Your Agent Name](../images/your-agent-name.svg)
   ```
 
 This process ensures consistency in our visual representations and makes it easy for others to understand and potentially modify the diagrams in the future.
 
-4. **Implementation:** Step-by-step Python implementation with clear comments and explanations.
+5. **Implementation:** Step-by-step Python implementation with clear comments and explanations.
 
-5. **Usage Example:** Demonstrate the agent with a practical example.
+6. **Usage Example:** Demonstrate the agent with a practical example.
 
-6. **Comparison:** Compare with simpler agents, both qualitatively and quantitatively if possible.
+7. **Comparison:** Compare with simpler agents, both qualitatively and quantitatively if possible.
 
-7. **Additional Considerations:** Discuss limitations, potential improvements, or specific use cases.
+8. **Additional Considerations:** Discuss limitations, potential improvements, or specific use cases.
 
-8. **References:** Include relevant citations or resources if you have.
+9. **References:** Include relevant citations or resources if you have.
 
 ## Notebook Best Practices
 
