@@ -71,15 +71,9 @@ For new notebooks or significant additions to existing ones, please follow this 
 
 1. **Title and Overview:** Clear title and brief overview of the agent.
 
-2. **Required Packages:** Include all necessary package installations at the beginning of the notebook using pip install commands. For example:
-   ```python
-   !pip install package1
-   !pip install package2
-   ```
+2. **Detailed Explanation:** Cover motivation, key components, agent architecture, and benefits.
 
-3. **Detailed Explanation:** Cover motivation, key components, agent architecture, and benefits.
-
-4. **Visual Representation:** Include a diagram to visualize the agent's architecture. We recommend using Mermaid syntax for creating these diagrams. Here's how to do it:
+3. **Visual Representation:** Include a diagram to visualize the agent's architecture. We recommend using Mermaid syntax for creating these diagrams. Here's how to do it:
 
 • Create a graph using Mermaid's graph TD (top-down) syntax  
 • You can use Claude or other AI assistants to help you design the graph if needed  
@@ -93,6 +87,12 @@ For new notebooks or significant additions to existing ones, please follow this 
   ```
 
 This process ensures consistency in our visual representations and makes it easy for others to understand and potentially modify the diagrams in the future.
+
+4. **Required Packages:** Include all necessary package installations at the beginning of the implementation section using pip install commands. For example:
+   ```python
+   !pip install package1
+   !pip install package2
+   ```
 
 5. **Implementation:** Step-by-step Python implementation with clear comments and explanations.
 
