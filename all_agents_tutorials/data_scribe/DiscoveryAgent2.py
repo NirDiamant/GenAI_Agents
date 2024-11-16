@@ -21,6 +21,7 @@ load_dotenv()
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
 
+#deprecated: changes here have been merged into discovery_agent.py
 
 class DiscoveryAgent:
     def __init__(self):
