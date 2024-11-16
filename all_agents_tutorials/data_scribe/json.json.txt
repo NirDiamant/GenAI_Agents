@@ -1,0 +1,476 @@
+```json
+[
+    {
+        "tableName": "albums",
+        "columns": [
+            {
+                "columnName": "AlbumId",
+                "columnType": "INTEGER",
+                "isOptional": false,
+                "foreignKeyReference": null
+            },
+            {
+                "columnName": "Title",
+                "columnType": "NVARCHAR(160)",
+                "isOptional": false,
+                "foreignKeyReference": null
+            },
+            {
+                "columnName": "ArtistId",
+                "columnType": "INTEGER",
+                "isOptional": false,
+                "foreignKeyReference": {
+                    "table": "artists",
+                    "column": "ArtistId"
+                }
+            }
+        ]
+    },
+    {
+        "tableName": "artists",
+        "columns": [
+            {
+                "columnName": "ArtistId",
+                "columnType": "INTEGER",
+                "isOptional": false,
+                "foreignKeyReference": null
+            },
+            {
+                "columnName": "Name",
+                "columnType": "NVARCHAR(120)",
+                "isOptional": true,
+                "foreignKeyReference": null
+            }
+        ]
+    },
+    {
+        "tableName": "customers",
+        "columns": [
+            {
+                "columnName": "CustomerId",
+                "columnType": "INTEGER",
+                "isOptional": false,
+                "foreignKeyReference": null
+            },
+            {
+                "columnName": "FirstName",
+                "columnType": "NVARCHAR(40)",
+                "isOptional": false,
+                "foreignKeyReference": null
+            },
+            {
+                "columnName": "LastName",
+                "columnType": "NVARCHAR(20)",
+                "isOptional": false,
+                "foreignKeyReference": null
+            },
+            {
+                "columnName": "Company",
+                "columnType": "NVARCHAR(80)",
+                "isOptional": true,
+                "foreignKeyReference": null
+            },
+            {
+                "columnName": "Address",
+                "columnType": "NVARCHAR(70)",
+                "isOptional": true,
+                "foreignKeyReference": null
+            },
+            {
+                "columnName": "City",
+                "columnType": "NVARCHAR(40)",
+                "isOptional": true,
+                "foreignKeyReference": null
+            },
+            {
+                "columnName": "State",
+                "columnType": "NVARCHAR(40)",
+                "isOptional": true,
+                "foreignKeyReference": null
+            },
+            {
+                "columnName": "Country",
+                "columnType": "NVARCHAR(40)",
+                "isOptional": true,
+                "foreignKeyReference": null
+            },
+            {
+                "columnName": "PostalCode",
+                "columnType": "NVARCHAR(10)",
+                "isOptional": true,
+                "foreignKeyReference": null
+            },
+            {
+                "columnName": "Phone",
+                "columnType": "NVARCHAR(24)",
+                "isOptional": true,
+                "foreignKeyReference": null
+            },
+            {
+                "columnName": "Fax",
+                "columnType": "NVARCHAR(24)",
+                "isOptional": true,
+                "foreignKeyReference": null
+            },
+            {
+                "columnName": "Email",
+                "columnType": "NVARCHAR(60)",
+                "isOptional": false,
+                "foreignKeyReference": null
+            },
+            {
+                "columnName": "SupportRepId",
+                "columnType": "INTEGER",
+                "isOptional": true,
+                "foreignKeyReference": {
+                    "table": "employees",
+                    "column": "EmployeeId"
+                }
+            }
+        ]
+    },
+    {
+        "tableName": "employees",
+        "columns": [
+            {
+                "columnName": "EmployeeId",
+                "columnType": "INTEGER",
+                "isOptional": false,
+                "foreignKeyReference": null
+            },
+            {
+                "columnName": "LastName",
+                "columnType": "NVARCHAR(20)",
+                "isOptional": false,
+                "foreignKeyReference": null
+            },
+            {
+                "columnName": "FirstName",
+                "columnType": "NVARCHAR(20)",
+                "isOptional": false,
+                "foreignKeyReference": null
+            },
+            {
+                "columnName": "Title",
+                "columnType": "NVARCHAR(30)",
+                "isOptional": true,
+                "foreignKeyReference": null
+            },
+            {
+                "columnName": "ReportsTo",
+                "columnType": "INTEGER",
+                "isOptional": true,
+                "foreignKeyReference": {
+                    "table": "employees",
+                    "column": "EmployeeId"
+                }
+            },
+            {
+                "columnName": "BirthDate",
+                "columnType": "DATETIME",
+                "isOptional": true,
+                "foreignKeyReference": null
+            },
+            {
+                "columnName": "HireDate",
+                "columnType": "DATETIME",
+                "isOptional": true,
+                "foreignKeyReference": null
+            },
+            {
+                "columnName": "Address",
+                "columnType": "NVARCHAR(70)",
+                "isOptional": true,
+                "foreignKeyReference": null
+            },
+            {
+                "columnName": "City",
+                "columnType": "NVARCHAR(40)",
+                "isOptional": true,
+                "foreignKeyReference": null
+            },
+            {
+                "columnName": "State",
+                "columnType": "NVARCHAR(40)",
+                "isOptional": true,
+                "foreignKeyReference": null
+            },
+            {
+                "columnName": "Country",
+                "columnType": "NVARCHAR(40)",
+                "isOptional": true,
+                "foreignKeyReference": null
+            },
+            {
+                "columnName": "PostalCode",
+                "columnType": "NVARCHAR(10)",
+                "isOptional": true,
+                "foreignKeyReference": null
+            },
+            {
+                "columnName": "Phone",
+                "columnType": "NVARCHAR(24)",
+                "isOptional": true,
+                "foreignKeyReference": null
+            },
+            {
+                "columnName": "Fax",
+                "columnType": "NVARCHAR(24)",
+                "isOptional": true,
+                "foreignKeyReference": null
+            },
+            {
+                "columnName": "Email",
+                "columnType": "NVARCHAR(60)",
+                "isOptional": true,
+                "foreignKeyReference": null
+            }
+        ]
+    },
+    {
+        "tableName": "genres",
+        "columns": [
+            {
+                "columnName": "GenreId",
+                "columnType": "INTEGER",
+                "isOptional": false,
+                "foreignKeyReference": null
+            },
+            {
+                "columnName": "Name",
+                "columnType": "NVARCHAR(120)",
+                "isOptional": true,
+                "foreignKeyReference": null
+            }
+        ]
+    },
+    {
+        "tableName": "invoice_items",
+        "columns": [
+            {
+                "columnName": "InvoiceLineId",
+                "columnType": "INTEGER",
+                "isOptional": false,
+                "foreignKeyReference": null
+            },
+            {
+                "columnName": "InvoiceId",
+                "columnType": "INTEGER",
+                "isOptional": false,
+                "foreignKeyReference": {
+                    "table": "invoices",
+                    "column": "InvoiceId"
+                }
+            },
+            {
+                "columnName": "TrackId",
+                "columnType": "INTEGER",
+                "isOptional": false,
+                "foreignKeyReference": {
+                    "table": "tracks",
+                    "column": "TrackId"
+                }
+            },
+            {
+                "columnName": "UnitPrice",
+                "columnType": "NUMERIC(10, 2)",
+                "isOptional": false,
+                "foreignKeyReference": null
+            },
+            {
+                "columnName": "Quantity",
+                "columnType": "INTEGER",
+                "isOptional": false,
+                "foreignKeyReference": null
+            }
+        ]
+    },
+    {
+        "tableName": "invoices",
+        "columns": [
+            {
+                "columnName": "InvoiceId",
+                "columnType": "INTEGER",
+                "isOptional": false,
+                "foreignKeyReference": null
+            },
+            {
+                "columnName": "CustomerId",
+                "columnType": "INTEGER",
+                "isOptional": false,
+                "foreignKeyReference": {
+                    "table": "customers",
+                    "column": "CustomerId"
+                }
+            },
+            {
+                "columnName": "InvoiceDate",
+                "columnType": "DATETIME",
+                "isOptional": false,
+                "foreignKeyReference": null
+            },
+            {
+                "columnName": "BillingAddress",
+                "columnType": "NVARCHAR(70)",
+                "isOptional": true,
+                "foreignKeyReference": null
+            },
+            {
+                "columnName": "BillingCity",
+                "columnType": "NVARCHAR(40)",
+                "isOptional": true,
+                "foreignKeyReference": null
+            },
+            {
+                "columnName": "BillingState",
+                "columnType": "NVARCHAR(40)",
+                "isOptional": true,
+                "foreignKeyReference": null
+            },
+            {
+                "columnName": "BillingCountry",
+                "columnType": "NVARCHAR(40)",
+                "isOptional": true,
+                "foreignKeyReference": null
+            },
+            {
+                "columnName": "BillingPostalCode",
+                "columnType": "NVARCHAR(10)",
+                "isOptional": true,
+                "foreignKeyReference": null
+            },
+            {
+                "columnName": "Total",
+                "columnType": "NUMERIC(10, 2)",
+                "isOptional": false,
+                "foreignKeyReference": null
+            }
+        ]
+    },
+    {
+        "tableName": "media_types",
+        "columns": [
+            {
+                "columnName": "MediaTypeId",
+                "columnType": "INTEGER",
+                "isOptional": false,
+                "foreignKeyReference": null
+            },
+            {
+                "columnName": "Name",
+                "columnType": "NVARCHAR(120)",
+                "isOptional": true,
+                "foreignKeyReference": null
+            }
+        ]
+    },
+    {
+        "tableName": "playlist_track",
+        "columns": [
+            {
+                "columnName": "PlaylistId",
+                "columnType": "INTEGER",
+                "isOptional": false,
+                "foreignKeyReference": {
+                    "table": "playlists",
+                    "column": "PlaylistId"
+                }
+            },
+            {
+                "columnName": "TrackId",
+                "columnType": "INTEGER",
+                "isOptional": false,
+                "foreignKeyReference": {
+                    "table": "tracks",
+                    "column": "TrackId"
+                }
+            }
+        ]
+    },
+    {
+        "tableName": "playlists",
+        "columns": [
+            {
+                "columnName": "PlaylistId",
+                "columnType": "INTEGER",
+                "isOptional": false,
+                "foreignKeyReference": null
+            },
+            {
+                "columnName": "Name",
+                "columnType": "NVARCHAR(120)",
+                "isOptional": true,
+                "foreignKeyReference": null
+            }
+        ]
+    },
+    {
+        "tableName": "tracks",
+        "columns": [
+            {
+                "columnName": "TrackId",
+                "columnType": "INTEGER",
+                "isOptional": false,
+                "foreignKeyReference": null
+            },
+            {
+                "columnName": "Name",
+                "columnType": "NVARCHAR(200)",
+                "isOptional": false,
+                "foreignKeyReference": null
+            },
+            {
+                "columnName": "AlbumId",
+                "columnType": "INTEGER",
+                "isOptional": true,
+                "foreignKeyReference": {
+                    "table": "albums",
+                    "column": "AlbumId"
+                }
+            },
+            {
+                "columnName": "MediaTypeId",
+                "columnType": "INTEGER",
+                "isOptional": false,
+                "foreignKeyReference": {
+                    "table": "media_types",
+                    "column": "MediaTypeId"
+                }
+            },
+            {
+                "columnName": "GenreId",
+                "columnType": "INTEGER",
+                "isOptional": true,
+                "foreignKeyReference": {
+                    "table": "genres",
+                    "column": "GenreId"
+                }
+            },
+            {
+                "columnName": "Composer",
+                "columnType": "NVARCHAR(220)",
+                "isOptional": true,
+                "foreignKeyReference": null
+            },
+            {
+                "columnName": "Milliseconds",
+                "columnType": "INTEGER",
+                "isOptional": false,
+                "foreignKeyReference": null
+            },
+            {
+                "columnName": "Bytes",
+                "columnType": "INTEGER",
+                "isOptional": true,
+                "foreignKeyReference": null
+            },
+            {
+                "columnName": "UnitPrice",
+                "columnType": "NUMERIC(10, 2)",
+                "isOptional": false,
+                "foreignKeyReference": null
+            }
+        ]
+    }
+]
+```
