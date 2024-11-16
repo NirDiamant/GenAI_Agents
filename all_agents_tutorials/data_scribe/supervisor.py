@@ -3,9 +3,11 @@ from langgraph.graph import StateGraph, START, END
 from langchain_openai import ChatOpenAI
 from langchain.prompts import ChatPromptTemplate
 from db_agent import DBAgent
+from research_agent import ResearchAgent
 import logging
 from datetime import datetime
 import httpx
+from langchain.callbacks.base import BaseCallbackHandler
 
 # Configure logging
 logging.basicConfig(
@@ -26,15 +28,22 @@ class ConversationState(TypedDict):
 class SupervisorAgent:
     def __init__(self):
         self.db_agent = DBAgent()
+        self.research_agent = ResearchAgent()
         self.llm = ChatOpenAI(temperature=0)
 
         self.planner_prompt = ChatPromptTemplate.from_messages([
             ("system", """You are a planning agent that analyzes questions and creates plans for answering them.
             The current available agents are:
             - Database Agent: Can query and understand database structure and content
+            - Research Agent: Can provide general knowledge and best practices about databases
 
             Create a plan as a list of steps. For complex questions that require multiple queries,
-            break them down into sub-steps.
+            break them down into sub-steps. If the question requires both practical database information
+            and theoretical knowledge, use both agents.
+
+            Example steps:
+            1. Research: Find best practices for database indexing
+            2. Database: Check current index usage in the database
 
             Previous context: {context}
             """),
@@ -63,31 +72,85 @@ class SupervisorAgent:
         plan = [step.strip() for step in planner_response.content.split('\n') if step.strip()]
         logger.info(f"Generated plan: {plan}")
 
+        # Show plan to user and get confirmation
+        print("\nHere's my planned approach:")
+        for step in plan:
+            print(f"  {step}")
+
+        confirmation = input("\nWould you like me to proceed with this plan? (yes/no): ").lower().strip()
+
+        if confirmation != 'yes':
+            return {
+                **state,
+                "plan": None,
+                "response": "No problems, how can I help you next?"
+            }
+
         return {
             **state,
             "plan": plan
         }
 
     def execute_db_steps(self, state: ConversationState) -> ConversationState:
-        """Execute any database-related steps in the plan"""
+        """Execute database and research steps in the plan"""
         db_results = []
+        research_results = []
 
-        for step in state['plan']:
-            if any(db_term in step.lower() for db_term in ['database', 'query', 'schema']):
-                logger.info(f"Delegating to DBAgent with step: {step}")
-                logger.info(f"Current conversation context: {state.get('context', {})}")
+        try:
+            for step in state['plan']:
+                step_lower = step.lower()
+                # Remove the step number from the beginning (e.g., "1. Research:" becomes "Research:")
+                step_content = step_lower.split('. ', 1)[-1] if '. ' in step_lower else step_lower
 
-                result = self.db_agent.query(step, state=state.get('context', {}))
-                logger.info(f"Received response from DBAgent")
-                db_results.append(f"Step: {step}\nResult: {result}")
+                # Check for research steps
+                if 'research' in step_content[:10]:  # Check the beginning of the step content
+                    logger.info(f"Delegating to ResearchAgent with step: {step}")
+                    try:
+                        result = self.research_agent.research(step, state=state.get('context', {}))
+                        logger.info("Research step completed successfully")
+                        research_results.append(f"Step: {step}\nResult: {result}")
+                    except Exception as e:
+                        logger.error(f"Error in research step: {str(e)}", exc_info=True)
+                        research_results.append(f"Step: {step}\nError: Research failed - {str(e)}")
 
-        return {
-            **state,
-            "db_results": "\n".join(db_results)
-        }
+                # Check for database steps
+                elif any(db_term in step_content for db_term in ['database:', 'query:', 'schema:']):
+                    logger.info(f"Delegating to DBAgent with step: {step}")
+                    try:
+                        result = self.db_agent.query(step, state=state.get('context', {}))
+                        db_results.append(f"Step: {step}\nResult: {result}")
+                    except Exception as e:
+                        logger.error(f"Error in database step: {str(e)}", exc_info=True)
+                        db_results.append(f"Step: {step}\nError: Database query failed - {str(e)}")
+                else:
+                    logger.warning(f"Step type not recognized: {step}")
+
+            all_results = db_results + research_results
+
+            if not all_results:
+                logger.warning("No results were generated from any steps")
+                return {
+                    **state,
+                    "db_results": "No results were generated from the execution steps."
+                }
+
+            return {
+                **state,
+                "db_results": "\n\n".join(all_results)
+            }
+        except Exception as e:
+            logger.error(f"Error in execute_db_steps: {str(e)}", exc_info=True)
+            return {
+                **state,
+                "db_results": f"Error executing steps: {str(e)}"
+            }
 
     def generate_response(self, state: ConversationState) -> ConversationState:
         """Generate the final response"""
+        # If plan was rejected, return early with the stored response
+        if state.get("plan") is None and "response" in state:
+            return state
+
         logger.info("Generating final response")
         response = self.llm.invoke(
             self.response_prompt.format(

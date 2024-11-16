@@ -26,7 +26,10 @@ class DBAgent:
         self.dbEngine = SQLDatabase.from_uri(f"sqlite:///{self.db}")
 
         # Initialize LLM
-        self.llm = ChatOpenAI(temperature=0, model_name="gpt-4")
+        self.llm = ChatOpenAI(
+            temperature=0,
+            model_name="gpt-4"
+        )
 
         # Create toolkit and tools
         self.toolkit = SQLDatabaseToolkit(db=self.dbEngine, llm=self.llm)
@@ -37,7 +40,7 @@ class DBAgent:
 
         # Create agent and executor
         self.agent = create_openai_functions_agent(
-            llm=self.llm,
+            llm=self.llm,  # Using rate-limited LLM
             prompt=self.chat_prompt,
             tools=self.tools
         )
