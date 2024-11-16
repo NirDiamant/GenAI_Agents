@@ -101,10 +101,17 @@ Explore our extensive list of GenAI agent implementations, ranging from simple t
    #### Implementation 🛠️
    Step-by-step guide on using LangGraph to create a StateGraph workflow. The tutorial covers key concepts such as state management, node creation, and graph compilation. It demonstrates these principles by constructing a simple text analysis pipeline, serving as a foundation for more advanced agent architectures.
 
+5. **[AInsight: AI/ML Weekly News Reporter 📰](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/ainsight_langgraph.ipynb)**
+
+    #### Overview 🔎
+    A modular news aggregation and summarization system using LangGraph to orchestrate three specialized agents. Demonstrates practical implementation of StateGraph for building production-ready information processing pipelines.
+
+    #### Implementation 🛠️
+    Implements three agents (NewsSearcher, Summarizer, Publisher) connected through LangGraph's StateGraph. Integrates external APIs (Tavily, OpenAI) for news collection and processing, showcasing real-world API integration and state management in a LangGraph workflow.
 
 ### 🔍 Task-Specific Agents
 
-5. **[Customer Support Agent (LangGraph)](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/customer_support_agent_langgraph.ipynb)**
+6. **[Customer Support Agent (LangGraph)](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/customer_support_agent_langgraph.ipynb)**
    
     #### Overview 🔎
     An intelligent customer support agent using LangGraph categorizes queries, analyzes sentiment, and provides appropriate responses or escalates issues, automating initial stages of customer interaction for improved efficiency and satisfaction.
@@ -112,7 +119,7 @@ Explore our extensive list of GenAI agent implementations, ranging from simple t
     #### Implementation 🛠️
     Utilizes LangGraph to create a workflow combining state management, query categorization, sentiment analysis, and response generation. The system uses TypedDict for state management and implements conditional routing based on query characteristics.
 
-6. **[Essay Grading Agent (LangGraph)](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/essay_grading_system_langgraph.ipynb)**
+7. **[Essay Grading Agent (LangGraph)](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/essay_grading_system_langgraph.ipynb)**
    
     #### Overview 🔎
     An automated essay grading system using LangGraph and an LLM model evaluates essays based on relevance, grammar, structure, and depth of analysis, streamlining assessment processes in educational settings.
@@ -120,7 +127,7 @@ Explore our extensive list of GenAI agent implementations, ranging from simple t
     #### Implementation 🛠️
     Utilizes a state graph to define the grading workflow, incorporating separate grading functions for each criterion. The system employs conditional logic to determine the flow of the grading process based on interim scores, with a final weighted average calculation.
 
-7. **[Travel Planning Agent (LangGraph)](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/simple_travel_planner_langgraph.ipynb)**
+8. **[Travel Planning Agent (LangGraph)](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/simple_travel_planner_langgraph.ipynb)**
    
     #### Overview 🔎
     A Travel Planner using LangGraph demonstrates how to build a stateful, multi-step conversational AI application that collects user input and generates personalized travel itineraries.
@@ -130,7 +137,7 @@ Explore our extensive list of GenAI agent implementations, ranging from simple t
 
 ### 🎨 Creative and Generative Agents
 
-8. **[GIF Animation Generator Agent (LangGraph)](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/gif_animation_generator_langgraph.ipynb)**
+9. **[GIF Animation Generator Agent (LangGraph)](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/gif_animation_generator_langgraph.ipynb)**
    
     #### Overview 🔎
     A GIF animation generator that integrates LangGraph for workflow management, GPT-4 for text generation, and DALL-E for image creation, producing custom animations from user prompts.
@@ -138,7 +145,7 @@ Explore our extensive list of GenAI agent implementations, ranging from simple t
     #### Implementation 🛠️
     Utilizes LangGraph to orchestrate a workflow that generates character descriptions, plots, and image prompts using GPT-4, creates images with DALL-E 3, and assembles them into GIFs using PIL. Employs asynchronous programming for efficient parallel processing.
 
-9. **[TTS Poem Generator Agent (LangGraph)](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/tts_poem_generator_agent_langgraph.ipynb)**
+10. **[TTS Poem Generator Agent (LangGraph)](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/tts_poem_generator_agent_langgraph.ipynb)**
    
     #### Overview 🔎
     An advanced text-to-speech (TTS) agent using LangGraph and OpenAI's APIs classifies input text, processes it based on content type, and generates corresponding speech output.
@@ -146,7 +153,7 @@ Explore our extensive list of GenAI agent implementations, ranging from simple t
     #### Implementation 🛠️
     Utilizes LangGraph to orchestrate a workflow that classifies input text using GPT models, applies content-specific processing, and converts the processed text to speech using OpenAI's TTS API. The system adapts its output based on the identified content type (general, poem, news, or joke).
 
-10. **[Music Compositor Agent (LangGraph)](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/music_compositor_agent_langgraph.ipynb)**
+11. **[Music Compositor Agent (LangGraph)](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/music_compositor_agent_langgraph.ipynb)**
    
     #### Overview 🔎
     An AI Music Compositor using LangGraph and OpenAI's language models generates custom musical compositions based on user input. The system processes the input through specialized components, each contributing to the final musical piece, which is then converted to a playable MIDI file.
@@ -156,7 +163,7 @@ Explore our extensive list of GenAI agent implementations, ranging from simple t
 
 ### 🚀 Advanced Agent Architectures
 
-11. **[Memory-Enhanced Conversational Agent](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/memory_enhanced_conversational_agent.ipynb)**
+12. **[Memory-Enhanced Conversational Agent](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/memory_enhanced_conversational_agent.ipynb)**
    
     #### Overview 🔎
     A memory-enhanced conversational AI agent incorporates short-term and long-term memory systems to maintain context within conversations and across multiple sessions, improving interaction quality and personalization.
@@ -164,7 +171,7 @@ Explore our extensive list of GenAI agent implementations, ranging from simple t
     #### Implementation 🛠️
     Integrates a language model with separate short-term and long-term memory stores, utilizes a prompt template incorporating both memory types, and employs a memory manager for storage and retrieval. The system includes an interaction loop that updates and utilizes memories for each response.
 
-12. **[Multi-Agent Collaboration System](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/multi_agent_collaboration_system.ipynb)**
+13. **[Multi-Agent Collaboration System](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/multi_agent_collaboration_system.ipynb)**
     
     #### Overview 🔎
     A multi-agent collaboration system combining historical research with data analysis, leveraging large language models to simulate specialized agents working together to answer complex historical questions.
@@ -172,7 +179,7 @@ Explore our extensive list of GenAI agent implementations, ranging from simple t
     #### Implementation 🛠️
     Utilizes a base Agent class to create specialized HistoryResearchAgent and DataAnalysisAgent, orchestrated by a HistoryDataCollaborationSystem. The system follows a five-step process: historical context provision, data needs identification, historical data provision, data analysis, and final synthesis.
 
-13. **[Self-Improving Agent](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/self_improving_agent.ipynb)**
+14. **[Self-Improving Agent](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/self_improving_agent.ipynb)**
     
     #### Overview 🔎
     A Self-Improving Agent using LangChain engages in conversations, learns from interactions, and continuously improves its performance over time through reflection and adaptation.
@@ -180,7 +187,7 @@ Explore our extensive list of GenAI agent implementations, ranging from simple t
     #### Implementation 🛠️
     Integrates a language model with chat history management, response generation, and a reflection mechanism. The system employs a learning system that incorporates insights from reflection to enhance future performance, creating a continuous improvement loop.
 
-14. **[Task-Oriented Agent](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/task_oriented_agent.ipynb)**
+15. **[Task-Oriented Agent](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/task_oriented_agent.ipynb)**
     
     #### Overview 🔎
     A language model application using LangChain that summarizes text and translates the summary to Spanish, combining custom functions, structured tools, and an agent for efficient text processing.
@@ -188,7 +195,7 @@ Explore our extensive list of GenAI agent implementations, ranging from simple t
     #### Implementation 🛠️
     Utilizes custom functions for summarization and translation, wrapped as structured tools. Employs a prompt template to guide the agent, which orchestrates the use of tools. An agent executor manages the process, taking input text and producing both an English summary and its Spanish translation.
 
-15. **[Internet Search and Summarize Agent](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/search_the_internet_and_summarize.ipynb)**
+16. **[Internet Search and Summarize Agent](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/search_the_internet_and_summarize.ipynb)**
     
     #### Overview 🔎
     An intelligent web research assistant that combines web search capabilities with AI-powered summarization, automating the process of gathering information from the internet and distilling it into concise, relevant summaries.
@@ -196,7 +203,7 @@ Explore our extensive list of GenAI agent implementations, ranging from simple t
     #### Implementation 🛠️
     Integrates a web search module using DuckDuckGo's API, a result parser, and a text summarization engine leveraging OpenAI's language models. The system performs site-specific or general searches, extracts relevant content, generates concise summaries, and compiles attributed results for efficient information retrieval and synthesis.
 
-16. **[Multi agent research team - Autogen](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/research_team_autogen.ipynb)**
+17. **[Multi agent research team - Autogen](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/research_team_autogen.ipynb)**
 
 
     #### Overview 🔎 
@@ -211,7 +218,7 @@ Explore our extensive list of GenAI agent implementations, ranging from simple t
     - **[comprehensive solution with UI](https://github.com/yanivvak/dream-team)** 
     - **[Blogpost](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/build-your-dream-team-with-autogen/ba-p/4157961)**
 
-17. **[Blog Writer (Open AI Swarm)](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/blog_writer_swarm.ipynb)**
+18. **[Blog Writer (Open AI Swarm)](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/blog_writer_swarm.ipynb)**
 
 
     #### Overview 🔎 
@@ -225,7 +232,7 @@ Explore our extensive list of GenAI agent implementations, ranging from simple t
     #### Additional Resources 📚
     - **[Swarm Repo](https://github.com/openai/swarm)** 
 
-18. **[Podcast Internet Search and Generate Agent 🎙️](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/generate_podcast_agent_langgraph.ipynb)**
+19. **[Podcast Internet Search and Generate Agent 🎙️](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/generate_podcast_agent_langgraph.ipynb)**
 
     #### Overview 🔎
     A two step agent that first searches the internet for a given topic and then generates a podcast on the topic found. The search step uses a search agent and search function to find the most relevant information. The second step uses a podcast generation agent and generation function to create a podcast on the topic found.
@@ -235,7 +242,7 @@ Explore our extensive list of GenAI agent implementations, ranging from simple t
 
 ## 🌟 Special Advanced Technique 🌟
 
-19. **[Sophisticated Controllable Agent for Complex RAG Tasks 🤖](https://github.com/NirDiamant/Controllable-RAG-Agent)**
+20. **[Sophisticated Controllable Agent for Complex RAG Tasks 🤖](https://github.com/NirDiamant/Controllable-RAG-Agent)**
 
     #### Overview 🔎
     An advanced RAG solution designed to tackle complex questions that simple semantic similarity-based retrieval cannot solve. This approach uses a sophisticated deterministic graph as the "brain" 🧠 of a highly controllable autonomous agent, capable of answering non-trivial questions from your own data.
