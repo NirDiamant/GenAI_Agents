@@ -8,6 +8,7 @@ from langchain_community.utilities import SQLDatabase
 from langchain_community.agent_toolkits import SQLDatabaseToolkit
 from langchain.agents import AgentExecutor, create_openai_functions_agent
 from langchain.tools import Tool
+import json
 
 load_dotenv()
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -44,7 +45,7 @@ class DBAgent:
         self.agent_executor = AgentExecutor.from_agent_and_tools(
             agent=self.agent,
             tools=self.tools,
-            verbose=True,
+            verbose=False,
             handle_parsing_errors=True,
             max_iterations=15
         )
@@ -97,9 +98,13 @@ class DBAgent:
         human_message = HumanMessagePromptTemplate.from_template("{input}\n\n{agent_scratchpad}")
         return ChatPromptTemplate.from_messages([system_message, human_message])
 
-    def process_input(self, user_input: str) -> dict:
+    def process_input(self, user_input: str, **kwargs) -> dict:
         """Internal method to process user input through the agent"""
         try:
+            if 'state' in kwargs:
+                logger.info("Current State in DBAgent:")
+                logger.info(json.dumps(kwargs['state'], indent=2))
+
             logger.info(f"Processing user input: {user_input}")
             response = self.agent_executor.invoke({
                 "input": user_input,
@@ -117,21 +122,29 @@ class DBAgent:
                 """
             }
 
-    def query(self, text: str) -> str:
+    def query(self, text: str, **kwargs) -> str:
         """
-        Public interface for the supervisor to query the database
-        Returns formatted response matching db_agent.py format
+        Process a query about the database.
+
+        Args:
+            text (str): The query text
+            **kwargs: Additional arguments (like state)
+
+        Returns:
+            str: The response from the agent
         """
-        try:
-            result = self.process_input(text)
-            return result["output"]
-        except Exception as e:
-            logger.error(f"Query failed: {str(e)}", exc_info=True)
-            return f"""
-            Query Executed: ERROR
-            Results: Query processing failed
-            Summary: An error occurred: {str(e)}
-            """
+        state = kwargs.get('state', {})
+
+        # Execute the agent
+        result = self.agent_executor.invoke(
+            {
+                "input": text,
+                "state": state,
+                "db_name": self.db
+            }
+        )
+
+        return result["output"]
 
 # For testing purposes
 if __name__ == "__main__":
