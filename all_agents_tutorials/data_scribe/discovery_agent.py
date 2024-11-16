@@ -34,50 +34,30 @@ class DiscoveryAgent:
         self.dbEngine = SQLDatabase.from_uri(f"sqlite:///{self.db}")
 
         # Initialize LLM
-
-        json_schema = {
-            "$schema": "http://json-schema.org/draft-04/schema#",
-            "$id": "https://example.com/database.schema.json",
-            "title": "Database schema",
-            "description": "This document records the details of a database",
-            "type": "object",
-            "properties": {
-                "name": {
-                    "description": "Table name",
-                    "type": "string"
-                },
-                "tables": {
-                    "description": "Tables in database",
-                    "type": "array",
-                    "items": {
-                        "description": "List of tables",
-                        "type": "object",
-                        "properties": {
-                            "name": {
-                                "description": "Table name",
-                                "type": "string"
-                            }
-                        }
-                    }
-                }
-            }
-        }
-
         self.llm = ChatOpenAI(temperature=0, model_name="gpt-4")
-        self.llm.with_structured_output(json_schema)
 
         # Create toolkit and tools
         self.toolkit = SQLDatabaseToolkit(db=self.dbEngine, llm=self.llm)
         self.tools = self.toolkit.get_tools()
 
-        # Add results formatting tool
-        self.tools.append(
+        # Add results formatting tool and question answering tool
+        self.tools.extend([
             Tool(
                 name="RESULTS",
                 func=self.format_results_for_graph,
                 description="Use this function to format your final results for graphing. Pass your data as a string."
+            ),
+            Tool(
+                name="ANSWER_QUESTION",
+                func=self.answer_question,
+                description="Use this function to answer general questions about the database content and structure."
+            ),
+            Tool(
+                name="VISUALISE_SCHEMA",
+                func=self.discover,
+                description="Creates a visual graph representation of the database schema showing tables, columns, and their relationships."
             )
-        )
+        ])
 
         # Create prompt
         self.chat_prompt = self.create_chat_prompt()
@@ -119,24 +99,30 @@ class DiscoveryAgent:
             You are an AI assistant for querying a SQLLite database named {db_name}.
             Your responses should be formatted as json only.
             Always strive for clarity, terseness and conciseness in your responses.
-            When querying for table schema, use the .table command.
+            Return a json array with all the tables, using the example below:
             
             Example output:
             ```json
-            {{
-                tableName: [NAME OF TABLE RETURNED],
-                columns: [
-                    {{
-                        columnName: [COLUMN 1 NAME],
-                        columnType: [COLUMN 1 TYPE]
-                    }},
-                    {{
-                        columnName: [COLUMN 2 NAME],
-                        columnType: [COLUMN 2 TYPE]
-                    }}
-                ]
-          }}
-          ```
+            [
+                {{
+                    tableName: [NAME OF TABLE RETURNED],
+                    columns: [
+                        {{
+                            columnName: [COLUMN 1 NAME],
+                            columnType: [COLUMN 1 TYPE]
+                        }},
+                        {{
+                            columnName: [COLUMN 2 NAME],
+                            columnType: [COLUMN 2 TYPE]
+                        }}
+                    ]
+                }}
+            ]
+            ```
+            
+            ## mandatory
+            only output json
+            do not put any extra commentary 
             """
         )
 
@@ -151,14 +137,19 @@ class DiscoveryAgent:
         except json.JSONDecodeError:
             return json.dumps({"graph_data": []})
 
-    def discover(self):
+    def discover(self, *args):
+        """
+        Creates a visual representation of the database schema.
+        Ignores any additional arguments passed by the tool system.
+        """
         prompt = "For all tables in this database, show the table name, column name, column type, if its optional. Also show Foreign key references to other columns. Do not show examples. Output only as json."
         response = self.agent_executor.invoke({"input": prompt, "db_name": self.db})
         self.jsonToGraph(response)
+        return "Database schema visualization has been generated."
 
     def jsonToGraph(self, response):
-        print("\nAgent:")
         output_ = response['output']
+        print("Agent:\n" + output_)
         self.parseJson(output_)
 
     def parseJson(self, output_):
@@ -184,7 +175,6 @@ class DiscoveryAgent:
                 labeldict[columnIds] = column["columnName"]
                 canonicalColumns[table["tableName"] + column["columnName"]] = columnIds
                 G.add_edge(nodeIds, columnIds)
-                print(canonicalColumns[table["tableName"] + column["columnName"]])
 
         for table in data:
             for column in table["columns"]:
@@ -194,17 +184,18 @@ class DiscoveryAgent:
                     G.add_edge(canonicalColumns[this_column], canonicalColumns[reference_column_])
 
         print(G.number_of_nodes())
-        # list(G.nodes)
         pos = graphviz_layout(G, prog='neato')
         nx.draw(G, pos, labels=labeldict, with_labels=True)
         plt.show()
 
+    def answer_question(self, question: str) -> str:
+        """
+        Answers questions about the database using the agent executor
+        """
+        response = self.agent_executor.invoke({"input": question, "db_name": self.db})
+        return response['output']
 
-agent = DiscoveryAgent()
-
-print(agent.show_tables())
-
-agent.discover()
-
-# txt = Path('./json.json.txt').read_text()
-# agent.parseJson(txt)
+if __name__ == "__main__":
+    agent = DiscoveryAgent()
+    response = agent.agent_executor.invoke({"input": "Analyse the schema of the database and its tables.", "db_name": agent.db})
+    print(response['output'])
