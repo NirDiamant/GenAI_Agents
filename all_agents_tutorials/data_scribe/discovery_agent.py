@@ -133,7 +133,7 @@ class DiscoveryAgent:
         except json.JSONDecodeError:
             return json.dumps({"graph_data": []})
 
-    def discover(self, *args):
+    def discover(self):
         """
         Creates a visual representation of the database schema.
         Ignores any additional arguments passed by the tool system.
@@ -180,9 +180,10 @@ class DiscoveryAgent:
                     G.add_edge(canonicalColumns[this_column], canonicalColumns[reference_column_])
 
         print(G.number_of_nodes())
-        pos = graphviz_layout(G, prog='neato')
-        nx.draw(G, pos, labels=labeldict, with_labels=True)
-        plt.show()
+        # pos = graphviz_layout(G, prog='neato')
+        # nx.draw(G, pos, labels=labeldict, with_labels=True)
+        # plt.show()
+        return G
 
     def answer_question(self, question: str) -> str:
         """
