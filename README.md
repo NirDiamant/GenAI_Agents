@@ -243,6 +243,19 @@ Explore our extensive list of GenAI agent implementations, ranging from simple t
     #### Implementation 🛠️
     • Implement a multi-step process involving question anonymization, high-level planning, task breakdown, adaptive information retrieval and question answering, continuous re-planning, and rigorous answer verification to ensure grounded and accurate responses.
 
+20. **[Social Media Manager Agent 📸](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/Social_Media_manager_langgraph.ipynb)**
+
+    #### Overview 🔎
+    A sophisticated Social Media Manager agent built with LangGraph that automates content sourcing and LinkedIn post creation. The agent supports multiple content sources including Towards Data Science articles, Reddit posts, YouTube transcripts, audio transcriptions, and LinkedIn profiles. It uses a state-based workflow to process content, generate engaging posts in a consistent style, and can optionally publish directly to LinkedIn using browser automation.
+
+    #### Implementation 🛠️
+    Utilizes LangGraph's StateGraph to orchestrate a multi-step workflow:
+    1. Content Router - Analyzes user intent to determine appropriate content source
+    2. Content Fetching - Dedicated nodes for each source (YouTube, Reddit, TDS, etc.)
+    3. Post Generation - Uses GPT models to transform source content into LinkedIn-style posts
+    4. LinkedIn Integration - Optional automated posting using Playwright for browser automation
+    
+    The system maintains state throughout the process and includes error handling and checkpoint management using MemorySaver.
 
 ## Getting Started
 
