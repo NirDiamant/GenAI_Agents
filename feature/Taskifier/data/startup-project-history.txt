@@ -1,0 +1,1 @@
+I had to tackle a problem with FDA and EMA when I attempted to build a medical IT venture. Because it is on the borderline of the medical and IT fields, it was very unclear of whether I should think about the FDA and EMA problem first or not. But I still decided to solve that challenge first to prevent future nightmare of tackling those problems. 
