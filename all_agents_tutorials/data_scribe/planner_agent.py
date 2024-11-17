@@ -13,35 +13,38 @@ class PlannerAgent:
         system_template = """You are a friendly planning agent that creates specific plans to answer questions about THIS database only.
 
         Available actions:
-        1. Database: [query] - Use this prefix ONLY for direct database queries that retrieve data
-        2. Research: [topic] - Use this prefix for database analysis, best practices, performance advice, and technical knowledge
-        3. General: [action] - Use this prefix for responses about non-database questions
+        1. Inference: [query/analysis] - Use this prefix for database queries, analysis, insights, and best practices
+        2. General: [response] - Use this prefix for actual friendly responses (not actions)
 
         Rules:
-        - Database: steps must be specific data retrieval queries only
-        - Research: steps handle all analysis, best practices, and technical advice
-        - For non-database questions, use a single General: response
-        - Keep responses focused on THIS database and database concepts only
+        - For database questions, create specific Inference: steps for each distinct query or analysis needed
+        - If a question contains both database and non-database parts:
+          * Create Inference: steps for the database parts
+          * Add a General: with the actual response for non-database parts
+        - Be friendly and conversational while staying focused on database capabilities
+        - For greetings or conversation, provide the actual response, not an action
 
         Examples:
-        Question: "How many employees and albums are there?"
+        Question: "Hi! Can you count employees and albums?"
         Plan:
-        Database: Count number of employees in the database
-        Database: Count number of albums in the database
+        General: Hi there! I'd be happy to help you with that information.
+        Inference: Count and analyze the number of employees
+        Inference: Count and analyze the number of albums
 
-        Question: "What are the best practices for indexing in this database?"
+        Question: "Count employees and tell me about World War 2"
         Plan:
-        Research: Analyze current index usage and provide best practices
-        Research: Recommend indexing improvements based on database structure
+        Inference: Count and analyze the number of employees
+        General: While I can't provide information about World War 2, I can tell you all about the employee data in our database!
 
-        Question: "What year did World War 2 end?"
+        Question: "How many employees, invoices, and tables are there?"
         Plan:
-        General: I'd love to help! While I can't answer questions about historical events, I'm an expert on this database. What would you like to know about its contents?
+        Inference: Count and analyze the number of employees
+        Inference: Calculate and analyze total invoices
+        Inference: Count and analyze the number of tables
 
-        Question: "How can I improve database performance?"
+        Question: "Hi, how are you today?"
         Plan:
-        Research: Analyze current database performance metrics
-        Research: Provide optimization recommendations based on database structure
+        General: Hello! I'm doing great, thank you for asking. I'm ready to help you explore our database. What would you like to know about?
 
         Previous context: {context}
         """
@@ -71,20 +74,21 @@ class PlannerAgent:
             plan = [step.strip() for step in planner_response.content.split('\n')
                    if step.strip() and not step.lower() == 'plan:']
 
-            # Extract database, research and general steps
-            db_steps = [step for step in plan
-                       if step.startswith('Database:') and len(step.split(':', 1)) == 2 and step.split(':', 1)[1].strip()]
-            research_steps = [step for step in plan
-                            if step.startswith('Research:') and len(step.split(':', 1)) == 2 and step.split(':', 1)[1].strip()]
+            # Extract inference and general steps
+            inference_steps = [step for step in plan
+                           if step.startswith('Inference:') and len(step.split(':', 1)) == 2 and step.split(':', 1)[1].strip()]
             general_steps = [step for step in plan if step.startswith('General:')]
 
             # Log the plan
-            if db_steps or research_steps:
-                logger.info(f"Generated steps: Database={db_steps}, Research={research_steps}")
-                return db_steps + research_steps + general_steps
+            if inference_steps:
+                logger.info(f"Generated steps: Inference={inference_steps}, General={general_steps}")
+                return inference_steps + general_steps
+            elif general_steps:
+                logger.info("Conversational response only")
+                return general_steps
             else:
-                logger.info("No database or research steps found - treating as general query")
-                return general_steps or ["General: I'd love to help! Please ask a specific question about the database."]
+                logger.info("No valid steps found - providing friendly default")
+                return ["General: I'd love to help you explore the database! What would you like to know?"]
 
         except Exception as e:
             logger.error(f"Error creating plan: {str(e)}", exc_info=True)

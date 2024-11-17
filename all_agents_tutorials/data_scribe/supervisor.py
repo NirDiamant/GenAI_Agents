@@ -4,13 +4,9 @@ from typing import TypedDict, List, Optional
 from langgraph.graph import StateGraph, START, END
 from langchain_openai import ChatOpenAI
 from langchain.prompts import ChatPromptTemplate
-from db_agent import DBAgent
-from research_agent import ResearchAgent
+from inference_agent import InferenceAgent
 from planner_agent import PlannerAgent
 import logging
-from datetime import datetime
-import httpx
-from langchain.callbacks.base import BaseCallbackHandler
 import operator
 
 # Configure logging
@@ -20,15 +16,12 @@ logging.basicConfig(
     datefmt='%Y-%m-%d %H:%M:%S'
 )
 logger = logging.getLogger(__name__)
-logging.getLogger("httpx").setLevel(logging.WARNING)
 
 def merge_context(old_context: dict, new_context: dict) -> dict:
     """Merge two context dictionaries, combining their histories."""
-    # Get existing history from both contexts
     old_history = old_context.get("history", [])
     new_history = new_context.get("history", [])
 
-    # Only add new history if it's different from the last entry
     if not old_history or old_history[-1] != new_history[-1]:
         combined_history = old_history + new_history
     else:
@@ -53,11 +46,9 @@ class ConversationState(TypedDict):
 class SupervisorAgent:
     def __init__(self):
         self.llm = ChatOpenAI(temperature=0)
-        self.db_agent = DBAgent()
-        self.research_agent = ResearchAgent()
+        self.inference_agent = InferenceAgent()
         self.planner_agent = PlannerAgent()
 
-        # Update the response prompt to handle multiple results
         self.response_prompt = ChatPromptTemplate.from_messages([
             ("system", """You are a response coordinator that creates final responses based on:
             Original Question: {question}
@@ -66,15 +57,8 @@ class SupervisorAgent:
 
             Rules:
             1. ALWAYS include ALL results from database queries in your response
-            2. If a research question cannot be answered, acknowledge it but don't let it overshadow the database results
-            3. Format the response clearly with each piece of information on its own line
-            4. Use bullet points or numbers for multiple pieces of information
-
-            Example format:
-            Here are the results:
-            1. [First database result]
-            2. [Second database result]
-            3. [Research result or acknowledgment of missing information]
+            2. Format the response clearly with each piece of information on its own line
+            3. Use bullet points or numbers for multiple pieces of information
             """)
         ])
 
@@ -93,13 +77,13 @@ class SupervisorAgent:
             }
             return new_state
 
-        # Filter to show only Database actions in the plan preview
-        db_steps = [step for step in plan if step.startswith('Database:')]
+        # Filter to show only Inference actions in the plan preview
+        inference_steps = [step for step in plan if step.startswith('Inference:')]
 
-        # Only ask for confirmation if there are multiple database steps
-        if len(db_steps) > 3:
+        # Only ask for confirmation if there are multiple steps
+        if len(inference_steps) > 3:
             print("\nHere's my planned approach:")
-            for step in db_steps:  # Only show database steps
+            for step in inference_steps:
                 print(f"  {step}")
 
             confirmation = input("\nWould you like me to proceed with this plan? (yes/no): ").lower().strip()
@@ -115,20 +99,18 @@ class SupervisorAgent:
 
         new_state = {
             **state,
-            "plan": plan  # Keep the full plan including General actions
+            "plan": plan
         }
         logger.info(f"Plan created.")
         return new_state
 
     def execute_plan(self, state: ConversationState) -> ConversationState:
-        """Execute database, research, and general steps in the plan"""
-        db_results = []
-        research_results = []
+        """Execute inference and general steps in the plan"""
+        inference_results = []
         general_results = []
 
         try:
             for step in state['plan']:
-                # Extract the step type and content
                 if not (':' in step):
                     continue
 
@@ -136,30 +118,20 @@ class SupervisorAgent:
                 step_type = step_type.lower().strip()
                 content = content.strip()
 
-                if step_type == 'research':
-                    logger.info(f"Delegating to ResearchAgent: {content}")
+                if step_type == 'inference':
+                    logger.info(f"Delegating to InferenceAgent: {content}")
                     try:
-                        result = self.research_agent.research(content, state=state.get('context', {}))
-                        logger.info("Research step completed successfully")
-                        research_results.append(f"Step: {step}\nResult: {result}")
+                        result = self.inference_agent.query(content, state=state.get('context', {}))
+                        inference_results.append(f"Step: {step}\nResult: {result}")
                     except Exception as e:
-                        logger.error(f"Error in research step: {str(e)}", exc_info=True)
-                        research_results.append(f"Step: {step}\nError: Research failed - {str(e)}")
-
-                elif step_type == 'database':
-                    logger.info(f"Delegating to DBAgent: {content}")
-                    try:
-                        result = self.db_agent.query(content, state=state.get('context', {}))
-                        db_results.append(f"Step: {step}\nResult: {result}")
-                    except Exception as e:
-                        logger.error(f"Error in database step: {str(e)}", exc_info=True)
-                        db_results.append(f"Step: {step}\nError: Database query failed - {str(e)}")
+                        logger.error(f"Error in inference step: {str(e)}", exc_info=True)
+                        inference_results.append(f"Step: {step}\nError: Query failed - {str(e)}")
 
                 elif step_type == 'general':
                     logger.info(f"Handling general action: {content}")
                     general_results.append(f"Step: {step}\nResult: {content}")
 
-            all_results = db_results + research_results + general_results
+            all_results = inference_results + general_results
 
             if not all_results:
                 logger.info("No steps were found in the plan")
@@ -185,9 +157,6 @@ class SupervisorAgent:
 
     def generate_response(self, state: ConversationState) -> ConversationState:
         """Generate the final response"""
-        # logger.info(f"Current state: {state}")
-
-        # If plan was rejected, return early with the stored response
         if state.get("plan") is None and "response" in state:
             logger.info(f"Using existing response. State unchanged: {state}")
             return state
@@ -201,7 +170,6 @@ class SupervisorAgent:
             )
         )
 
-        # Only update the context if it hasn't been updated by a delegated agent
         if not state.get('context', {}).get('history', []) or \
            state['question'] != state['context'].get('last_question', ''):
             new_context = {
