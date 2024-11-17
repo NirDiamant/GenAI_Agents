@@ -1,0 +1,2078 @@
+# COMMISSION IMPLEMENTING REGULATION (EU) No 749/2014
+
+# of 30 June 2014
+
+# on structure, format, submission processes and review of information reported by Member States pursuant to Regulation (EU) No 525/2013 of the European Parliament and of the Council
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Regulation (EU) No 525/2013 of the European Parliament and of the Council of 21 May 2013 on a mechanism for monitoring and reporting greenhouse gas emissions and for reporting other information at national and Union level relevant to climate change and repealing Decision No 280/2004/EC (1), and in particular Articles 7(7), 7(8), 8(2), 12(3), 17(4) and 19(5) thereof,
+
+# Whereas:
+
+(1) The information reported to the Commission pursuant to Regulation (EU) No 525/2013 is necessary to enable the assessment of the actual progress towards meeting the Union's and the Member States' commitments relating to the limitation or reduction of all greenhouse gas emissions under the United Nations Framework Convention on Climate Change (UNFCCC) approved by Council Decision 94/69/EC (2), its Kyoto Protocol approved by Council Decision 2002/358/EC (3) and the set of Union legal acts, adopted in 2009, collectively referred to as the ‘Climate and Energy Package’. It also enables the preparation of annual reports by the Union in accordance with the obligations under the UNFCCC and the Kyoto Protocol.
+
+(2) Decision 19/CMP.1 of the Conference of the Parties to the UNFCCC serving as the meeting of the Parties to the Kyoto Protocol lays down the guidelines for national greenhouse gas inventory systems the Parties to the Convention should apply. In Decision 24/CP.19 of the Conference of the Parties to the UNFCCC on the revision of the UNFCCC reporting guidelines on annual inventories for Parties included in Annex I to the UNFCCC, the Conference of the Parties to the UNFCCC agreed on the use by the Parties to the UNFCCC of the 2006 Intergovernmental Panel on Climate Change (IPCC) Guidelines for National Greenhouse gas inventories, the use of new IPCC global warming potential values and revised common reporting format tables as included in an Annex to that Decision.
+
+(3) Following the replacement of Decision No 280/2004/EC (4) by Regulation (EU) No 525/2013, Commission Decision No 2005/166/EC (5) laying down rules implementing Decision 280/2004/EC needs to be updated in order to take into account the changes in the internationally agreed guidelines and to ensure uniform conditions for the implementation of those provisions that are new in the Regulation (EU) No 525/2013 as compared to Decision 280/2004/EC. Such uniform implementing provisions should cover the reporting of greenhouse gas inventories, approximated greenhouse gas inventories, information on systems for policies and measures and projections, the use of auctioning revenue and project credits and for the purposes of Decision No 529/2013/EU of the European Parliament and of the Council (6). Given the number of changes that are necessary to Decision No 2005/166/EC it is appropriate to repeal and replace it.
+
+(1) OJ L 165, 18.6.2013, p. 13.
+
+(2) Council Decision 94/69/EC of 15 December 1993 concerning the conclusion of the United Nations Framework Convention on Climate Change (OJ L 33, 7.2.1994, p. 11).
+
+(3) Council Decision 2002/358/EC of 25 April 2002 concerning the approval, on behalf of the European Community, of the Kyoto Protocol to the United Nations Framework Convention on Climate Change and the joint fulfilment of commitments thereunder (OJ L 130, 15.5.2002, p. 1).
+
+(4) Decision No 280/2004/EC of the European Parliament and of the Council of 11 February 2004 concerning a mechanism for monitoring Community greenhouse gas emissions and for implementing the Kyoto Protocol (OJ L 49, 19.2.2004, p. 1).
+
+(5) Commission Decision No 2005/166/EC of 10 February 2005 laying down rules implementing Decision No 280/2004/EC of the European Parliament and of the Council concerning a mechanism for monitoring Community greenhouse gas emissions and for implementing the Kyoto Protocol (OJ L 55, 1.3.2005, p. 57).
+
+(6) Decision No 529/2013/EU of the European Parliament and of the Council of 21 May 2013 on accounting rules on greenhouse gas emissions and removals resulting from activities relating to land use, land-use change and forestry and on information concerning actions relating to those activities (OJ L 165, 18.6.2013, p. 80).
+---
+L 203/24 EN Official Journal of the European Union 11.7.2014
+
+(4) To ensure that compliance with Decision No 406/2009/EC of the European Parliament and of the Council (1) is assessed in a credible, consistent, transparent and timely manner, Regulation (EU) No 525/2013 sets up at Union level a review process of the greenhouse gas inventories submitted by the Member States. It is necessary to determine the timing and steps for the conduct of the comprehensive and annual reviews of Member States' greenhouse gas inventories to ensure the timely and effective implementation of the review process.
+
+(5) Commission Delegated Regulation (EU) No C(2014) 1539 (2) establishes substantive requirements for the Union inventory system to fulfil the obligations set out in Decision 19/CMP.1 of the Conference of the Parties to the UNFCCC serving as the meeting of the Parties to the Kyoto Protocol. To ensure the timely and effective implementation of the obligations, it is necessary to lay down timescales for cooperation and coordination between the Commission and the Member States in preparing the Union greenhouse gas inventory report.
+
+(6) To ensure legal certainty concerning the reporting obligations of the Union and of the Member States upon expiration of the additional period for fulfilling commitments of the Kyoto Protocol, the effects of Articles 18, 19 and 24 of Decision No 2005/166/EC should be maintained.
+
+(7) The measures provided for in this Regulation are in accordance with the opinion of the Climate Change Committee,
+
+# HAS ADOPTED THIS REGULATION:
+
+# CHAPTER I
+
+# SUBJECT MATTER AND DEFINITIONS
+
+# Article 1
+
+# Subject matter
+
+This Regulation establishes rules implementing Regulation (EU) No 525/2013 as regards the following:
+
+- (a) Member States' reporting of greenhouse gas inventories, approximated greenhouse gas inventories and of information on policies and measures and projections, on the use of auctioning revenue and of project credits pursuant to Articles 7, 8, 12, 13, 14, and 17 of Regulation (EU) No 525/2013;
+- (b) Member States' reporting for the purposes of Decision No 529/2013/EU;
+- (c) the timing and steps for the conduct of the comprehensive and annual reviews of Member States' greenhouse gas inventories pursuant to Article 19 of Regulation (EU) No 525/2013;
+- (d) timescales for the cooperation and coordination between the Commission and the Member States in preparing the Union greenhouse gas inventory report.
+
+# Article 2
+
+# Definitions
+
+For the purposes of this Regulation, the following definitions shall apply:
+
+1. ‘common reporting format table’ means a table for information on anthropogenic greenhouse gas emissions by sources and removals by sinks included in Annex II to Decision 24/CP.19 of the Conference of the Parties to the United Nations Framework Convention on Climate Change (UNFCCC) (Decision 24/CP.19) and in the Annex to Decision 6/CMP.9 of the Conference of the Parties to the UNFCCC serving as the meeting of the Parties to the Kyoto Protocol;
+
+(1) Decision No 406/2009/EC of the European Parliament and of the Council of 23 April 2009 on the effort of Member States to reduce their greenhouse gas emissions to meet the Community's greenhouse gas emission reduction commitments up to 2020 (OJ L 140, 5.6.2009, p. 136).
+
+(2) Commission Delegated Regulation (EU) No C(2014) 1539 establishing substantive requirements for a Union inventory system and taking into account changes in the global warming potentials and internationally agreed inventory guidelines pursuant to Regulation (EU) No 525/2013 of the European Parliament and of the Council.
+---
+# 11.7.2014
+
+# Official Journal of the European Union
+
+# L 203/25
+
+(2) ‘reference approach’ means the reference approach by the Intergovernmental Panel on Climate Change (IPCC), as contained in the 2006 IPCC Guidelines for National Greenhouse Gas Inventories as applicable pursuant to Article 6 of Delegated Regulation (EU) No C(2014) 1539.
+
+(3) ‘approach 1’ means the basic method included in the 2006 IPCC Guidelines or the 2003 IPCC Good Practice Guidelines;
+
+(4) ‘key category’ means a category which has a significant influence on a Member State's or the Union's total inventory of greenhouse gases in terms of the absolute level of emissions and removals, the trend in emissions and removals, or uncertainty in emissions and removals;
+
+(5) ‘sectoral approach’ means the IPCC sectoral approach, as contained in the 2006 IPCC Guidelines.
+
+# CHAPTER II
+
+# REPORTING BY MEMBER STATES
+
+# Article 3
+
+# General rules for reporting greenhouse gas inventories
+
+1. Member States shall report the information referred to in Article 7(1) to (5) of Regulation (EU) No 525/2013 to the Commission with a copy to the European Environment Agency by completing, in accordance with Article 6 of Delegated Regulation (EU) No C(2014) 1539 and with the rules provided for in this Regulation:
+
+- (a) the common reporting format tables by providing a complete set of spreadsheets or Extensible Markup Language (XML) files, depending on the availability of the appropriate software, and covering that Member State's geographical scope under Regulation (EU) No 525/2013;
+- (b) the standard electronic format for reporting Kyoto Protocol units and the related reporting instructions as adopted by the Conference of the Parties to the UNFCCC serving as the meeting of the Parties to the Kyoto Protocol;
+- (c) the Annexes I to VIII and X to XV to this Regulation.
+
+2. The complete national inventory report referred to in Article 7(3) of Regulation (EU) No 525/2013 shall be drafted based on the structure set out in the Appendix to the UNFCCC reporting guidelines on annual greenhouse gas inventories as included in Annex I to Decision 24/CP.19 and following the rules provided for in this Regulation.
+
+# Article 4
+
+# Reporting in the National Inventory Report or in an annex to the National Inventory Report
+
+1. Member States shall include the information and the tabular formats required by Articles 6, 7, 9 to 16 in the National Inventory Report or in a separate annex to the National Inventory Report, as specified in Annex I.
+
+2. Where Member States may choose whether the information and the tabular formats to be reported are included in the National Inventory Report or in a separate annex to the National Inventory Report, Member States shall clearly indicate where the information is provided by completing Annex I.
+
+# Article 5
+
+# Processes for reporting
+
+Member States shall use the ReportNet tools of the European Environment Agency, provided pursuant to Regulation (EC) No 401/2009 of the European Parliament and of the Council (1), for the submission of the information under Articles 4, 5, 7, 8, 12 to 17 of Regulation (EU) No 525/2013.
+
+(1) Regulation (EC) No 401/2009 of the European Parliament and of the Council of 23 April 2009 on the European Environment Agency and the European Environment Information and Observation Network (OJ L 126, 21.5.2009, p. 13).
+---
+# Article 6
+
+# Reporting on national inventory systems
+
+1. Member States shall report the information on their national inventory systems referred to in Article 5(1) of Regulation (EU) No 525/2013 in textual format, specifying:
+
+- (a) the name and contact information for the national entity with overall responsibility for the national inventory of the Member State;
+- (b) the roles and responsibilities of various agencies and entities in relation to the inventory planning, preparation and management process, as well as the institutional, legal and procedural arrangements made to prepare the inventory;
+- (c) a description of the process for collecting activity data, for selecting emission factors and methods, and for developing emission estimates;
+- (d) a description of the approaches used and the results of key category identification;
+- (e) a description of the processes which determine when recalculations of previously submitted inventory data are performed;
+- (f) a description of the quality assurance and quality control plan, its implementation and the quality objectives established, and information on internal and external evaluation and review processes and their results in accordance with the guidelines for national systems set out in the Annex to Decision 19/CMP.1 of the Conference of the Parties to the UNFCCC serving as the meeting of the Parties to the Kyoto Protocol;
+- (g) a description of the procedures for the official consideration and approval of the inventory.
+
+2. Member States shall report a description of the arrangements made to ensure access of the competent inventory authorities to the information referred to in Article 5(2) of Regulation (EU) No 525/2013 including information on the organizations providing the information, the regular scheduling of the access to information, the level of disaggregation and completeness to which access is provided.
+
+# Article 7
+
+# Reporting on consistency of the reported data on air pollutants
+
+1. Member States shall report textual information on the results of the checks referred to in Article 7(1)(m)(i) of Regulation (EU) No 525/2013 and on the consistency of the data pursuant to Article 7(1)(b) of Regulation (EU) No 525/2013 including:
+
+- (a) a brief assessment whether the emissions estimates of carbon monoxide (CO), sulphur dioxide (SO2), nitrogen oxides2 (NOx) and volatile organic compounds, in inventories submitted by the Member State under Directive 2001/81/EC of the European Parliament and of the Council (1) and under the UNECE Convention on Long-range Transboundary Air Pollution are consistent with the corresponding emission estimates in greenhouse gas inventories under Regulation (EU) No 525/2013.
+- (b) the submission dates of the reports under Directive 2001/81/EC and under the UNECE Convention on Long-range Transboundary Air Pollution that were compared with the inventory submission under Regulation (EU) No 525/2013.
+
+2. Where the checks referred to in paragraph 1 of this Article result in differences of more than +/–5 % between the total emissions excluding Land Use, Land-Use Change and Forestry (LULUCF) for a particular air pollutant reported under Regulation (EU) No 525/2013 and respectively under Directive 2001/81/EC or the UNECE Convention on Long-range Transboundary Air Pollution for the year X-2, the Member State concerned shall report in accordance with the tabular format set out in Annex II to this Regulation in addition to the textual information pursuant to paragraph 1 of this Article for that air pollutant.
+
+(1) Directive 2001/81/EC of the European Parliament and of the Council of 23 October 2001 on national emission ceilings for certain atmospheric pollutants (OJ L 309, 27.11.2001, p. 22).
+---
+# 11.7.2014
+
+# Official Journal of the European Union
+
+# L 203/27
+
+# Article 8
+
+Reporting on recalculations
+
+Member States shall report the reason for recalculations of the base year or period and of year X-3 referred to in Article 7(1)(e) of Regulation (EU) No 525/2013 in the tabular format set out in Annex III to this Regulation.
+
+# Article 9
+
+Reporting on implementation of recommendations and adjustments
+
+1. Under Article 7(1)(j) of Regulation (EU) No 525/2013, Member States shall report on the status of implementation of each adjustment and of each recommendation listed in the most recently published individual UNFCCC review report, including reasons for not implementing such a recommendation, in accordance with the tabular format specified in Annex IV to this Regulation.
+2. Member States shall report on the status of implementation of each recommendation listed in the most recent review report pursuant to Article 35(2) in accordance with the tabular format specified in Annex IV.
+
+# Article 10
+
+Reporting on consistency of reported emissions with data from the emissions trading scheme
+
+1. Member States shall report the information referred to in Article 7(1)(k) of Regulation (EU) No 525/2013 in accordance with the tabular format set out in Annex V to this Regulation.
+2. Member States shall report textual information on the results of the checks performed pursuant to Article 7(1)(l) of Regulation (EU) No 525/2013.
+
+# Article 11
+
+Reporting on consistency of the data reported on fluorinated greenhouse gases
+
+Member States shall report textual information on the results of the checks referred to in Article 7(1)(m)(ii) of Regulation (EU) No 525/2013 including:
+
+1. a description of the checks performed by the Member State concerning the level of detail, the data sets and the submissions compared;
+2. a description of the main results of the checks and explanations for the main inconsistencies;
+3. information whether the data collected by operators under Article 3(6) of Regulation (EC) No 842/2006 has been made use of and how;
+4. where the checks have not been performed, an explanation of the reasons why the checks were not considered to be relevant.
+
+(1) Regulation (EC) No 842/2006 of the European Parliament and of the Council of 17 May 2006 on certain fluorinated greenhouse gases (OJ L 161, 14.6.2006, p. 1).
+---
+# Official Journal of the European Union
+
+# 11.7.2014
+
+# Article 12
+
+Reporting on consistency with energy data
+
+1. Under Article 7(1)(m)(iii) of Regulation (EU) No 525/2013, Member States shall report textual information on the comparison between the reference approach calculated on the basis of the data included in the greenhouse gas inventory and the reference approach calculated on the basis of the data reported pursuant to Article 4 of Regulation (EC) No 1099/2008 of the European Parliament and of the Council (1) and Annex B to that Regulation.
+2. Member States shall provide quantitative information and explanations for differences of more than +/– 2 % in the total national apparent fossil fuel consumption at aggregate level for all fossil fuel categories for the year X-2 in accordance with the tabular format set out in Annex VI.
+
+# Article 13
+
+Reporting on changes in descriptions of national inventory systems or registries
+
+Member States shall clearly state in the relevant chapters of the national inventory report if there have been no changes in the description of their national inventory systems or of their national registries referred to in Article 7(1)(n) and (o) of Regulation (EU) No 525/2013 since the previous submission of the national inventory report.
+
+# Article 14
+
+Reporting on uncertainty and completeness
+
+1. For the purposes of reporting on uncertainty under Article 7(1)(p) of Regulation (EU) No 525/2013, Member States shall report approach 1 uncertainty estimates for
+1. emission levels and trends and
+2. activity data and emission factors or other estimation parameters used at the appropriate category level using the tabular format set out in Annex VII to this Regulation.
+2. The general assessment of completeness referred to in Article 7(1)(p) of Regulation (EU) No 525/2013 shall include:
+1. an overview of the categories that have been reported as not estimated (NE), as defined in the UNFCCC reporting guidelines on annual greenhouse gas inventories included in Annex I to Decision 24/CP.19, and detailed explanations for the use of this notation key especially where the 2006 IPCC Guidelines for National Greenhouse Gas Inventories provide methods for estimation of greenhouse gases;
+2. a description of the geographical coverage of the greenhouse gas inventory.
+3. Where a Member State submits inventories with different geographical coverage under the UNFCCC and the Kyoto Protocol and under Regulation (EU) No 525/2013, that Member State shall provide a short description of the principles and methods applied to distinguish emissions and removals reported for the Union's territory from emissions and removals reported for non-Union territories when compiling the inventory for the Union's territory of the respective Member State.
+
+# Article 15
+
+Reporting on other elements for the preparation of the Union greenhouse gas inventory report
+
+1. To enable the preparation of the Union greenhouse gas inventory report as referred to in Article 7(1)(p) of Regulation (EU) No 525/2013, Member States shall report the information on the methods and emission factors used for those categories identified as Union key category in the relevant XML files and common reporting format tables.
+
+(1) Regulation (EC) No 1099/2008 of the European Parliament and of the Council of 22 October 2008 on energy statistics (OJ L 304, 14.11.2008, p. 1).
+---
+# 11.7.2014
+
+# Official Journal of the European Union
+
+# L 203/29
+
+# Article 16
+
+Reporting on major changes to methodological descriptions
+
+By 15 March of each year, Member States shall report the major changes to the methodological descriptions in the national inventory report since its submission due on 15 April of the previous year, in the tabular format set out in Annex VIII.
+
+# Article 17
+
+Reporting approximated greenhouse gas inventories
+
+1. Member States shall report approximated greenhouse gas inventories as referred to in Article 8(1) of Regulation (EU) No 525/2013, in accordance with the common reporting format table — Summary table 2 as following:
+2. - (a) at a level of disaggregation of source categories reflecting the activity data and methods available for the preparation of estimates for the year X-1;
+- (b) excluding the total approximated CO2 equivalent emissions and removals from LULUCF;
+- (c) adding two columns for reporting the split between emissions included in the scope of the Union's emissions trading scheme established by Directive 2003/87/EC of the European Parliament and of the Council (1) and emissions covered by Decision No 406/2009/EC by source category, where available.
+
+Member States shall provide explanations including on main drivers for the trends in emissions reported in Summary table 2 compared to the inventory already reported. Such explanation shall reflect only the information available for the preparation of estimates for the year X-1.
+
+# Article 18
+
+Timescales for cooperation and coordination in preparing the Union greenhouse gas inventory report
+
+Member States and the Commission shall cooperate and coordinate in the preparation of the Union greenhouse gas inventory and of the Union inventory report and comply with the time-limits set out in Annex IX.
+
+# Article 19
+
+Reporting on the determination of the assigned amount
+
+Member States shall submit a report with the information necessary to facilitate the calculation of the joint assigned amount and the assigned amount of the Union pursuant to Article 3, paragraphs 7bis, 8 and 8bis of the Kyoto Protocol for the second commitment period in accordance with Annex I to Decision 2/CMP.8 related to that report, to the Commission three months prior to the time limit for submission of that report to the UNFCCC.
+
+(1) Directive 2003/87/EC of the European Parliament and of the Council of 13 October 2003 establishing a scheme for greenhouse gas emission allowance trading within the Community and amending Council Directive 96/61/EC (OJ L 275, 25.10.2003, p. 32).
+---
+# Official Journal of the European Union
+
+# Article 20
+
+Reporting on national systems for policies and measures and projections
+
+Member States shall report on national systems for policies and measures and projections referred to in Article 13(1)(a) of Regulation (EU) No 525/2013, including:
+
+- (a) information concerning the relevant institutional, legal and procedural arrangements, including the designation of the appropriate national entity or entities entrusted with overall responsibility for the policy evaluation of the Member State concerned and for the projections of anthropogenic greenhouse gas emissions;
+- (b) a description of relevant institutional, legal and procedural arrangements established within a Member State for evaluating policy and for making projections of anthropogenic greenhouse gas emissions by sources and removals by sinks;
+- (c) a description of the relevant procedural arrangements and timescales to ensure the timeliness, transparency, accuracy, consistency, comparability and completeness of the information reported on policies and measures and the information reported on projections;
+- (d) a description of the overall process for the collection and use of data, together with an assessment of whether consistent processes for collection and use of data are underpinning the evaluation of policies and measures and the making of projections as well as the different projected sectors in the making of projections;
+- (e) a description of the process for selecting assumptions, methodologies and models for policy evaluation, and for making projections of anthropogenic greenhouse gas emissions;
+- (f) a description of the quality assurance and quality control activities and of the sensitivity analysis for projections carried out.
+
+# Article 21
+
+Reporting on updates to Member States' low-carbon development strategies
+
+Member States shall report on updates of their low-carbon development strategies referred to in Article 13(1)(b) of Regulation (EU) No 525/2013, including information concerning:
+
+- (a) the objective and a short description of the update carried out;
+- (b) the legal status of the low-carbon development strategy and of its update;
+- (c) the changes and expected impacts of the update on the implementation of the low-carbon development strategy;
+- (d) the timeline and a description of the progress for the implementation of the low-carbon development strategy and of its update, and where available, an assessment of the projected costs and benefits associated with the update;
+- (e) the manner in which the information is made available to the public pursuant to Article 4(3) of Regulation (EU) No 525/2013.
+
+# Article 22
+
+Reporting on policies and measures
+
+1. Member States shall report the information on policies and measures referred to in Article 13(1)(c), (d) and (e) of Regulation (EU) No 525/2013 in accordance with the tabular formats set out in Annex XI to this Regulation and using the reporting template provided and the submission process introduced by the Commission.
+2. Member States shall report qualitative information regarding the links between the different policies and measures reported pursuant paragraph 1 and the way such policies and measures contribute to the different projection scenarios including an assessment of their contribution to the achievement of a low-carbon development strategy, in a textual format in addition to the tabular format referred to in paragraph 1.
+---
+# Official Journal of the European Union
+
+# L 203/31
+
+# Article 23
+
+# Reporting on projections
+
+1. Member States shall report the information on projections of anthropogenic greenhouse gases emissions by sources and removals by sinks referred to in Article 14 of Regulation (EU) No 525/2013 in accordance with the tabular formats set out in Annex XII to this Regulation, using the reporting template provided and the submission process introduced by the Commission.
+
+2. Member States shall provide additional information, in a textual format, regarding:
+
+- (a) the results of the sensitivity analysis for the total reported greenhouse gas emissions, together with a brief explanation on which parameters were varied and how.
+- (b) the results of the sensitivity analysis split on total emissions covered by Decision No 406/2009/EC, total emissions included in the scope of the Union's emissions trading scheme established by Directive 2003/87/EC and total LULUCF emissions when such information is available;
+- (c) the year of inventory data (base year) and year of inventory report used as a starting point for the projections;
+- (d) the methodologies used for the projections, including a brief description of models used and their sectoral, geographical and temporal coverage, references for further information on the models and information on key exogenous assumptions and parameters used.
+
+3. Nine months before the time-limit for submission of a report on projections pursuant to Article 14(1) of Regulation (EC) No 525/2013 and in consultation with the Member States, the Commission shall recommend harmonised values for key supra-nationally determined parameters including carbon prices under emission trading scheme, international oil and coal import prices, with a view of ensuring consistency of the aggregated Union projections.
+
+# Article 24
+
+# Reporting on the use of auctioning revenues
+
+Member States shall report the information on the use of auctioning revenues referred to in Article 17(1)(b) and (c) and Article 17(2) of Regulation (EU) No 525/2013 in accordance with the tabular formats set out in Annex XIII to this Regulation.
+
+# Article 25
+
+# Reporting on the project credits used for compliance with Decision No 406/2009/EC
+
+Member States shall report the information on the project credits used for compliance with Decision No 406/2009/EC referred to in Article 17(1)(a) and (d) of Regulation (EU) No 525/2013 in accordance the tabular format set out in Annex XIV to this Regulation.
+
+# Article 26
+
+# Reporting on summary information on concluded transfers
+
+1. Member States shall report the summary information on concluded transfers pursuant to Article 3(4) and (5) of Decision No 406/2009/EC in accordance with the tabular format set out in Annex XV to this Regulation.
+
+2. The Commission services shall compile and make available electronically a report summarizing the information provided by Member States on an annual basis. Such report shall provide only aggregated data and shall not disclose information from individual Member States on prices per unit of annual emission allocation.
+---
+# CHAPTER III
+
+# UNION EXPERT REVIEW OF GREENHOUSE GAS EMISSIONS
+
+# Article 27
+
+# Organisation of the Reviews
+
+1. In conducting the reviews referred to in Article 19(1) and (2) of Regulation (EU) No 525/2013 the Commission and the European Environment Agency shall be supported by a technical experts review team.
+2. The European Environment Agency shall act as Secretariat for the reviews.
+3. The Commission and the European Environment Agency shall select a sufficient number of review experts and covering the appropriate inventory sectors in order to ensure an adequate review of the greenhouse gas inventories concerned within the time period available.
+4. The review experts selected pursuant to paragraph 3 shall have experience in the area of greenhouse gas inventories compilation and, preferably be active in greenhouse gas review processes.
+5. A member of the technical experts review team who has contributed to the compilation of an individual Member State's greenhouse gas inventory, or who is a national of the Member State whose inventory is concerned, shall not take part in the review of that inventory.
+6. The Commission and the European Environment Agency shall strive to ensure that the review of greenhouse gas inventories is performed consistently across all Member States concerned and in an objective manner, in order to ensure a high quality of the resulting technical assessments.
+7. The reviews shall be carried out as desk-based or centralized reviews.
+8. The Secretariat may decide to organize:
+1. a desk-based and centralized review in the same year;
+2. an in-country visit in addition to the desk-based or centralized reviews upon recommendation of the technical experts review team and in consultation with the Member State concerned.
+
+# Article 28
+
+# Tasks of the Secretariat
+
+The tasks of the Secretariat referred to in Article 27(2) shall include:
+
+1. preparing the work plan for the review;
+2. compiling and providing the information necessary for the work of the technical experts review team;
+3. coordinating the review activities as set out in this Regulation, including the communication between the technical experts review team and the designated contact person or persons of the Member State under review, as well as making other practical arrangements;
+4. confirming cases where Member State's greenhouse gas inventories present significant issues in the meaning of Article 31, in consultation with the Commission;
+5. compiling and editing the final and interim review reports and communicating them to the Member State concerned and to the Commission.
+---
+# Article 29
+
+# First step of the annual review
+
+The checks to verify the transparency, accuracy, consistency, comparability and completeness of the information submitted referred to in Article 19(3)(a) of Regulation (EU) No 525/2013 may include:
+
+- (a) an assessment whether all emission source categories and gases required under Regulation (EU) No 525/2013 are reported;
+- (b) an assessment whether emissions data time series are consistent;
+- (c) an assessment whether implied emission factors across Member States are comparable taking the IPCC default emission factors for different national circumstances into account;
+- (d) an assessment of the use of ‘Not Estimated’ notation keys where IPCC tier 1 methodologies exist and where the use of the notation key is not justified in accordance with paragraph 37 of the UNFCCC reporting guidelines on annual greenhouse gas inventories as included in Annex I to Decision 24/CP.19;
+- (e) an analysis of recalculations performed for the inventory submission, in particular if the recalculations are based on methodological changes;
+- (f) a comparison of the verified emissions reported under the Union's Emissions Trading System with the greenhouse gas emissions reported pursuant to Article 7 of Regulation (EU) No 525/2013 with a view of identifying areas where the emission data and trends as submitted by the Member State under review deviate considerably from those of other Member States;
+- (g) a comparison of the results of Eurostat's reference approach with the Member States' reference approach;
+- (h) a comparison of the results of Eurostat's sectoral approach with the Member States' sectoral approach;
+- (i) an assessment whether recommendations from earlier Union or UNFCCC reviews, not implemented by the Member State could lead to a technical correction;
+- (j) an assessment whether there are potential overestimations or underestimations relating to a key category in a Member State's inventory.
+
+# Article 30
+
+# Trigger for the second step of the annual review
+
+In the framework of the annual review, where the checks pursuant to Article 29 identify significant issues in the meaning of Article 31, at a Member State's request, in case of late submission of the inventory that prevents the carrying out of the first step review checks pursuant to the timeline as set out in Annex XVI or in case of a lack of response to the first step review results, the checks set out in Article 32 shall be carried out.
+
+# Article 31
+
+# Threshold of significance
+
+1. Recommendations from earlier Union or UNFCCC reviews which have not been implemented shall constitute a significant issue under Article 19(4)(a) of Regulation No (EU) 525/2013 if the recommendation or question concern overestimates or underestimates of greenhouse gas inventory data which could lead to a technical correction and if that Member State has not provided satisfactory explanation for the lack of implementation of that recommendation.
+
+2. An underestimate or overestimate of inventory data that amounts to below 0.05 per cent of a Member State's total national greenhouse gas emissions without LULUCF for the year of the inventory under review or that does not exceed 500 kt CO2 equivalent, whichever is smaller, shall not be considered a significant issue under Article 19(4)(b) of Regulation (EU) No 525/2013.
+---
+# Official Journal of the European Union
+
+# 11.7.2014
+
+# Article 32
+
+# Second step of the annual review
+
+1. The checks to identify cases where inventory data is prepared in a manner which is inconsistent with the UNFCCC guidance documentation or Union rules referred to in Article 19(3)(b) of Regulation (EU) No 525/2013 may include:
+- (a) detailed examination of the inventory estimates including methodologies used by the Member State in the preparation of inventories;
+- (b) detailed analysis of the Member State's implementation of recommendations related to improving inventory estimates as listed in its most recent UNFCCC annual review report made available to that Member State before the submission under review or in the final review report pursuant to Article 35(2) of this Regulation; where recommendations have not been implemented a detailed analysis of the justification provided by the Member State for not implementing them;
+- (c) detailed assessment of the time series consistency of the greenhouse gas emissions estimates;
+- (d) detailed assessment whether the recalculations made by a Member State in the given inventory submission as compared to the previous one are transparently reported and made in accordance with the 2006 IPCC Guidelines for National Greenhouse Gas Inventories;
+- (e) follow-up on the results of the checks referred to in Article 29 of this Regulation and on any additional information submitted by the Member State under review in response to questions from the technical experts review team and other relevant checks.
+2. A Member State that wishes to undergo the checks referred to in paragraph 1 upon request, shall notify the Commission by 31 October of the year preceding the year when the relevant review takes place.
+
+# Article 33
+
+# Comprehensive Review
+
+1. The comprehensive review referred to in Article 19(1) of Regulation (EU) No 525/2013 shall include the checks pursuant to Articles 29 and 32 of this Regulation for the whole inventory.
+2. The comprehensive review may include checks to identify whether problems identified for one Member State in the UNFCCC or Union reviews may also constitute a problem for other Member States.
+
+# Article 34
+
+# Technical corrections
+
+1. A technical correction shall be deemed necessary in the meaning of Article 19(3)(c) of Regulation (EU) No 525/2013 if an underestimate or overestimate exceeds the threshold of significance pursuant to Article 31 of this Regulation. Only the technical corrections deemed necessary shall be included in the final review report referred to in Article 35(2) of this Regulation accompanied by evidence based justification.
+2. Should a technical correction exceed the threshold of significance for at least one year of the inventory under review but not for all the years of the time series, the technical correction shall be calculated for all the other years under review in order to ensure time series consistency.
+
+# Article 35
+
+# Review Reports
+
+1. By 20 April of every year with an annual review, the Secretariat shall inform the Member State concerned of any significant issues pursuant to Articles 30 and 31 by means of an interim review report. Such report shall address issues that have been raised no later than by 31 March.
+---
+# 11.7.2014
+
+# Official Journal of the European Union
+
+# L 203/35
+
+# Article 36
+
+# Cooperation with Member States
+
+1. Member States shall:
+
+- (a) participate in all the steps of the review pursuant to the schedule as set in Annex XVI;
+- (b) nominate a National contact point for the Union's review;
+- (c) participate in and facilitate in close cooperation with the Secretariat the organisation of an in-country visit, if needed;
+- (d) provide answers and additional information and comment on the review reports as relevant.
+
+2. Upon request by the Member States, comments regarding the review findings shall be included in the final review report.
+
+3. The Commission shall inform the Member States of the composition of the technical experts review team.
+
+# Article 37
+
+# Schedule for the reviews
+
+The comprehensive and the annual reviews shall be carried out pursuant to the schedules set out in Annex XVI.
+
+# CHAPTER IV
+
+# REPORTING FOR THE PURPOSES OF DECISION No 529/2013/EU
+
+# Article 38
+
+# Avoidance of double reporting
+
+To the extent that a Member State includes information in its national inventory report and in accordance with Article 3 of this Regulation that is required also pursuant to Decision No 529/2013/EU, that Member State shall be deemed to have complied with its respective reporting obligations under that Decision.
+
+# Article 39
+
+# Reporting requirements on systems for cropland management and grazing land management
+
+1. To the extent that a Member State has not included information in its national inventory report as set out in Article 38 of this Regulation, it shall report textual information on the systems in place and being developed to estimate emissions and removals from cropland management or grazing land management as referred to in point (a) of the second subparagraph of Article 3(2) of Decision No 529/2013/EU including the following elements:
+
+- (a) a description of the institutional, legal and procedural arrangements made in accordance with the requirements for national systems under the Kyoto Protocol as set out in the Annex to Decision 19/CMP.1 and in accordance with the requirements for national arrangements under the UNFCCC reporting guidelines for national greenhouse gas inventories as set out in Annex I to Decision 24/CP.19.
+---
+# Official Journal of the European Union
+
+# 11.7.2014
+
+# Article 39
+
+(b) a description of the manner in which the systems implemented are consistent with the methodological requirements of the IPCC report ‘2013 Revised Supplementary Methods and Good Practice Guidance Arising from the Kyoto Protocol’, the ‘2006 IPCC Guidelines for National Greenhouse Gas Inventories’ and, as applicable, with the ‘2013 Supplement to 2006 IPCC Guidelines for National Greenhouse Gas Inventories: Wetlands’.
+
+2. Member States shall submit the information set out in paragraph 1 as a separate report to the Commission pursuant to the following schedule:
+
+- (a) the first report in the year 2016 for the reporting year 2014 including all developments starting with 1 January 2013,
+- (b) the second report in the year 2017 for the reporting year 2015 and,
+- (c) the third report in the year 2018 for the reporting year 2016.
+
+3. Member States shall focus the information included in the reports subsequent to the first report on any changes and developments that have occurred for their systems compared with the information included in their previous report.
+
+# Article 40
+
+# Reporting requirements on annual estimates of emissions and removals from cropland management and grazing land management
+
+1. Member States that did not elect cropland management or grazing land management under the Kyoto Protocol shall report initial, preliminary and non-binding annual estimates of emissions and removals from cropland management or grazing land management as referred in point (b) of the second subparagraph of Article 3(2) of Decision No 529/2013/EU by including information for the relevant base year or period specified in Annex VI to Decision No 529/2013/EU.
+
+2. The first annual report shall be submitted in the year 2015 for the reporting year 2013.
+
+3. Member States to which paragraph 1 of this Article applies shall submit final annual estimates of emissions and removals from cropland management or grazing land management pursuant to point (c) of the second subparagraph of Article 3(2) of Decision No 529/2013/EU for all reporting years for the period from 1 January 2013 to 31 December 2020, by including final information for the relevant base year or period specified in Annex VI to Decision No 529/2013/EU.
+
+4. When providing the information specified in paragraphs 1 and 2 of this Article Member States shall comply with the following requirements:
+
+- (a) complete all relevant common reporting format tables as included in the Annex to Decision 6/CMP.9 for the respective activity under the Kyoto Protocol for the second commitment period, including the cross-cutting tables on activity coverage, the land transition matrix and the information table on accounting, and
+- (b) include explanatory information on methodologies and data used as required in the national inventory report in accordance with Decision 2/CMP.8 under the Kyoto Protocol and its Annex II.
+
+# Article 41
+
+# Specific reporting requirements
+
+1. By derogation from Article 38 of this Regulation, where a Member State reports for its accounting obligation under the Kyoto Protocol information in accordance with the provisions on forest plantations set out in paragraphs 37 to 39 of the Annex to Decision 2/CMP.7, it shall submit for the purpose of its obligations under Decision No 529/2013/EU separate common reporting format tables for the activities of forest management and deforestation completed without the application of the provisions in paragraphs 37 to 39 of the Annex to Decision 2/CMP.7.
+
+2. By derogation from Article 38 of this Regulation, where a Member State which did not elect cropland management or grazing land management under the Kyoto Protocol reports information on wetland drainage and rewetting for its accounting under that protocol and where that Member State applies Article 3(3) of Decision No 529/2013/EU, it shall submit separate common reporting format tables for those activities completed in accordance with that Decision.
+---
+# Article 42
+
+# Submission of information
+
+1. The information corresponding to the reporting requirements set out in Articles 39, 40 and 41 of this Regulation shall be submitted to the Commission as a separate annex to the national inventory report referred to in Article 7(3) of Regulation (EU) No 525/2013.
+
+2. To the extent that Article 38 of this Regulation does not apply, for their reporting obligations pursuant to the first subparagraph of Article 3(2) and Article 3(3) of Decision No 529/2013/EU Member States shall report in accordance with Article 3 of this Regulation and include the corresponding information in the annex to the national inventory report referred to in Article 7(3) of Regulation (EU) No 525/2013.
+
+# Article 43
+
+# Reporting at the end of an accounting period
+
+For the purposes of Article 7(2) of Regulation (EU) No 525/2013 Member States shall submit information in accordance with Article 3 of this Regulation and in accordance with the provisions set out in this Chapter.
+
+# CHAPTER V
+
+# TRANSITIONAL AND FINAL PROVISIONS
+
+# Article 44
+
+# Repeal and transitional provision
+
+Decision No 2005/166/EC is repealed. The effects of Articles 18, 19 and 24 shall be maintained.
+
+# Article 45
+
+# Entry into force
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 30 June 2014.
+
+For the Commission
+
+The President
+
+José Manuel BARROSO
+---
+# ANNEX I
+
+# Overview table of reporting requirements and their submission
+
+|[Article of] This Regulation|Information to be provided in the National Inventory Report (NIR) (tick)|Information to be provided in a separate annex to NIR (tick)|Reference to chapter in the NIR or in separate annex (specify)|
+|---|---|---|---|
+|Article 6 Reporting on national inventory systems|Obligatory|Not applicable| |
+|Article 7 Reporting on consistency of the reported data on air pollutants|Possible|Possible|If in the NIR: Chapter of the NIR on ‘quality assurance, quality control and verification plan’|
+|Article 9(1) Reporting on implementation of recommendations and adjustments|Obligatory|Not applicable|Chapter of the NIR on recalculations and improvements|
+|Article 9(2) Reporting on implementation of recommendations and adjustments|Not applicable|Obligatory| |
+|Article 10(1) Reporting on consistency of reported emissions with data from the emissions trading scheme|Not applicable|Obligatory| |
+|Article 10(2) Reporting on consistency of reported emissions with data from the emissions trading scheme|Possible|Possible|If in the NIR: In the relevant sections of the NIR|
+|Article 11 Reporting on consistency of the data reported on fluorinated greenhouse gases|Not applicable|Obligatory| |
+|Article 12 Reporting on consistency with energy data|Possible|Possible|If in the NIR: In the relevant sections of the NIR|
+|Article 13 Reporting on changes in descriptions of national inventory systems or registries|Obligatory|Not applicable|In the relevant chapters of the NIR|
+|Article 14 Reporting on uncertainty and completeness|Obligatory|Not applicable|In the CRF Table 9 and in the respective chapters of the NIR|
+|Article 15(1) Reporting on other elements for the preparation of the Union greenhouse gas inventory report|Obligatory|Not applicable|In the relevant chapters of the NIR|
+---
+# 11.7.2014
+
+# Information to be provided in the
+
+# National Inventory Report (NIR)
+
+# Reference to chapter in the NIR or in separate annex
+
+|[Article of] This Regulation|Information to be provided in a separate annex to NIR| |separate annex| |
+|---|---|---|---|---|
+|Article 15(3)|Reporting on other elements for the preparation of the Union greenhouse gas inventory report|Obligatory|Not applicable|In the respective chapters of the NIR|
+|Article 16|Reporting on major changes to methodological descriptions|Possible|Possible|If in the NIR: In the chapter on recalculations and improvements in the NIR|
+
+Official Journal of the European Union
+
+L 203/39
+---
+# ANNEX II
+
+# Format for reporting information on consistency of the reported data on air pollutants pursuant to Article 7
+
+|Pollutant:|Emissions for pollutant X reported in greenhouse gas (GHG) inventory (in kt)|Emissions for pollutant X reported under Directive 2001/81/EC (NEC), submission version X (in kt)|Absolute difference in kt (1)|Relative difference in % (2)|UNECE Convention on Long-range Transboundary Air Pollution (CLRTAP) inventory, submission version X (in kt)|Absolute difference in kt (1)|Relative difference in % (2)|Explanations for differences|
+|---|---|---|---|---|---|---|---|---|
+|Total (Net Emissions)| | | | | | | | |
+|1. Energy| | | | | | | | |
+|A. Fuel combustion (sectoral approach)| | | | | | | | |
+|1. Energy industries| | | | | | | | |
+|2. Manufacturing industries and construction| | | | | | | | |
+|3. Transport| | | | | | | | |
+|4. Other sectors| | | | | | | | |
+|5. Other| | | | | | | | |
+|B. Fugitive emissions from fuels| | | | | | | | |
+|1. Solid fuels| | | | | | | | |
+|2. Oil and natural gas and other emissions from energy production| | | | | | | | |
+
+Official Journal of the European Union 11.7.2014
+---
+# 2. Industrial processes and product use
+
+- A. Mineral industry
+- B. Chemical industry
+- C. Metal industry
+- D. Non-energy products from fuels and solvent use
+- G. Other product manufacture and use
+- H. Other
+
+# 3. Agriculture
+
+- B. Manure management
+- D. Agricultural soils
+- F. Field burning of agricultural residues
+- J. Other
+
+# 5. Waste
+
+- A. Solid waste disposal
+- B. Biological treatment of solid waste
+- C. Incineration and open burning of waste
+- D. Wastewater treatment and discharge
+- E. Other
+
+# 6. Other
+
+L 203/41
+
+(2) 1) Emissions reported in GHG inventory minus emissions reported in NEC/CLRTAP inventory Difference in kt divided by emissions reported in GHG inventory
+
+(3) Data to be reported up to one decimal point for kt and % values
+---
+# ANNEX III
+
+# Format for reporting on recalculations pursuant to Article 8
+
+|Recalculated Year|Per Gas: CO, NO, CH4| | | | | | |Impact of recalculation|Impact of recalculation|Explanation for recalculations|
+|---|---|---|---|---|---|---|---|---|---|---|
+| | |Previous submission| | |Latest submission|Difference|Difference (1)|on total emissions2)|on total emissions3)| |
+| | | | | |(CO-eq, kt)2|(CO-eq, kt)2|%|excluding LULUCF|(including LULUCF)|%|
+
+# Total National Emissions and Removals
+
+# 1. Energy
+
+# A. Fuel combustion activities
+
+1. Energy industries
+2. Manufacturing industries and construction
+3. Transport
+4. Other sectors
+5. Other
+
+# B. Fugitive Emissions from Fuels
+
+1. Solid fuels
+2. Oil and natural gas
+
+# C. CO2 transport and storage
+
+# 2. Industrial processes and product use
+
+# A. Mineral industry
+
+# B. Chemical industry
+
+# C. Metal industry
+---
+# 11.7.2014
+
+# D. Non-energy products from fuels and solvent use
+
+# G. Other product manufacture and use
+
+# H. Other
+
+# 3. Agriculture
+
+# A. Enteric fermentation
+
+# B. Manure management
+
+# C. Rice cultivation
+
+# D. Agricultural soils
+
+# E. Prescribed burning of savannahs
+
+# F. Field burning of agricultural residues
+
+# G. Liming
+
+# H. Urea application
+
+# I. Other carbon-containing fertilizer
+
+# J. Other
+
+# 4. Land use, land-use change and forestry (net) (4)
+
+# A. Forestland
+
+# B. Cropland
+
+# C. Grassland
+
+# D. Wetlands
+
+# E. Settlements
+
+# F. Other land
+
+Official Journal of the European Union L 203/43
+---
+# G. Harvested wood products
+
+# H. Other
+
+# 5. Waste
+
+- A. Solid waste disposal
+- B. Biological treatment of solid waste
+- C. Incineration and open burning of waste
+- D. Wastewater treatment and discharge
+- E. Other
+
+# 6. Other (As specified in summary 1.A)
+
+# Memo items:
+
+- International bunkers
+- Aviation
+- Navigation
+- Multilateral operations
+- CO2 emissions from biomass
+- CO2 captured
+- Long-term storage of C in waste disposal sites
+- Indirect N2O
+- Indirect CO2
+
+11.7.2014
+
+F-gases: Total actual Emissions
+---
+# 11.7.2014
+
+|Year| | | | |Per Gas:|PFCs, HFCs, SF, unspecified mix of HFCs and PFCs, NF36| | | |
+|---|---|---|---|---|---|---|---|---|---|
+|GREENHOUSE GAS SOURCE AND SINK|submission (CO-eq, kt)|Latest submission (CO-eq, kt)2|Difference (CO-eq, kt)2| | |Difference (1)|Impact of recalculation on total emissions2)|Impact of recalculation on total emissions3)|Explanation for recalculations|
+|2.B.9. Fluorochemical production| | | | | | | | | |
+|2.B.10. Other| | | | | | | | | |
+|2.C.3. Aluminium production| | | | | | | | | |
+|2.C.4 Magnesium production| | | | | | | | | |
+|2.C.7. Other| | | | | | | | | |
+|2.E.1. Integrated circuit or semiconductor| | | | | | | | | |
+|2.E.2. TFT flat panel display| | | | | | | | | |
+|2.E.3. Photovoltaics| | | | | | | | | |
+|2.E.4. Heat transfer fluid| | | | | | | | | |
+|2.E.5. Other (as specified in table 2(II))| | | | | | | | | |
+|2.F.1. Refrigeration and air conditioning| | | | | | | | | |
+|2.F.2. Foam blowing agents| | | | | | | | | |
+|2.F.3. Fire protection| | | | | | | | | |
+|2.F.4. Aerosols| | | | | | | | | |
+|2.F.5. Solvents| | | | | | | | | |
+|2.F.6. Other applications| | | | | | | | | |
+|2.G.1. Electrical equipment| | | | | | | | | |
+
+Official Journal of the European Union
+
+L 203/45
+---
+# 2.G.2. SF6 and PFCs from other product use
+
+# 2.G.4. Other
+
+# 2.H. Other (Please specify:)
+
+(1) To be estimated the percentage change due to recalculation with respect to the previous submission (percentage change = 100 x [(LS – PS)/PS], where LS = latest submission and PS = previous submission. All cases of recalculation of the estimate of the source/sink category must be addressed and explained in the NIR.
+
+(2) Total emissions refer to total aggregate GHG emissions expressed in terms of CO2 equivalent, excluding GHGs from the LULUCF sector. The impact of the recalculation on the total emissions is calculated as follows: impact of recalculation (%) = 100 x [(source (LS) — source (PS))/total emissions (LS)], where LS = latest submission, PS = previous submission.
+
+(3) Total emissions refer to total aggregate GHG emissions expressed in terms of CO2 equivalent, including GHGs from the LULUCF sector. The impact of the recalculation on the total emissions is calculated as follows: impact of recalculation (%) = 100 x [(source (LS) — source (PS))/total emissions (LS)], where LS = latest submission, PS = previous submission.
+
+(4) Net CO2 emissions/removals to be reported.
+
+# Official Journal of the European Union
+
+# ANNEX IV
+
+# Format for reporting information on implementation of recommendations and adjustments pursuant to Article 9
+
+CRF category/issue
+Review recommendation
+Review report/paragraph
+MS response/status of implementation
+Chapter/section in the NIR
+11.7.2014
+---
+# 11.7.2014
+
+# ANNEX V
+
+# Format for reporting information on consistency of reported emissions with emissions trading scheme (ETS) data pursuant to Article 10
+
+Allocation of verified emissions reported by installations and operators under Directive 2003/87/EC to source categories of the national greenhouse gas inventory
+
+Member State: EN
+
+Reporting year:
+
+Basis for data: verified ETS emissions and greenhouse gas emissions as reported in inventory submission for the year X-2
+
+|Total emissions (CO2eq)|Greenhouse gas inventory emissions|Verified emissions under Directive 2003/87/EC|Ratio in %|Comment|
+|---|---|---|---|---|
+|Greenhouse gas emissions (total emissions without LULUCF for GHG inventory and without emissions from 1A3a Civil aviation, total emissions from installations under Article 3h of Directive 2003/87/EC)|[kt CO2eq] (3)|[kt CO2eq] (3)|(Verified emissions/inventory emissions) (3)| |
+|CO2 emissions (total CO2 emissions without LULUCF for GHG inventory and without emissions from 1A3a Civil aviation, total emissions from installations under Article 3h of Directive 2003/87/EC)|CO2 emissions| | | |
+
+# Category (1)
+
+|Greenhouse gas inventory emissions|Verified emissions under Directive 2003/87/EC|Ratio in %|Comment|
+|---|---|---|---|
+|[kt] (3)|[kt] (3)| | |
+
+# 1.A Fuel combustion activities, total
+
+# 1.A Fuel combustion activities, stationary combustion
+
+# 1.A.1 Energy industries
+
+# 1.A.1.a Public electricity and heat production
+---
+# 1.A.1.b Petroleum refining
+
+# 1.A.1.c Manufacture of solid fuels and other energy industries
+
+Iron and steel (for GHG inventory combined CRF categories 1.A.2.a+ 2.C.1 + 1.A.1.c and other relevant CRF categories that include emissions from iron and steel (e.g. 1A1a, 1B1) (4))
+
+# 1.A.2. Manufacturing industries and construction
+
+# 1.A.2.a Iron and steel
+
+# 1.A.2.b Non-ferrous metals
+
+# 1.A.2.c Chemicals
+
+# 1.A.2.d Pulp, paper and print
+
+# 1.A.2.e Food processing, beverages and tobacco
+
+# 1.A.2.f Non-metallic minerals
+
+# 1.A.2.g Other
+
+# 1.A.3. Transport
+
+# 1.A.3.e Other transportation (pipeline transport)
+
+# 1.A.4 Other sectors
+
+# 1.A.4.a Commercial/Institutional
+
+# 1.A.4.c Agriculture/Forestry/Fisheries
+
+# 1.B Fugitive emissions from Fuels
+
+# 1.C CO2 Transport and storage
+
+11.7.2014
+
+# 1.C.1 Transport of CO2
+---
+# 11.7.2014
+
+# 1.C.2 Injection and storage
+
+# 1.C.3 Other
+
+# 2.A Mineral products
+
+# 2.A.1 Cement production
+
+# 2.A.2 Lime production
+
+# 2.A.3 Glass production
+
+# 2.A.4 Other process uses of carbonates
+
+# 2.B Chemical industry
+
+# 2.B.1 Ammonia production
+
+# 2.B.3 Adipic acid production (CO2)
+
+# 2.B.4 Caprolactam, glyoxal and glyoxylic acid production
+
+# 2.B.5 Carbide production
+
+# 2.B.6 Titanium dioxide production
+
+# 2.B.7 Soda ash production
+
+# 2.B.8 Petrochemical and carbon black production
+
+# 2.C Metal production
+
+# 2.C.1 Iron and steel production
+
+# 2.C.2 Ferroalloys production
+
+# 2.C.3 Aluminium production
+
+# 2.C.4 Magnesium production
+
+# 2.C.5 Lead production
+
+Official Journal of the European Union L 203/49
+---
+# 2.C.6 Zinc production
+
+# 2.C.7 Other metal production
+
+# N2O emissions
+
+|Category (1)|Greenhouse gas inventory emissions3) [kt CO2eq]|Verified emissions under Directive 2003/87/EC [kt CO2eq] (3)|Ratio in % (Verified emissions/inventory emissions) (3)|Comment (2)|
+|---|---|---|---|---|
+|2.B.2 Nitric acid production| | | | |
+|2.B.3 Adipic acid production| | | | |
+|2.B.4 Caprolactam, glyoxal and glyoxylic acid production| | | | |
+
+# PFC emissions
+
+|Category (1)|Greenhouse gas inventory emissions3) [kt CO2eq]|Verified emissions under Directive 2003/87/EC [kt CO2eq] (3)|Ratio in % (Verified emissions/inventory emissions) (3)|Comment (2)|
+|---|---|---|---|---|
+|2.C.3 Aluminium production| | | | |
+
+(1) The allocation of verified emissions to disaggregated inventory categories at four digit level must be reported where such allocation of verified emissions is possible and emissions occur. The following notation keys should be used:
+
+- NO = not occurring
+- IE = included elsewhere
+- C = confidential
+- negligible = small amount of verified emissions may occur in respective CRF category, but amount is < 5 % of the category
+
+(2) The column comment should be used to give a brief summary of the checks performed and if a Member State wants to provide additional explanations with regard to the allocation reported.
+
+(3) Data to be reported up to one decimal point for kt and % values
+
+(4) To be filled on the basis of combined CRF categories pertaining to ‘Iron and Steel’, to be determined individually by each Member State; the stated formula is for illustration purposes only
+
+Notation: x = reporting year
+
+11.7.2014
+---
+# 11.7.2014
+
+# ANNEX VI
+
+# Format for reporting information on consistency with energy data pursuant to Article 12
+
+|FUEL TYPES|Apparent consumption reported in GHG inventory (TJ) (3)|Apparent consumption using data reported pursuant to Regulation (EC) No 1099/2008 (TJ) (3)|Absolute1) difference (TJ) (3)|Relative difference (%) (3)|Explanations for differences|
+|---|---|---|---|---|---|
+|Liquid fossil fuels|Primary|Crude oil| | | |
+| | |Orimulsion| | | |
+| | |Natural gas liquids| | | |
+| |Secondary|Gasoline| | | |
+| | |Jet kerosene| | | |
+| | |Other kerosene| | | |
+| | |Shale oil| | | |
+| | |Gas/diesel oil| | | |
+| | |Residual fuel oil| | | |
+| | |Liquefied petroleum gases (LPG)| | | |
+| | |Ethane| | | |
+| | |Naptha| | | |
+| | |Bitumen| | | |
+| | |Lubricants| | | |
+| | |Petroleum coke| | | |
+| | |Refinery feedstocks| | | |
+| | |Other oil| | | |
+
+Official Journal of the European Union L 203/51
+---
+# Apparent consumption
+
+|FUEL TYPES|Apparent consumption using data reported in GHG inventory (TJ) (3)|Absolute1) difference (TJ) (3)|Relative difference (2) % (3)|Explanations for differences|
+|---|---|---|---|---|
+|Other liquid fossil| | | | |
+|Liquid fossil totals| | | | |
+|Solid fossil|Primary fuels| | | |
+|Anthracite| | | | |
+|Coking coal| | | | |
+|Other bituminous coal| | | | |
+|Sub-bituminous coal| | | | |
+|Lignite| | | | |
+|Oil shale and tar sand| | | | |
+|Secondary fuels|BKB and patent fuel| | | |
+|Coke oven/gas coke| | | | |
+|Coal tar| | | | |
+|Other solid fossil| | | | |
+|Solid fossil totals| | | | |
+|Gaseous fossil|Natural gas (dry)| | | |
+|Other gaseous fossil| | | | |
+|Gaseous fossil totals| | | | |
+|Waste (non-biomass fraction)| | | | |
+
+Official Journal of the European Union
+
+11.7.2014
+---
+# 11.7.2014
+
+# Apparent consumption
+
+# FUEL TYPES
+
+|FUEL TYPES|Apparent consumption reported in GHG inventory (TJ) (3)|Apparent consumption using data reported pursuant to Regulation (EC) No 1099/2008 (TJ) (3)|Absolute difference (TJ) (3)|Relative difference (%) (3)|Explanations for differences|
+|---|---|---|---|---|---|
+|Other fossil fuels| | | | | |
+|Peat| | | | | |
+|Total| | | | | |
+
+(2) Apparent consumption reported in GHG inventory minus apparent consumption using data reported pursuant to Regulation (EC) No 1099/2008
+
+Absolute difference divided by apparent consumption reported in GHG inventory
+
+(3) Data to be reported up to one decimal point for kt and % values
+
+Official Journal of the European Union
+
+L 203/53
+---
+# ANNEX VII
+
+# Format for reporting information on uncertainty pursuant to Article 14
+
+|A|B|C|D|E|F|G|H|I|J|K|L|M|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|IPCC category|Gas|Base year emissions or removals|Year x emissions or removals|Activity data uncertainty|Emission factor/parameter estimation uncertainty|Combined uncertainty|Contribution to national emissions|Trend in national emissions|Type A uncertainty|Type B uncertainty|Trend in emissions introduced by estimation|Trend in national emissions introduced by activity data|
+|1.A.1. Energy industries fuel 1|CO2|X C|X D| | |X H| | | | | |X M|
+|1.A.1. Energy industries fuel 2|CO2|X C|X D| | |X H| | | | | |X M|
+|Etc…| | | | | | | | | | | | |
+|Total| |X C|X D| | |X H| | | | | |X M|
+
+Percentage uncertainty in total inventory: qX ffiffiffiffiffiffiffiffiffiffiffiffi H
+
+Trend uncertainty: qX ffiffiffiffiffiffiffiffiffiffiffiffi M
+
+Source: 2006 IPCC guidelines, Volume 1, Table 3.2 Approach 1 uncertainty calculation
+
+11.7.2014
+---
+# 11.7.2014
+
+# ANNEX VIII
+
+# Format for reporting information on major changes to methodological descriptions pursuant to Article 16
+
+|DESCRIPTION OF METHODS|RECALCULATIONS|REFERENCE|
+|---|---|---|
+|GREENHOUSE GAS SOURCE AND SINK CATEGORIES|Please tick where the latest NIR includes major changes in methodological descriptions compared to the NIR of the previous year|Please tick where this is also reflected in recalculations compared to the previous years' CRF|
+|If ticked please provide a reference to the relevant section or pages in the NIR and if applicable some more detailed information such as the sub-category or gas concerned for which the description was changed.|If ticked please provide a reference to the relevant section or pages in the NIR and if applicable some more detailed information such as the sub-category or gas concerned for which the description was changed.|If ticked please provide a reference to the relevant section or pages in the NIR and if applicable some more detailed information such as the sub-category or gas concerned for which the description was changed.|
+
+# Total (Net Emissions)
+
+# 1. Energy
+
+# A. Fuel Combustion (sectoral approach)
+
+- 1. Energy industries
+- 2. Manufacturing industries and construction
+- 3. Transport
+- 4. Other sectors
+- 5. Other
+
+# B. Fugitive emissions from fuels
+
+- 1. Solid fuels
+- 2. Oil and natural gas and other emissions from energy production
+
+# C. CO2 transport and storage
+
+# 2. Industrial processes and product use
+
+# A. Mineral industry
+
+Official Journal of the European Union L 203/55
+---
+# 3. Agriculture
+
+- A. Enteric fermentation
+- B. Manure management
+- C. Rice cultivation
+- D. Agricultural soils
+- E. Prescribed burning of savannahs
+- F. Field burning of agricultural residues
+- G. Liming
+- H. Urea application
+- I. Other carbon containing fertilisers
+- J. Other
+
+# 4. Land use, land-use change and forestry
+
+- A. Forest land
+
+Official Journal of the European Union
+
+11.7.2014
+---
+# 11.7.2014
+
+# B. Cropland
+
+# C. Grassland
+
+# D. Wetlands
+
+# E. Settlements
+
+# F. Other land
+
+# G. Harvested wood products
+
+# H. Other
+
+# 5. Waste
+
+# A. Solid waste disposal
+
+# B. Biological treatment of solid waste
+
+# C. Incineration and open burning of waste
+
+# D. Wastewater treatment and discharge
+
+# E. Other
+
+# 6. Other (as specified in Summary 1.A)
+
+# KP LULUCF
+
+# Article 3.3 activities
+
+# Afforestation/reforestation
+
+# Deforestation
+
+# Article 3.4.activities
+
+# Forest management
+
+# Cropland management (if elected)
+
+Official Journal of the European Union L 203/57
+---
+# Grazing land management (if elected)
+
+# Revegetation (if elected)
+
+# Wetland drainage and rewetting (if elected)
+
+# DESCRIPTION
+
+# REFERENCE
+
+|NIR Chapter|Please tick where the latest NIR includes major changes in descriptions compared to the previous year NIR|If ticked please provide some more detailed information for example reference to pages in the NIR|
+|---|---|---|
+|Chapter 1.2 Description of national inventory arrangements| | |
+
+Official Journal of the European Union
+
+11.7.2014
+---
+# 11.7.2014
+
+# ANNEX IX
+
+# Procedures and time scales for the compilation of the Union greenhouse gas inventory and inventory report
+
+|Element|Who|When|What|
+|---|---|---|---|
+|1. Submission of annual inventories (complete CRF and elements of the national inventory report) by Member States|Member States|Annually by 15 January|Elements listed in Article 7(1) of Regulation (EC) No 525/2013/EU and Article 3 of this Regulation|
+|2. ‘Initial checks’ of Member State submissions|Commission (incl. DG ESTAT (Eurostat), DG JRC), assisted by European Environment Agency (EEA)|For the Member State submission from 15 January at the latest until 28 February|Initial checks and consistency checks (by EEA). Comparison of energy data provided by Member States in the CRF with Eurostat energy data (sectoral and reference approach) by Eurostat and EEA. Check of Member States' agriculture and land use, land-use change and forestry (LULUCF) inventories by JRC (in consultation with Member States). The findings of the initial checks will be documented.|
+|3. Compilation of draft Union inventory and inventory report (elements of the Union inventory report)|Commission (incl. Eurostat, JRC), assisted by EEA|Until 28 February|Draft Union inventory and inventory report (compilation of Member State information), based on Member State inventories and additional information where needed (as submitted on 15 January).|
+|4. Circulation of ‘initial check’ findings including notification of potential gap-filling|Commission assisted by EEA|28 February|Circulation of ‘initial check’ findings including notification of potential gap-filling and making available the findings|
+|5. Circulation of draft Union inventory and inventory report|Commission assisted by EEA|28 February|Circulation of the draft Union inventory on 28 February to Member States. Member States check data.|
+|6. Submission of updated or additional inventory data and complete national inventory reports by Member States|Member States|By 15 March|Updated or additional inventory data submitted by Member States (to remove inconsistencies or to fill gaps) and complete national inventory reports.|
+|7. Member State commenting on the draft Union inventory|Member States|By 15 March|If necessary, provide corrected data and comments to the draft Union inventory|
+|8. Member State responses to the ‘initial checks’|Member States|By 15 March|Member States respond to ‘initial checks’ if applicable.|
+|9. Circulation of follow-up initial check findings|Commission assisted by EEA|31 March|Circulation of follow-up initial check findings and making available the findings|
+
+L 203/59
+---
+# Element
+
+# Who
+
+# When
+
+# What
+
+|10. Estimates for data missing from a national inventory|Commission assisted by EEA|31 March|The Commission prepares estimates for missing data by 31 March of the reporting year and communicates these to the Member States.|
+|---|---|---|---|
+|12. Comments from Member States regarding the Commission estimates for missing data|Member States|7 April|Member States provide comments on the Commission estimates for missing data, for consideration by the Commission.|
+|13. Member States responses to follow-up ‘initial checks’|Member States|7 April|Member States provide responses to follow up of ‘initial checks’.|
+|13bis. Member States submissions to the UNFCCC|Member States|15 April|Submissions to the UNFCCC (with a copy to EEA)|
+|14. Final annual Union inventory (incl. Union inventory report)|Commission assisted by EEA|15 April|Submission to UNFCCC of the final annual Union inventory.|
+|15. Any resubmissions by Member States|Member States|By 8 May|Member States provide to the Commission the resubmissions which they submit to the UNFCCC secretariat. The Member States must clearly specify which parts have been revised in order to facilitate the use for the Union resubmission. Resubmissions should be avoided to the extent possible. As the Union resubmission also has to comply with the time-limits specified in the guidelines under Article 8 of the Kyoto Protocol, the Member States have to send their resubmission, if any, to the Commission earlier than the period foreseen in the guidelines under Article 8 of the Kyoto Protocol, provided that the resubmission corrects data or information that is used for the compilation of the Union inventory.|
+|16. Union inventory resubmission in response to Member States' resubmissions|Commission assisted by EEA|27 May|If necessary, resubmission to UNFCCC of the final annual Union inventory.|
+|17. Submission of any other resubmission after the initial check phase|Member States|When additional resubmissions occur|Member States provide to the Commission any other resubmission (CRF or national inventory report) which they provide to the UNFCCC secretariat after the initial check phase.|
+
+11.7.2014
+---
+# 11.7.2014
+
+# ANNEX X
+
+# Format for reporting greenhouse gas emissions covered by Decision 406/2009/EC
+
+|A| | | |X-2|
+|---|---|---|---|---|
+|B|Greenhouse gas emissions| | |kt CO2eq|
+|C|Total greenhouse gas emissions without LULUCF (1)| | | |
+| | | |D|Total verified emissions from stationary installations under Directive 2003/87/EC (2)|
+|E|CO2 emissions from 1.A.3.A civil aviation| | | |
+|F|Total ESD emissions (= C-D-E)| | | |
+
+(1) Total greenhouse gas emissions for the geographical scope of the Union and consistent with total greenhouse gas emissions without LULUCF as reported in CRF summary table 2 for the same year.
+
+(2) In accordance with the scope defined in Article 3h of Directive 2003/87/EC of activities listed in Annex I to that Directive other than aviation activities.
+
+Notation: x = reporting year
+
+EN
+
+Official Journal of the European Union
+
+L 203/61
+---
+# ANNEX X
+
+# PAM number
+
+# Reporting information on policies and measures pursuant to Article 22
+
+# Name of policy or measure
+
+|Sectors affected| | |Union policy|Projections|Entities responsible for implementing the policy|Indicators used to monitor and evaluate progress over time|Objective Values|Quantified objective|Start|Finish|Short description|Type of policy instrument|Union policy|Other|Status of implementation|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|(a) Member States must select from the following sectors: energy supply (comprising extraction, transmission, distribution and storage of fuels as well as energy and electricity production), energy consumption (comprising consumption of fuels and electricity by end users such as households, services, industry and agriculture), transport, industrial processes (comprising industrial activities that chemically or physically transform materials leading to greenhouse gas emissions, use of greenhouse gases in products and non-energy uses of fossil fuel carbon), agriculture, forestry/LULUCF, waste management/waste, cross-cutting, other sectors.|(b) Member States must select from the following GHGs (more than one GHG can be selected): carbon dioxide (CO2), methane (CH4), nitrous oxide (N2O), hydrofluorocarbons (HFC), perfluorocarbons (PFC), sulphur hexafluoride (SF6), nitrogen trifluoride (NF3).| |(c) Member States must select from the following objectives (more than one objective can be selected, additional objectives could be added and specified under ‘other’):|For energy supply — increase in renewable energy; switch to less carbon-intensive fuels; enhanced non-renewable low carbon generation (nuclear); reduction of losses; efficiency improvement in the energy and transformation sector; carbon capture and storage; control of fugitive emissions from energy production; other energy supply.|For energy consumption — efficiency improvements of buildings; efficiency improvement of appliances; efficiency improvement in services/tertiary sector, efficiency improvement in industrial end-use sectors, demand management/reduction; other energy consumption.|For transport — efficiency improvements of vehicles; modal shift to public transport or non-motorized transport; low carbon fuels/electric cars; demand management/reduction; improved behaviour; improved transport infrastructure; other transport.|For industrial processes — installation of abatement technologies; reduction of emissions of fluorinated gases; replacement of fluorinated gases by other substances; improved control of fugitive emissions from industrial processes; other industrial processes.|For waste management/waste — demand management/reduction; enhanced recycling; enhanced CH4 collection and use; improved treatment technologies; improved landfill management; waste incineration with energy use; improved wastewater management systems; reduced landfilling; other waste.|For agriculture — reduction of fertilizer/manure use on cropland; other activities improving cropland management, improved livestock management, improved animal waste management systems; activities improving grazing land or grassland management, improved management of organic soils; other agriculture.| | | | | | |
+
+Notes: Abbreviations: GHG = greenhouse gas; LULUCF = land use, land-use change and forestry.
+---
+For forestry/LULUCF — afforestation and reforestation; conservation of carbon in existing forests, enhancing production in existing forests, increasing the harvested wood products pool, enhanced forest management, prevention of deforestation, strengthening protection against natural disturbances, substitution of GHG intensive feedstocks and materials with harvested wood products; prevention of drainage or rewetting of wetlands, restoration of degraded lands, other LULUCF.
+
+Of policies and measures For cross-cutting – framework policy, multi-sectoral policy, other cross-cutting.
+
+For Other Member States must provide a brief description of the objective.
+
+(d) Member States must include the figure(s) if the objective(s) is(are) quantified.
+
+(e) Member States must indicate in the description if a policy or measure is envisaged with a view to limiting GHG emissions beyond Member State commitments under Decision No 4 06/2009/EC in accordance with Article 6(1)(d) of Decision No 406/2009/EC.
+
+(f) Member States must select from the following policy types: economic; fiscal; voluntary/negotiated agreements; regulatory; information; education; research; planning; other.
+
+(g) Union policy implemented through the national policy or where national policies are aimed directly at meeting objectives of Union policies. Member State should select a policy from a list provided in the electronic version of the tabular format.
+
+(h) Secondary Union policy: Member State must indicate any Union policy not listed in the previous column or an additional Union policy if the national policy or measure relates to several Union policies.
+
+(i) Member States must select from the following categories: planned; adopted; implemented; expired. Expired policies and measures must be reported in the template only if they have an effect, or they are expected to continue to have an effect, on greenhouse gas emissions.
+
+(j) Member States must enter the name/s of entities responsible for implementing the policy or measure under the relevant headings of: National government; Regional entities; Local government; Companies/businesses/industrial associations; Research institutions; Others not listed (more than one entity can be selected).
+
+(k) Member States must provide any indicator used and values for such indicators that they use to monitor and evaluate progress of policies and measures. Those values can be either ex-post or ex-ante values and Member States must specify the year for which the value applies.
+
+Official Journal of the European Union
+
+# Table 2: Available results of ex-ante and ex-post assessments of the effects of individual or groups of policies and measures on mitigation of climate change (a)
+
+|Policy impacting EU ETS or ESD emissions (both can be selected)|Ex-ante assessment| | |Ex-post assessment| | | | | | | | |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|GHG emissions reductions in t (kt CO2-equivalent per year)|GHG emissions reductions in t+5 (kt CO2-equivalent per year)|GHG emissions reductions in t+10 (kt CO2-equivalent per year)|GHG emissions reductions in t+15 (kt CO2-equivalent per year)| | | | | | | | | |
+|EU ETS|ESD|LULUCF|Total|EU ETS|ESD|Total|EU ETS|ESD|Total|EU ETS|ESD|Total|
+
+(a) — Member States are to include all the policies and measures or their groups of policies and measures for which such assessment is available.
+
+Notation: t signifies the first future year ending with 0 or 5 immediately following the reporting year.
+---
+# Table 3: Available projected and realised costs and benefits of individual or groups of policies and measures on mitigation of climate change
+
+|Policy or measure| | |Description of cost|Costs in EUR per tonne CO2eq reduced|Absolute costs per year in EUR (specify year)|Documenta tion/Source|Costs in EUR per tonne CO2eq reduced|Documenta tion/Source|Description of cost|
+|---|---|---|---|---|---|---|---|---|---|
+| | | |Projected costs and benefits| | | |Realised costs and benefits| | |
+| | |Note: Member States are to include all the policies and measures or their groups where such assessment is available.| | | | | | | |
+| |A benefit must be indicated in the template as a negative cost.| | | | | | | | |
+|If available, costs and benefits for the same PAM or group of PAMs should be entered in two separate rows, with the net-cost in a separate third row for the PAM or group of PAMs. If the costs reported is net-costs covering both positive costs and benefits (= negative costs) this should be indicated.| | | | | | | | | |
+
+# Questionnaire
+
+Information on the extent to which the Member State's action constitutes a significant element of the efforts undertaken at national level as well as the extent to which the projected use of joint implementation, of the clean development mechanism and of international emissions trading is supplemental to domestic action.
+
+# Questionnaire on the use of the Kyoto Protocol mechanisms in meeting the 2013-2020 targets
+
+1. Does your Member State intend to use joint implementation (JI), the clean development mechanism (CDM) and international emissions trading (IET) under the Kyoto Protocol (the Kyoto mechanisms) to meet its quantified limitation or reduction commitment pursuant to the Kyoto Protocol? If so, what progress has been made with the implementing provisions (operational programmes, institutional decisions) and any related domestic legislation?
+2. What quantitative contributions to the fulfilment of the quantified emission limitation or reduction commitment pursuant to Article X of Decision Y (Ratification decision) and the Kyoto Protocol does your Member State expect from the Kyoto mechanisms during the second quantified emission limitation and reduction commitment period, from 2013 to 2020? (Please use the table)
+3. Specify the budget in euro for the total use of the Kyoto mechanisms and, where possible, per mechanism and initiative, programme or fund, including the time over which the budget will be spent.
+4. With which countries has your Member State closed bilateral or multilateral agreements, or agreed memorandums of understanding or contracts for the implementation of project based activities?
+
+11.7.2014
+---
+# 5. For each planned, ongoing and completed clean development mechanism and joint implementation project activity in which your Member State participates, provide the following information:
+
+(a) Project title and category (JI/CDM)
+
+(b) Host country
+
+(c) Financing: give a brief description of any financial involvement of the government and the private sector, using categories such as ‘private’, ‘public’, ‘public-private partnership’.
+
+(d) Project type: use a short description, for example:
+
+- Energy and power: Fuel-switching, renewable energy generation, improving energy efficiency, reduction of fugitive emissions from fuels, other (please specify)
+- Industrial processes: Material substitution, process or equipment change, waste treatment, recovery or recycling, other (please specify)
+- Land use, land-use change and forestry: Afforestation, reforestation, forest management, cropland management, grazing land management, revegetation
+- Transport: Fuel-switching, improving fuel efficiency, other (please specify)
+- Agriculture: Manure management, other (please specify)
+- Waste: Solid-waste management, landfill methane recovery, waste-water management, other (please specify)
+- Other: Please provide a short description of the other project type
+
+(e) Status: use the following categories:
+
+- — Proposed,
+- — approved (approval of governments involved and feasibility studies completed),
+- — under construction (start-up or construction phase),
+- — in operation,
+- — completed,
+- — suspended.
+
+(f) Lifetime: provide the following information:
+
+- — date of official approval (e.g. of the Executive Board for clean development mechanism projects, of the host country for joint implementation projects),
+- — date of project initiation (operation starts),
+- — expected date of project termination (lifetime),
+- — crediting period (for what years will ERUs or CERs be generated),
+- — date(s) of issue of emission reduction units (ERUs) (by host country) or certified emission reductions (CERs) (by CDM executive board).
+---
+# Current Page Content
+
+(g) First or second track approval procedure (For joint implementation projects only).
+
+(h) Projected total and annual emissions reductions that accrue until the end of the second commitment period.
+
+(i) Amount of ERUs or CERS generated by the project that will be acquired by the Member State.
+
+(j) Credits accrued until the end of reporting year: provide information on the number of credits (total and annual) obtained from joint implementation projects, clean development projects and credits resulting from land use, land use change and forestry activities.
+
+| |Type of unit|Commitment period|Average annual projected quantity|Quantity used (Units acquired and retired)| |
+|---|---|---|---|---|---|
+|Assigned amount units (AAUs)|Certified emission reductions (CERs)|Emission reduction units (ERUs)| | | |
+|Long-term certified emission reductions (lCERs)| | | | | |
+|Temporary certified emission reductions (tCERs)| | | | | |
+|Removal units (RMU)| | | | | |
+
+Note: X is the reporting year.
+
+Official Journal of the European Union
+
+11.7.2014
+---
+# 11.7.2014
+
+# ANNEX XII
+
+# Reporting on projections pursuant Article 23
+
+|Category (1) ()3| | | | |Total GHG emissions (kt CO2 -eq)| |ETS emissions (kt CO-eq)| | |ESD emissions (kt CO2-eq)| |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|For each Greenhouse gas (group of gases) pursuant to Annex I to Regulation (EC) No 525/2013/EU| | | |projec|projec|projec| | | | | |
+| |tion|t-5|t|t+5|t+10|t+15| | | | | |
+|base year|base|base|base|base|base| | | | | | |
+|Total excluding LULUCF| | | | | | | | | | | |
+|Total including LULUCF| | | | | | | | | | | |
+|1. Energy| | | | | | | | | | | |
+|A. Fuel combustion| | | | | | | | | | | |
+|1. Energy industries| | | | | | | | | | | |
+|a. Public electricity and heat production| | | | | | | | | | | |
+|b. Petroleum refining| | | | | | | | | | | |
+|c. Manufacture of solid fuels and other energy industries| | | | | | | | | | | |
+|2. Manufacturing industries and construction| | | | | | | | | | | |
+|3. Transport| | | | | | | | | | | |
+|a. Domestic aviation| | | | | | | | | | | |
+|b. Road transportation| | | | | | | | | | | |
+
+Official Journal of the European Union L 203/67
+---
+# Official Journal of the European Union
+
+# 1. Transportation
+
+# a. Railways
+
+# b. Domestic navigation
+
+# c. Other transportation
+
+# 4. Other sectors
+
+# a. Commercial/Institutional
+
+# b. Residential
+
+# c. Agriculture/Forestry/Fishing
+
+# 5. Other
+
+# B. Fugitive emissions from fuels
+
+# 1. Solid fuels
+
+# 2. Oil and natural gas and other emissions from energy production
+
+# C. CO2 transport and storage
+
+# 2. Industrial processes
+
+# A. Mineral Industry
+
+# of which cement production
+
+# B. Chemical industry
+
+# C. Metal industry
+
+# of which Iron and steel production
+
+# D. Non-energy products from fuels and solvent use
+
+11.7.2014
+---
+# 11.7.2014
+
+# E. Electronics industry
+
+# F. Product uses as substitutes for ODS (2)
+
+# G. Other product manufacture and use
+
+# H. Other
+
+# 3. Agriculture
+
+# A. Enteric fermentation
+
+# B. Manure management
+
+# C. Rice cultivation
+
+# D. Agricultural soils
+
+# E. Prescribed burning of savannahs
+
+# F. Field burning of agricultural residues
+
+# G. Liming
+
+# H. Urea application
+
+# I. Other carbon-containing fertilizers
+
+# J. Other (please specify)
+
+# 4. Land Use, Land-Use Change and Forestry
+
+# A. Forest land
+
+# B. Cropland
+
+Official Journal of the European Union L 203/69
+---
+# 5. Waste
+
+- A. Solid Waste Disposal
+- B. Biological treatment of solid waste
+- C. Incineration and open burning of waste
+- D. Wastewater treatment and discharge
+- E. Other (please specify)
+
+# Memo items
+
+- International bunkers
+
+CO2 emissions from biomass 11.7.2014
+
+CO2 captured
+---
+# 11.7.2014
+
+# Long-term storage of C in waste disposal sites
+
+# Indirect N2O
+
+# International aviation in the EU ETS
+
+Notation: t signifies the first future year ending with 0 or 5 immediately following the reporting year
+
+1. IPCC categories pursuant to 2006 IPCC Guidelines for National Greenhouse Gas inventories and revised UNFCCC CRF tables for inventory reporting
+2. ODS — ozone-depleting substances.
+3. Use of notation keys: as regards the terms of use defined in the 2006 IPCC Guidelines for National Greenhouse Gas Inventories (chapter 8: reporting guidance and tables), the notation keys of IE (included elsewhere), NO (not occurring), C (confidential) and NA (not applicable) may be used, as appropriate when projections do not yield data on a specific reporting level (see 2006 IPCC Guidelines). The use of the notation key NE (Not Estimated) is restricted to the situation where a disproportionate amount of effort would be required to collect data for a category or a gas from a specific category that would be insignificant in terms of the overall level and trend in national emissions. In these circumstances a Member State should list all categories and gases from categories excluded on these grounds, together with a justification for exclusion in terms of the likely level of emissions or removals and identify the category as ‘not estimated’ using the notation key ‘NE’ in the reporting tables.
+
+# Official Journal of the European Union
+
+# Table 2: Indicators to monitor and evaluate projected progress of policies and measures
+
+|Indicator (1)/numerator/denominator|Unit|Guidance/definition (1)|Guidance/source|Base year|t|t+5|t+10|t+15|Base year|t|t+5|t+10|t+15|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| | | | |With existing measures| | | | | |With additional measures| | | |
+
+Notation: t signifies the first future year ending with 0 or 5 immediately following the reporting year
+
+(1) Please add a row per indicator used in the projections
+
+L 203/71
+---
+# Table 3: Reporting on parameters for projections used
+
+|Year|Values|Sectoral projections for which the parameter is used (2)|
+|---|---|---|
+|Additional unit information|Year of publication of data source|International Aviation in the EU ETS|
+|Parameter used (4) (‘with existing measures’ scenario)|Base|Default unit|
+|Reference year|t-5|t|
+|t+|t+|t+|
+|General parameters| | |
+|Population|Count| |
+|Gross domestic product (GDP)|Real growth rate|%|
+|Constant prices|EUR|million|
+|Gross value added (GVA) total industry|EUR|million|
+|Exchange rates EURO (for non-EURO countries), if applicable|EUR/|currency|
+|Exchange rates US DOLLAR, if applicable|USD/|currency|
+
+Official Journal of the European Union
+
+11.7.2014
+---
+# 11.7.2014
+
+# EU ETS carbon price
+
+EUR/
+EUA
+EUR t-10
+
+# International Electricity fuel import prices
+
+|Coal|EUR/GJ|Yes|EUR t-10|
+|---|---|---|---|
+|Crude Oil|EUR/GJ| |EUR t-10|
+|Natural gas|EUR/GJ| |EUR t-10|
+
+# Energy parameters
+
+# Official Journal of the European Union
+
+# National retail fuel prices (with taxes included)
+
+|Coal, industry|EUR/GJ| |EUR t-10|
+|---|---|---|---|
+|Coal, households|EUR/GJ| |EUR t-10|
+|Heating oil, industry|EUR/GJ| |EUR t-10|
+|Heating oil, households|EUR/GJ| |EUR t-10|
+|Transport, gasoline|EUR/GJ|Yes|EUR t-10|
+|Transport, diesel|EUR/GJ|Yes|EUR t-10|
+|Natural gas, industry|EUR/GJ| |EUR t-10|
+|Natural gas, households|EUR/GJ| |EUR t-10|
+---
+# National retail electricity prices (with taxes included)
+
+|Industry|EUR/kWh|EUR t-10|
+|---|---|---|
+|Households|EUR/kWh|EUR t-10|
+
+# Gross inland consumption (primary energy)
+
+|Coal|GJ|
+|---|---|
+|Oil|GJ|
+|Natural gas|GJ|
+|Renewables|GJ|
+|Nuclear|GJ|
+|Other|GJ|
+|Total|GJ|
+
+# Gross electricity production
+
+|Coal|TWh|
+|---|---|
+|Oil|TWh|
+|Natural gas|TWh|
+|Renewables|TWh|
+|Nuclear|TWh|
+|Other|TWh|
+|Total|TWh|
+
+# Total net electricity imports
+
+Total net electricity imports
+TWh
+
+Official Journal of the European Union
+
+11.7.2014
+---
+# 11.7.2014
+
+# Gross final energy consumption
+
+|Final energy consumption|Industry|Transport|Residential|Agriculture/Forestry|Services|Other|Total|
+|---|---|---|---|---|---|---|---|
+|GJ|GJ|GJ|GJ|GJ|GJ|GJ|GJ|
+
+# Number of heating degree days
+
+Count (HDD)
+
+# Number of cooling degree days
+
+Count (CDD)
+
+# Transport parameters
+
+|Number of passenger-kilometres|Freight transport tonnes-kilo|
+|---|---|
+|million pkm|million tkm|
+
+# Final energy demand for road transport
+
+GJ
+
+Official Journal of the European Union
+
+L 203/75
+---
+# Buildings parameters
+
+|Number of households|Count|
+|---|---|
+|Household size|inhabi|
+| |tants/|
+| |House|
+
+# Agriculture parameters
+
+|Livestock|Dairy cattle|Non-dairy cattle|Sheep|Pig|Poultry|
+|---|---|---|---|---|---|
+|1000 heads|1000 heads|1000 heads|1000 heads|1000 heads| |
+
+# Nitrogen input from application
+
+|Source|Amount|Unit|
+|---|---|---|
+|of synthetic fertilizers|kt|nitrogen|
+|of manure|kt|nitrogen|
+|N-fixing crops|kt|nitrogen|
+|Nitrogen in crop residues returned to soils|kt|nitrogen|
+---
+# 11.7.2014
+
+# Area of cultivated organic soils
+
+Ha (hectares)
+
+# Waste parameters
+
+|Municipal solid waste (MSW) generation|tonne|EN|
+|---|---|---|
+|Municipal solid waste (MSW) going to landfills|tonne|MSW|
+|Share of CH4 recovery in total CH4 generation from landfills|%| |
+
+# Other parameters
+
+Official Journal of the European Union
+
+Add rows for other relevant parameters (1)
+
+- (1) Please add a row per parameter used in the projections. Note that this includes the term ‘variables’ because some of the parameters listed can be variables for certain projection tools used, depending on the models used.
+- (2) To be filled with Yes/No
+- (3) Please specify additional different values for parameters used in different sector models
+- (4) Use of notation keys: the notation keys of IE (included elsewhere), NO (not occurring), C (confidential), NA (not applicable), and NE (Not estimated/Not used) may be used, as appropriate. The use of the notation key NE (Not estimated) is for cases where the suggested parameter is neither used as a driver nor reported along with the Member States Projections. Notation: t signifies the first future year ending with 0 or 5 immediately following the reporting year.
+
+# Table 4: Model Factsheet
+
+|Model name| |
+|---|---|
+|Full model name| |
+|Model version and status| |
+|Latest date of revision| |
+|URL to model description| |
+|Model type| |
+---
+# Model description
+
+# Summary
+
+# Intended field of application
+
+# Description of main input data categories and data sources
+
+# Validation and evaluation
+
+# Output quantities
+
+# GHG covered
+
+# Sectoral coverage
+
+# Official Journal of the European Union
+
+# Geographical coverage
+
+# Temporal coverage (e.g. time steps, time span)
+
+# Interface with other models
+
+# Input from other models
+
+# Model structure (if diagram please add to the template)
+
+Member States may reproduce this table to allow them to report details of individual sub-models which have been used to create GHG projections
+
+11.7.2014
+---
+# 11.7.2014
+
+# ANNEX XIII
+
+# Reporting on the use of auctioning revenues pursuant to Article 24
+
+|Table 1 Revenues generated from auctioning of allowances in year X-1|Table 1 Revenues generated from auctioning of allowances in year X-1|Table 1 Revenues generated from auctioning of allowances in year X-1|
+|---|
+|EN|Amount for the year X-1|1 000 Euros|
+| |1 000 in domestic currency, if applicable (1)| |
+|A|B|C|
+|Total amount of revenues generated from auctioning of allowances|Sum of B5+B6|Sum of C5+C6|
+|Of which amount of revenues generated from auctioning of allowances pursuant to Article 10 of Directive 2003/87/EC| | |
+|Of which amount of revenues generated from auctioning of allowances pursuant to Article 3d(1) or (2) of Directive 2003/87/EC| | |
+|Total amount of revenues from auctioning of allowances or equivalent financial value used for the purposes specified in paragraph 3 of Article 10, and Article 3d(4) of Directive 2003/87/EC| | |
+|Of which amount of revenues from auctioning of allowances used for the purposes specified in Article 10(3) of Directive 2003/87/EC (if data are available for separate reporting)| | |
+|Of which amount of revenues from auctioning of allowances used for the purposes specified in Article 3d(4) of Directive 2003/87/EC (if data are available for separate reporting)| | |
+|Total amount of auctioning revenues generated or the equivalent in financial value committed in years before X-1 generated and not disbursed in the years before the year X-1 and carried-over for disbursement in the year X-1| | |
+
+Notes:
+
+(1) An average annual exchange rate for the year X-1 or the real exchange rate applied to the amount disbursed is to be used for the currency conversion.
+
+x: reporting year
+---
+# Table 2 Use of revenues from auctioning of allowances for domestic and Union purposes pursuant to Article 3d and 10 of Directive 2003/87/EC
+
+|Purpose for which revenues were used|Short description (including reference to online source of more detailed description, if available)|Amount for the year X-1 (1 000 Euros)|Status (2) [Revenues pursuant to5) tick relevant column]|Type of use (3)|Financial instrument (4)|Implementing Agency|
+|---|---|---|---|---|---|---|
+|A|B|C|D|E|F|G|
+|H|I|J| | | | |
+
+# Total amount of revenues or equivalent financial value used
+
+Sum of column C
+
+Sum of column D
+
+# Notation: x = reporting year
+
+# Notes:
+
+(2) 1) An average annual exchange rate for the year X-1 or the real exchange rate applied to the amount disbursed is to be used for the currency conversion. Member States are to provide the definitions used for ‘commitment’ and ‘disbursement’ as part of their report. If part of the reported amount is committed and another part disbursed related to a specific programme/project, two separate rows should be used. If Member States are not able to distinguish between committed and disbursed amounts, the appropriate category should be selected for the reported amounts. Consistent definitions should be used across the tables.
+
+(3) Categories mentioned in Article 3d(4) and Article 10(3) of Directive 2003/87/EC as follows:
+
+- funding of research and development and demonstration projects for reducing emissions and for adaptation;
+- funding of initiatives within the framework of the European Strategic Energy Technology Plan and the European Technology Platforms;
+- development of renewable energies to meet the commitment of the Union to using 20 % renewable energies by 2020;
+- development of other technologies contributing to the transition to a safe and sustainable low-carbon economy;
+- development of technologies that help meet the commitment of the Union to increase energy efficiency by 20 % by 2020;
+- forestry sequestration in the Union;
+- environmentally safe capture and geological storage of CO2;
+- encouragement of a shift to low-emission and public forms of transport;
+
+11.7.2014
+---
+— finance research and development in energy efficiency and clean technologies; 11.7.2014
+
+— measures intended to increase energy efficiency and insulation or to provide financial support in order to address social aspects in lower and middle income households;
+
+— Coverage of administrative expenses of the management of the ETS scheme;
+
+— other reduction of greenhouse gas emissions;
+
+— adaptation to the impacts of climate change,
+
+— other domestic uses.
+
+Member States are to avoid double counting of amounts in this table. If a specific use fits to several types of uses several types can be selected however the amount indicated is not to be multiplied but additional rows for types of uses are to be linked with one entry field for that amount.
+
+(4) Several categories can be selected if several financial instruments are relevant for the reported programme or project.
+
+(5) information in this column is to be provided unless reporting is based on the equivalent in financial value of those revenues
+
+# Table 3: Use of revenues from auctioning of allowances for international purposes
+
+|1|Amount committed in the year X-1 (2)| |Amount disbursed in the year X-1 (2)|Official Journal of the European Union| |
+|---|---|---|---|---|---|
+|2|USE OF REVENUES FROM AUCTIONING OF ALLOWANCES|1 000 Euros|1 000 Domestic|1 000 Euros|1 000 Domestic|
+|3|OR THE EQUIVALENT IN FINANCIAL VALUE FOR|INTER|currency, if applicable (1)|currency, if applicable (1)| |
+| | | | |4|Total amount used as specified under Articles 10(3) and Article 3d(4) of Directive 2003/87/EC for supporting third countries other than developing countries|
+|5|Total amount used as specified under Articles 10(3) and Article 3d(4) of Directive 2003/87/EC for supporting developing countries| | | | |
+
+Notation: x = reporting year
+
+Notes:
+
+((2) 1) An average annual exchange rate for the year X-1 or the real exchange rate applied to the amount disbursed is to be used for the currency conversion. Member States are to provide the definitions used for ‘commitment’ and ‘disbursement’ as part of their report. If part of the reported amount is committed and another part disbursed related to a specific programme/project, two separate rows should be used. If Member States are not able to distinguish between committed and disbursed amounts, the appropriate category should be selected for the reported amounts. Consistent definitions should be used across the tables.
+
+(3) Member States are to avoid double counting of amounts in this table. If a specific use fits into several rows, the most appropriate one is to be chosen and the respective amount must be only entered once. Accompanying textual information could further explain such allocation decisions, if necessary.
+---
+# Table 4: Use of revenues from auctioning of allowances to support developing countries through multilateral channels pursuant to Article 3d and 10 of Directive 2003/87/EC (5) ()8
+
+|Amount for the year X-1|Status (1)|Type of support (7)|Financial instrument (6)|Sector (2)|
+|---|---|---|---|---|
+|1 000 Euros|Domestic4)|to be selected: mitigation, adaptation, cross-cutting, other, information not available|to be selected: grant, concessional loan, non-concessional loan, equity, other, information not available|to be selected: energy, transport, industry, agriculture, forestry, water and sanitation, cross-cutting, other|
+|Total amount for supporting developing countries through multilateral channels|Total amount for supporting developing countries through multilateral channels|Total amount for supporting developing countries through multilateral channels|Total amount for supporting developing countries through multilateral channels|Total amount for supporting developing countries through multilateral channels|
+|of which used, if applicable, via multilateral funds|of which used, if applicable, via multilateral funds|of which used, if applicable, via multilateral funds|of which used, if applicable, via multilateral funds|of which used, if applicable, via multilateral funds|
+|Global Energy Efficiency and Renewable Energy Fund (GEEREF) (Article 10(3)(a) of Directive 2003/87/EC)|Global Energy Efficiency and Renewable Energy Fund (GEEREF) (Article 10(3)(a) of Directive 2003/87/EC)|Global Energy Efficiency and Renewable Energy Fund (GEEREF) (Article 10(3)(a) of Directive 2003/87/EC)|Global Energy Efficiency and Renewable Energy Fund (GEEREF) (Article 10(3)(a) of Directive 2003/87/EC)|Global Energy Efficiency and Renewable Energy Fund (GEEREF) (Article 10(3)(a) of Directive 2003/87/EC)|
+|Adaptation Fund under the UNFCCC (Article 10, paragraph 3(a) of Directive 2003/87/EC)|Adaptation Fund under the UNFCCC (Article 10, paragraph 3(a) of Directive 2003/87/EC)|Adaptation Fund under the UNFCCC (Article 10, paragraph 3(a) of Directive 2003/87/EC)|Adaptation Fund under the UNFCCC (Article 10, paragraph 3(a) of Directive 2003/87/EC)|Adaptation Fund under the UNFCCC (Article 10, paragraph 3(a) of Directive 2003/87/EC)|
+|Special Climate Change FUND (SCCF) under the UNFCCC|Special Climate Change FUND (SCCF) under the UNFCCC|Special Climate Change FUND (SCCF) under the UNFCCC|Special Climate Change FUND (SCCF) under the UNFCCC|Special Climate Change FUND (SCCF) under the UNFCCC|
+|Green Climate Fund under the UNFCCC|Green Climate Fund under the UNFCCC|Green Climate Fund under the UNFCCC|Green Climate Fund under the UNFCCC|Green Climate Fund under the UNFCCC|
+|Least Developed Countries Fund|Least Developed Countries Fund|Least Developed Countries Fund|Least Developed Countries Fund|Least Developed Countries Fund|
+|UNFCCC Trust Fund for Supplementary Activities|UNFCCC Trust Fund for Supplementary Activities|UNFCCC Trust Fund for Supplementary Activities|UNFCCC Trust Fund for Supplementary Activities|UNFCCC Trust Fund for Supplementary Activities|
+|For multilateral support to REDD+ activities|For multilateral support to REDD+ activities|For multilateral support to REDD+ activities|For multilateral support to REDD+ activities|For multilateral support to REDD+ activities|
+|Other multilateral climate-related funds (please specify)|Other multilateral climate-related funds (please specify)|Other multilateral climate-related funds (please specify)|Other multilateral climate-related funds (please specify)|Other multilateral climate-related funds (please specify)|
+
+Official Journal of the European Union
+
+11.7.2014
+---
+# 11.7.2014
+
+# 13
+
+of which used, if applicable, via multilateral financial institutions
+
+# 14
+
+Global Environmental Facility
+
+# 15
+
+World Bank (3)
+
+# 16
+
+International Finance Corporation (3)
+
+# 17
+
+African Development Bank (3)
+
+# 18
+
+European Bank for Reconstruction and Development (3)
+
+# 19
+
+Inter-American Development Bank (3)
+
+# 20
+
+Other multilateral financial institutions or support programmes, please specify (3)
+
+# Notation:
+
+x = reporting year
+
+# Notes:
+
+1. Information on the status is to be provided where available at disaggregate level. Member States should provide the definitions used for ‘commitment' and ‘disbursement’ as part of their report. If Member States are not able to distinguish between committed and disbursed amounts, the appropriate category should be selected for the reported amounts.
+2. Several applicable sectors can be selected. Member States may report sectoral distribution if such information is available. ‘Information not available’ can only be selected if there is absolutely no information available for the respective row.
+3. Only financial support provided which is climate-specific as e.g. indicated by CDC DAC indicators should be entered in this table.
+4. An average annual exchange rate for the year X-1 or the real exchange rate applied to the amount disbursed is to be used for the currency conversion.
+5. Member States are to avoid double counting of amounts in this table. If a specific use fits into several rows, the most appropriate one is to be chosen and the respective amount shall be only entered once. Accompanying textual information could further explain such allocation decisions, if necessary.
+6. The appropriate financial instrument is to be chosen. Several categories can be selected if several financial instruments are relevant for the respective row. Mostly grants are provided to multilateral institutions and other categories may not frequently be applicable. However more categories are used to achieve consistency with reporting requirements for biennial reports under the UNFCCC. ‘Information not available’ can only be selected if there is absolutely no information available for the respective row.
+7. To be reported if such information is available for multilateral fund or banks. ‘Information not available’ can only be selected if there is absolutely no information available for the respective row.
+8. The notation key ‘information not available’ may be used if there is absolutely no information available for the respective cells.
+
+L 203/83
+---
+# Table 5: Use of revenues from auctioning of allowances pursuant to Article 3d and 10 of Directive 2003/87/EC for bilateral or regional support to developing countries
+
+|Programme/ project title|Recipient country/region|Amount for the year X-1|Status|Type of support|Sector|Financial instrument|Implementing Agency|
+|---|---|---|---|---|---|---|---|
+| | |1 000 Euros|Domestic currency|to be selected:|to be selected:|Mitigation, Adaptation, REDD+, Cross-cutting, Other|to be selected:|
+| | | |Committed/ disbursed| |energy, transport, industry, agriculture, forestry, water and sanitation, cross-cutting, other|grant, concessional loan, non-concessional loan, equity, direct project investments, investment funds, fiscal support policies, financial support policies, other, information not available| |
+
+# Notation:
+
+x = reporting year
+
+# Notes:
+
+1. Information on the status shall be provided at least in Table 3, and should be provided in this table, where available at disaggregate level. If Member States are not able to distinguish between committed and disbursed amounts, the appropriate category should be selected for the reported amounts.
+2. Several applicable sectors can be selected. Member States may report sectoral distribution if such information is available. ‘Information not available’ can only be selected if there is absolutely no information available for the respective row.
+3. Only financial support provided which is climate-specific as e.g. indicated by OECD DAC indicators should be entered in this table.
+4. An average annual exchange rate for the year X-1 or the real exchange rate applied to the amount disbursed is to be used for the currency conversion.
+5. Member States are to avoid double counting of amounts in this table. If a specific use would fit into several rows, the most appropriate one should be chosen and the respective amount must be only entered once. Accompanying textual information could further explain such allocation decisions, if necessary.
+6. The appropriate financial instrument is to be chosen. Several categories can be selected if several financial instruments are relevant for the respective row. ‘Information not available’ can only be selected if there is absolutely no information available for the respective row.
+7. The notation key ‘information not available’ may be used if there is absolutely no information available for the respective cells.
+
+Official Journal of the European Union
+
+11.7.2014
+---
+# 11.7.2014
+
+# ANNEX XIV
+
+# Reporting on the project credits used for compliance with Decision No 406/2009/EC pursuant to Article 25 of this Regulation
+
+|Reporting Member State|Units transferred to the Effort Sharing Decision Compliance Account in year X-1|Justification/explanation of qualitative criteria applied to credits| | | | | |
+|---|---|---|---|---|---|---|---|
+|Type of information|Country of origin|ERUs|CERs|lCERs|tCERS|Other units (1)|G|
+|Total use of project credits in tonnes (= total amount of units transferred to the ESD Compliance Account)| | | | | | | |
+|Geographical distribution: countries of origin of the emission reductions|one row per country should be generated; the corresponding units should be entered in the columns.| | | | | | |
+|Of which are credits from project types pursuant to Article 5(1)(a) of Decision No 406/2009/EC| | | | | | | |
+|Of which are credits from project types pursuant to Article 5(1)(b) of Decision No 406/2009/EC| | | | | | | |
+|Of which are credits from project types pursuant to Article 5(1)(c) and 5(5) of Decision No 406/2009/EC| | | | | | | |
+|Of which are credits from project types pursuant to Article 5(1)(d) of Decision No 406/2009/EC| | | | | | | |
+|Of which are credits from project types pursuant to Article 5(2) and (3) of Decision No 406/2009/EC| | | | | | | |
+|Of which are credits from project types that cannot be used by operators in the EU ETS (3)| | | | | | | |
+
+# Notes:
+
+1. Units used pursuant to Article 5(2) and (3) of Decision No 406/2009/EC.
+2. Member States shall include the qualitative criteria applied to credits used in accordance with Article 5 of Decision No 406/2009/EC.
+3. Where credits from project types that cannot be used by operators in the EU ETS are reported, a detailed justification of the use of such credits must be provided in column G.
+
+Notation: x signifies the reporting year
+
+Official Journal of the European Union L 203/85
+---
+# ANNEX XV
+
+# Reporting on summary information on concluded transfers pursuant to Article 26
+
+# Information on concluded transfers for the year X-1
+
+|Number of transfers|Transfer 1 (1)|
+|---|---|
+|Quantity of Annual Emission Allocation units (AEAs)| |
+|Transferring Member State| |
+|Acquiring Member State| |
+|Price per AEA| |
+|Date of the transfer agreement| |
+|Year of the expected transaction in the registry| |
+|Other information (such as greening schemes)| |
+
+Note:
+
+(1) Replicate for the number of transfers that occurred in the year X-1
+
+X signifies the reporting year
+
+EN
+
+Official Journal of the European Union
+
+11.7.2014
+---
+# 11.7.2014
+
+# ANNEX XVI
+
+# Table 1: Schedule for the comprehensive review to determine Member State's Annual emissions allocations pursuant to the fourth subparagraph of Article 3(2) of Decision No 406/2009/EC
+
+|Activity|Task description|Time|
+|---|---|---|
+|First step review|The Secretariat implements the checks to verify the transparency, accuracy, consistency, completeness and comparability of Member States inventories pursuant to Article 29 of this Regulation.|15 January — 15 March|
+|Preparation of review material for the technical experts review team (TERT)|The Secretariat prepares and compiles material for TERT.|15 March — 30 April|
+|Desk-based review|TERT performs checks pursuant to Article 32 of this Regulation, prepares initial questions based on 15 April submissions including consideration of any re-submitted data to the UNFCCC. Secretariat to communicate questions to Member States.|1 May — 21 May|
+|Time-limit for the responses of the Member States to the initial questions|Member States respond to questions — two week period for responses.|21 May — 4 June|
+|Centralised meetings of expert reviewers|TERT meets to discuss responses from Member States, identify cross-cutting issues, ensure consistency of findings across Member States, agree upon recommendations etc. Additional questions are identified and communicated by the Secretariat to Member States during this period.|5 June — 29 June|
+|Time-limit for the responses of the Member State responses to the additional questions|Member States respond to questions.|By 6 July|
+|Preparation of draft review reports, including possible further questions to Member States|The TERT compiles draft review reports, including unresolved questions to Member States, draft recommendations concerning possible inventory improvements for consideration by Member States, and, where applicable, details of and justification for potential technical corrections. The Secretariat communicates the reports to Member States.|29 June — 13 July|
+|Time-limit for the comments of the Member State on draft review report|Member States comment on draft reports, respond to unresolved questions and, where relevant, agree or disagree with the TERT's recommendations.|13 July — 3 August|
+|Time-limit for finalisation of review reports|Informal communication with Member States to follow up any outstanding issues. The TERT finalises the reports, which are reviewed and edited by the Secretariat.|By 17 August|
+|Final Review Reports|Secretariat communicates the final review reports to the Commission.|By 17 August|
+---
+# Table 2: Schedule for the comprehensive reviews pursuant to Article 19(1) of Regulation (EC) No 525/2013/EC
+
+|Activity|Task description|Timing|
+|---|---|---|
+|First step review and communication of its results to Member States|The Secretariat implements the checks to verify the transparency, accuracy, consistency, completeness and comparability of Member States inventories pursuant to Article 29 of this Regulation based on submissions and sends the first step review results to Member States.|15 January — 28 February|
+|Response to the first step review results|Member States provide their response to the Secretariat on the first step review results.|By 15 March|
+|Follow-up on the first step review result and communication of the follow-up results to Member States|The Secretariat evaluates Member States' responses to the first step review results and sends the evaluation results and other outstanding issues to Member States.|15 March — 31 March|
+|Response to the follow-up results|Member States provide their comments to the Secretariat on the follow-up results and other outstanding issues.|By 7 April|
+|Preparation of review material for the TERT|The Secretariat prepares material for the comprehensive review based on submissions of the Member States.|15 April — 25 April|
+|Desk based review|The TERT performs checks pursuant to Article 32 of this Regulation, compiles initial questions to Member States based on 15th April submissions.|25 April — 13 May|
+|Communication of initial questions|The Secretariat sends initial questions to Member States.|By 13 May|
+|Response|Member States respond to initial questions to the Secretariat.|13 May — 27 May|
+|Centralised expert meetings|The TERT meets to discuss responses from Member States, identify cross-cutting issues, ensure consistency of findings across Member States, agree upon recommendations, prepare draft technical corrections, etc. Additional questions are identified and communicated to Member States during this period.|28 May — 7 June|
+|Response|Member States provide answers to questions and potential cases of technical corrections during the centralised review to the Secretariat.|28 May — 7 June|
+|Communication of technical corrections|The Secretariat sends draft technical corrections to Member States.|By 8 June|
+|Response|Member States respond to draft technical corrections to the Secretariat.|By 22 June|
+---
+# 11.7.2014
+
+# Activity
+
+|Task description|Timing|
+|---|---|
+|Compilation of draft review reports|8–29 June|
+|The TERT compiles draft review reports, including any unresolved questions and draft recommendations and, where applicable, details and justification for draft technical corrections.| |
+|Potential in-country visit|29 June — 9 August|
+|In exceptional cases, where significant quality issues continue to exist in the inventories reported by Member States or the TERT is unable to resolve questions, an ad-hoc country visit may be undertaken.| |
+|Draft review reports|By 29 June|
+|The Secretariat sends draft review reports to Member States| |
+|Comments|By 9 August|
+|Member States provide comments on the draft review reports to the Secretariat including any comments they wish to include in the final review report.| |
+|Finalisation of review reports|9 August — 23 August|
+|The TERT finalises the review reports. Informal communication with Member States to follow up any outstanding issues if needed. The Secretariat checks the review reports.| |
+|Submission of Final Review Reports|By 30 August|
+|Secretariat communicates the final review reports to the Commission and to Member States.| |
+
+# Table 3: Schedule for the annual review pursuant to Article 19(2) of Regulation No (EU) 525/20013
+
+# Activity
+
+|Task description|Time|
+|---|---|
+|First step of the annual review|15 January — 28 February|
+|The Secretariat implements the checks to verify the transparency, accuracy, consistency, completeness and comparability of Member States inventories pursuant to Article 29 of this Regulation based on 15 January submissions and sends the first step review results and potential significant issues to Member States.| |
+|Response to the first step review results|By 15 March|
+|Member States provide their response to the Secretariat on the first step review results and potential cases of significant issues.| |
+|Follow-up on the first step review results and communication of the follow-up results to Member States|15 March — 31 March|
+|The Secretariat evaluates Member States' responses to the first step review results and identifies significant issues which could potentially trigger the second step of the annual review and sends the evaluation results and a list of potential significant issues to Member States.| |
+|Response to the follow-up results|By 7 April|
+|Member States provide their comments to the Secretariat on potential cases of significant issues.| |
+---
+# Activity
+
+|Task description|Time|
+|---|---|
+|Review of Member States responses|7 April — 20 April|
+|The TERT assesses Member States' responses and identifies the Member States that are potentially subject to the Second step of the annual review. Member States with no potential significant issues are notified that they are not subject to the second step of the annual review pursuant to Article 35.| |
+|Unresolved significant issues|By 20 April|
+|The Secretariat sends an interim review report with all unresolved significant issues from the first step checks to Member States subject to the second step of the annual review. Member States which are not subject to the second step of the annual review will receive a final review report.| |
+|Second step of the annual review|Second step of the annual review|
+|Preparation of review material|15 March — 15 April|
+|The Secretariat prepares review material for the second step of the annual review based on the 15 March submissions of Member States.| |
+|Second step review|15 April — 28 April|
+|The TERT performs checks pursuant to Article 32 of this Regulation, identifies and calculates potential technical corrections. Member States should be available for questions during the second week of the review.| |
+|Communication of technical corrections|By 28 April|
+|The Secretariat sends potential technical corrections to Member States.| |
+|Response|By 8 May|
+|Member States provide comments on potential technical corrections to the Secretariat.| |
+|Draft review reports|8 May — 31 May|
+|The TERT compiles draft review reports, including draft recommendations and a justification for potential technical corrections.| |
+|Communication of the draft review reports|By 31 May|
+|The Secretariat sends draft review reports to Member States.| |
+|Response|By 15 June|
+|Member States provide comments on the draft review reports to the Secretariat including any comments they wish to include in the final review report.| |
+|Compilation of review reports|15 June — 25 June|
+|The TERT updates the draft review reports and clarifies with Member States any outstanding issues if needed. The Secretariat checks and if needed edits the review reports.| |
+|Submission of final review reports|By 30 June|
+|The Secretariat communicates the final review reports to the Commission and to Member States.| |
+
+11.7.2014

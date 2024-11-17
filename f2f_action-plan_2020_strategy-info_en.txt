@@ -1,0 +1,371 @@
+# Farm to Fork Strategy
+
+For a fair, healthy and environmentally-friendly food system
+
+# E U G r e e n D e a l
+---
+2
+---
+# CONTENTS
+
+1. NEED FOR ACTION.................................................. 4
+2. BUILDING THE FOOD CHAIN THAT WORKS FOR CONSUMERS, PRODUCERS, CLIMATE AND THE ENVIRONMENT................................................................................................... 8
+1. Ensuring sustainable food production................................................. 8
+2. Ensuring food security........................................................................................12
+3. Stimulating sustainable food processing, wholesale, retail, hospitality and food services practices....................................................................13
+4. Promoting sustainable food consumption and facilitating the shift to healthy, sustainable diets............................................................................................... 14
+5. Reducing food loss and waste........................................................................... 15
+6. Combating food fraud along the food supply chain.......................... 15
+3. ENABLING THE TRANSITION............................................................................ 16
+1. Research, innovation, technology and investments................ 16
+2. Advisory services, data and knowledge sharing, and skills......... 17
+4. PROMOTING THE GLOBAL TRANSITION............................ 18
+5. CONCLUSIONS ................................................................... 20
+6. ANNEX ........................................................................ 21
+---
+# 1. NEED FOR ACTION
+
+The European Green Deal sets out how to make Europe the first climate-neutral continent by 2050. It maps a new, sustainable and inclusive growth strategy to boost the economy, improve people's health and quality of life, care for nature, and leave no one behind.
+
+The Farm to Fork Strategy is at the heart of the Green Deal. It addresses comprehensively the challenges of sustainable food systems and recognises the inextricable links between healthy people, healthy societies and a healthy planet. The strategy is also central to the Commission’s agenda to achieve the United Nations’ Sustainable Development Goals (SDGs). All citizens and operators across value chains, in the EU and elsewhere, should benefit from a just transition, especially in the aftermath of the COVID-19 pandemic and the economic downturn. A shift to a sustainable food system can bring environmental, health and social benefits, offer economic gains and ensure that the recovery from the crisis puts us onto a sustainable path 1. Ensuring a sustainable livelihood for primary producers, who still lag behind in terms of income 2, is essential for the success of the recovery and the transition.
+
+The COVID-19 pandemic has underlined the importance of a robust and resilient food system that functions in all circumstances, and is capable of ensuring access to a sufficient supply of affordable food for citizens. It has also made us acutely aware of the interrelations between our health, ecosystems, supply chains, consumption patterns and planetary boundaries. It is clear that we need to do much more to keep ourselves and the planet healthy. The current pandemic is just one example. The increasing recurrence of droughts, floods, forest fires and new pests are a constant reminder that our food system is under threat and must become more sustainable and resilient.
+
+The Farm to Fork Strategy is a new comprehensive approach to how Europeans value food sustainability. It is an opportunity to improve lifestyles, health, and the environment. The creation of a favourable food environment that makes it easier to choose healthy and sustainable diets will benefit consumers’ health and quality of life, and reduce health-related costs for society. People pay increasing attention to environmental, health, social and ethical issues 3 and they seek value in food more than ever before. Even as societies become more urbanised, they want to feel closer to their food. They want food that is fresh, less processed and sustainably sourced. And the calls for shorter supply chains have intensified during the current outbreak. Consumers should be empowered to choose sustainable food and all actors in the food chain should see this as their responsibility and opportunity.
+
+European food is already a global standard for food that is safe, plentiful, nutritious and of high quality. This is the result of years of EU policymaking to protect human, animal and plant health, and of the efforts of farmers, fishers and aquaculture producers. Now European food should also become the global standard for sustainability. This strategy aims to reward those farmers, fishers and other operators in the food chain who have already undergone.
+
+1. At global level, it is estimated that food and agriculture systems in line with the SDGs would deliver nutritious and affordable food for a growing world population, help restore vital ecosystems and could create new economic value of over EUR 1.8 trillion by 2030. Source: Business & Sustainable Development Commission (2017), Better business, better world.
+
+2. For example, the average EU farmer currently earns around half of the average worker in the economy as a whole. Source: CAP Context indicator C.26 on Agricultural entrepreneurial income (https://agridata.ec.europa.eu/Qlik_Downloads/Jobs-Growth-sources.htm).
+
+3. Europeans have a high level of awareness of food safety topics. Most frequently reported concerns relate to antibiotics, hormones and steroids in meat, pesticides, environmental pollutants and food additives. Source: Special Eurobarometer (April 2019), Food safety in the EU.
+---
+The transition to sustainable practices, enable the transition for the others, and create additional opportunities for their businesses. EU agriculture is the only major system in the world that reduced greenhouse gas (GHG) emissions (by 20% since 19904). However, even within the EU, this path has been neither linear nor homogenous across Member States. In addition, the manufacturing, processing, retailing, packaging and transportation of food make a major contribution to air, soil and water pollution and GHG emissions, and has a profound impact on biodiversity. As such, even though the EU’s transition to sustainable food systems has started in many areas, food systems remain one of the key drivers of climate change and environmental degradation. There is an urgent need to reduce dependency on pesticides and antimicrobials, reduce excess fertilisation, increase organic farming, improve animal welfare, and reverse biodiversity loss.
+
+The Climate Law5 sets out the objective for a climate neutral Union in 2050. The Commission will come forward by September 2020 with a 2030 climate target plan, to increase the GHG emission reduction target towards 50 or 55% compared with 1990 levels. The Farm to Fork Strategy lays down a new approach to ensure that agriculture, fisheries and aquaculture, and the food value chain contribute appropriately to this process.
+
+The transition to sustainable food systems is also a huge economic opportunity. Citizens’ expectations are evolving and driving significant change in the food market. This is an opportunity for farmers, fishers and aquaculture producers, as well as food processors and food services. This transition will allow them to make sustainability their trademark and to guarantee the future of the EU food chain before their competitors outside the EU do so. The transition to sustainability presents a ‘first mover’ opportunity for all actors in the EU food chain.
+
+It is clear that the transition will not happen without a shift in people’s diets. Yet, in the EU, 33 million people6 cannot afford a quality meal every second day and food assistance is essential for part of the population in many Member States.
+
+The challenge of food insecurity and affordability risks growing during an economic downturn so it is essential to take action to change consumption patterns and curb food waste. While over half of the adult population in the EU are now overweight8, about 20% of the food produced is wasted7, obesity is also rising. Over half of the adult population are now overweight8, contributing to a high prevalence of diet-related diseases (including various types of cancer) and related healthcare costs. Overall, European diets are not in line with national dietary recommendations, and the ‘food environment’9 does not ensure that the healthy option is always the easiest one. If European diets were in line with dietary recommendations, the environmental footprint of food systems would be significantly reduced.
+
+4 From 543.25 million gigatons of CO2 equivalent in 1990 to 438.99 million gigatons in 2017 (Eurostat)
+
+5 Commission proposal for a Regulation of the European Parliament and of the Council establishing the framework for achieving climate neutrality and amending Regulation (EU) 2018/1999 (European Climate Law), COM(2020) 80 final, 2020/0036 (COD).
+
+6 Eurostat, EU SILC (2018), https://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=ilc_mdes03&lang=en.
+
+7 EU FUSIONS (2016). Estimates of European food waste levels.
+
+8 Eurostat, Obesity rate by body mass index, https://ec.europa.eu/eurostat/databrowser/view/sdg_02_10/default/table?lang=en
+
+9 The ‘food environment’ is the physical, economic, political and socio-cultural context in which consumers engage with the food system to make decisions on acquiring, preparing and consuming food (High Level Panel of Experts on Food Security and Nutrition (2017), Nutrition and food systems).
+---
+It is also clear that we cannot make a change unless we take the rest of the world with us. The EU is the biggest importer and exporter of agri-food products and the largest seafood market in the world. The production of commodities can have negative environmental and social impacts in the countries where they are produced. Therefore, efforts to tighten sustainability requirements in the EU food system should be accompanied by policies that help raise standards globally, in order to avoid the externalisation and export of unsustainable practices. A sustainable food system will be essential to achieve the climate and environmental objectives of the Green Deal, while improving the incomes of primary producers and reinforcing EU’s competitiveness. This strategy supports the transition by putting the emphasis on new opportunities for citizens and food operators alike.
+---
+# 2. BUILDING THE FOOD CHAIN THAT WORKS FOR CONSUMERS, PRODUCERS, CLIMATE AND THE ENVIRONMENT
+
+The EU’s goals are to reduce the environmental and climate footprint of the EU food system and strengthen its resilience, ensure food security in the face of climate change and biodiversity loss and lead a global transition towards competitive sustainability from farm to fork and tapping into new opportunities. This means:
+
+climate
+global
+new
+resilience
+
+- ensuring that the food chain, covering food production, transport, distribution, marketing and consumption, has a neutral or positive environmental impact, preserving and restoring the land, freshwater and sea-based resources on which the food system depends; helping to mitigate climate change and adapting to its impacts; protecting land, soil, water, air, plant and animal health and welfare; and reversing the loss of biodiversity;
+- ensuring food security, nutrition and public health – making sure that everyone has access to sufficient, nutritious, sustainable food that upholds high standards of safety and quality, plant health, and animal health and welfare, while meeting dietary needs and food preferences; and
+- preserving the affordability of food, while generating fairer economic returns in the supply chain, so that ultimately the most sustainable food also becomes the most affordable, fostering the competitiveness of the EU supply sector, promoting fair trade, creating new business opportunities, while ensuring integrity of the single market and occupational health and safety.
+
+The sustainability of food systems is a global issue and food systems will have to adapt to face diverse challenges. The EU can play a key role in setting global standards with this strategy. It sets key targets in priority areas for the EU as a whole. In addition to new policy initiatives, enforcement of existing legislation, notably for animal welfare, pesticide use and protecting the environment legislation, is essential to ensure a fair transition. The approach will take into account different starting points and differences in improvement potential in the Member States. It will also recognise that a transition to sustainability of the food system will change the economic fabric of many EU regions and their patterns of interactions. Technical and financial assistance from existing EU instruments, such as cohesion funds and the European Agricultural Fund for Rural Development (EAFRD), will support the transition. New legislative initiatives will be underpinned by Commission’s better regulation tools. Based on public consultations, on the identification of the environmental, social and economic impacts, and on analyses of how small and medium
+---
+size enterprises (SMEs) are affected and innovation fostered or hindered, impact assessments will contribute to making efficient policy choices at minimum costs, in line with the objectives of the Green Deal. To accelerate and facilitate the transition and ensure that all foods placed on the EU market become increasingly sustainable, the Commission will make a legislative proposal for a framework for a sustainable food system before the end of 2023. This will promote policy coherence at EU and national level, mainstream sustainability in all food-related policies and strengthen the resilience of food systems. Following broad consultation and impact assessment, the Commission will work on common definitions and general principles and requirements for sustainable food systems and foods. The framework will also address the responsibilities of all actors in the food system. Combined with certification and labelling on the sustainability performance of food products and with targeted incentives, the framework will allow operators to benefit from sustainable practices and progressively raise sustainability standards so as to become the norm for all food products placed on the EU market.
+
+# 2.1. Ensuring sustainable food production
+
+All actors of the food chain must play their part in achieving the sustainability of food chain. Farmers, fishers and aquaculture producers need to transform their production methods more quickly, and make the best use of nature-based, technological, digital, and space-based solutions to deliver better climate and environmental results, increase climate resilience and reduce and optimise the use of inputs (e.g. pesticides, fertilisers). These solutions require human and financial investment, but also promise higher returns by creating added value and by reducing costs.
+
+An example of a new green business model is carbon sequestration by farmers and foresters. Farming practices that remove CO2 from the atmosphere contribute to the climate neutrality objective and should be rewarded, either via the common agricultural policy (CAP) or other public or private initiatives (carbon market10). A new EU carbon farming initiative under the Climate Pact will promote this new business model, which provides farmers with a new source of income and helps other sectors to decarbonise the food chain. As announced in the Circular Economy Action Plan (CEAP)11, the Commission will develop a regulatory framework for certifying carbon removals based on robust and transparent carbon accounting to monitor and verify the authenticity of carbon removals.
+
+The circular bio-based economy is still a largely untapped potential for farmers and their cooperatives. For example, advanced bio-refineries that produce bio-fertilisers, protein feed, bioenergy, and bio-chemicals offer opportunities for the transition to a climate-neutral European economy and the creation of new jobs in primary production. Farmers should grasp opportunities to reduce methane emissions from livestock by developing the production of renewable energy and investing in anaerobic digesters for biogas production from agriculture waste and residues, such as manure. Farms also have the potential to produce biogas from other sources of waste and residues, such as from the food and beverage industry, sewage, wastewater and municipal waste. Farm houses and barns are often perfect for placing solar panels and such investments should be prioritised in the future CAP Strategic Plans12. The Commission will take action to speed-up market adoption of these and other energy efficiency solutions in the agriculture and food sectors as long as these investments are carried out in a sustainable manner and without compromising food security or biodiversity, under the clean energy initiatives and programmes.
+
+10 Robust certification rules for carbon removals in agriculture and forestry are the first step to enable payments to farmers and foresters for the carbon sequestration they provide. Member States could use these rules to design CAP payments based on the carbon sequestered; moreover, private companies could also be interested in purchasing such certificates to support climate action, thus providing an additional incentive (on top of CAP payments) to farmers and foresters for carbon sequestration.
+
+11 Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions – A new Circular Economy Action Plan For a cleaner and more competitive Europe, COM/2020/98 final.
+
+12 Each EU Member State will carry out an extensive analysis of its specific needs and then draw up a CAP Strategic Plan setting out how it proposes to target the CAP funding from both ‘pillars’ to meet these needs, in line with the overall EU objectives, setting out which tools it will use, and establishing its own specific targets.
+---
+The use of chemical pesticides in agriculture contributes to soil, water and air pollution, biodiversity loss and can harm non-target plants, insects, birds, mammals and amphibians. The Commission has already established a Harmonised Risk Indicator to quantify the progress in reducing the risks linked to pesticides. This demonstrates a 20% decrease in risk from pesticide use in the past five years. The Commission will take additional action to reduce the overall use and risk of chemical pesticides by 50% and the use of more hazardous pesticides by 50% by 2030. To pave the way to alternatives and maintain farmers’ incomes, the Commission will take a number of steps. It will revise the Sustainable Use of Pesticides Directive, enhance provisions on integrated pest management (IPM) and promote greater use of safe alternative ways of protecting harvests from pests and diseases. IPM will encourage the use of alternative control techniques, such as crop rotation and mechanical weeding, and will be one of the main tools in reducing the use of, and dependency on, chemical pesticides in general, and the use of more hazardous pesticides in particular. Agricultural practices that reduce the use of pesticides through the CAP will be of paramount importance and the Strategic Plans should reflect this transition and promote access to advice. The Commission will also facilitate the placing on the market of pesticides containing biological active substances and reinforce the environmental risk assessment of pesticides. It will act to reduce the length of the pesticide authorisation process by Member States. The Commission will also propose changes to the 2009 Regulation concerning statistics on pesticides to overcome data gaps and promote evidence-based policymaking.
+
+The excess of nutrients (especially nitrogen and phosphorus) in the environment, stemming from excess use and the fact that not all nutrients used in agriculture are effectively absorbed by plants, is another major source of air, soil and water pollution and climate impacts. It has reduced biodiversity in rivers, lakes, wetlands and seas. The Commission will act to reduce nutrient losses by at least 50%, while ensuring that there is no deterioration in soil fertility. This will reduce the use of fertilisers by at least 20% by 2030. This will be achieved by implementing and enforcing the relevant environmental and climate legislation in full, by identifying with Member States the nutrient load reductions needed to achieve these goals, applying balanced fertilisation and sustainable nutrient management and by managing nitrogen and phosphorus better throughout their lifecycle. The Commission will develop with Member States an integrated nutrient management action plan to address nutrient pollution at source and increase the sustainability of the livestock sector. The Commission will also work with Member States to extend the application of precise fertilisation techniques and sustainable agricultural practices, notably in hotspot areas of intensive livestock farming and of recycling of organic waste into renewable fertilisers. This will be done by means of measures which Member States will include in their CAP Strategic Plans such as the Farm Sustainability Tool for nutrient management, investments, advisory services and of EU space technologies (Copernicus, Galileo).
+
+13 These are plant protection products containing active substances that meet the cut-off criteria as set out in points 3.6.2. to 3.6.5 and 3.8.2 of Annex II to Regulation (EC) No 1107/2009 or are identified as candidates for substitution in accordance with the criteria in point 4 of that Annex.
+
+14 Regulation (EC) No 1185/2009 of the European Parliament and of the Council of 25 November 2009 concerning statistics on pesticides (Text with EEA relevance); OJ L 324, 10.12.2009, p. 1
+
+15 The use of nitrogen in agriculture leads to the emissions of nitrous oxide to the atmosphere. In 2017, NO emissions from agriculture accounted for 43% of agriculture emissions and 3.9% of total anthropogenic emissions in the EU (EEA (2019), Annual European Union greenhouse gas inventory 1990-2017 and Inventory report 2019).
+
+16 OECD (2019), Accelerating climate action: refocussing policies through a well-being lens.
+
+17 As indicated in the Proposal for a Regulation of the European Parliament and of the Council establishing rules on support for strategic plans to be drawn up by Member States under the Common agricultural policy (CAP Strategic Plans) and financed by the European Agricultural Guarantee Fund (EAGF) and by the European Agricultural Fund for Rural Development (EAFRD) and repealing Regulation (EU) No 1305/2013 of the European Parliament and of the Council and Regulation (EU) No 1307/2013 of the European Parliament and of the Council, COM(2018)392, 2018/0216(COD), in full respect of the Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of Regions – European Interoperability Framework – Implementation Strategy, COM(2017)134.
+---
+# Agriculture and Environmental Impact
+
+Agriculture is responsible for 10.3% of the EU’s GHG emissions and nearly 70% of those come from the animal sector. They consist of non-CO2 GHG (methane and nitrous oxide). In addition, 68% of the total agricultural land is used for animal production. To help reduce the environmental and climate impact of animal production, avoid carbon leakage through imports and to support the ongoing transition towards more sustainable livestock farming, the Commission will facilitate the placing on the market of sustainable and innovative feed additives. It will examine EU rules to reduce the dependency on critical feed materials (e.g. soya grown on deforested land) by fostering EU-grown plant proteins as well as alternative feed materials such as insects, marine feed stocks (e.g. algae) and by-products from the bio-economy. Furthermore, the Commission is undertaking a review of the EU promotion programme for agricultural products, with a view to enhancing its contribution to sustainable production and consumption, and in line with the evolving diets. In relation to meat, that review should focus on how the EU can use its promotion programme to support the most sustainable, carbon-efficient methods of livestock production. It will also strictly assess any proposal for coupled support in Strategic Plans from the perspective of the need for overall sustainability.
+
+# Antimicrobial Resistance
+
+Antimicrobial resistance (AMR) linked to the excessive and inappropriate use of antimicrobials in animal and human healthcare leads to an estimated 33,000 human deaths in the EU/EEA every year, and considerable healthcare costs. The Commission will therefore take action to reduce overall EU sales of antimicrobials for farmed animals and in aquaculture by 50% by 2030. The new Regulations on veterinary medicinal products and medicated feed provide for a wide range of measures to help achieve this objective and promote one health.
+
+# Animal Welfare
+
+Better animal welfare improves animal health and food quality, reduces the need for medication and can help preserve biodiversity. It is also clear that citizens want this. The Commission will revise the animal welfare legislation, including on animal transport and the slaughter of animals, to align it with the latest scientific evidence, broaden its scope, make it easier to enforce and ultimately ensure a higher level of animal welfare. The Strategic Plans and the new EU Strategic Guidelines on Aquaculture will support this process. The Commission will also consider options for animal welfare labelling to better transmit value through the food chain.
+
+# Climate Change and Plant Health
+
+Climate change brings new threats to plant health. The sustainability challenge calls for measures to protect plants better from emerging pests and diseases, and for innovation. The Commission will adopt rules to reinforce vigilance on plant imports and surveillance on Union territory. New innovative techniques, including biotechnology and the development of bio-based products, may play a role in increasing sustainability, provided they are safe for consumers and the environment while bringing benefits for society as a whole. They can also accelerate the process of reducing dependency on pesticides. In response to the request of Member States, the Commission is carrying out a study which will look at the potential of new genomic techniques to improve sustainability along the food supply chain. Sustainable food systems also rely on seed security and diversity. Farmers need to have access to a range of quality seeds for plant varieties adapted to the pressures of climate change. The Commission will take measures to facilitate the registration of seed varieties, including for organic farming, and to ensure easier market access for traditional and locally-adapted varieties.
+
+# Organic Farming
+
+The market for organic food is set to continue growing and organic farming needs to be further promoted. It has a positive impact on biodiversity, it creates jobs and attracts young farmers. Consumers recognise its value. The legal framework supports the shift to this type of farming, but more needs to be done, and similar shifts need to take place in the oceans and inland waters. In addition to CAP measures, such as eco-schemes, investments and advisory services, and the Common Fisheries Policy (CFP) measures, the Commission will put forward an Action Plan on organic farming. This will help Member States stimulate both supply and demand for organic products. It will ensure consumer trust and boost demand through promotion campaigns and green public procurement.
+
+# Footnotes
+
+1. EEA (2019), Annual European Union greenhouse gas inventory 1990-2017 and Inventory report 2019. These figures do not include CO2 emissions from land use and land use change.
+2. 39.1 million hectares of cereals and oilseeds and 70.7 million hectares of grassland on 161 million hectares of agricultural land (in EU27, Eurostat, 2019)
+3. Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions – A sustainable Bioeconomy for Europe: Strengthening the connection between economy, society and the environment, COM/2018/673 final.
+4. Cassini et al., (2019) ‘Attributable deaths and disability-adjusted life-years caused by infections with antibiotic-resistant bacteria in the EU and the European Economic Area in 2015: a population-level modelling analysis’, in Lancet Infect Dis. Vol.19, issue 1, pp. 55-56.
+---
+will help to reach the objective of at least 25% of the EU’s agricultural land under organic farming by 2030 and a significant increase in organic aquaculture. It is clear that the transition must be supported by a CAP that focuses on the Green Deal. The new CAP22, which the Commission proposed in June 2018, aims to help farmers to improve their environmental and climate performance through a more results oriented model, better use of data and analysis, improved mandatory environmental standards, new voluntary measures and an increased focus on investments into green and digital technologies and practices. It also aims to guarantee a decent income allowing them to provide for their families and withstand crises of all kinds23.
+
+The requirement to improve the efficiency and effectiveness of direct payments by capping and better targeting income support to farmers who need it and who deliver on the green ambition, rather than to entities and companies who merely own farm land, remains an essential element of the future CAP24. The capacity of Member States to ensure this must be carefully assessed in the Strategic Plans and monitored throughout implementation. The Commission’s most recent analysis25 concludes that the reform does indeed have the potential to drive forward the Green Deal, but that the key provisions of the proposals must be maintained in the negotiating process, and certain improvements and practical initiatives should be developed.
+
+The new ‘eco-schemes’ will offer a major stream of funding to boost sustainable practices, such as precision agriculture, agro-ecology (including organic farming), carbon farming and agro-forestry. Member States and the Commission will have to ensure that they are appropriately resourced and implemented in the Strategic Plans. The Commission will support the introduction of a minimum ring-fencing budget for eco-schemes.
+
+The Commission will also make recommendations to each Member State on the nine specific objectives of the CAP, before they formally submit the draft Strategic Plans. The Commission will pay particular attention to addressing the Green Deal targets, and those stemming from this strategy and the Biodiversity Strategy for 2030. It will ask Member States to set explicit national values for those targets, taking into account their specific situation and the above mentioned recommendations. Based on these values, the Member States will identify the necessary measures in their Strategic Plans.
+
+In parallel to changes in agriculture, the shift to sustainable fish and seafood production must also be accelerated. Economic data show that, where fishing has become sustainable, income has grown in parallel26. The Commission will step up efforts to bring fish stocks to sustainable levels via CFP where implementation gaps remain (e.g. by reducing wasteful discarding), strengthen fisheries management in the Mediterranean in cooperation with all coastal states and re-assess, by 2022, how the CFP addresses the risks triggered by climate change. The proposed revision of the EU’s fisheries control system27 will contribute to the fight against fraud through an enhanced traceability system. The mandatory use of digitalised catch certificates will strengthen measures to prevent illegal fish products from entering the EU market.
+
+Farmed fish and seafood generate a lower carbon footprint than animal production on land. In addition to the significant support by the next European Maritime and Fisheries Fund for sustainable seafood farming, the Commission envisages adopting EU guidelines for Member States’ sustainable aquaculture development.
+
+22 https://ec.europa.eu/commission/publications/natural-resources-and-environment
+
+23 In 2017, CAP subsidies, with the exception of investment support, represent 57% of net farm income in the EU. https://agridata.ec.europa.eu/extensions/DashboardFarmEconomyFocus/DashboardFarmEconomyFocus.html
+
+24 An evaluation of the CAP shall be carried out to establish the contribution of income support to improving the resilience and sustainability of farming.
+
+25 Commission Staff Working Document Analysis of links between CAP Reform and Green Deal [to be finalised on 20 May]
+
+26 Communication from the Commission to the European Parliament and the Council on the State of Play of the Common Fisheries Policy and Consultation on the Fishing Opportunities for 2020, COM(2019) 274 final.
+
+27 Proposal for a Regulation of the European Parliament and of the Council amending Council Regulation (EC) No 1224/2009, and amending Council Regulations (EC) No 768/2005, (EC) No 1967/2006, (EC) No 1005/2008, and Regulation (EU) No 2016/1139 of the European Parliament and of the Council as regards fisheries control, COM/2018/368 final, 2018/0193(COD).
+---
+plans and promote the right kind of expenditure under the Fund. It will also set out well-targeted support for the algae industry, as algae should become an important source of alternative protein for a sustainable food system and global food security.
+
+Finally, to support primary producers in the transition, the Commission envisages clarifying the competition rules for collective initiatives that promote sustainability in supply chains. It will also help farmers and fishers to strengthen their position in the supply chain and to capture a fair share of the added value of sustainable production by encouraging the possibilities for cooperation within the common market organisations for agricultural products28 and fishery and aquaculture products29. The Commission will monitor the implementation of the Unfair Trading Practices Directive30 by Member States. It will also work with co-legislators to improve agricultural rules that strengthen the position of farmers (e.g. producers of products with geographical indications), their cooperatives and producer organisations in the food supply chain.
+
+# 2.2. Ensuring food security
+
+A sustainable food system must ensure sufficient and varied supply of safe, nutritious, affordable and sustainable food to people at all times, not least in times of crisis. Events which affect the sustainability of food systems do not necessarily stem from the food supply chain itself but can be triggered by political, economic, environmental or health crises. While the current COVID-19 pandemic has no connection to food safety in the EU, such crisis can place both food security and livelihoods at risk. Climate change and biodiversity loss constitute imminent and lasting threats to food security and livelihoods. In the context of this strategy, the Commission will continue closely monitoring food security, as well as competitiveness of farmers and food operators.
+
+Given the complexity and number of actors involved in the food value chain, crises affect it in different ways. While there has been sufficient food supply in general, this pandemic has presented many challenges, such as logistical disruptions of supply chains, labour shortages, loss of certain markets and change in consumer patterns, impacting on the functioning of food systems. This situation is unprecedented and the food chain faces increasing threats every year with recurring droughts, floods, forest fires, biodiversity loss and new pests. Increasing the sustainability of food producers will ultimately increase their resilience. This strategy aims to provide a new framework for that, complemented by measures set out in the Biodiversity Strategy.
+
+The COVID-19 pandemic has also made us aware of the importance of critical staff, such as agri-food workers. This is why it will be particularly important to mitigate the socio-economic consequences impacting the food chain and ensure that the key principles enshrined in the European Pillar of Social Rights are respected, especially when it comes to precarious, seasonal and undeclared workers. The considerations of workers’ social protection, working and housing conditions as well as protection of health and safety will play a major role in building fair, strong and sustainable food systems.
+
+The Commission will step up its coordination of a common European response to crises affecting food systems in order to ensure food security and safety, reinforce public health and mitigate their socio-economic impact in the EU. Drawing on the lessons learned, the Commission will assess the resilience of the food system.
+
+28  Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007 (OJ L347, 20.12.2013, p. 671) and Regulation (EU) 2017/2393 of the European Parliament and of the Council of 13 December 2017 amending Regulations (EU) No 1305/2013 on support for rural development by the European Agricultural Fund for Rural Development (EAFRD), (EU) No 1306/2013 on the financing, management and monitoring of the common agricultural policy, (EU) No 1307/2013 establishing rules for direct payments to farmers under support schemes within the framework of the common agricultural policy, (EU) No 1308/2013 establishing a common organisation of the markets in agricultural products and (EU) No 652/2014 laying down provisions for the management of expenditure relating to the food chain, animal health and animal welfare, and relating to plant health and plant reproductive material (OJ L 350, 29.12.2017, p. 15).
+
+29  Regulation (EU) No 1379/2013 of the European Parliament and of the Council of 11 December 2013 on the common organisation of the markets in fishery and aquaculture products, amending Council Regulations (EC) No 1184/2006 and (EC) No 1224/2009 and repealing Council Regulation (EC) No 104/2000 (OJ L 354, 28.12.2013, p. 1)
+
+30  Directive (EU) No 2019/633 of the European Parliament and of the Council of 17 April 2019 on unfair trading practices in business-to-business relationships in the agricultural and food supply chain (OJ L 111, 25.4.2019, p. 59).
+---
+# 2.3. Stimulating sustainable food processing, wholesale, retail, hospitality and food services practices
+
+Food processors, food service operators and retailers shape the market and influence consumers’ dietary choices through the types and nutritional composition of the food they produce, their choice of suppliers, production methods and packaging, transport, merchandising and marketing practices. As the biggest global food importer and exporter, the EU food and drink industry also affects the environmental and social footprint of global trade. Strengthening the sustainability of our food systems can help further build the reputation of businesses and products, create shareholder value, improve working conditions, attract employees and investors, and confer competitive advantage, productivity gains and reduced costs for companies.
+
+The food industry and retail sector should show the way by increasing the availability and affordability of healthy, sustainable food options to reduce the overall environmental footprint of the food system. To promote this, the Commission will develop an EU Code of conduct for responsible business and marketing practice accompanied with a monitoring framework. The Code will be developed with all relevant stakeholders.
+
+The Commission will seek commitments from food companies and organisations to take concrete actions on health and sustainability, focussing in particular on:
+
+- reformulating food products in line with guidelines for healthy, sustainable diets;
+- reducing their environmental footprint and energy consumption by becoming more energy efficient;
+- adapting marketing and advertising strategies taking into account the needs of the most vulnerable;
+- ensuring that food price campaigns do not undermine citizens’ perception of the value of food; and
+- reducing packaging in line with the new CEAP. For example, marketing campaigns advertising meat at very low prices must be avoided.
+
+The Commission will monitor these commitments and consider legislative measures if progress is insufficient. The Commission is also preparing an initiative to improve the corporate governance framework, including a requirement for the food industry to integrate sustainability into corporate strategies. The Commission will also seek opportunities to facilitate the shift to healthier diets and stimulate product reformulation, including by setting up nutrient profiles to restrict the promotion (via nutrition or health claims) of foods high in fat, sugars and salt.
+
+The Commission will take action to scale-up and promote sustainable and socially responsible production methods and circular business models in food processing and retail, including specifically for SMEs, in synergy with the objectives and initiatives put forward under the new CEAP. The deployment of a circular and sustainable EU Bioeconomy provides business opportunities, for instance linked to making use of food waste.
+
+Food packaging plays a key role in the sustainability of food systems. The Commission will revise the food contact materials legislation to improve food safety and public health (in particular in reducing the use of hazardous chemicals), support the use of innovative and sustainable packaging solutions using environmentally-friendly, re-usable and recyclable materials, and contribute to food waste reduction. In addition, under the sustainable products initiative announced in the CEAP, it will work on a legislative initiative on re-use in food services to substitute single-use food packaging and cutlery by re-usable products.
+
+For example, a study on the business case for reducing food loss and waste, carried out on behalf of the Champion 12.3 coalition, found a 14:1 return on investment for companies taking action to reduce food loss and waste. Hanson, C., and P. Mitchell. 2017. The Business Case for Reducing Food Loss and Waste. Washington, DC: Champions 12.3.
+---
+Finally, the Commission will revise marketing standards to provide for the uptake and supply of sustainable agricultural, fisheries and aquaculture products and to reinforce the role of sustainability criteria taking into account the possible impact of these standards on food loss and waste. In parallel, it will strengthen the legislative framework on geographical indications (GIs) and, where appropriate, include specific sustainability criteria. Moreover, with a view to enhance resilience of regional and local food systems, the Commission in order to create shorter supply chains will support reducing dependence on long-haul transportation (about 1.3 billion tonnes of primary agricultural, forestry and fishery products were transported on roads in 2017).
+
+# 2.4. Promoting sustainable food consumption and facilitating the shift to healthy, sustainable diets
+
+Current food consumption patterns are unsustainable from both health and environmental points of view. While in the EU, average intakes of energy, red meat, sugars, salt and fats continue to exceed recommendations, consumption of whole-grain cereals, fruit and vegetables, legumes and nuts is insufficient. Reversing the rise in overweight and obesity rates across the EU by 2030 is critical. Moving to a more plant-based diet with less red and processed meat and with more fruits and vegetables will reduce not only risks of life threatening diseases, but also the environmental impact of the food system. It is estimated that in the EU in 2017 over 950,000 deaths (one out of five) and over 16 million lost healthy life years were attributable to unhealthy diets, mainly cardiovascular diseases and cancers. The EU’s ‘beating cancer’ plan includes the promotion of healthy diets as part of the actions for cancer prevention.
+
+The provision of clear information that makes it easier for consumers to choose healthy and sustainable diets will benefit their health and quality of life, and reduce health-related costs. To empower consumers to make informed, healthy and sustainable food choices, the Commission will propose harmonised mandatory front-of-pack nutrition labelling and will consider to propose the extension of mandatory origin or provenance indications to certain products, while fully taking into account impacts on the single market. The Commission will also examine ways to harmonise voluntary green claims and to create a sustainable labelling framework that covers, in synergy with other relevant initiatives, the nutritional, climate, environmental and social aspects of food products. The Commission will also explore new ways to provide information to consumers through other means including digital, to improve the accessibility of food information in particular for visually impaired persons.
+
+To improve the availability and price of sustainable food and to promote healthy and sustainable diets in institutional catering, the Commission will determine the best way of setting minimum mandatory criteria for sustainable food procurement. This will help cities, regions and public authorities to play their part by sourcing sustainable food for schools, hospitals and public institutions and it will also boost sustainable farming systems, such as organic farming. The Commission will lead by example and reinforce sustainability standards in the catering contract for its canteens. It will also review the EU school scheme to enhance its contribution to sustainable food consumption and in particular to strengthen educational messages on the importance of healthy nutrition, sustainable food production and reducing food waste.
+
+32 Agriculture, forestry and fisheries statistics, 2019 edition, Statistical Books, Eurostat.
+
+33 Red meat includes beef, pig meat, lamb, and goat meat and all processed meats.
+
+34 Willett W. et al (2019), ‘Food in the Anthropocene: the EAT–Lancet Commission on healthy diets from sustainable food systems’, in Lancet, Vol. 393, pp. 447–92.
+
+35 FAO and WHO (2019), Sustainable healthy diets – guiding principles.
+
+36 EU Science Hub : https://ec.europa.eu/jrc/en/health-knowledge-gateway/societal-impacts/burden
+---
+Tax incentives should also drive the transition to a sustainable food system and encourage consumers to choose sustainable and healthy diets. The Commission’s proposal on VAT rates (currently being discussed in the Council) could allow Member States to make more targeted use of rates, for instance to support organic fruit and vegetables. EU tax systems should also aim to ensure that the price of different foods reflects their real costs in terms of use of finite natural resources, pollution, GHG emissions and other environmental externalities.
+
+# 2.5. Reducing food loss and waste
+
+Tackling food loss and waste is key to achieving sustainability37. Reducing food waste brings savings for consumers and operators, and the recovery and redistribution of surplus food that would otherwise be wasted has an important social dimension. It also ties in with policies on the recovery of nutrients and secondary raw materials, the production of feed, food safety, biodiversity, bioeconomy, waste management and renewable energy.
+
+The Commission is committed to halving per capita food waste at retail and consumer levels by 2030 (SDG Target 12.3). Using the new methodology for measuring food waste38 and the data expected from Member States in 2022, it will set a baseline and propose legally binding targets to reduce food waste across the EU. The Commission will integrate food loss and waste prevention in other EU policies. Misunderstanding and misuse of date marking (‘use by’ and ‘best before’ dates) lead to food waste. The Commission will revise EU rules to take account of consumer research. In addition to quantifying food waste levels, the Commission will investigate food losses at the production stage, and explore ways of preventing them. Coordinating action at EU level will reinforce action at national level, and the recommendations of the EU Platform on Food Losses and Food Waste39 will help show the way forward for all actors.
+
+# 2.6. Combating food fraud along the food supply chain
+
+Food fraud jeopardises the sustainability of food systems. It deceives consumers and prevents them from making informed choices. It undermines food safety, fair commercial practices, the resilience of food markets and ultimately the single market. A zero tolerance policy with effective deterrents is crucial in this regard. The Commission will scale up its fight against food fraud to achieve a level playing field for operators and strengthen the powers of control and enforcement authorities. It will work with Member States, Europol and other bodies to use EU data on traceability and alerts to improve coordination on food fraud. It will also propose stricter dissuasive measures, better import controls and examine the possibility to strengthen coordination and investigative capacities of the European Anti-Fraud Office (OLAF).
+
+37 At EU level, food waste (all steps of the lifecycle) accounts for at least 227 million tonnes CO2 eq. a year, i.e. about 6% of total EU emissions in 2012 (EU FUSIONS (2016). Estimates of European food waste levels.
+
+38 Commission Delegated Decision (EU) 2019/1597 of 3 May 2019 supplementing Directive 2008/98/EC of the European Parliament and of the Council as regards a common methodology and minimum quality requirements for the uniform measurement of levels of food waste (OJ L 248, 27.9.2019, p. 77).
+
+39 https://ec.europa.eu/food/sites/food/files/safety/docs/fs_eu-actions_action_implementation_platform_key_recommendations.pdf
+---
+# 3. ENABLING THE TRANSITION
+
+# 3.1. Research, innovation, technology and investments
+
+Research and innovation (R&I) are key drivers in accelerating the transition to sustainable, healthy and inclusive food systems from primary production to consumption. R&I can help develop and test solutions, overcome barriers and uncover new market opportunities40. Under Horizon 2020, the Commission is preparing an additional call for proposals for Green Deal priorities in 2020 for a total of around EUR 1 billion. Under Horizon Europe, it proposes to spend EUR 10 billion on R&I on food, bioeconomy, natural resources, agriculture, fisheries, aquaculture and the environment as well as the use of digital technologies and nature-based solutions for agri-food. A key area of research will relate to microbiome, food from the oceans, urban food systems, as well as increasing the availability and source of alternative proteins such as plant, microbial, marine and insect-based proteins and meat substitutes. A mission in the area of soil health and food will aim to develop solutions for restoring soil health and functions. New knowledge and innovations will also scale up agro-ecological approaches in primary production through a dedicated partnership on agro-ecology living laboratories. This will contribute to reducing the use of pesticides, fertilisers and antimicrobials.
+
+To speed up innovation and accelerate knowledge transfer, the Commission will work with Member States to strengthen the role of the European Innovation Partnership 'Agricultural Productivity and Sustainability' (EIP-AGRI) in the Strategic Plans. In addition, the European Regional Development Fund will invest, through smart specialisation, in innovation and collaboration along the food value chains.
+
+A new Horizon Europe partnership for “Safe and sustainable food systems for people, planet and climate” will put in place an R&I governance mechanism engaging Member States and food systems actors from farm-to-fork, to deliver innovative solutions providing co-benefits for nutrition, quality of food, climate, circularity and communities.
+
+All farmers and all rural areas need to be connected to fast and reliable internet. This is a key enabler for jobs, business and investment in rural areas, as well as for improving the quality of life in areas such as healthcare, entertainment and e-government. Access to fast broadband internet will also enable mainstreaming precision farming and use of artificial intelligence. It will allow the EU to fully exploit its global leadership in satellite technology. This will ultimately result in a cost reduction for farmers, improve soil management and water quality, reduce the use of fertilisers, pesticides and GHG emissions, improve biodiversity and create a healthier environment for farmers and citizens. The Commission aims to accelerate the roll-out of fast broadband internet in rural areas to achieve the objective of 100% access by 2025.
+
+Investments will be necessary to encourage innovation and create sustainable food systems. Through EU budget guarantees, the InvestEU Fund41 will foster investment in the agro-food sector by de-risking investments by European corporations and facilitating access to finance for SMEs and mid-cap42 companies. In 2020, the EU framework to facilitate sustainable investments (EU taxonomy43) as well as the renewed strategy on sustainable finance will mobilise the financial sector to invest more sustainably, including in the agriculture and food production sector. The CAP must also increasingly facilitate investment support to improve the resilience and accelerate the green and digital transformation of farms.
+
+40 Commission Staff working document – European Research and Innovation for Food and Nutrition Security, SWD 2016/319 and Commission FOOD 2030 High-level Conference background document (2016) – European Research & Innovation for Food & Nutrition Security.
+
+41 Established as part of the InvestEU programme as laid down in the Proposal for a Regulation of the European Parliament and of the Council establishing the InvestEU Programme, COM(2018) 4439, 2018/0229 (COD).
+
+42 Under the European Fund for Strategic Investment, ‘mid-cap companies’ mean entities with a number of employees ranging from 250 up to 3000 and that are not SMEs.
+
+43 EU taxonomy is an implementation tool that can enable capital markets to identify and respond to investment opportunities that contribute to environmental policy objectives.
+---
+# 3.2. Advisory services, data and knowledge sharing, and skills
+
+Knowledge and advice are key to enabling all actors in the food system to become sustainable. Primary producers have a particular need for objective, tailored advisory services on sustainable management choices. The Commission will therefore promote effective Agricultural Knowledge and Innovation Systems (AKIS), involving all food chain actors. In their CAP Strategic Plans, Member States will need to scale up support for AKIS and strengthen resources to develop and maintain appropriate advisory services needed to achieve the Green Deal objectives and targets.
+
+The Commission will propose legislation to convert its Farm Accountancy Data Network into the Farm Sustainability Data Network with a view to also collect data on the Farm to Fork and Biodiversity Strategies’ targets and other sustainability indicators44. The network will enable the benchmarking of farm performance against regional, national or sectoral averages. Through tailored advisory services, it will provide feedback and guidance to farmers and link their experience to the European Innovation Partnership and research projects. This will improve the sustainability of participating farmers, including their incomes.
+
+As part of the European data strategy, the common European agriculture data space will enhance the competitive sustainability of EU agriculture through the processing and analysis of production, land use, environmental and other data, allowing precise and tailored application of production approaches at farm level and the monitoring of performance of the sector, as well as supporting the carbon farming initiative. The EU programmes Copernicus and European Marine Observation and Data Network (EMODnet) will reduce the investment risks and facilitate sustainable practices in the fisheries and aquaculture sector.
+
+The Commission will ensure tailored solutions to help SME food processors and small retail and food service operators to develop new skills and business models, while avoiding additional administrative and cost burdens. It will provide guidance to retailers, food processors and food service providers on best practices on sustainability. The Enterprise Europe Network will provide advisory services on sustainability for SMEs and foster the dissemination of best practices. The Commission will also update its Skills Agenda45 to ensure that the food chain has access to sufficient and suitably skilled labour.
+
+44 In full respect of the European Interoperability Framework, including the Farm Sustainability tool for nutrients as included in the proposal for the CAP beyond 2020.
+
+45 Commission Communication “Working together to strengthen human capital, employability and competitiveness”, COM/2016/0381 final
+---
+# 4. PROMOTING THE GLOBAL TRANSITION
+
+The EU will support the global transition to sustainable agri-food systems, in line with the objectives of this strategy and the SDGs. Through its external policies, including international cooperation and trade policy, the EU will pursue the development of Green Alliances on sustainable food systems with all its partners in bilateral, regional and multilateral fora. This will include cooperation with Africa, neighbours and other partners and will have regard to distinct challenges in different parts of the world. To ensure a successful global transition, the EU will encourage and enable the development of comprehensive, integrated responses benefiting people, nature and economic growth.
+
+Appropriate EU policies, including trade policy will be used to support and be part of the EU’s ecological transition. The EU will seek to ensure that there is an ambitious sustainability chapter in all EU bilateral trade agreements. It will ensure full implementation and enforcement of the trade and sustainable development provisions in all trade agreements, including through the EU Chief Trade Enforcement Officer.
+
+EU trade policy should contribute to enhance cooperation with and to obtain ambitious commitments from third countries in key areas such as animal welfare, the use of pesticides and the fight against antimicrobial resistance. The EU will strive to promote international standards in the relevant international bodies and encourage the production of agri-food products complying with high safety and sustainability standards, and will support small-scale farmers in meeting these standards and in accessing markets. The EU will also boost cooperation to improve nutrition and to alleviate food insecurity by strengthening resilience of food systems and reducing food waste.
+
+The EU will focus its international cooperation on food research and innovation, with particular reference to climate change adaptation and mitigation; agro-ecology; sustainable landscape management and land governance; conservation and sustainable use of biodiversity; inclusive and fair value chains; nutrition and healthy diets; prevention of and response to food crises, particularly in fragile contexts; resilience and risk preparedness; integrated pest management; plant and animal health and welfare, and food safety standards, antimicrobial resistance as well as sustainability of its coordinated humanitarian and development interventions.
+
+The EU will build on ongoing initiatives46, and integrate policy coherence for sustainable development in all its policies. These actions will reduce the pressure on biodiversity worldwide. As such, better protection of natural ecosystems, coupled with efforts to reduce wildlife trade and consumption, will help to prevent and build up resilience to possible future diseases and pandemics.
+
+To reduce the EU’s contribution to global deforestation and forest degradation, the Commission will present in 2021 a legislative proposal and other measures to avoid or minimise the placing of products associated with deforestation or forest degradation on the EU market.
+
+The EU will apply zero tolerance in the fight against illegal, unreported and unregulated fishing (IUU) and combat overfishing, promote sustainable management of fish and seafood resources and strengthen ocean governance, marine cooperation and coastal management47.
+
+The Commission will incorporate all the above mentioned priorities in the programming guidance for cooperation with third countries in the period 2021-2027 with due consideration to transversal objectives such as human rights, gender, and peace and security.
+
+Imported food must continue to comply with relevant EU regulations and standards. The Commission will take into account environmental aspects when assessing requests for import tolerances for pesticide substances no longer approved in the EU while respecting WTO standards and obligations. To address the global threat of antimicrobial resistance, products of animal
+
+46 E.g. the Development Smart Innovation through Research in Agriculture (DESIRA) initiative.
+
+47 Through the Regional Fisheries Management Organisations, Sustainable Fisheries Partnership Agreements and our cooperation with third countries on IUU and on sustainable value chains in fisheries and aquaculture; cooperation is particularly relevant with countries affected by climate change.
+---
+Origin imported into the EU will have to comply with strict requirements on the use of antibiotics in line with the recently agreed veterinary medicinal products Regulation.
+
+A more sustainable EU food system also requires increasingly sustainable practices by our trading partners. In order to promote a gradual move towards the use of safer plant protection products, the EU will consider, in compliance with WTO rules and following a risk assessment, to review import tolerances for substances meeting the "cut-off criteria" 48 and presenting a high level of risk for human health. The EU will engage actively with trading partners, especially with developing countries, to accompany the transition towards the more sustainable use of pesticides to avoid disruptions in trade and promote alternative plant protection products and methods.
+
+The EU will promote the global transition to sustainable food systems in international standard setting bodies, relevant multilateral fora and international events, including the fifteenth meeting of the Conference of the Parties to the UN Convention on Biological Diversity, the Nutrition for Growth Summit and the UN Food Systems Summit in 2021, in all of which it will seek ambitious policy outcomes.
+
+As part of its approach to food information to consumers and combined with the legislative framework on sustainable food systems, the EU will promote schemes (including an EU sustainable food labelling framework) and lead the work on international sustainability standards and environmental footprint calculation methods in multilateral fora to promote a higher uptake of sustainability standards. It will also support enforcement of rules on misleading information.
+
+48 These substances may have an impact on human health and include substances classified as: mutagenic, carcinogenic, toxic for reproduction or having endocrine disrupting properties as set out in points 3.6.2. to 3.6.5 and 3.8.2 of Annex II to Regulation (EC) No 1107/2009.
+---
+# CONCLUSIONS
+
+The European Green Deal is an opportunity to reconcile our food system with the needs of the planet and to respond positively to Europeans’ aspirations for healthy, equitable and environmentally-friendly food. The aim of this strategy is to make the EU food system a global standard for sustainability. The transition to sustainable food systems requires a collective approach involving public authorities at all levels of governance (including cities, rural and coastal communities), private sector actors across the food value chain, non-governmental organisations, social partners, academics and citizens.
+
+The Commission invites all citizens and stakeholders to engage in a broad debate to formulate a sustainable food policy including in national, regional and local assemblies. The Commission invites the European Parliament and the Council to endorse this strategy and contribute to implementing it. The Commission will reach out to citizens on this strategy in a coordinated way to encourage them to participate in transforming our food systems.
+
+The Commission will ensure that the strategy is implemented in close coherence with the other elements of the Green Deal, particularly the Biodiversity Strategy for 2030, the new CEAP and the Zero Pollution ambition. It will monitor the transition to a sustainable food system so that it operates within planetary boundaries, including progress on the targets and overall reduction of the environmental and climate footprint of the EU food system. It will collect data regularly, including on the basis of Earth observation for a comprehensive assessment of the cumulative impact of all actions in this strategy on competitiveness, the environment and health. It will review this strategy by mid-2023 to assess whether the action taken is sufficient to achieve the objectives or whether additional action is necessary.
+---
+# ANNEX
+
+# ACTIONS
+
+|Proposal for a legislative framework for sustainable food systems|2023|
+|---|---|
+|Develop a contingency plan for ensuring food supply and food security|Q4 2021|
+
+# ENSURE SUSTAINABLE FOOD PRODUCTION
+
+|Adopt recommendations to each Member State addressing the nine specific objectives of the Common Agricultural Policy (CAP), before the draft CAP Strategic Plans are formally submitted|Q4 2020|
+|---|---|
+|Proposal for a revision of the Sustainable Use of Pesticides Directive to significantly reduce use and risk and dependency on pesticides and enhance Integrated Pest Management|Q1 2022|
+|Revision of the relevant implementing Regulations under the Plant Protection Products framework to facilitate placing on the market of plant protection products containing biological active substances|Q4 2021|
+|Proposal for a revision of the pesticides statistics Regulation to overcome data gaps and reinforce evidence-based policy making|2023|
+|Evaluation and revision of the existing animal welfare legislation, including on animal transport and slaughter of animals|Q4 2023|
+|Proposal for a revision of the feed additives Regulation to reduce the environmental impact of livestock farming|Q4 2021|
+|Proposal for a revision of the Farm Accountancy Data Network Regulation to transform it into a Farm Sustainability Data Network with a view to contribute to a wide uptake of sustainable farming practices|Q2 2022|
+|Clarification of the scope of competition rules in the TFEU with regard to sustainability in collective actions.|Q3 2022|
+|Legislative initiatives to enhance cooperation of primary producers to support their position in the food chain and non-legislative initiatives to improve transparency|2021-2022|
+|EU carbon farming initiative|Q3 2021|
+---
+# STIMULATE SUSTAINABLE FOOD PROCESSING, WHOLESALE, RETAIL, HOSPITALITY AND FOOD SERVICES’ PRACTICES
+
+- Initiative to improve the corporate governance framework, including a requirement for the food industry to integrate sustainability into corporate strategies - Q1 2021
+- Develop an EU code and monitoring framework for responsible business and marketing conduct in the food supply chain - Q2 2021
+- Launch initiatives to stimulate reformulation of processed food, including the setting of maximum levels for certain nutrients - Q4 2021
+- Set nutrient profiles to restrict promotion of food high in salt, sugars and/or fat - Q4 2022
+- Proposal for a revision of EU legislation on Food Contact Materials to improve food safety, ensure citizens’ health and reduce the environmental footprint of the sector - Q4 2022
+- Proposal for a revision of EU marketing standards for agricultural, fishery and aquaculture products to ensure the uptake and supply of sustainable products - 2021-2022
+- Enhance coordination to enforce single market rules and tackle Food Fraud, including by considering a reinforced use of OLAF’s investigative capacities - 2021-2022
+
+# PROMOTE SUSTAINABLE FOOD CONSUMPTION, FACILITATING THE SHIFT TOWARDS HEALTHY, SUSTAINABLE DIETS
+
+- Proposal for a harmonised mandatory front-of-pack nutrition labelling to enable consumers to make health conscious food choices - Q4 2022
+- Proposal to require origin indication for certain products - Q4 2022
+- Determine the best modalities for setting minimum mandatory criteria for sustainable food procurement to promote healthy and sustainable diets, including organic products, in schools and public institutions - Q3 2021
+- Proposal for a sustainable food labelling framework to empower consumers to make sustainable food choices - 2024
+- Review of the EU promotion programme for agricultural and food products with a view to enhancing its contribution to sustainable production and consumption - Q4 2020
+- Review of the EU school scheme legal framework with a view to refocus the scheme on healthy and sustainable food - 2023
+
+# REDUCE FOOD LOSS AND WASTE
+
+- Proposal for EU-level targets for food waste reduction - 2023
+- Proposal for a revision of EU rules on date marking (‘use by’ and ‘best before’ dates) - Q4 2022
+---
+© European Union, 2020
+Reuse of this document is allowed, provided appropriate credit is given and any changes are indicated (Creative Commons Attribution 4.0
+International license). For any use or reproduction of elements that are not owned by the EU, permission may need to be sought directly from
+the respective right holders. All images © European Union, unless otherwise stated. Icons © Freepik – all rights reserved.

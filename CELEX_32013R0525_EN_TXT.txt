@@ -1,0 +1,898 @@
+# REGULATION (EU) No 525/2013 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+
+# of 21 May 2013
+
+# on a mechanism for monitoring and reporting greenhouse gas emissions and for reporting other information at national and Union level relevant to climate change and repealing Decision No 280/2004/EC
+
+# (Text with EEA relevance)
+
+THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, and in order to implement new monitoring and reporting requirements provided for in Union law, Decision No 280/2004/EC should be replaced.
+
+Having regard to the Treaty on the Functioning of the European Union, and in particular Article 192(1) thereof,
+
+Having regard to the proposal from the European Commission,
+
+After transmission of the draft legislative act to the national parliaments,
+
+(2) Decision No 280/2004/EC should be replaced by a Regulation on account of the broader scope of Union law, the inclusion of additional categories of persons to which obligations are addressed, the more complex and highly technical nature of provisions introduced, the increased need for uniform rules applicable throughout the Union, and in order to facilitate implementation.
+
+Having regard to the opinion of the European Economic and Social Committee (1),
+
+(3) The ultimate objective of the UNFCCC is to stabilise greenhouse gas concentrations in the atmosphere at a level that would prevent dangerous anthropogenic interference with the climate system. In order to meet that objective, the overall global annual mean surface temperature increase should not exceed 2 °C above pre-industrial levels.
+
+(4) There is a need for thorough monitoring and reporting, and for regular assessment of Union and Member States’ greenhouse gas emissions and of their efforts to address climate change.
+
+(1) Decision No 280/2004/EC of the European Parliament and of the Council of 11 February 2004 concerning a mechanism for monitoring Community greenhouse gas emissions and for implementing the Kyoto Protocol (4) established a framework for monitoring anthropogenic greenhouse gas emissions by sources and greenhouse gas removals by sinks, evaluating progress towards meeting commitments in respect of those emissions and implementing monitoring and reporting requirements under the United Nations Framework Convention on Climate Change (UNFCCC) (5) and the Kyoto Protocol (6) in the Union. In order to take into account recent and future developments at international level relating to the UNFCCC and the Kyoto Protocol,
+
+(2) OJ C 277, 13.9.2012, p. 51.
+
+(1) OJ C 181, 21.6.2012, p. 169.
+
+(3) Position of the European Parliament of 12 March 2013 (not yet published in the Official Journal) and decision of the Council of 22 April 2013.
+
+(5) Council Decision 94/69/EC of 15 December 1993 concerning the conclusion of the United Nations Framework Convention on Climate Change (OJ L 33, 7.2.1994, p. 11).
+
+(6) Council Decision 2002/358/EC of 25 April 2002 concerning the approval, on behalf of the European Community, of the Kyoto Protocol to the United Nations Framework Convention on Climate Change and the joint fulfilment of commitments thereunder (OJ L 130, 15.5.2002, p. 1).
+
+Such strategies or plans are expected to contribute towards building a low-carbon society and ensure continued high growth and sustainable development, as well as moving in a cost-effective manner towards the long-term climate target, giving due consideration to the intermediary stages. This Regulation should facilitate the implementation of those monitoring and reporting requirements.
+---
+(6) The set of Union legal acts, adopted in 2009, collectively referred to as the ‘Climate and Energy package’ in particular Decision No 406/2009/EC of the European Parliament and of the Council of 23 April 2009 on the effort of Member States to reduce their greenhouse gas emissions to meet the Community’s greenhouse gas emission reduction commitments up to 2020 (1) and Directive 2009/29/EC of the European Parliament and of the Council of 23 April 2009 amending Directive 2003/87/EC so as to improve and extend the greenhouse gas emission allowance trading scheme of the Community (2), marks another firm commitment by the Union and the Member States to significantly reduce their greenhouse gas emissions. The Union’s system for monitoring and reporting emissions should also be updated in the light of new requirements under those two legal acts.
+
+(7) Under the UNFCCC, the Union and its Member States are required to develop, regularly update, publish and report to the Conference of the Parties national inventories of anthropogenic emissions by sources and removals by sinks of all greenhouse gases not controlled by the Montreal Protocol of 1987 on substances that deplete the ozone layer to the Vienna Convention for the Protection of the Ozone Layer (3) (the Montreal Protocol) using comparable methodologies agreed by the Conference of the Parties. Conference of the Parties to the UNFCCC, effective from 26 October 2010, respectively.
+
+(10) The experience gained in implementing Decision No 280/2004/EC has shown the need to increase synergies and coherence with reporting under other legal instruments, in particular with Directive 2003/87/EC of the European Parliament and of the Council of 13 October 2003 establishing a scheme for greenhouse gas emission allowance trading within the Community (4), with Regulation (EC) No 166/2006 of the European Parliament and of the Council of 18 January 2006 concerning the establishment Register (5), of a European Pollutant Release and Transfer with Directive 2001/81/EC of the European Parliament and of the Council of 23 October 2001 on national emission ceilings for certain atmospheric pollutants (6), with Regulation (EC) No 842/2006 of the European Parliament and of the Council of 17 May 2006 on certain fluorinated greenhouse gases (7), and with Regulation (EC) No 1099/2008 of the European Parliament and of the Council of 22 October 2008 on energy statistics (8). While streamlining reporting requirements will require the amendment of individual legal instruments, the use of consistent data to report greenhouse gas emissions is essential to ensuring the quality of emissions reporting.
+
+(8) Article 5(1) of the Kyoto Protocol requires the Union and the Member States to establish and maintain a national system for estimating anthropogenic emissions by sources and removals by sinks of all greenhouse gases not controlled by the Montreal Protocol, with a view to ensuring the implementation of other provisions of the Kyoto Protocol. In doing so, the Union and the Member States should apply the guidelines for national systems set out in the Annex to Decision 19/CMP.1 of the Conference of the Parties to the UNFCCC serving as the meeting of the Parties to the Kyoto Protocol (Decision 19/CMP.1). In addition, Decision 1/CP.16 requires the establishment of national arrangements to estimate anthropogenic emissions by sources and removals by sinks of all greenhouse gases not controlled by the Montreal Protocol. This Regulation should enable both of those requirements to be implemented.
+
+(9) Cyprus and Malta are included in Annex I to the UNFCCC pursuant to Decision 10/CP.17 of the Conference of the Parties to the UNFCCC, effective from 9 January 2013, and Decision 3/CP.15 of the
+
+(2) OJ L 140, 5.6.2009, p. 63.
+
+(1) OJ L 140, 5.6.2009, p. 136.
+
+((3) Council Decision 88/540/EEC of 14 October 1988 concerning the conclusion of the Vienna Convention for the protection of the ozone layer and the Montreal Protocol on substances that deplete the ozone layer (OJ L 297, 31.10.1988, p. 8).
+
+(11) The Fourth Assessment Report by the Intergovernmental Panel on Climate Change (IPCC) identified a global warming potential (GWP) for nitrogen trifluoride (NF3) which is approximately 17 000 times that of carbon dioxide (CO2). NF3 is increasingly being used in the electronics industry to replace perfluorocarbons (PFCs) and sulphur hexafluoride (SF6). In accordance with Article 191(2) of the Treaty on the Functioning of the European Union (TFEU), Union environment policy must be based on the precautionary principle. That principle requires the monitoring of NF3 to assess the level of emissions in the Union and, if required, to define mitigation action.
+
+(12) Data currently reported in the national greenhouse gas inventories and the national and Union registries are not sufficient to determine, at Member State level, the CO2 civil aviation emissions at national level that are not covered by Directive 2003/87/EC. In adopting reporting obligations, the Union should not impose upon Member States and small and medium-sized enterprises (SMEs) burdens that are disproportionate to the objectives pursued. CO2 emissions from flights not covered by Directive 2003/87/EC represent only a very minor part of the total greenhouse gas emissions, and establishing a reporting system for these emissions would be unduly.
+
+(4) OJ L 275, 25.10.2003, p. 32.
+
+(5) OJ L 33, 4.2.2006, p. 1.
+
+(6) OJ L 309, 27.11.2001, p. 22.
+
+(7) OJ L 161, 14.6.2006, p. 1.
+
+((8) OJ L 304, 14.11.2008, p. 1.
+---
+18.6.2013 EN Official Journal of the European Union L 165/15
+
+burdensome in the light of existing requirements for the wider sector pursuant to Directive 2003/87/EC. Therefore, CO2 emissions from IPCC source category ‘1.A.3.A civil aviation’ should be treated as being equal to zero for the purposes of Article 3 and Article 7(1) of Decision No 406/2009/EC.
+
+emissions from maritime transport, including amendments to this Regulation as appropriate, this Regulation should not prejudge any such proposal, and therefore provisions on the monitoring and reporting of emissions from maritime transport should not be included in this Regulation at this time.
+
+(13) In order to ensure the effectiveness of the arrangements for monitoring and reporting greenhouse gas emissions, it is necessary to avoid further adding to the financial and administrative burden already being borne by the Member States.
+
+(14) Whilst emissions and removals of greenhouse gases relating to land use, land-use change and forestry (LULUCF) count towards the Union’s emissions reduction target under the Kyoto Protocol, they are not part of the 20 % target for 2020 under the Climate and Energy package. Article 9 of Decision No 406/2009/EC requires the Commission to assess modalities for the inclusion of emissions and removals from activities relating to LULUCF in the Union’s greenhouse gas emission reduction commitment, ensuring permanence and internal reporting requirements on greenhouse gas projections and to evaluate its progress towards meeting its international and internal commitments and obligations, the Commission should also be able to prepare and use greenhouse gas projection estimates.
+
+(15) The Union and the Member States should strive to provide the most up-to-date information on their greenhouse gas emissions, in particular under the framework of the Europe 2020 strategy and its specified timelines. This Regulation should enable such estimates to be prepared in the shortest timeframes possible by using statistical and other information, such as, where appropriate, space-based data provided by the Global Monitoring for Environment and Security programme and other satellite systems.
+
+(16) Since the Commission has announced that it intends to propose new monitoring and reporting requirements for reporting of up-to-date information on technology transfer activities to developing countries based on the best data available.
+
+(17) The experience gained in implementing Decision No 280/2004/EC demonstrated the need to improve transparency, accuracy, consistency, completeness and comparability of information reported on policies and measures and on projections. Decision No 406/2009/EC requires that Member States report their projected progress towards meeting their obligations under that Decision, including information on national policies and measures and on national projections. The Europe 2020 strategy set an integrated economic policy agenda requiring the Union and the Member States to make further efforts on the timely reporting of climate change policies and measures and their projected effects on emissions. Creating systems at Union and Member State level coupled with better guidance on reporting should significantly contribute towards those goals.
+
+(18) Improved information from Member States is needed to monitor their progress and action in adapting to climate change. This information is needed to devise a comprehensive Union adaptation strategy pursuant to the Commission White Paper of 1 April 2009 entitled ‘Adapting to climate change: Towards a European framework for action’. The reporting of information on adaptation will enable Member States to exchange best practices and evaluate their needs and level of preparedness to deal with climate change.
+
+(19) Under Decision 1/CP.15, the Union and the Member States committed to providing substantial climate financing to support adaptation and mitigation action in developing countries. In accordance with paragraph 40 of Decision 1/CP.16, each developed country Party to the UNFCCC must enhance reporting on the provision of financial, technological and capacity-building support to developing country Parties. Enhanced reporting is essential to recognising the efforts made by the Union and Member States to meet their commitments. Decision 1/CP.16 also established a new ‘Technology Mechanism’ to enhance international technology transfer.
+
+(1) See page 80 of this Official Journal.
+---
+L 165/16 EN Official Journal of the European Union 18.6.2013
+
+(20) Directive 2008/101/EC of the European Parliament and of the Council (1) amended Directive 2003/87/EC so as to include aviation activities in the scheme for greenhouse gas emission allowance trading within the Union. Directive 2003/87/EC contains provisions on the use of auctioning revenue, on reporting on the use of auctioning revenue by Member States, and on the action taken pursuant to Article 3d of that Directive. Directive 2003/87/EC, as amended by Directive 2009/29/EC, now also contains provisions on the use of auctioning revenue, and states that at least 50 % of such revenue should be used for the purpose of one or more of the activities referred to in Article 10(3) of Directive 2003/87/EC. Transparency on the use of revenue generated from the auctioning of allowances under Directive 2003/87/EC is key to underpinning Union commitments.
+
+(21) Under the UNFCCC, the Union and its Member States are required to develop, regularly update, publish and report to the Conference of the Parties national communications and biennial reports using the guidelines, methodologies and formats agreed upon by the Conference of the Parties. Decision 1/CP.16 calls for enhanced reporting on mitigation targets and on the provision of financial, technological and capacity-building support to developing country Parties.
+
+(22) Decision No 406/2009/EC converted the current annual reporting cycle into an annual commitment cycle requiring a comprehensive review of Member States’ greenhouse gas inventories within a shorter time frame than the current UNFCCC inventory review, to enable the use of flexibilities and the application of corrective action, where necessary, at the end of each relevant year. Setting up at Union-level a review process of the greenhouse gas inventories submitted by Member States is necessary to ensure that compliance with Decision No 406/2009/EC is assessed in a credible, consistent, transparent and timely manner.
+
+(23) A number of technical elements relating to the reporting of greenhouse gas emissions from sources and removals by sinks, such as GWPs, the scope of greenhouse gases reported and methodological guidance from the IPCC to be used to prepare national greenhouse gas inventories, are currently being discussed under the UNFCCC process. Revisions of those methodological elements in the context of the UNFCCC process and subsequent recalculations of the time-series of greenhouse gas emissions may change the level and trends of greenhouse gas emissions. The Commission should monitor such developments at international level and, where necessary, propose revising this Regulation to ensure consistency with the methodologies used in the context of the UNFCCC process.
+
+(24) In accordance with the current UNFCCC greenhouse gas reporting guidelines, the calculation and reporting of methane emissions is based on GWPs relating to a 100-year time horizon. Given the high GWP and relatively short atmospheric lifetime of methane, the Commission should analyse the implications for policies and measures of adopting a 20-year time horizon for methane.
+
+(25) Taking into consideration the European Parliament resolution of 14 September 2011 on a comprehensive approach to non-CO2 climate-relevant anthropogenic emissions and once there is agreement under the UNFCCC to use agreed and published IPCC guidelines on monitoring and reporting of black carbon emissions, the Commission should analyse the implications for policies and measures and, if appropriate, amend Annex I to this Regulation.
+
+(26) Greenhouse gas emissions across reported time-series should be estimated using the same methods. The underlying activity data and emission factors should be obtained and used in a consistent manner, ensuring that changes in emission trends are not introduced as a result of changes in estimation methods or assumptions. Recalculations of greenhouse gas emissions should be performed in accordance with agreed guidelines and should be carried out with a view to improving the consistency, accuracy and completeness of the reported time-series, and the implementation of more detailed methods. Where the methodology or manner in which underlying activity data and emission factors are gathered has changed, Member States should recalculate inventories for the reported time-series and evaluate the need for recalculations based on the reasons provided in the agreed guidelines, in particular for key categories. This Regulation should lay down whether and under what conditions the effects of such recalculations should be taken into account for the purpose of determining annual emission allocations.
+
+(27) Aviation has impacts on the global climate as a result of the release of CO2 as well as of other emissions, including nitrogen oxides emissions, and mechanisms, such as cirrus cloud enhancement. In the light of the rapidly developing scientific understanding of those impacts, an updated assessment of the non-CO2 impacts of aviation on the global climate should be performed regularly in the context of this Regulation. The modelling used in this respect should be adapted to scientific progress. Based on its assessments of such impacts, the Commission could consider relevant policy options for addressing them.
+
+(1) OJ L 8, 13.1.2009, p. 3.
+---
+18.6.2013 EN Official Journal of the European Union L 165/17
+
+(28) The European Environment Agency aims to support sustainable development and to help achieve significant and measurable improvement in Europe’s environment by providing timely, targeted, relevant and reliable information to policy-makers, public institutions and the public. The European Environment Agency should assist the Commission, as appropriate, with monitoring and reporting work, especially in the context of the Union’s inventory system and its system for policies and measures and projections; in conducting an annual expert review of Member States’ inventories; in evaluating progress towards the Union’s emission reduction commitments; in maintaining the European Climate Adaptation Platform relating to impacts, vulnerabilities and adaptation to climate change; and in communicating sound climate information to the public.
+
+(29) All requirements concerning the provision of information and data under this Regulation should be subject to Union rules on data protection and commercial confidentiality.
+
+(30) Information and data gathered under this Regulation may also contribute to future Union climate change policy formulation and assessment. In accordance with decisions taken within the framework of the UNFCCC and the Kyoto Protocol; take account of changes in the GWPs and internationally agreed inventory guidelines; set substantive requirements for the Union inventory system; and set up the Union registry. It is of particular importance that the Commission carry out appropriate consultations during its preparatory work, including at expert level. The Commission, when preparing and drawing up delegated acts, should ensure a simultaneous, timely and appropriate transmission of relevant documents to the European Parliament and to the Council.
+
+(34) Since the objectives of this Regulation, namely establishing a mechanism for monitoring and reporting greenhouse gas emissions and for reporting other information at national and Union level relevant to climate change, cannot be sufficiently achieved by the Member States and can therefore, by reason of the scale and effects of the proposed action, be better achieved at Union level, the Union may adopt measures, in accordance with the principle of subsidiarity as set out in Article 5 of the Treaty on European Union. In accordance with the principle of proportionality, as set out in that Article, this Regulation does not go beyond what is necessary to achieve those objectives.
+
+(31) The Commission should follow the implementation of monitoring and reporting requirements under this Regulation and future developments under the UNFCCC and the Kyoto Protocol to ensure consistency. In this respect, the Commission should submit, if appropriate, a legislative proposal to the European Parliament and to the Council.
+
+(32) In order to ensure uniform conditions for the implementation of Article 5(4), Article 7(7) and (8), Article 8(2), Article 12(3), Article 17(4) and Article 19(5) and (6) of this Regulation, implementing powers should be conferred on the Commission. With the exception of Article 19(6), those powers should be exercised in accordance with Regulation (EU) No 182/2011 of the European Parliament and of the Council of 16 February 2011 laying down the rules and general principles concerning mechanisms for control by Member States of the Commission’s exercise of implementing powers (1).
+
+(33) In order to establish harmonised reporting requirements to monitor greenhouse gas emissions and other information relevant to climate change policy, the power to adopt acts in accordance with Article 290 TFEU should be delegated to the Commission in order to amend Annex I and Annex III to this Regulation in.
+
+(1) OJ L 55, 28.2.2011, p. 13.
+
+# CHAPTER 1
+
+# SUBJECT MATTER, SCOPE AND DEFINITIONS
+
+# Article 1
+
+# Subject matter
+
+This Regulation establishes a mechanism for:
+
+- (a) ensuring the timeliness, transparency, accuracy, consistency, comparability and completeness of reporting by the Union and its Member States to the UNFCCC Secretariat;
+- (b) reporting and verifying information relating to commitments of the Union and its Member States pursuant to the UNFCCC, to the Kyoto Protocol and to decisions adopted thereunder and evaluating progress towards meeting those commitments;
+- (c) monitoring and reporting all anthropogenic emissions by sources and removals by sinks of greenhouse gases not controlled by the Montreal Protocol on substances that deplete the ozone layer in the Member States;
+---
+# Official Journal of the European Union
+
+# 18.6.2013
+
+# Article 3
+
+# Definitions
+
+For the purposes of this Regulation, the following definitions apply:
+
+1. ‘global warming potential’ or ‘GWP’ of a gas means the total contribution to global warming resulting from the emission of one unit of that gas relative to one unit of the reference gas, CO2, which is assigned a value of 1;
+2. ‘national inventory system’ means a system of institutional, legal and procedural arrangements established within a Member State for estimating anthropogenic emissions by sources and removals by sinks of greenhouse gases not controlled by the Montreal Protocol, and for reporting and archiving inventory information in accordance with Decision 19/CMP.1 or other relevant decisions of UNFCCC or Kyoto Protocol bodies;
+3. ‘competent inventory authorities’ means authorities entrusted under a national inventory system with the task of compiling the greenhouse gas inventory;
+4. ‘quality assurance’ or ‘QA’ means a planned system of review procedures to ensure that data quality objectives are met and that the best possible estimates and information are reported to support the effectiveness of the quality control programme and to assist Member States;
+5. ‘quality control’ or ‘QC’ means a system of routine technical activities to measure and control the quality of the information and estimates compiled with the purpose of ensuring data integrity, correctness and completeness, identifying and addressing errors and omissions, documenting and archiving data and other material used, and recording all QA activities;
+6. ‘indicator’ means a quantitative or qualitative factor or variable that contributes to better understanding progress in implementing policies and measures and greenhouse gas emission trends;
+7. ‘assigned amount unit’ or ‘AAU’ means a unit issued pursuant to the relevant provisions in the Annex to Decision 13/CMP.1 of the Conference of the Parties to the UNFCCC serving as the meeting of the Parties to the Kyoto Protocol (Decision 13/CMP.1) or in other relevant decisions of UNFCCC or Kyoto Protocol bodies;
+8. ‘removal unit’ or ‘RMU’ means a unit issued pursuant to the relevant provisions in the Annex to Decision 13/CMP.1 or in other relevant decisions of UNFCCC or Kyoto Protocol bodies;
+
+# Article 2
+
+# Scope
+
+This Regulation shall apply to:
+
+1. reporting on the Union’s and its Member States’ low-carbon development strategies and any updates thereof in accordance with Decision 1/CP.16;
+2. emissions of greenhouse gases listed in Annex I to this Regulation from sectors and sources and the removals by sinks covered by the national greenhouse gas inventories pursuant to Article 4(1)(a) of the UNFCCC and emitted within the territories of the Member States;
+3. greenhouse gas emissions falling within the scope of Article 2(1) of Decision No 406/2009/EC;
+4. the non-CO2 related climate impacts, which are associated with emissions from civil aviation;
+5. the Union’s and its Member States’ projections of anthropogenic emissions by sources and removals by sinks of greenhouse gases not controlled by the Montreal Protocol, and the Member States’ policies and measures relating thereto;
+6. aggregate financial and technological support to developing countries in accordance with requirements under the UNFCCC;
+7. the use of revenue from auctioning allowances pursuant to Article 3d(1) and (2) and Article 10(1) of Directive 2003/87/EC;
+8. Member States’ actions to adapt to climate change.
+---
+# Official Journal of the European Union
+
+# L 165/19
+
+(9) ‘emission reduction unit’ or ‘ERU’ means a unit issued pursuant to the relevant provisions in the Annex to Decision 13/CMP.1 or in other relevant decisions of UNFCCC or Kyoto Protocol bodies;
+
+(10) ‘certified emission reduction’ or ‘CER’ means a unit issued pursuant to Article 12 of the Kyoto Protocol and requirements thereunder, as well as the relevant provisions in the Annex to Decision 13/CMP.1 or in other relevant decisions of UNFCCC or Kyoto Protocol bodies;
+
+(11) ‘temporary certified emission reduction’ or ‘tCER’ means a unit issued pursuant to Article 12 of the Kyoto Protocol and requirements thereunder, as well as the relevant provisions in the Annex to Decision 13/CMP.1, or in other relevant decisions of UNFCCC or Kyoto Protocol bodies, that is to say credits given for emission removals which are certified for an afforestation or reforestation clean development mechanism (CDM) project, to be replaced upon expiry at end of the second commitment period;
+
+(12) ‘long-term certified emission reduction’ or ‘lCER’ means a unit issued pursuant to Article 12 of the Kyoto Protocol and requirements thereunder, as well as the relevant provisions in the Annex to Decision 13/CMP.1, or in other relevant decisions of UNFCCC or Kyoto Protocol bodies, that is to say credits given for long-term emission removals which are certified for an afforestation or reforestation CDM project, to be replaced upon expiry at end of the project’s crediting period or in event of storage reversal or non-submission of a certification report;
+
+(13) ‘national registry’ means a registry in the form of a standardised electronic database which includes data on the issue, holding, transfer, acquisition, cancellation, retirement, carry-over, replacement or change of expiry date, as relevant, of AAUs, RMUs, ERUs, CERs, tCERs and lCERs;
+
+(14) ‘policies and measures’ means all instruments which aim to implement commitments under Article 4(2)(a) and (b) of the UNFCCC, which may include those that do not have the limitation and reduction of greenhouse gas emissions as a primary objective;
+
+(15) ‘system for policies and measures and projections’ means a system of institutional, legal and procedural arrangements established for reporting policies and measures and projections of anthropogenic emissions by sources and removals by sinks of greenhouse gases not controlled by the Montreal Protocol as required by Article 12 of this Regulation;
+
+(16) ‘ex ante assessment of policies and measures’ means an evaluation of the projected effects of a policy or measure;
+
+(17) ‘ex post assessment of policies and measures’ means an evaluation of the past effects of a policy or measure;
+
+(18) ‘projections without measures’ means projections of anthropogenic greenhouse gas emissions by sources and removals by sinks that exclude the effects of all policies and measures which are planned, adopted or implemented after the year chosen as the starting point for the relevant projection;
+
+(19) ‘projections with measures’ means projections of anthropogenic greenhouse gas emissions by sources and removals by sinks that encompass the effects, in terms of greenhouse gas emissions reductions, of policies and measures that have been adopted and implemented;
+
+(20) ‘projections with additional measures’ means projections of anthropogenic greenhouse gas emissions by sources and removals by sinks that encompass the effects, in terms of greenhouse gas emissions reductions, of policies and measures which have been adopted and implemented to mitigate climate change as well as policies and measures which are planned for that purpose;
+
+(21) ‘sensitivity analysis’ means an investigation of a model algorithm or an assumption to quantify how sensitive or stable the model output data are in relation to variations in the input data or underlying assumptions. It is carried out by varying input values or model equations and by observing how the model output varies correspondingly;
+
+(22) ‘climate change mitigation-related support’ means support for activities in developing countries that contribute to the objective of stabilising greenhouse gas concentrations in the atmosphere at a level that would prevent dangerous anthropogenic interference with the climate system;
+
+(23) ‘climate change adaptation-related support’ means support for activities in developing countries that are intended to reduce the vulnerability of human or natural systems to the impact of climate change and climate-related risks, by maintaining or increasing developing countries’ adaptive capacity and resilience;
+
+(24) ‘technical corrections’ means adjustments to the national greenhouse gas inventory estimates made in the context of the review carried out pursuant to Article 19 when the submitted inventory data are incomplete or are prepared in a way that is not consistent with relevant international or Union rules or guidelines and that are intended to replace originally submitted estimates;
+---
+L 165/20 EN Official Journal of the European Union 18.6.2013
+
+(25) ‘recalculations’, in accordance with the UNFCCC reporting guidelines on annual inventories, means a procedure for re-estimating anthropogenic greenhouse gas emissions by sources and removals by sinks of previously submitted inventories as a consequence of changes in methodologies or in the manner in which emission factors and activity data are obtained and used; the inclusion of new source and sink categories or of new gases; or changes in the GWP of greenhouse gases.
+
+# CHAPTER 2
+
+# LOW-CARBON DEVELOPMENT STRATEGIES
+
+# Article 4
+
+# Low-carbon development strategies
+
+1. Member States, and the Commission on behalf of the Union, shall prepare their low-carbon development strategies in accordance with any reporting provisions agreed internationally in the context of the UNFCCC process, to contribute to:
+
+- (a) the transparent and accurate monitoring of the actual and projected progress made by Member States, including the contribution made by Union measures, in fulfilling the Union’s and the Member States’ commitments under the UNFCCC to limit or reduce anthropogenic greenhouse gas emissions;
+- (b) meeting the greenhouse gas emission reduction commitments of Member States under Decision No 406/2009/EC and achieving long-term emission reductions and enhancements of removals by sinks in all sectors in line with the Union’s objective, in the context of necessary reductions according to the IPCC by developed countries as a group, to reduce emissions by 80 to 95 % by 2050 compared to 1990 levels in a cost-effective manner.
+
+with UNFCCC requirements on national systems, to estimate anthropogenic emissions by sources and removals by sinks of greenhouse gases listed in Annex I to this Regulation and to ensure the timeliness, transparency, accuracy, consistency, comparability and completeness of their greenhouse gas inventories.
+
+2. Member States shall ensure that their competent inventory authorities have access to:
+
+- (a) data and methods reported for activities and installations under Directive 2003/87/EC for the purpose of preparing national greenhouse gas inventories in order to ensure consistency of the reported greenhouse gas emissions under the Union’s emissions trading scheme and in the national greenhouse gas inventories;
+- (b) where relevant, data collected through the reporting systems on fluorinated gases in the various sectors, set up pursuant to Article 6(4) of Regulation (EC) No 842/2006 for the purpose of preparing national greenhouse gas inventories;
+- (c) where relevant, emissions, underlying data and methodologies reported by facilities under Regulation (EC) No 166/2006 for the purpose of preparing national greenhouse gas inventories;
+- (d) data reported under Regulation (EC) No 1099/2008.
+
+3. Member States shall ensure that their competent inventory authorities, where relevant:
+
+2. Member States shall report to the Commission on the status of implementation of their low-carbon development strategy by 9 January 2015 or in accordance with any timetable agreed internationally in the context of the UNFCCC process.
+
+- (a) make use of reporting systems established pursuant to Article 6(4) of Regulation (EC) No 842/2006 to improve the estimation of fluorinated gases in the national greenhouse gas inventories;
+
+3. The Commission and the Member States shall make available to the public forthwith their respective low-carbon development strategies and any updates thereof.
+
+# CHAPTER 3
+
+# REPORTING ON HISTORICAL GREENHOUSE GAS EMISSIONS AND REMOVALS
+
+# Article 5
+
+# National inventory systems
+
+1. Member States shall establish, operate and seek to continuously improve national inventory systems, in accordance
+
+4. The Commission shall adopt implementing acts to set out rules on the structure, format and submission process of the information relating to national inventory systems and to requirements on the establishment, operation and functioning of national inventory systems in accordance with relevant decisions adopted by the bodies of the UNFCCC or the Kyoto Protocol or of agreements deriving from them or succeeding them. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 26(2).
+---
+# Official Journal of the European Union
+
+# L 165/21
+
+# Article 6
+
+# Union inventory system
+
+1. A Union inventory system to ensure the timeliness, transparency, accuracy, consistency, comparability and completeness of national inventories with regard to the Union greenhouse gas inventory is hereby established. The Commission shall administer, maintain and seek to continuously improve that system, which shall include:
+
+- reported pursuant to Article 7 of Directive 2001/81/EC and the UNECE Convention on Long-Range Transboundary Pollution, for the year X-2;
+- their anthropogenic greenhouse gas emissions by sources and removals of CO2 by sinks resulting from LULUCF, for the year X-2, in accordance with UNFCCC reporting requirements;
+- a quality assurance and quality control programme, which shall include setting quality objectives and drafting an inventory quality assurance and quality control plan. The Commission shall assist Member States in implementing their quality assurance and quality control programmes;
+- a procedure to estimate, in consultation with the Member State concerned, any data missing from its national inventory;
+- the reviews of Member States’ greenhouse gas inventories referred to in Article 19.
+
+2. The Commission shall be empowered to adopt delegated acts in accordance with Article 25 concerning the substantive requirements for a Union inventory system in order to fulfil the obligations pursuant to Decision 19/CMP.1. The Commission shall not adopt provisions pursuant to paragraph 1 that are more onerous for Member States to comply with than provisions of acts adopted pursuant to Article 3(3) and Article 4(2) of Decision No 280/2004/EC.
+
+- (e) any changes to the information referred to in points (a) to (d) for the years between the relevant base year or period and the year X-3, indicating the reasons for these changes;
+- (f) information on indicators, as set out in Annex III, for the year X-2;
+- (g) information from their national registry on the issue, acquisition, holding, transfer, cancellation, retirement and carry-over of AAUs, RMUs, ERUs, CERs, tCERs and lCERs for the year X-1;
+- (h) summary information on concluded transfers pursuant to Article 3(4) and (5) of Decision No 406/2009/EC, for the year X-1;
+- (i) information on the use of joint implementation, of the CDM and of international emissions trading, pursuant to Articles 6, 12 and 17 of the Kyoto Protocol, or any other flexible mechanism provided for in other instruments adopted by the Conference of the Parties to the UNFCCC or the Conference of the Parties to the UNFCCC serving as the meeting of the Parties to the Kyoto Protocol, to meet.
+
+# Article 7
+
+# Greenhouse gas inventories
+
+1. By 15 January each year (year X), Member States shall determine and report the following to the Commission:
+
+- (a) their anthropogenic emissions of greenhouse gases listed in Annex I to this Regulation and the anthropogenic emissions of greenhouse gases referred to in Article 2(1) of Decision No 406/2009/EC for the year X-2, in accordance with UNFCCC reporting requirements. Without prejudice to the reporting of the greenhouse gases listed in Annex I to this Regulation, the CO2 emissions from IPCC source category ‘1.A.3.A civil aviation’ shall be considered equal to zero for the purposes of Article 3 and Article 7(1) of Decision No 406/2009/EC;
+- (b) data in accordance with UNFCCC reporting requirements on their anthropogenic emissions of carbon monoxide (CO), sulphur dioxide (SO2), nitrogen oxides (NOx) and volatile organic compounds, consistent with data already.
+---
+# Official Journal of the European Union
+
+# 18.6.2013
+
+their quantified emission limitation or reduction commitments pursuant to Article 2 of Decision 2002/358/EC and the Kyoto Protocol or any future commitments under the UNFCCC or the Kyoto Protocol, for the year X-2;
+
+1. Member States shall report to the Commission preliminary data by 15 January and final data by 15 March of the second year after the end of each accounting period specified in Annex I to Decision No 529/2013/EU, as prepared for their LULUCF accounts for that accounting period in accordance with Article 4(6) of that Decision.
+2. (j) information on the steps taken to improve inventory estimates, in particular in areas of the inventory that have been subject to adjustments or recommendations following expert reviews;
+3. (k) the actual or estimated allocation of the verified emissions reported by installations and operators under Directive 2003/87/EC to the source categories of the national greenhouse gas inventory, where possible, and the ratio of those verified emissions to the total reported greenhouse gas emissions in those source categories, for the year X-2;
+4. By 15 March each year, Member States shall communicate to the Commission a complete and up-to-date national inventory report. Such report shall contain all the information listed in paragraph 1 and any subsequent updates to that information.
+5. By 15 April each year, Member States shall submit to the UNFCCC Secretariat national inventories containing information submitted to the Commission in accordance with paragraph 3.
+6. (l) where relevant, the results of the checks performed on the consistency of the emissions reported in the greenhouse gas inventories, for the year X-2, with the verified emissions reported under Directive 2003/87/EC;
+7. (m) where relevant, the results of the checks performed on the consistency of the data used to estimate emissions in preparation of the greenhouse gas inventories, for the year X-2, with:
+8. The Commission shall, in cooperation with the Member States, annually compile a Union greenhouse gas inventory and prepare a Union greenhouse gas inventory report and shall submit them, by 15 April each year, to the UNFCCC Secretariat.
+9. The Commission shall be empowered to adopt delegated acts in accordance with Article 25 to:
+10. - (i) the data used to prepare inventories of air pollutants under Directive 2001/81/EC;
+- (ii) the data reported pursuant to Article 6(1) of Regulation (EC) No 842/2006;
+- (a) add or delete substances to or from the list of greenhouse gases in Annex I to this Regulation or add, delete or amend indicators in Annex III to this Regulation in accordance with relevant decisions adopted by the bodies of the UNFCCC or the Kyoto Protocol or of agreements deriving from them or succeeding them;
+- (iii) the energy data reported pursuant to Article 4 of, and Annex B to, Regulation (EC) No 1099/2008;
+
+(n) a description of changes to their national inventory system;
+11. (o) a description of changes to the national registry;
+12. (b) take account of changes in the GWPs and internationally agreed inventory guidelines in accordance with relevant decisions adopted by the bodies of the UNFCCC or the Kyoto Protocol or of agreements deriving from them or succeeding them.
+13. (p) information on their quality assurance and quality control plans, a general uncertainty assessment, a general assessment of completeness and, where available, other elements of the national greenhouse gas inventory report needed to prepare the Union greenhouse gas inventory report.
+
+In the first reporting year under this Regulation, Member States shall inform the Commission of any intention to make use of Article 3(4) and (5) of Decision No 406/2009/EC.
+
+The Commission shall adopt implementing acts to set out the structure, format and process for the Member States’ submission of greenhouse gas inventories pursuant to paragraph 1 in accordance with relevant decisions adopted by the bodies of the UNFCCC or the Kyoto Protocol or of agreements deriving from them or succeeding them. Those implementing acts shall also specify the timescales for cooperation and coordination between the Commission and the Member States in preparing the Union greenhouse gas inventory report. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 26(2).
+---
+# Official Journal of the European Union
+
+# 18.6.2013
+
+# L 165/23
+
+# Article 8
+
+# Approximated greenhouse gas inventories
+
+1. By 31 July each year (year X), Member States shall, where possible, submit to the Commission approximated greenhouse gas inventories for the year X-1. The Commission shall, on the basis of the Member States’ approximated greenhouse gas inventories or, if a Member State has not communicated its approximated inventories by that date, on the basis of its own estimates, annually compile a Union approximated greenhouse gas inventory. The Commission shall make this information available to the public each year by 30 September.
+
+2. The Commission shall adopt implementing acts to set out the structure, format and submission process for Member States’ approximated greenhouse gas inventories pursuant to paragraph 1. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 26(2).
+
+# Article 9
+
+# Procedures for completing emission estimates to compile the Union inventory
+
+1. The Commission shall perform an initial check of the data submitted by Member States pursuant to Article 7(1) for accuracy. It shall send the results of that check to Member States within six weeks of the submission deadline. Member States shall respond to any relevant questions raised by the initial check by 15 March, together with the final inventory submission for the year X-2.
+
+# Article 11
+
+# Retirement of units under the Kyoto Protocol
+
+1. Member States shall, following the completion of the review of their national inventories under the Kyoto Protocol for each year of the first commitment period under the Kyoto Protocol, including the resolution of any implementation issues, retire from the registry AAUs, RMUs, ERUs, CERs, tCERs and lCERs equivalent to their net emissions during that year.
+
+2. In respect of the last year of the first commitment period under the Kyoto Protocol, Member States shall retire units from the registry prior to the end of the additional period for fulfilling commitments set out in Decision 11/CMP.1 of the Conference of the Parties to the UNFCCC serving as the meeting of the Parties to the Kyoto Protocol.
+
+3. Where a Member State does not submit the inventory data required to compile the Union inventory by 15 March, the Commission may prepare estimates to complete the data submitted by the Member State, in consultation and close cooperation with the Member State concerned. The Commission shall use, for this purpose, the guidelines applicable for preparing the national greenhouse gas inventories.
+
+# CHAPTER 4
+
+# REGISTRIES
+
+# Article 10
+
+# Establishment and operation of registries
+
+1. The Union and the Member States shall set up and maintain registries to accurately account for the issue,
+
+# CHAPTER 5
+
+# REPORTING ON POLICIES AND MEASURES AND ON PROJECTIONS OF ANTHROPOGENIC GREENHOUSE GAS EMISSIONS BY SOURCES AND REMOVALS BY SINKS
+
+# Article 12
+
+# National and Union systems for policies and measures and projections
+
+1. By 9 July 2015, Member States and the Commission shall set up, operate and seek to continuously improve national and Union systems respectively, for reporting on policies and measures and for reporting on projections of anthropogenic greenhouse gas emissions by sources and removals by sinks. Those systems shall include the relevant institutional, legal and procedural arrangements established within a Member State and the Union for evaluating policy and making projections of anthropogenic greenhouse gas emissions by sources and removals by sinks.
+---
+# Official Journal of the European Union
+
+# 18.6.2013
+
+# Article 13
+
+# Reporting on policies and measures
+
+1. By 15 March 2015, and every two years thereafter, Member States shall provide the Commission with the following:
+
+- (a) a description of their national system for reporting on policies and measures, or groups of measures, and for reporting on projections of anthropogenic greenhouse gas emissions by sources and removals by sinks pursuant to Article 12(1), where such description has not already been provided, or information on any changes made to that system where such a description has already been provided;
+- (b) updates relevant to their low-carbon development strategies;
+- (c) information on national policies and measures, or groups of measures, and on implementation of Union policies and measures, or groups of measures, that limit or reduce greenhouse gas emissions by sources or enhance removals by sinks, presented on a sectoral basis and organised by gas or group of gases (HFCs and PFCs) listed in Annex I. That information shall refer to applicable and relevant national or Union policies and shall include:
+- (i) the objective of the policy or measure and a short description of the policy or measure;
+- (d) the information referred to in point (d) of Article 6(1) of Decision No 406/2009/EC;
+- (e) information on the extent to which the Member State’s action constitutes a significant element of the efforts undertaken at national level as well as the extent to which the projected use of joint implementation, of the CDM and of international emissions trading is supplemental to domestic action in accordance with the relevant provisions of the Kyoto Protocol and the decisions adopted thereunder.
+
+2. Member States and the Commission shall aim to ensure the timeliness, transparency, accuracy, consistency, comparability and completeness of the information reported on policies and measures and projections of anthropogenic greenhouse gas emissions by sources and removals by sinks, as referred to in Articles 13 and 14, including, where relevant, the use and application of data, methods and models, and the implementation of quality assurance and quality control activities and sensitivity analysis.
+
+(ii) the type of policy instrument;
+
+(iii) the status of implementation of the policy or measure or group of measures;
+
+(iv) where used, indicators to monitor and evaluate progress over time;
+
+3. The Commission shall adopt implementing acts on the structure, format and submission process of information on national and Union systems for policies and measures and projections pursuant to paragraphs 1 and 2 of this Article, Article 13 and Article 14(1), and in accordance with relevant decisions adopted by the bodies of the UNFCCC or the Kyoto Protocol or of agreements deriving from them or succeeding them. The Commission shall ensure consistency with internationally agreed reporting requirements as well as the compatibility of Union and international timetables for monitoring and reporting of that information. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 26(2).
+
+(v) where available, quantitative estimates of the effects on emissions by sources and removals by sinks of greenhouse gases broken down into:
+
+- — the results of ex ante assessments of the effects of individual or groups of policies and measures on the mitigation of climate change. Estimates shall be provided for a sequence of four future years ending with 0 or 5 immediately following the reporting year, with a distinction between greenhouse gas emissions covered by Directive 2003/87/EC and those covered by Decision No 406/2009/EC;
+- — the results of ex post assessments of the effects of individual or groups of policies and measures on the mitigation of climate change, with a distinction between greenhouse gas emissions covered by Directive 2003/87/EC and those covered by Decision No 406/2009/EC;
+
+(vi) where available, estimates of the projected costs and benefits of policies and measures, as well as estimates, as appropriate, of the realised costs and benefits of policies and measures;
+
+(vii) where available, all references to the assessments and the underpinning technical reports referred to in paragraph 3;
+---
+# 18.6.2013
+
+# Official Journal of the European Union
+
+# L 165/25
+
+# 2.
+
+A Member State shall communicate to the Commission any substantial changes to the information reported pursuant to this Article during the first year of the reporting period, by 15 March of the year following the previous report.
+
+# 3.
+
+Member States shall make available to the public, in electronic form, any relevant assessment of the costs and effects of national policies and measures, where available, and any relevant information on the implementation of Union policies and measures that limit or reduce greenhouse gas emissions by sources or enhance removals by sinks along with any existing technical reports that underpin those assessments. Those assessments should include descriptions of the models and methodological approaches used, definitions and underlying assumptions.
+
+# 3.
+
+Member States shall report the most up-to-date projections available. Where a Member State does not submit complete projection estimates by 15 March every second year, and the Commission has established that gaps in the estimates cannot be filled by that Member State once identified through the Commission’s QA or QC procedures, the Commission may prepare estimates as required to compile Union projections, in consultation with the Member State concerned.
+
+# 4.
+
+Member States shall make available to the public, in electronic form, their national projections of greenhouse gas emissions by sources and removals by sinks along with relevant technical reports that underpin those projections. Those projections should include descriptions of the models and methodological approaches used, definitions and underlying assumptions.
+
+# Article 14
+
+# Reporting on projections
+
+1. By 15 March 2015, and every two years thereafter, Member States shall report to the Commission national projections of anthropogenic greenhouse gas emissions by sources and removals by sinks, organised by gas or group of gases (HFCs and PFCs) listed in Annex I and by sector. Those projections shall include quantitative estimates for a sequence of four future years ending with 0 or 5 immediately following the reporting year. National projections shall take into consideration any policies and measures adopted at Union level and shall include:
+
+- (a) projections without measures where available, projections with measures, and, where available, projections with additional measures;
+
+# CHAPTER 6
+
+# REPORTING ON OTHER INFORMATION RELEVANT FOR CLIMATE CHANGE
+
+# Article 15
+
+# Reporting on national adaptation actions
+
+By 15 March 2015, and every four years thereafter, aligned with the timings for reporting to the UNFCCC, Member States shall report to the Commission information on their national adaptation planning and strategies, outlining their implemented or planned actions to facilitate adaptation to climate change. That information shall include the main objectives and the climate-change impact category addressed, such as flooding, sea level rise, extreme temperatures, droughts, and other extreme weather events.
+
+- (b) total greenhouse gas projections and separate estimates for the projected greenhouse gas emissions for the emission sources covered by Directive 2003/87/EC and by Decision No 406/2009/EC;
+- (c) the impact of policies and measures identified pursuant to Article 13. Where such policies and measures are not included, this shall be clearly stated and explained;
+
+# Article 16
+
+# Reporting on financial and technology support provided to developing countries
+
+1. Member States shall cooperate with the Commission to allow timely coherent reporting by the Union and its Member States on support provided to developing countries in accordance with the relevant provisions of the UNFCCC, as applicable, including any common format agreed under the UNFCCC, and to ensure annual reporting by 30 September.
+
+- (d) results of the sensitivity analysis performed for the projections;
+- (e) all relevant references to the assessment and the technical reports that underpin the projections referred to in paragraph 4.
+
+2. Member States shall communicate to the Commission any substantial changes to the information reported pursuant to this Article during the first year of the reporting period, by 15 March of the year following the previous report.
+
+3. Where information is reported on private financial flows mobilised, it shall include information on the definitions and methodologies used to determine any figures.
+---
+L 165/26 EN Official Journal of the European Union 18.6.2013
+
+# Article 17
+
+# Reporting on the use of auctioning revenue and project credits
+
+1. By 31 July each year (year X), Member States shall submit to the Commission for the year X-1:
+
+4. The Commission shall adopt implementing acts to set out the structure, format and submission processes for Member States’ reporting of information pursuant to this Article. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 26(2).
+
+# Article 18
+
+# Biennial reports and national communications
+
+1. The Union and the Member States shall submit biennial reports in accordance with Decision 2/CP.17 of the Conference of the Parties to the UNFCCC (Decision 2/CP.17), or subsequent relevant decisions adopted by the bodies of the UNFCCC, and national communications in accordance with Article 12 of the UNFCCC to the UNFCCC Secretariat.
+
+- (a) a detailed justification as referred to in Article 6(2) of Decision No 406/2009/EC;
+- (b) information on the use of revenues during the year X-1 generated by the Member State by auctioning allowances pursuant to Article 10(1) of Directive 2003/87/EC, including information on such revenue that has been used for one or more of the purposes specified in Article 10(3) of that Directive, or the equivalent in financial value of that revenue, and the actions taken pursuant to that Article;
+- (c) information on the use, as determined by the Member State, of all revenue generated by the Member State by auctioning aviation allowances pursuant to Article 3d(1) or (2) of Directive 2003/87/EC; that information shall be provided in accordance with Article 3d(4) of that Directive;
+- (d) information referred to in point (b) of Article 6(1) of Decision No 406/2009/EC and information on how their purchasing policy enhances the achievement of an international agreement on climate change;
+- (e) information regarding the application of Article 11b(6) of Directive 2003/87/EC as regards hydroelectric power production project activities with a generating capacity exceeding 20 MW.
+
+2. Auctioning revenue not disbursed at the time a Member State submits a report to the Commission pursuant to this Article shall be quantified and reported in reports for subsequent years.
+
+3. Member States shall make available to the public the reports submitted to the Commission pursuant to this Article. The Commission shall make aggregate Union information available to the public in an easily accessible form.
+
+# CHAPTER 7
+
+# UNION EXPERT REVIEW OF GREENHOUSE GAS EMISSIONS
+
+# Article 19
+
+# Inventory review
+
+1. The Commission shall carry out a comprehensive review of the national inventory data submitted by Member States pursuant to Article 7(4) of this Regulation to determine the annual emission allocation provided in the fourth subparagraph of Article 3(2) of Decision No 406/2009/EC, for the application of Articles 20 and 27 of this Regulation and with a view to monitoring Member States’ achievement of their greenhouse gas emission reduction or limitation targets pursuant to Articles 3 and 7 of Decision No 406/2009/EC in the years when a comprehensive review is carried out.
+
+2. Starting with the data reported for the year 2013, the Commission shall conduct an annual review of the national inventory data submitted by Member States pursuant to Article 7(1) of this Regulation that are relevant to monitor Member States’ greenhouse gas emission reduction or limitation pursuant to Articles 3 and 7 of Decision No 406/2009/EC, and any other greenhouse gas emission reduction or limitation targets set out in Union legislation. Member States shall participate fully in that process.
+
+3. The comprehensive review referred to in paragraph 1 shall involve:
+
+- (a) checks to verify the transparency, accuracy, consistency, comparability and completeness of information submitted;
+- (b) checks to identify cases where inventory data is prepared in a manner which is inconsistent with UNFCCC guidance documentation or Union rules;
+---
+# Official Journal of the European Union
+
+# L 165/27
+
+(c) where appropriate, calculating the resulting technical corrections necessary, in consultation with the Member States. The Commission shall calculate, in accordance with the formula set out in Annex II, the sum of the effects of the recalculated greenhouse gas emissions for each Member State.
+
+# 4.
+
+The annual reviews shall involve the checks set out in point (a) of paragraph 3. Where requested by a Member State in consultation with the Commission or where those checks identify significant issues, such as:
+
+- (a) recommendations from earlier Union or UNFCCC reviews which have not been implemented, or questions that have not been explained by a Member State; or
+
+# 2.
+
+Without prejudice to Article 27(2) of this Regulation, the Commission shall use, inter alia, the sum referred to in paragraph 1 of this Article when proposing the targets for emission reductions or limitations for each Member State for the period after 2020 pursuant to Article 14 of Decision No 406/2009/EC.
+
+# 3.
+
+The Commission shall forthwith publish the results of calculations made pursuant to paragraph 1.
+
+(b) overestimations or underestimations relating to a key category in a Member State’s inventory, the annual review for the Member State concerned shall also involve the checks set out in point (b) of paragraph 3 in order for the calculations set out in point (c) of paragraph 3 to be carried out.
+
+# CHAPTER 8
+
+# REPORTING ON PROGRESS TOWARDS UNION AND INTERNATIONAL COMMITMENTS
+
+# Article 21
+
+# Reporting on progress
+
+1. The Commission shall annually assess, based on information reported under this Regulation, and in consultation with the Member States, the progress made by the Union and its Member States to meet the following, with a view to determining whether sufficient progress has been made:
+
+- (a) commitments under Article 4 of the UNFCCC and Article 3 of the Kyoto Protocol as further set out in decisions adopted by the Conference of the Parties to the UNFCCC, or by the Conference of the Parties to the UNFCCC serving as the meeting of the Parties to the Kyoto Protocol. Such assessment shall be based on the information reported in accordance with Articles 7, 8, 10 and 13 to 17;
+- (b) obligations set out in Article 3 of Decision No 406/2009/EC. Such assessment shall be based on the information reported in accordance with Articles 7, 8, 13 and 14.
+
+2. The Commission shall biennially assess aviation’s overall impact on the global climate including through non-CO2 emissions or effects, based on the emission data provided by Member States pursuant to Article 7, and improve that assessment by reference to scientific advancements and air traffic data, as appropriate.
+
+# Article 20
+
+# Addressing the effects of recalculations
+
+1. When the comprehensive review of inventory data relating to the year 2020 has been completed pursuant to Article 19,
+
+# 3.
+
+By 31 October each year, the Commission shall submit a report summarising the conclusions of the assessments provided for in paragraphs 1 and 2 to the European Parliament and to the Council.
+---
+# Official Journal of the European Union
+
+# L 165/28
+
+# 18.6.2013
+
+# Article 22
+
+in accordance with its annual work programme. This shall include assistance with:
+
+- (a) compiling the Union greenhouse gas inventory and preparing the Union greenhouse gas inventory report;
+- (b) performing quality assurance and quality control procedures to prepare the Union greenhouse gas inventory;
+- (c) preparing estimates for data not reported in the national greenhouse gas inventories;
+- (d) conducting the reviews;
+- (e) compiling the Union approximated greenhouse gas inventory;
+- (f) compiling the information reported by Member States on policies and measures and projections;
+- (g) performing quality assurance and quality control procedures on the information reported by Member States on projections and policies and measures;
+- (h) preparing estimates for data on projections not reported by the Member States;
+- (i) compiling data as required for the annual report to the European Parliament and the Council prepared by the Commission;
+- (j) disseminating information collected under this Regulation, including maintaining and updating a database on Member States’ mitigation policies and measures and the European Climate Adaptation Platform relating to impacts, vulnerabilities and adaptation to climate change.
+
+# CHAPTER 9
+
+# COOPERATION AND SUPPORT
+
+# Article 23
+
+Cooperation between the Member States and the Union
+
+Member States and the Union shall cooperate and coordinate fully with each other in relation to obligations under this Regulation concerning:
+
+- (a) compiling the Union greenhouse gas inventory and preparing the Union greenhouse gas inventory report, pursuant to Article 7(5);
+- (b) preparing the Union national communication pursuant to Article 12 of the UNFCCC and the Union biennial report pursuant to Decision 2/CP.17 or subsequent relevant decisions adopted by the bodies of the UNFCCC;
+- (c) review and compliance procedures under the UNFCCC and the Kyoto Protocol in accordance with any applicable decision under the UNFCCC or the Kyoto Protocol as well as the Union’s procedure to review Member States greenhouse gas inventories referred to in Article 19 of this Regulation;
+- (d) any adjustments pursuant to Article 5(2) of the Kyoto Protocol or following the Union review process referred to in Article 19 of this Regulation or other changes to inventories and inventory reports submitted, or to be submitted, to the UNFCCC Secretariat;
+- (e) compiling the Union approximated greenhouse gas inventory, pursuant to Article 8;
+- (f) reporting in relation to the retirement of AAUs, RMUs, ERUs, CERs, tCERs and lCERs, after the additional period referred to in paragraph 14 of Decision 13/CMP.1 for fulfilling commitments pursuant to Article 3(1) of the Kyoto Protocol.
+
+# CHAPTER 10
+
+# DELEGATION
+
+# Article 25
+
+Exercise of the delegation
+
+1. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+2. The power to adopt delegated acts referred to in Articles 6, 7 and 10 shall be conferred on the Commission for a period of five years from 8 July 2013. The Commission shall draw up a report in respect of the delegation of power not later than nine months before the end of the five-year period.
+
+# Article 24
+
+Role of the European Environment Agency
+
+The European Environment Agency shall assist the Commission in its work to comply with Articles 6 to 9, 12 to 19, 21 and 22.
+---
+# 18.6.2013
+
+# Official Journal of the European Union
+
+# L 165/29
+
+delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.
+
+3. The delegation of power referred to in Articles 6, 7 and 10 may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+
+4. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+5. A delegated act adopted pursuant to Articles 6, 7 and 10 shall enter into force only if no objection has been expressed either by the European Parliament or the Council within a period of three months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by three months at the initiative of the European Parliament or of the Council.
+
+# CHAPTER 11
+
+# FINAL PROVISIONS
+
+# Article 26
+
+# Committee procedure
+
+1. The Commission shall be assisted by a Climate Change Committee. That Committee shall be a committee within the meaning of Regulation (EU) No 182/2011.
+
+2. Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
+
+# Article 27
+
+# Review
+
+1. The Commission shall regularly review the conformity of the monitoring and reporting provisions under this Regulation with future decisions relating to the UNFCCC and the Kyoto Protocol or other Union legislation. The Commission shall also regularly assess whether developments within the framework of the UNFCCC give rise to a situation where the obligations pursuant to this Regulation are no longer necessary, not proportionate to the corresponding benefits, need adjusting or are not consistent with, or are duplicative of, reporting requirements under the UNFCCC, and shall submit, if appropriate, a legislative proposal to the European Parliament and to the Council.
+
+2. By December 2016, the Commission shall examine if the impact of the use of the 2006 IPCC guidelines for National Greenhouse Gas Inventories, or a significant change to UNFCCC methodologies used, in determining the greenhouse gas inventories leads to a difference of more than 1 % in a Member State’s total greenhouse gas emissions relevant for Article 3 of Decision No 406/2009/EC and may revise Member States’ annual emissions allocations as provided in the fourth subparagraph of Article 3(2) of Decision No 406/2009/EC.
+
+# Article 28
+
+# Repeal
+
+Decision No 280/2004/EC is hereby repealed. References to the repealed Decision shall be construed as references to this Regulation and shall be read in accordance with the correlation table in Annex IV.
+
+# Article 29
+
+# Entry into force
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Strasbourg, 21 May 2013.
+
+For the European Parliament
+
+The President
+
+M. SCHULZ
+
+For the Council
+
+The President
+
+L. CREIGHTON
+---
+# ANNEX I
+
+# GREENHOUSE GASES
+
+- Carbon dioxide (CO2)
+- Methane (CH4)
+- Nitrous Oxide (N2O)
+- Sulphur hexafluoride (SF6)
+- Nitrogen trifluoride (NF3)
+- Hydrofluorocarbons (HFCs):
+- — HFC-23 CHF3
+- — HFC-32 CH2F2
+- — HFC-41 CH3F
+- — HFC-125 CHF2CF3
+- — HFC-134 CHF2CHF2
+- — HFC-134a CH2FCF3
+- — HFC-143 CH2FCHF2
+- — HFC-143a CH3CF3
+- — HFC-152 CH2F2
+- — HFC-152a CH3CHF2
+- — HFC-161 CH2F3
+- — HFC-227ea CF3CHFCF3
+- — HFC-236cb CF3CF2CH2F
+- — HFC-236ea CF3CHFCHF2
+- — HFC-236fa CF3CH2CF3
+- — HFC-245fa CHF2CH2CF3
+- — HFC-245ca CH2FCF2CHF2
+- — HFC-365mfc CH3CF2CH2CF3
+- — HFC-43-10mee CF3CHFCHFCF2CF3 or (C2H2F10)5
+- Perfluorocarbons (PFCs):
+- — PFC-14, Perfluoromethane, CF4
+- — PFC-116, Perfluoroethane, CF6
+- — PFC-218, Perfluoropropane, C3F8
+- — PFC-318, Perfluorocyclobutane, c-CF8
+- — Perfluorocyclopropane, c-CF3
+- — PFC-3-1-10, Perfluorobutane, C4F10
+- — PFC-4-1-12, Perfluoropentane, CF12
+- — PFC-5-1-14, Perfluorohexane, CF14
+- — PFC-9-1-18, C10F18
+---
+# 18.6.2013
+
+# Official Journal of the European Union
+
+# L 165/31
+
+# ANNEX II
+
+The sum of the effects of recalculated greenhouse gas emissions by Member State as referred to in Article 20(1)
+
+The sum of the effects of recalculated greenhouse gas emissions by Member State shall be calculated using the following formula:
+
+Σi¼2013 ½t i;2022 – ei;2022 – ðt i; – ei;iþ2Þâ 2020
+
+Where:
+
+- — ti, is the Member State’s annual emission allocation for year i as determined pursuant to the fourth paragraph of Article 3(2) and Article 10 of Decision No 406/2009/EC either as determined in 2012 or, if applicable, as determined in 2016 on the basis of the revision carried out in accordance with Article 27(2) of this Regulation and pursuant to Article 3(2) of Decision No 406/2009/EC;
+- — ti,2022 is the Member State’s annual emission allocation for year i pursuant to the fourth paragraph of Article 3(2) and Article 10 of Decision No 406/2009/EC as it would have been calculated if reviewed inventory data submitted in 2022 had been used as an input;
+- — ei,j is the Member State’s greenhouse gas emissions for year i as established pursuant to acts adopted by the Commission pursuant to Article 19(6) following the expert inventory review in year j.
+---
+# ANNEX III
+
+# LIST OF ANNUAL INDICATORS
+
+# Table 1: list of priority indicators (1)
+
+|No|Nomenclature in Eurostat|Indicator|Numerator/denominator|Guidance/definitions (2) (3)|
+|---|---|---|---|---|
+|1|MACRO|Total CO2 intensity of GDP, t/million euro|Total CO2 emissions, kt|Total CO2 emissions (excluding LULUCF) as reported in the CRF. GDP, billion euro (EC95) Gross domestic product at constant 1995 prices (source: National Accounts).|
+|2|MACRO B0|Energy-related CO2 intensity of CO2 emissions from energy consumption, kt|CO2 emissions from combustion of fossil fuels (IPCC source category 1A, sectoral approach).|GDP, billion euro (EC95) Gross domestic product at constant 1995 prices (source: National Accounts)|
+|3|TRANSPORT C0|CO2 emissions from passenger cars, kt|CO2 emissions from the combustion of fossil fuels for all transport activity with passenger cars (automobiles designated primarily for transport of persons and having capacity of 12 persons or fewer; gross vehicle weight rating of 3 900 kg or less — IPCC source category 1A3bi).|Number of kilometres by passenger cars, Mkm Note: activity data should be consistent with the emission data, if possible.|
+|4|INDUSTRY A1|Energy-related CO2 intensity of CO2 emissions from industry, kt|Emissions from combustion of fossil fuels in manufacturing industries, construction and mining and quarrying (except coal mines and oil and gas extraction) including combustion for the generation of electricity and heat (IPCC source category 1A2). Energy used for transport by industry should not be included here but in the transport indicators. Emissions arising from off-road and other mobile machinery in industry should be included in this sector.|Gross value-added total industry, billion euro Gross value added at constant 1995 prices in manufacturing industries (NACE 15-22, 24-37), construction (NACE 45) and mining and quarrying (except coal mines and oil and gas extraction) (NACE 13-14) (source: National Accounts).|
+---
+# energy efficiency indicators
+
+|No|Nomenclature in Eurostat|Indicator|Numerator/denominator|Guidance/definitions|
+|---|---|---|---|---|
+|5|HOUSEHOLDS A.1|Specific CO2 emissions of households, t/dwelling|CO2 emissions from fossil fuel consumption in households, kt|CO2 emissions from fossil fuel combustion in households (IPCC source category 1A4b). Stock of permanently occupied dwellings, 1 000|
+|6|SERVICES A0|CO2 intensity of the commercial and institutional sector, t/million euro|CO2 emissions from fossil fuel consumption in commercial and institutional sector, kt|CO2 emissions from fossil fuel combustion in commercial and institutional buildings in the public and private sectors (IPCC source category 1A4a). Energy used for transport by services should not be included here but in the transport indicators. Gross value-added services, billion euro (EC95)|
+|7|TRANSFORMATION B0|Specific CO2 emissions of public and autoproducer power plants, t/TJ|CO2 emissions from public and autoproducer thermal power stations, kt|CO2 emissions from all fossil fuel combustion for gross electricity and heat production by public and autoproducer thermal power and combined heat and power plants. Emissions from heat only plants are not included. All products — output by public and autoproducer thermal power stations, PJ Gross electricity produced and any heat sold to third parties (combined heat and power plants — CHP) by public and autoproducer thermal power and combined heat and power plants. Output from heat only plants is not included. Public thermal plants generate electricity (and heat) for sale to third parties, as their primary activity. They may be privately or publicly owned. Autoproducer thermal power stations generate electricity (and heat) wholly or partly for their use as an activity, which supports their primary activity. The gross electricity generation is measured at the outlet of the main transformers, i.e. the consumption of electricity in the plant auxiliaries and in transformers is included. (source: energy balance).|
+
+(2) Member States should follow this guidance. If they cannot follow exactly this guidance or if numerator and denominator are not entirely consistent, Member States should clearly indicate this.
+
+(1) Member States shall report numerator and denominator, if not included in the common reporting format (CRF).
+
+(3) The references to IPCC source categories refer to IPCC (1996) Revised 1996 IPCC Guidelines for National Greenhouse Gas Inventories.
+---
+|No|Nomenclature in Eurostat|Indicator|Numerator/denominator|Guidance/definitions|
+|---|---|---|---|---|
+|1|TRANSPORT D0|CO2 emissions from freight transport on road, kt|CO2 emissions from the combustion of fossil fuel for all transport activity with light duty trucks (vehicles with a gross vehicle weight of 3 900 kg or less designated primarily for transportation of light-weight cargo or which are equipped with special features such as four-wheel drive for off-road operation — IPCC source category 1A3bii) and heavy duty trucks (any vehicle rated at more than 3 900 kg gross vehicle weight designated primarily for transportation of heavy-weight cargo — IPCC source category 1A3biii excluding buses).|Freight transport on road, Mtkm|
+| | | |Number of tonne-kilometres transported in light and heavy duty trucks on road; one tonne-kilometre represents the transport of one tonne by road over one kilometre (source: transport statistics).|Note: activity data should be consistent with the emission data, if possible.|
+|2|INDUSTRY A1.1|Total CO2 intensity — iron and steel industry, t/million euro|Total CO2 emissions from iron and steel, kt|CO2 emissions from combustion of fossil fuels in manufacture of iron and steel including combustion for the generation of electricity and heat (IPCC source category 1A2a), from the iron and steel production process (IPCC source category 2C1) and from ferroalloys production process (IPCC source category 2C2).|
+| | | |Gross value-added — iron and steel industry, billion euro (EC95)|Gross value added at constant 1995 prices in manufacture of basic iron and steel and of ferro-alloys (NACE 27.1), manufacture of tubes (NACE 27.2), other first processing of iron and steel (NACE (27.3), casting of iron (NACE 27.51) and casting of steel (NACE 27.52) (source: National Accounts).|
+|3|INDUSTRY A1.2|Energy-related CO2 intensity — chemical industry, t/million euro|Energy-related CO2 emissions chemical industries, kt|CO2 emissions from combustion of fossil fuels in manufacture of chemicals and chemical products including combustion for the generation of electricity and heat (IPCC source category 1A2c).|
+| | | |Gross value-added chemical industry, billion euro (EC95)|Gross value added at constant 1995 prices in manufacture of chemicals and chemical products (NACE 24) (source: National Accounts).|
+|4|INDUSTRY A1.3|Energy-related CO2 intensity — glass, pottery and building materials industry, t/million euro|Energy-related CO2 emissions glass, pottery and building materials, kt|CO2 emissions from combustion of fuels in manufacture of non-metallic mineral products (NACE 26) including combustion for the generation of electricity and heat.|
+| | | |Gross value-added — glass, pottery and buildings materials industry, billion euro (EC95)|Gross value added at constant 1995 prices in manufacture of non-metallic mineral products (NACE 26) (source: National Accounts).|
+---
+# energy efficiency indicators
+
+# 5 INDUSTRY C0.1
+
+Specific CO2 emissions of iron and steel industry, t/t
+
+|Total CO2 emissions from iron and steel, kt|CO2 emissions from combustion of fossil fuels in manufacture of iron and steel including combustion for the generation of electricity and heat (IPCC source category 1A2a), from the iron and steel production process (IPCC source category 2C1) and from ferroalloys production process (IPCC source category 2C2).|
+|---|---|
+|Production of oxygen steel, kt|Production of oxygen steel (NACE 27) (source: production statistics).|
+
+# 6 INDUSTRY C0.2
+
+Specific energy-related CO2 emissions of cement industry, t/t
+
+|Energy-related CO2 emissions from glass, pottery and building materials, kt|CO2 emissions from combustion of fuels in manufacture of non-metallic mineral products (NACE 26) including combustion for the generation of electricity and heat.|
+|---|---|
+|Cement production, kt|Cement production (NACE 26) (source: production statistics).|
+
+(2) Member States should follow this guidance. If they cannot follow exactly this guidance or if numerator and denominator are not entirely consistent, Member States should clearly indicate this.
+
+(1) Member States shall report numerator and denominator, if not included in the CRF.
+
+# Table 3: list of supplementary indicators
+
+# 1 TRANSPORT B0
+
+Specific diesel related CO2 emissions of passenger cars, g/100 km
+
+|CO2 emissions of diesel-driven passenger cars, kt|CO2 emissions from the combustion of diesel for all transport activity with passenger cars (automobiles designated primarily for transport of persons and having capacity of 12 persons or fewer; gross vehicle weight rating of 3 900 kg or less — IPCC source category 1A3bi only diesel).|
+|---|---|
+|Number of kilometres of diesel-driven passenger cars, million km|Number of vehicle kilometres of total diesel-driven passenger cars licensed to use roads open to public traffic (source: transport statistics).|
+
+# 2 TRANSPORT B0
+
+Specific petrol related CO2 emissions of passenger cars, g/100 km
+
+|CO2 emissions of petrol-driven passenger cars, kt|CO2 emissions from the combustion of petrol for all transport activity with passenger cars (automobiles designated primarily for transport of persons and having capacity of 12 persons or fewer; gross vehicle weight rating of 3 900 kg or less — IPCC source category 1A3bi only petrol).|
+|---|---|
+|Number of kilometres of petrol-driven passenger cars, million km|Number of vehicle kilometres of total petrol-driven passenger cars licensed to use roads open to public traffic (source: transport statistics).|
+---
+# Nomenclature in Eurostat
+
+# energy efficiency indicators
+
+|No|Indicator|Numerator/denominator|Guidance/definitions|
+|---|---|---|---|
+|3|TRANSPORT C0|Specific CO2 emissions of passenger cars, t/pkm|CO2 emissions from the combustion of fossil fuels for all transport activity with passenger cars (automobiles designated primarily for transport of persons and having capacity of 12 persons or fewer; gross vehicle weight rating of 3 900 kg or less — IPCC source category 1A3bi).|
+| | |Passenger transport by cars, Mpkm|Number of passenger-kilometres travelled in passenger cars; one passenger-kilometre is the transport of one passenger over one kilometre (source: transport statistics). Note: activity data should be consistent with the emission data, if possible.|
+|4|TRANSPORT E1|Specific air-transport emissions, t/passenger|CO2 emissions from domestic air transport (commercial, private, agricultural, etc.), including take-offs and landings (IPCC source category 1A3aii). Exclude use of fuel at airports for ground transport. Also exclude fuel for stationary combustion at airports.|
+| | |Domestic air-passengers, million|Number of persons, excluding on-duty members of the flight and cabin crews, making a journey by air (domestic aviation only) (source: transport statistics). Note: activity data should be consistent with the emission data, if possible.|
+|5|INDUSTRY A1.4|Energy-related CO2 intensity — Energy-related CO2 emissions food industries, kt|CO2 emissions from combustion of fossil fuels in manufacture of food products and beverages and tobacco products including combustion for the generation of electricity and heat (IPCC source category 1A2e).|
+| | |Gross value-added — food, drink and tobacco industry, million euro (EC95)|Gross value added at constant 1995 prices in manufacture of food products and beverages (NACE 15) and tobacco products (NACE 16) (source: National Accounts).|
+|6|INDUSTRY A1.5|Energy-related CO2 intensity — Energy-related CO2 emissions paper and printing, kt|CO2 emissions from combustion of fossil fuels in manufacture of pulp, paper and paper products and publishing, printing and reproduction of recorded media including emissions from combustion for the generation of electricity and heat (IPCC source category 1A2d).|
+| | |Gross value-added — paper and printing industry, million euro (EC95)|Gross value added at constant 1995 prices in manufacture of pulp, paper and paper products (NACE 21) and publishing, printing and reproduction of recorded media (NACE 22) (source: National Accounts).|
+---
+# energy efficiency indicators
+
+|No|Nomenclature in Eurostat|Indicator|Numerator/denominator|Guidance/definitions|
+|---|---|---|---|---|
+|7|HOUSEHOLDS A0|Specific CO2 emissions of households for space heating, t/m2|CO2 emissions for space heating in households, kt|CO2 emissions from fuel combustion for space heating in households.|
+| | | |Surface area of permanently occupied dwellings, million m2|Total surface area of permanently occupied dwellings.|
+|8|SERVICES B0|Specific CO2 emissions of commercial and institutional sector for space heating, kg/m2|CO2 emissions from space heating in commercial and institutional, kt|CO2 emissions from fossil fuel combustion for space heating in commercial and institutional buildings in the public and private sectors.|
+| | | |Surface area of services buildings, million m2|Total surface area of services buildings (NACE 41, 50, 51, 52, 55, 63, 64, 65, 66, 67, 70, 71, 72, 73, 74, 75, 80, 85, 90, 91, 92, 93, 99).|
+|9|TRANSFORMATION D0|Specific CO2 emissions of public power plants, t/TJ|CO2 emissions from public thermal power stations, kt|CO2 emissions from all fossil fuel combustion for gross electricity and heat production by public thermal power and combined heat and power plants (IPCC source categories 1A1ai and 1A1aii). Emissions from heat only plants are not included.|
+| | | |All products output by public thermal power stations, PJ| |
+| | | |Gross electricity produced and any heat sold to third parties (combined heat and power plants — CHP) by public thermal power and combined heat and power plants. Output from heat only plants is not included. Public thermal plants generate electricity (and heat) for sale to third parties, as their primary activity. They may be privately or publicly owned. The gross electricity generation is measured at the outlet of the main transformers, i.e. the consumption of electricity in the plant auxiliaries and in transformers is included (source: energy balance).| |
+|10|TRANSFORMATION E0|Specific CO2 emissions of auto producer plants, t/TJ|CO2 emissions from autoproducers, kt|CO2 emissions from all fossil fuel combustion for gross electricity and heat production by autoproducer thermal power and combined heat and power plants.|
+| | | |All products output by autoproducer thermal power stations, PJ| |
+| | | |Gross electricity produced and any heat sold to third parties (combined heat and power — CHP) by autoproducer thermal power and combined heat and power plants. Autoproducer thermal power stations generate electricity (and heat) wholly or partly for their use as an activity, which supports their primary activity. The gross electricity generation is measured at the outlet of the main transformers, i.e. the consumption of electricity in the plant auxiliaries and in transformers is included (source: energy balance).| |
+|11|TRANSFORMATION|Carbon intensity of total power generation, t/TJ|CO2 emissions from classical power production, kt|CO2 emissions from all fossil fuel combustion for gross electricity and heat production by public thermal power and combined heat and power plants.|
+---
+# Nomenclature in Eurostat
+
+# Energy Efficiency Indicators
+
+|No|Indicator|Numerator/denominator|Guidance/definitions|
+|---|---|---|---|
+|11|Gross electricity produced and any heat sold to third parties (combined heat and power — CHP) by public and autoproducer power and combined heat and power plants.|All products output by public and autoproducer power stations, PJ|Includes electricity production from renewable sources and nuclear power (source: energy balance).|
+|12|Carbon intensity of transport, t/TJ|CO2 emissions from transport, kt|CO2 emissions from fossil fuels for all transport activity (IPCC source category 1A3).|
+| |Total final energy consumption from transport, PJ| |Includes total final energy consumption of transport from all energy sources (including biomass and electricity consumption) (source: energy balance).|
+|13|Specific energy-related CO2 emissions of paper industry, t/t|Energy-related CO2 emissions paper and printing industries, kt|CO2 emissions from combustion of fossil fuels in manufacture of pulp, paper and paper products and publishing, printing and reproduction of recorded media including emissions from combustion for the generation of electricity and heat (IPCC source category 1A2d).|
+| |Physical output of paper, kt| |Physical output of paper (NACE 21) (source: production statistics).|
+|14|CO2 emissions from the industry sector, kt| |Emissions from combustion of fossil fuels in manufacturing industries, construction and mining and quarrying (except coal mines and oil and gas extraction) including combustion for the generation of electricity and heat (IPCC source category 1A2). Energy used for transport by industry should not be included here but in the transport indicators. Emissions arising from off-road and other mobile machinery in industry should be included in this sector.|
+| |Total final energy consumption from industry, PJ| |Includes total final energy consumption of industry from all energy sources (including biomass and electricity consumption) (source: energy balance).|
+|15|CO2 emissions from households, kt| |CO2 emissions from fossil fuel combustion in households (IPCC source category 1A4b).|
+| |Total final energy consumption from households, PJ| |Includes total final energy consumption of households from all energy sources (including biomass and electricity consumption) (source: energy balance).|
+---
+# ANNEX IV
+
+# CORRELATION TABLE
+
+|Decision No 280/2004/EC|This Regulation|
+|---|---|
+|Article 1|Article 1|
+|Article 2(1)|Article 4(1)|
+|Article 2(2)|—|
+|Article 2(3)|Article 4(3)|
+|Article 3(1)|Article 7(1) and Article 7(3)|
+|Article 3(2)|Article 13(1) and Article 14(1)|
+|Article 3(3)|Article 12(3)|
+|Article 4(1)|Article 6|
+|Article 4(2)|—|
+|Article 4(3)|Article 24|
+|Article 4(4)|Article 5(1)|
+|Article 5(1)|Article 21(1)|
+|Article 5(2)|Article 21(3)|
+|Article 5(3)|—|
+|Article 5(4)|—|
+|Article 5(5)|Article 22|
+|Article 5(6)|—|
+|Article 5(7)|Article 24|
+|Article 6(1)|Article 10(1)|
+|Article 6(2)|Article 10(3)|
+|Article 7(1)|—|
+|Article 7(2)|Article 11(1) and Article 11(2)|
+|Article 7(3)|—|
+|Article 8(1)|Article 23|
+|Article 8(2)|Article 7(4)|
+|Article 8(3)|—|
+|Article 9(1)|Article 26|
+|Article 9(2)|—|
+|Article 9(3)|—|
+|Article 10|—|
+|Article 11|Article 28|
+|Article 12|Article 29|
+---
+# Commission statements
+
+"The Commission takes note of the deletion of Article 10 of its original proposal. However, in order to improve data quality and transparency on CO2 emissions and on other climate-relevant information relating to maritime transport, the Commission agrees to instead address this issue as part of its upcoming initiative on monitoring, reporting and verification of shipping emissions that the Commission undertakes to adopt during the first half of 2013. The Commission intends to propose an amendment to this Regulation in that context."
+
+"The Commission notes that supplementary rules concerning the establishment, maintenance and modification of the Union system for policies, measures and projections as well as the preparation of approximated greenhouse gas inventories may be required in order to ensure the proper functioning of the Regulation. As of early 2013, the Commission will examine the matter in close cooperation with Member States and will, if appropriate, make a proposal to amend the Regulation."
