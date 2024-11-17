@@ -1,6 +1,7 @@
 import json
 import logging
 import os
+from pathlib import Path
 
 import matplotlib.pyplot as plt
 import networkx as nx
@@ -27,7 +28,7 @@ class DiscoveryAgent:
             raise ValueError("Missing required environment variables: OPENAI_API_KEY, DATABASE")
 
         # Initialize DB
-        self.dbEngine = SQLDatabase.from_uri(f"sqlite:///{self.db}")
+        self.dbEngine = SQLDatabase.from_uri(f"{self.db}")
 
         # Initialize LLM
         self.llm = ChatOpenAI(temperature=0, model_name="gpt-4")
@@ -38,11 +39,6 @@ class DiscoveryAgent:
 
         # Add results formatting tool and question answering tool
         self.tools.extend([
-            Tool(
-                name="RESULTS",
-                func=self.format_results_for_graph,
-                description="Use this function to format your final results for graphing. Pass your data as a string."
-            ),
             Tool(
                 name="ANSWER_QUESTION",
                 func=self.answer_question,
@@ -104,12 +100,22 @@ class DiscoveryAgent:
                     tableName: [NAME OF TABLE RETURNED],
                     columns: [
                         {{
-                            columnName: [COLUMN 1 NAME],
-                            columnType: [COLUMN 1 TYPE]
+                            "columnName": [COLUMN 1 NAME],
+                            "columnType": [COLUMN 1 TYPE],
+                            "isOptional": [true OR false],
+                            "foreignKeyReference": {{
+                                "table": [REFERENCE TABLE NAME],
+                                "column": [REFERENCE COLUMN NAME]
+                            }}
                         }},
                         {{
-                            columnName: [COLUMN 2 NAME],
-                            columnType: [COLUMN 2 TYPE]
+                            "columnName": [COLUMN 2 NAME],
+                            "columnType": [COLUMN 2 TYPE],
+                            "isOptional": [true OR false],
+                            "foreignKeyReference": {{
+                                "table": [REFERENCE TABLE NAME],
+                                "column": [REFERENCE COLUMN NAME]
+                            }}
                         }}
                     ]
                 }}
@@ -125,14 +131,6 @@ class DiscoveryAgent:
         human_message = HumanMessagePromptTemplate.from_template("{input}\n\n{agent_scratchpad}")
         return ChatPromptTemplate.from_messages([system_message, human_message])
 
-    @staticmethod
-    def format_results_for_graph(data):
-        try:
-            parsed_data = json.loads(data)
-            return json.dumps({"graph_data": parsed_data})
-        except json.JSONDecodeError:
-            return json.dumps({"graph_data": []})
-
     def discover(self):
         """
         Creates a visual representation of the database schema.
@@ -142,6 +140,13 @@ class DiscoveryAgent:
         response = self.agent_executor.invoke({"input": prompt, "db_name": self.db})
         self.jsonToGraph(response)
         return "Database schema visualization has been generated."
+
+    def answer_question(self, question: str) -> str:
+        """
+        Answers questions about the database using the agent executor
+        """
+        response = self.agent_executor.invoke({"input": question, "db_name": self.db})
+        return response['output']
 
     def jsonToGraph(self, response):
         output_ = response['output']
@@ -156,12 +161,14 @@ class DiscoveryAgent:
         nodeIds = 0
         columnIds = len(data) + 1
         labeldict = {}
+        color_map = []
         canonicalColumns = dict()
         for table in data:
             nodeIds += 1
             G.add_node(nodeIds)
             G.nodes[nodeIds]['tableName'] = table["tableName"]
             labeldict[nodeIds] = table["tableName"]
+            color_map.append('red')
             for column in table["columns"]:
                 columnIds += 1
                 G.add_node(columnIds)
@@ -169,6 +176,7 @@ class DiscoveryAgent:
                 G.nodes[columnIds]['columnType'] = column["columnType"]
                 G.nodes[columnIds]['isOptional'] = column["isOptional"]
                 labeldict[columnIds] = column["columnName"]
+                color_map.append('green')
                 canonicalColumns[table["tableName"] + column["columnName"]] = columnIds
                 G.add_edge(nodeIds, columnIds)
 
@@ -180,19 +188,19 @@ class DiscoveryAgent:
                     G.add_edge(canonicalColumns[this_column], canonicalColumns[reference_column_])
 
         print(G.number_of_nodes())
-        # pos = graphviz_layout(G, prog='neato')
-        # nx.draw(G, pos, labels=labeldict, with_labels=True)
-        # plt.show()
+        pos = graphviz_layout(G, prog='neato')
+        # plt.figure().set_figwidth(15)
+        plt.rcParams['figure.figsize'] = [20, 20]
+        nx.draw(G, pos, labels=labeldict, node_color=color_map, with_labels=True)
+
+        plt.show()
         return G
 
-    def answer_question(self, question: str) -> str:
-        """
-        Answers questions about the database using the agent executor
-        """
-        response = self.agent_executor.invoke({"input": question, "db_name": self.db})
-        return response['output']
+agent = DiscoveryAgent()
+G = agent.discover()
 
-if __name__ == "__main__":
-    agent = DiscoveryAgent()
-    response = agent.agent_executor.invoke({"input": "Analyse the schema of the database and its tables.", "db_name": agent.db})
-    print(response['output'])
+txt = Path('./json.json.txt').read_text()
+agent.parseJson(txt)
+
+#
+
