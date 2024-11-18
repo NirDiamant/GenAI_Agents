@@ -243,6 +243,17 @@ Explore our extensive list of GenAI agent implementations, ranging from simple t
     #### Implementation 🛠️
     • Implement a multi-step process involving question anonymization, high-level planning, task breakdown, adaptive information retrieval and question answering, continuous re-planning, and rigorous answer verification to ensure grounded and accurate responses.
 
+20. **[Weather Disaster Management 🌩️](https://github.com/asif-ml-developer/GenAI_Agents/blob/main/all_agents_tutorials/Weather_Disaster_Management_AI_AGENT.ipynb)**
+
+    #### Overview 🔎
+    An agent designed to handle weather-related disasters by analyzing real-time or simulated weather data, assessing severity, and generating response plans. The system integrates social media monitoring, disaster classification, severity assessment, and alert notifications.
+
+    #### Implementation 🛠️
+    Utilizes LangGraph to orchestrate a multi-step workflow:
+    - Fetches weather data from OpenWeatherMap API or uses simulated test data.
+    - Analyzes disaster types such as floods, hurricanes, or heatwaves.
+    - Assesses severity levels (Critical, High, Medium, Low) and routes responses to public works, civil defense, or emergency services.
+    - Automates email alerts for high-severity cases while supporting human verification for low/medium severity events.
 
 ## Getting Started
 
