@@ -249,10 +249,10 @@ Explore our extensive list of GenAI agent implementations, ranging from simple t
     A four-part exploration of autonomous memory systems, from schema generation to practical implementation in self-healing code. The series demonstrates how to build sophisticated memory architectures using LangGraph and LLMs, culminating in a production-ready self-healing codebase implementation.
 
     #### Implementation 🛠️
-    • [Part I: Semi-Autonomous Schema Generation 🎯](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/schema_generation.png): Implements schema generation using LLMs and graph workflows for procedural, semantic, episodic, and prospective memory types
-    • [Part II: Schema-Based Memory Generation 🔄](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/memory_generation.png): Develops contextual memory processing through LangGraph with hierarchical organization
-    • [Part III: Dynamic Memory Management 🗃️](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/memory_management.png): Creates an automated memory update system with context-aware modifications
-    • [Part IV: Self-Healing Codebase 🔧](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/self_healing_code.png): Demonstrates practical implementation through an error detection and correction system with pattern learning
+    • [Part I: Semi-Autonomous Schema Generation 🎯](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/schema_generation.ipynb): Implements schema generation using LLMs and graph workflows for procedural, semantic, episodic, and prospective memory types
+    • [Part II: Schema-Based Memory Generation 🔄](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/memory_generation.ipynb): Develops contextual memory processing through LangGraph with hierarchical organization
+    • [Part III: Dynamic Memory Management 🗃️](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/memory_management.ipynb): Creates an automated memory update system with context-aware modifications
+    • [Part IV: Self-Healing Codebase 🔧](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/self_healing_code.ipynb): Demonstrates practical implementation through an error detection and correction system with pattern learning
 
 Note: This is a template that follows the structure you requested. To complete this for your actual repository, you would need to:
 1. Replace the placeholder URLs with your actual repository URLs
