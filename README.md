@@ -243,6 +243,13 @@ Explore our extensive list of GenAI agent implementations, ranging from simple t
     #### Implementation 🛠️
     • Implement a multi-step process involving question anonymization, high-level planning, task breakdown, adaptive information retrieval and question answering, continuous re-planning, and rigorous answer verification to ensure grounded and accurate responses.
 
+20. **[Generative AI Career Assistant Agent 🧑‍🏫](https://github.com/karan3486/GenAI_Agents/blob/main/all_agents_tutorials/agent_hackathon_genAI_career_assistant.ipynb)**
+
+    #### Overview 🔎
+    Meet the GenAI Career Assistant—an AI-powered mentor designed to simplify and support your journey in Generative AI learning, Resume preparation, Interview assistant and job hunting.
+
+    #### Implementation 🛠️
+    The GenAI Career Assistant is built using Langchain and Langgraph to streamline the process of accessing structured and relevant learning resources. Gemini LLM is leveraged to provide up-to-date answers and guidance, minimizing the issue of outdated code snippets. DuckDuckGoSearchResult allows the assistant to fetch the latest information on Generative AI tools and trends, ensuring learners receive real-time, relevant insights for their career progression in AI. The assistant organizes resources, generates structured learning paths, and offers practical support for resume building, interview preparation, and targeted job recommendations, tailored for each learner's goals.
 
 ## Getting Started
 
