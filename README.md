@@ -243,6 +243,17 @@ Explore our extensive list of GenAI agent implementations, ranging from simple t
     #### Implementation 🛠️
     • Implement a multi-step process involving question anonymization, high-level planning, task breakdown, adaptive information retrieval and question answering, continuous re-planning, and rigorous answer verification to ensure grounded and accurate responses.
 
+20. **Memory: A 4 Part Deep Dive Series 🧠**
+
+    #### Overview 🔎
+    A four-part exploration of autonomous memory systems, from schema generation to practical implementation in self-healing code. The series demonstrates how to build sophisticated memory architectures using LangGraph and LLMs, culminating in a production-ready self-healing codebase implementation.
+
+    #### Implementation 🛠️
+    • [Part I: Semi-Autonomous Schema Generation 🎯](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/schema_generation.ipynb): Implements schema generation using LLMs and graph workflows for procedural, semantic, episodic, and prospective memory types
+    • [Part II: Schema-Based Memory Generation 🔄](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/memory_generation.ipynb): Develops contextual memory processing through LangGraph with hierarchical organization
+    • [Part III: Dynamic Memory Management 🗃️](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/memory_management.ipynb): Creates an automated memory update system with context-aware modifications
+    • [Part IV: Self-Healing Codebase 🔧](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/self_healing_code.ipynb): Demonstrates practical implementation through an error detection and correction system with pattern learning
+
 
 ## Getting Started
 
