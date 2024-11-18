@@ -243,7 +243,7 @@ Explore our extensive list of GenAI agent implementations, ranging from simple t
     #### Implementation 🛠️
     • Implement a multi-step process involving question anonymization, high-level planning, task breakdown, adaptive information retrieval and question answering, continuous re-planning, and rigorous answer verification to ensure grounded and accurate responses.
 
-20. ### [Number]. [Systematic Review of Scientific Articles 🏷️](https://github.com/bmwise14/GenAI_Agents/blob/main/all_agents_tutorials/systematic_review_of_scientific_articles.ipynb)
+20. **[Systematic Review of Scientific Articles 🏷️](https://github.com/bmwise14/GenAI_Agents/blob/main/all_agents_tutorials/systematic_review_of_scientific_articles.ipynb)**
 
     #### Overview 🔎
     An advanced academic paper review system that automates the creation of systematic literature reviews. This solution uses a directed graph architecture to orchestrate a complex workflow, transforming research topics into comprehensive review papers through autonomous planning, research, analysis, and writing stages.
