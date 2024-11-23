@@ -1,0 +1,219 @@
+{
+  "profiles": [
+    {
+      "id": "student_123",
+      "personal_info": {
+        "name": "Alex Chen",
+        "email": "alex.chen@university.edu",
+        "academic_year": 3,
+        "major": "Computer Science",
+        "minor": "Mathematics"
+      },
+      "academic_info": {
+        "current_courses": [
+          {
+            "code": "CS401",
+            "name": "Advanced Algorithms",
+            "schedule": [
+              "Monday 10:00",
+              "Wednesday 10:00"
+            ],
+            "assignments": [
+              {
+                "name": "Graph Theory Project",
+                "due_date": "2024-03-25",
+                "status": "in_progress"
+              }
+            ],
+            "exams": [
+              {
+                "type": "midterm",
+                "date": "2024-03-20",
+                "topics": [
+                  "Dynamic Programming",
+                  "Network Flow"
+                ]
+              }
+            ],
+            "performance": {
+              "current_grade": "B+",
+              "areas_of_improvement": [
+                "algorithm complexity",
+                "proof writing"
+              ]
+            }
+          },
+          {
+            "code": "MATH302",
+            "name": "Calculus III",
+            "schedule": [
+              "Tuesday 14:00",
+              "Thursday 14:00"
+            ],
+            "assignments": [
+              {
+                "name": "Multivariable Integration",
+                "due_date": "2024-03-22",
+                "status": "not_started"
+              }
+            ],
+            "exams": [
+              {
+                "type": "final",
+                "date": "2024-04-15",
+                "topics": [
+                  "Multiple Integrals",
+                  "Vector Calculus"
+                ]
+              }
+            ],
+            "performance": {
+              "current_grade": "B",
+              "areas_of_improvement": [
+                "visualization",
+                "integration techniques"
+              ]
+            }
+          }
+        ],
+        "gpa": 3.5,
+        "academic_goals": [
+          {
+            "type": "short_term",
+            "description": "Improve Calculus grade to A-",
+            "deadline": "2024-04-15",
+            "progress": 0.6
+          },
+          {
+            "type": "long_term",
+            "description": "Maintain 3.7 GPA for graduate school",
+            "deadline": "2024-12-15",
+            "progress": 0.8
+          }
+        ]
+      },
+      "learning_preferences": {
+        "study_patterns": {
+          "optimal_time_of_day": [
+            "morning",
+            "early_afternoon"
+          ],
+          "session_length": 45,
+          "break_duration": 10,
+          "long_break_duration": 30,
+          "sessions_per_day": 4
+        },
+        "learning_style": {
+          "primary": "visual",
+          "secondary": "kinesthetic",
+          "effective_methods": [
+            {
+              "type": "mind_mapping",
+              "effectiveness": 0.9,
+              "tools": [
+                "Miro",
+                "pen and paper"
+              ]
+            },
+            {
+              "type": "practice_problems",
+              "effectiveness": 0.85,
+              "tools": [
+                "textbook",
+                "online resources"
+              ]
+            },
+            {
+              "type": "video_tutorials",
+              "effectiveness": 0.75,
+              "preferred_platforms": [
+                "Coursera",
+                "Khan Academy"
+              ]
+            }
+          ]
+        },
+        "study_environment": {
+          "location_preferences": [
+            "library",
+            "study room"
+          ],
+          "noise_level": "low",
+          "lighting": "natural",
+          "temperature": "cool",
+          "required_resources": [
+            "whiteboard",
+            "dual monitors"
+          ]
+        }
+      },
+      "productivity_tools": {
+        "calendar": {
+          "platform": "Google Calendar",
+          "sync_status": true,
+          "default_reminder": 24
+        },
+        "note_taking": {
+          "preferred_app": "Notion",
+          "template_preferences": [
+            "Cornell method",
+            "mind maps"
+          ],
+          "sync_status": true
+        },
+        "task_management": {
+          "preferred_app": "Trello",
+          "board_structure": [
+            "To Do",
+            "In Progress",
+            "Review",
+            "Done"
+          ],
+          "sync_status": true
+        }
+      },
+      "progress_tracking": {
+        "metrics": [
+          {
+            "name": "focus_score",
+            "current_average": 0.75,
+            "target": 0.85
+          },
+          {
+            "name": "task_completion_rate",
+            "current_average": 0.82,
+            "target": 0.9
+          },
+          {
+            "name": "study_consistency",
+            "current_average": 0.7,
+            "target": 0.8
+          }
+        ],
+        "visualization_preferences": {
+          "type": "interactive_graphs",
+          "update_frequency": "daily",
+          "preferred_charts": [
+            "progress line",
+            "focus heat map",
+            "task breakdown"
+          ]
+        },
+        "feedback_system": {
+          "frequency": "per_session",
+          "format": "actionable_insights",
+          "notification_preferences": {
+            "channels": [
+              "email",
+              "push"
+            ],
+            "quiet_hours": [
+              "22:00",
+              "07:00"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}
