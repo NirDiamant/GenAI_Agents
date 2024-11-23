@@ -1,0 +1,82 @@
+{
+    "recipes": [
+        {
+            "recipe_name": "Eggplant and Mozzarella Bake",
+            "ingredients": [
+                {
+                    "item_name": "Eggplant",
+                    "quantity": "1",
+                    "unit": "lbs"
+                },
+                {
+                    "item_name": "BH Fresh Mozzarella Ball",
+                    "quantity": "5",
+                    "unit": "pcs"
+                },
+                {
+                    "item_name": "Potatoes Russet",
+                    "quantity": "1",
+                    "unit": "lbs"
+                },
+                {
+                    "item_name": "Olive oil",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "item_name": "Salt",
+                    "quantity": "to taste",
+                    "unit": ""
+                },
+                {
+                    "item_name": "Pepper",
+                    "quantity": "to taste",
+                    "unit": ""
+                },
+                {
+                    "item_name": "Fresh basil (optional)",
+                    "quantity": "to taste",
+                    "unit": ""
+                }
+            ],
+            "steps": [
+                "Preheat your oven to 400°F (200°C).",
+                "Slice the eggplant into 1/2-inch rounds. Sprinkle with salt and let sit for 15 minutes to draw out moisture.",
+                "Meanwhile, peel and slice the potatoes into thin rounds.",
+                "Rinse and pat the eggplant dry, then drizzle with olive oil and arrange the eggplant rounds and potato slices in a baking dish.",
+                "Slice the mozzarella ball and layer it over the eggplant and potatoes.",
+                "Season with salt, pepper, and additional olive oil if desired.",
+                "Cover with foil and bake for about 30 minutes, then remove the foil and bake for an additional 15 minutes, or until the eggplant and potatoes are tender and the mozzarella is bubbly.",
+                "Garnish with fresh basil if using, and serve warm."
+            ],
+            "source": "https://www.americastestkitchen.com/recipes"
+        }
+    ],
+    "restock_recommendations": [
+        {
+            "item_name": "Onions Jumbo White",
+            "quantity_needed": 2,
+            "unit": "lbs"
+        },
+        {
+            "item_name": "Olive oil",
+            "quantity_needed": 1,
+            "unit": "litre"
+        },
+        {
+            "item_name": "Salt",
+            "quantity_needed": 1,
+            "unit": "kg"
+        },
+        {
+            "item_name": "Pepper",
+            "quantity_needed": 1,
+            "unit": "kg"
+        },
+        {
+            "item_name": "Fresh basil (optional)",
+            "quantity_needed": 1,
+            "unit": "bunch"
+        }
+    ]
+}
