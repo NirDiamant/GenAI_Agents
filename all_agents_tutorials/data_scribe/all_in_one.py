@@ -17,6 +17,7 @@ from langchain_openai import ChatOpenAI
 from langgraph.graph import StateGraph, START, END
 from networkx.drawing.nx_pydot import graphviz_layout
 from networkx.drawing.nx_agraph import graphviz_layout
+import pickle
 
 # Load environment variables
 load_dotenv()
@@ -78,6 +79,8 @@ class DiscoveryAgent:
             handle_parsing_errors=True,
             max_iterations=15
         )
+
+        self.graph_cache_path = "discover.pkl"
 
     def test_connection(self):
         self.show_tables()
@@ -149,10 +152,44 @@ class DiscoveryAgent:
         except json.JSONDecodeError:
             return json.dumps({"graph_data": []})
 
-    def discover(self):
+    def save_graph_db(self, graph: nx.Graph) -> None:
+        """Save the NetworkX graph to disk"""
+        try:
+            with open(self.graph_cache_path, 'wb') as f:
+                pickle.dump(graph, f)
+            logger.info(f"Graph saved to {self.graph_cache_path}")
+        except Exception as e:
+            logger.error(f"Failed to save graph: {str(e)}")
+
+    def load_graph_db(self) -> Optional[nx.Graph]:
+        """Load the NetworkX graph from disk if it exists"""
+        try:
+            if os.path.exists(self.graph_cache_path):
+                with open(self.graph_cache_path, 'rb') as f:
+                    graph = pickle.load(f)
+                logger.info(f"Graph loaded from {self.graph_cache_path}")
+                return graph
+        except Exception as e:
+            logger.error(f"Failed to load graph: {str(e)}")
+        return None
+
+    def discover(self) -> nx.Graph:
+        """Modified to check for cached graph first"""
+        # Try to load existing graph
+        cached_graph = self.load_graph_db()
+        if cached_graph is not None:
+            return cached_graph
+
+        # If no cached graph, perform discovery
+        logger.info("No cached graph found, performing discovery...")
         prompt = "For all tables in this database, show the table name, column name, column type, if its optional. Also show Foreign key references to other columns. Do not show examples. Output only as json."
         response = self.agent_executor.invoke({"input": prompt, "db_name": self.db})
-        return self.jsonToGraph(response)
+        graph = self.jsonToGraph(response)
+
+        # Save the newly discovered graph
+        self.save_graph_db(graph)
+
+        return graph
 
     def jsonToGraph(self, response):
         output_ = response['output']
@@ -271,16 +308,104 @@ class InferenceAgent:
         human_message = HumanMessagePromptTemplate.from_template("{input}\n\n{agent_scratchpad}")
         return ChatPromptTemplate.from_messages([system_message, human_message])
 
-    def query(self, text: str, **kwargs) -> str:
+    def analyze_question_with_graph(self, db_graph: nx.Graph, question: str) -> dict:
+        """Use the graph structure to understand how to answer the question"""
+        print(f"\n🔎 Starting graph analysis for: '{question}'")
+
+        # Convert question to lowercase for matching
+        question_lower = question.lower()
+
+        analysis = {
+            'tables': [],
+            'relationships': [],
+            'columns': [],
+            'possible_paths': []
+        }
+
+        print("\n📋 Scanning graph nodes for relevant tables and columns...")
+        for node in db_graph.nodes():
+            node_data = db_graph.nodes[node]
+
+            # Check if it's a table node
+            if 'tableName' in node_data:
+                table_name = node_data['tableName'].lower()
+                # Only include table if it or its common variations appear in the question
+                if (table_name in question_lower or
+                    table_name.rstrip('s') in question_lower or  # singular form
+                    f"{table_name}s" in question_lower):        # plural form
+
+                    print(f"  📦 Found relevant table: {node_data['tableName']}")
+                    columns = []
+                    for neighbor in db_graph.neighbors(node):
+                        col_data = db_graph.nodes[neighbor]
+                        if 'columnName' in col_data:
+                            col_name = col_data['columnName'].lower()
+                            # Only include column if it appears in the question
+                            if col_name in question_lower:
+                                columns.append({
+                                    'name': col_data['columnName'],
+                                    'type': col_data['columnType'],
+                                    'table': node_data['tableName']
+                                })
+                                print(f"    📎 Found relevant column: {col_data['columnName']}")
+
+                    analysis['tables'].append({
+                        'name': node_data['tableName'],
+                        'columns': columns
+                    })
+
+        # Only look for paths between relevant tables
+        if len(analysis['tables']) > 1:
+            print("\n🔗 Finding relationships between relevant tables...")
+            table_nodes = [n for n in db_graph.nodes()
+                          if db_graph.nodes[n].get('tableName') in [t['name'] for t in analysis['tables']]]
+
+            for i, start_node in enumerate(table_nodes):
+                for end_node in table_nodes[i+1:]:
+                    try:
+                        path = nx.shortest_path(db_graph, start_node, end_node)
+                        named_path = []
+                        for node in path:
+                            node_data = db_graph.nodes[node]
+                            if 'tableName' in node_data:
+                                named_path.append(f"Table: {node_data['tableName']}")
+                            elif 'columnName' in node_data:
+                                named_path.append(f"Column: {node_data['columnName']}")
+                        analysis['possible_paths'].append(named_path)
+                        print(f"  ↔️  Found path: {' -> '.join(named_path)}")
+                    except nx.NetworkXNoPath:
+                        continue
+
+        print("\n✅ Graph analysis complete")
+        return analysis
+
+    def query(self, text: str, db_graph) -> str:
         try:
-            logger.info(f"Processing inference query: {text}")
-            result = self.agent_executor.invoke({
-                "input": text,
-                "db_name": self.db
-            })
-            return result["output"]
+            if db_graph:
+                print(f"\n🔍 Analyzing query with graph: '{text}'")
+                # Analyze the question using the graph structure
+                graph_analysis = self.analyze_question_with_graph(db_graph, text)
+                print(f"\n📊 Graph Analysis Results:")
+                print(json.dumps(graph_analysis, indent=2))
+
+                # Add the graph analysis to the context for the LLM
+                enhanced_prompt = f"""
+                Database Structure Analysis:
+                - Available Tables: {[t['name'] for t in graph_analysis['tables']]}
+                - Table Relationships: {graph_analysis['possible_paths']}
+
+                User Question: {text}
+
+                Use this structural information to form an accurate query.
+                """
+                print(f"\n📝 Enhanced prompt created with graph context")
+                return self.agent_executor.invoke({"input": enhanced_prompt, "db_name": self.db})['output']
+
+            print(f"\n⚡ No graph available, executing standard query: '{text}'")
+            return self.agent_executor.invoke({"input": text, "db_name": self.db})['output']
+
         except Exception as e:
-            logger.error(f"Error in inference query: {str(e)}", exc_info=True)
+            print(f"\n❌ Error in inference query: {str(e)}")
             return f"Error processing query: {str(e)}"
 
 class PlannerAgent:
@@ -292,16 +417,20 @@ class PlannerAgent:
         system_template = """You are a friendly planning agent that creates specific plans to answer questions about THIS database only.
 
         Available actions:
-        1. Inference: [query] - Use this prefix for:
-           * Querying actual data from tables
-           * Counting records
-           * Calculating totals
-           * Getting specific data values
+        1. Inference: [query] - Use this prefix for database queries
         2. General: [response] - Use this prefix for friendly responses
 
-        Rules:
-        - Use Inference: for querying actual data
-        - Add General: for friendly conversation
+        Create a SINGLE, SEQUENTIAL plan where:
+        - Each step should be exactly ONE line
+        - Each step must start with either 'Inference:' or 'General:'
+        - Steps must be in logical order
+        - DO NOT repeat steps
+        - Keep the plan minimal and focused
+
+        Example format:
+        Inference: Get all artists from the database
+        Inference: Count tracks per artist
+        General: Provide the results in a friendly way
         """
 
         human_template = "Question: {question}\n\nCreate a focused plan with appropriate action steps."
@@ -320,6 +449,7 @@ class PlannerAgent:
                     context=context or {}
                 )
             )
+            # Get all steps, removing empty lines and 'plan:' header
             plan = [step.strip() for step in planner_response.content.split('\n')
                    if step.strip() and not step.lower() == 'plan:']
 
@@ -351,9 +481,7 @@ def db_graph_reducer():
 
 def plan_reducer():
     def _reducer(previous_value: Optional[List[str]], new_value: List[str]) -> List[str]:
-        if previous_value is None:
-            return new_value
-        return previous_value + new_value  # Combine steps if needed
+        return new_value if new_value is not None else previous_value
     return _reducer
 
 def classify_input_reducer():
@@ -464,7 +592,7 @@ class SupervisorAgent:
                 if step_type == 'inference':
                     logger.info(f"Delegating to InferenceAgent: {content}")
                     try:
-                        result = self.inference_agent.query(content, state=state.get('context', {}))
+                        result = self.inference_agent.query(content, state.get('db_graph'))
                         inference_results.append(f"Step: {step}\nResult: {result}")
                     except Exception as e:
                         logger.error(f"Error in inference step: {str(e)}", exc_info=True)
@@ -520,7 +648,8 @@ class SupervisorAgent:
         logger.info("Response generated.")
         return {
             **state,
-            "response": response.content
+            "response": response.content,
+            "plan": []  # Clear the plan for the next cycle
         }
 
     def visualize_db_graph(self):
@@ -589,26 +718,24 @@ def discover_database(state: ConversationState) -> ConversationState:
     return state
 
 if __name__ == "__main__":
-    # Create the graph
     graph = create_graph()
 
-    # Example 1: Simple query about database structure
-    print("\nExample 1: Just chatting ...")
-    result = graph.invoke({
+    state = graph.invoke({
         "question": "Hi there, how goes it?"
     })
-    print(f"Response: {result['response']}\n")
+    print(f"State after first invoke: {state}")
+    print(f"Response 1: {state['response']}\n")
 
-    # Example 2: Complex query about data relationships
-    print("\nExample 2: Data Relationship Query")
-    result = graph.invoke({
+    state = graph.invoke({
+        **state,
         "question": "Who are the top 3 artists by number of tracks?"
     })
-    print(f"Response: {result['response']}\n")
+    print(f"State after second invoke: {state}")
+    print(f"Response 2: {state['response']}\n")
 
-    # # Example 3: Multi-step analysis
-    # print("\nExample 3: Multi-step Analysis")
-    # result = graph.invoke({
-    #     "question": "What is the average length of tracks for each genre, and which genre has the longest average track length?"
-    # })
-    # print(f"Response: {result['response']}\n")
+    state = graph.invoke({
+        **state,
+        "question": "What genres do they make?"
+    })
+    print(f"State after third invoke: {state}")
+    print(f"Response 3: {state['response']}\n")
