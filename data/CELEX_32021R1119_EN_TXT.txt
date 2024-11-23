@@ -1,0 +1,1135 @@
+## I
+
+```
+(Legislative acts)
+```
+# REGULATIONS
+
+### REGULATION (EU) 2021/1119 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+
+```
+of 30 June 2021
+```
+```
+establishing the framework for achieving climate neutrality and amending Regulations (EC)
+No 401/2009 and (EU) 2018/1999 (‘European Climate Law’)
+```
+```
+THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
+```
+```
+Having regard to the Treaty on the Functioning of the European Union, and in particular Article 192(1) thereof,
+```
+```
+Having regard to the proposal from the European Commission,
+```
+```
+After transmission of the draft legislative act to the national parliaments,
+```
+```
+Having regard to the opinions of the European Economic and Social Committee(^1 ),
+```
+```
+Having regard to the opinion of the Committee of the Regions(^2 ),
+```
+```
+Acting in accordance with the ordinary legislative procedure(^3 ),
+```
+```
+Whereas:
+```
+```
+(1) The existential threat posed by climate change requires enhanced ambition and increased climate action by the
+Union and the Member States. The Union is committed to stepping up efforts to tackle climate change and to
+delivering on the implementation of the Paris Agreement adopted under the United Nations Framework
+Convention on Climate Change (the ‘Paris Agreement’)(^4 ), guided by its principles and on the basis of the best
+available scientific knowledge, in the context of the long-term temperature goal of the Paris Agreement.
+```
+```
+(2) The Commission has, in its communication of 11 December 2019 entitled ‘The European Green Deal’ (the
+‘European Green Deal’), set out a new growth strategy that aims to transform the Union into a fair and prosperous
+society, with a modern, resource-efficient and competitive economy, where there are no net emissions of
+greenhouse gases in 2050 and where economic growth is decoupled from resource use. The European Green Deal
+also aims to protect, conserve and enhance the Union’s natural capital, and protect the health and well-being of
+citizens from environment-related risks and impacts. At the same time, this transition must be just and inclusive,
+leaving no one behind.
+```
+```
+(3) The Intergovernmental Panel on Climate Change (IPCC) provides in its 2018 Special Report on the impacts of global
+warming of 1,5 °C above pre-industrial levels and related global greenhouse gas emission pathways, in the context of
+strengthening the global response to the threat of climate change, sustainable development, and efforts to eradicate
+poverty, a strong scientific basis for tackling climate change and illustrates the need to rapidly step up climate action
+```
+```
+(^1 ) OJ C 364, 28.10.2020, p. 143, and OJ C 10, 11.1.2021, p. 69.
+(^2 ) OJ C 324, 1.10.2020, p. 58.
+(^3 ) Position of the European Parliament of 24 June 2021 (not yet published in the Official Journal) and decision of the Council of
+28 June 2021.
+(^4 ) OJ L 282, 19.10.2016, p. 4.
+```
+9.7.2021 EN Official Journal of the European Union L 243/
+
+
+```
+and to continue the transition to a climate-neutral economy. That report confirms that greenhouse gas emissions
+need to be urgently reduced, and that climate change needs to be limited to 1,5 °C, in particular to reduce the
+likelihood of extreme weather events and of reaching tipping points. The Intergovernmental Science-Policy Platform
+on Biodiversity and Ecosystem Services (IPBES) has shown in its 2019 Global Assessment Report on Biodiversity and
+Ecosystem Services a worldwide erosion of biodiversity, with climate change as the third most important driver of
+biodiversity loss.
+```
+```
+(4) A fixed long-term objective is crucial to contribute to economic and societal transformation, high-quality jobs,
+sustainable growth, and the achievement of the United Nations Sustainable Development Goals, as well as to reach
+in a just, socially balanced, fair and cost-effective manner the long-term temperature goal of the Paris Agreement.
+```
+```
+(5) It is necessary to address the growing climate-related risks to health, including more frequent and intense heatwaves,
+wildfires and f loods, food and water safety and security threats, and the emergence and spread of infectious diseases.
+As announced in its communication of 24 February 2021entitled ‘Forging a climate-resilient Europe – the new EU
+Strategy on Adaptation to Climate Change’, the Commission has launched a European climate and health
+observatory under the European Climate Adaptation Platform Climate-ADAPT, to better understand, anticipate and
+minimise the health threats caused by climate change.
+```
+```
+(6) This Regulation respects the fundamental rights and observes the principles recognised by the Charter of
+Fundamental Rights of the European Union, in particular Article 37 thereof which seeks to promote the integration
+into the policies of the Union of a high level of environmental protection and the improvement of the quality of the
+environment in accordance with the principle of sustainable development.
+```
+```
+(7) Climate action should be an opportunity for all sectors of the economy in the Union to help secure industry
+leadership in global innovation. Driven by the Union’s regulatory framework and efforts made by industry, it is
+possible to decouple economic growth from greenhouse gas emissions. For example, Union greenhouse gas
+emissions were reduced by 24 % between 1990 and 2019, while the economy grew by 60 % over the same period.
+Without prejudice to binding legislation and other initiatives adopted at Union level, all sectors of the economy –
+including energy, industry, transport, heating and cooling and buildings, agriculture, waste and land use, land-use
+change and forestry, irrespective of whether those sectors are covered by the system for greenhouse gas emission
+allowance trading within the Union (‘EU ETS’) – should play a role in contributing to the achievement of climate
+neutrality within the Union by 2050. In order to enhance involvement of all economic actors, the Commission
+should facilitate sector-specific climate dialogues and partnerships by bringing together key stakeholders in an
+inclusive and representative manner, so as to encourage sectors themselves to draw up indicative voluntary
+roadmaps and to plan their transition towards achieving the Union’s climate-neutrality objective by 2050. Such
+roadmaps could make a valuable contribution in assisting sectors in planning the necessary investments towards
+the transition to a climate-neutral economy and could also serve to strengthen sectoral engagement in the pursuit of
+climate-neutral solutions. Such roadmaps could also complement existing initiatives, including the European Battery
+Alliance and the European Clean Hydrogen Alliance, which foster industrial collaboration in the transition to climate
+neutrality.
+```
+```
+(8) The Paris Agreement sets out a long-term temperature goal in point (a) of Article 2(1) thereof, and aims to
+strengthen the global response to the threat of climate change by increasing the ability to adapt to the adverse
+impacts of climate change as set out in point (b) of Article 2(1) thereof and by making finance f lows consistent with
+a pathway towards low greenhouse gas emissions and climate-resilient development as set out in point (c) of Article
+2(1) thereof. As the overall framework for the Union’s contribution to the Paris Agreement, this Regulation should
+ensure that both the Union and the Member States contribute to the global response to climate change as referred to
+in the Paris Agreement.
+```
+L 243/2 EN Official Journal of the European Union 9.7.
+
+
+```
+(9) The Union’s and Member States’ climate action aims to protect people and the planet, welfare, prosperity, the
+economy, health, food systems, the integrity of eco-systems and biodiversity against the threat of climate change, in
+the context of the United Nations 2030 agenda for sustainable development and in pursuit of the objectives of the
+Paris Agreement, and to maximise prosperity within the planetary boundaries and to increase resilience and reduce
+vulnerability of society to climate change. In light of this, the Union’s and Member States’ actions should be guided
+by the precautionary and ‘polluter pays’ principles established in the Treaty on the Functioning of the European
+Union, and should also take into account the ‘energy efficiency first’ principle of the Energy Union and the ‘do no
+harm’ principle of the European Green Deal.
+```
+```
+(10) Achieving climate neutrality should require a contribution from all economic sectors for which emissions or
+removals of greenhouse gases are regulated in Union law.
+```
+```
+(11) In light of the importance of energy production and consumption for the level of greenhouse gas emissions, it is
+essential to ensure a transition to a safe, sustainable, affordable and secure energy system relying on the deployment
+of renewables, a well-functioning internal energy market and the improvement of energy efficiency, while reducing
+energy poverty. Digital transformation, technological innovation, and research and development are also important
+drivers for achieving the climate-neutrality objective.
+```
+```
+(12) The Union has in place a regulatory framework to achieve the 2030 greenhouse gas emission reduction target agreed
+in 2014, before the entry into force of the Paris Agreement. The legislation implementing that target consists, inter
+alia, of Directive 2003/87/EC of the European Parliament and of the Council(^5 ), which establishes the EU ETS,
+Regulation (EU) 2018/842 of the European Parliament and of the Council(^6 ), which introduced national targets for
+reduction of greenhouse gas emissions by 2030, and Regulation (EU) 2018/841 of the European Parliament and of
+the Council(^7 ), which requires Member States to balance greenhouse gas emissions and removals from land use,
+land use change and forestry.
+```
+```
+(13) The EU ETS is a cornerstone of the Union’s climate policy and constitutes its key tool for reducing greenhouse gas
+emissions in a cost-effective way.
+```
+```
+(14) The Commission has, in its communication of 28 November 2018 entitled ‘A Clean Planet for all – A European
+strategic long-term vision for a prosperous, modern, competitive and climate-neutral economy’, presented a vision
+for achieving net-zero greenhouse gas emissions in the Union by 2050 through a socially-fair and cost-efficient
+transition.
+```
+```
+(15) Through the ‘Clean Energy for All Europeans’ package of 30 November 2016 the Union has been pursuing an
+ambitious decarbonisation agenda, in particular by constructing a robust Energy Union, which includes the 2030
+goals for energy efficiency and deployment of renewable energy in Directives 2012/27/EU(^8 ) and (EU)
+2018/2001(^9 )of the European Parliament and of the Council, and by reinforcing relevant legislation, including
+Directive 2010/31/EU of the European Parliament and of the Council(^10 ).
+```
+```
+(16) The Union is a global leader in the transition towards climate neutrality, and it is determined to help raise global
+ambition and to strengthen the global response to climate change, using all tools at its disposal, including climate
+diplomacy.
+```
+```
+(^5 ) Directive 2003/87/EC of the European Parliament and of the Council of 13 October 2003 establishing a system for greenhouse gas
+emission allowance trading within the Union and amending Council Directive 96/61/EC (OJ L 275, 25.10.2003, p. 32).
+(^6 ) Regulation (EU) 2018/842 of the European Parliament and of the Council of 30 May 2018 on binding annual greenhouse gas emission
+reductions by Member States from 2021 to 2030 contributing to climate action to meet commitments under the Paris Agreement and
+amending Regulation (EU) No 525/2013 (OJ L 156, 19.6.2018, p. 26).
+(^7 ) Regulation (EU) 2018/841 of the European Parliament and of the Council of 30 May 2018 on the inclusion of greenhouse gas
+emissions and removals from land use, land use change and forestry in the 2030 climate and energy framework, and amending
+Regulation (EU) No 525/2013 and Decision No 529/2013/EU (OJ L 156, 19.6.2018, p. 1).
+(^8 ) Directive 2012/27/EU of the European Parliament and of the Council of 25 October 2012 on energy efficiency, amending Directives
+2009/125/EC and 2010/30/EU and repealing Directives 2004/8/EC and 2006/32/EC (OJ L 315, 14.11.2012, p. 1).
+(^9 ) Directive (EU) 2018/2001 of the European Parliament and of the Council of 11 December 2018 on the promotion of the use of energy
+from renewable sources (OJ L 328, 21.12.2018, p. 82).
+(^10 ) Directive 2010/31/EU of the European Parliament and of the Council of 19 May 2010 on the energy performance of buildings
+(OJ L 153, 18.6.2010, p. 13).
+```
+9.7.2021 EN Official Journal of the European Union L 243/
+
+
+```
+(17) The Union should continue its climate action and international climate leadership after 2050, in order to protect
+people and the planet against the threat of dangerous climate change, in pursuit of the long-term temperature goal
+set out in the Paris Agreement and following the scientific assessments of the IPCC, IPBES, and the European
+Scientific Advisory Board on Climate Change, as well as the assessments of other international bodies.
+```
+```
+(18) The risk of carbon leakage remains in respect of those international partners that do not share the same standards of
+climate protection as those of the Union. The Commission therefore intends to propose a carbon border adjustment
+mechanism for selected sectors, to reduce such risks in a way which is compatible with the rules of the World Trade
+Organization. Furthermore, it is important to maintain effective policy incentives in support of technological
+solutions and innovations which enable the transition to a competitive climate-neutral Union economy, while
+providing investment certainty.
+```
+```
+(19) The European Parliament called, in its resolution of 15 January 2020on the European Green Deal, for the necessary
+transition to a climate-neutral society by 2050 at the latest and for this to be made into a European success story and
+has, in its resolution of 28 November 2019 on the climate and environment emergency, declared a climate and
+environment emergency. It has also repeatedly called on the Union to increase its 2030 climate target, and for that
+increased target to be part of this Regulation. The European Council, in its conclusions of 12 December 2019 , has
+agreed on the objective of achieving a climate-neutral Union by 2050, in line with the objectives of the Paris
+Agreement, while also recognising that it is necessary to put in place an enabling framework that benefits all
+Member States and encompasses adequate instruments, incentives, support and investments to ensure a cost-
+efficient, just, as well as socially balanced and fair transition, taking into account different national circumstances in
+terms of starting points. It also noted that the transition will require significant public and private investment. On
+6 March 2020 , the Union submitted its long-term low greenhouse gas emission development strategy and, on
+17 December 2020 , its nationally determined contribution, to the United Nations Framework Convention on
+Climate Change (UNFCCC), following their approval by the Council.
+```
+```
+(20) The Union should aim to achieve a balance between anthropogenic economy-wide emissions by sources and
+removals by sinks of greenhouse gases domestically within the Union by 2050 and, as appropriate, achieve negative
+emissions thereafter. That objective should encompass Union-wide greenhouse gas emissions and removals
+regulated in Union law. It should be possible to address such emissions and removals in the context of the review of
+the relevant climate and energy legislation. Sinks include natural and technological solutions, as reported in the
+Union’s greenhouse gas inventories to the UNFCCC. Solutions that are based on carbon capture and storage (CCS)
+and carbon capture and use (CCU) technologies can play a role in decarbonisation, especially for the mitigation of
+process emissions in industry, for the Member States that choose this technology. The Union-wide 2050 climate-
+neutrality objective should be pursued by all Member States collectively, and Member States, the European
+Parliament, the Council and the Commission should take the necessary measures to enable its achievement.
+Measures at Union level will constitute an important part of the measures needed to achieve the objective.
+```
+```
+(21) In its conclusions of 8 and 9 March 2007 and of 23 and 24 October 2014 , the European Council endorsed the
+Union’s greenhouse gas emission reduction target for 2020 and the 2030 climate and energy policy framework,
+respectively. The provisions of this Regulation on the determination of the Union’s climate target for 2040 are
+without prejudice to the role of the European Council, as set out in the Treaties, in defining the Union’s general
+political direction and priorities for the development of the Union’s climate policy.
+```
+```
+(22) Carbon sinks play an essential role in the transition to climate neutrality in the Union, and in particular the
+agriculture, forestry and land use sectors make an important contribution in that context. As announced in its
+communication of 20 May 2020entitled ‘A Farm to Fork Strategy for a fair, healthy and environmentally-friendly
+food system’, the Commission will promote a new green business model to reward land managers for greenhouse
+gas emission reductions and carbon removals in the upcoming carbon farming initiative. Furthermore, in its
+communication of 11 March 2020 entitled ‘A new Circular Economy Action Plan for a cleaner and more
+competitive Europe’, the Commission has committed itself to developing a regulatory framework for certification of
+```
+L 243/4 EN Official Journal of the European Union 9.7.
+
+
+```
+carbon removals based on robust and transparent carbon accounting to monitor and verify the authenticity of
+carbon removals, while ensuring that there are no negative impacts on the environment, in particular biodiversity,
+on public health or on social or economic objectives.
+```
+```
+(23) The restoration of ecosystems would assist in maintaining, managing and enhancing natural sinks and promote
+biodiversity while fighting climate change. Furthermore, the ‘triple role’ of forests, namely, as carbon sinks, storage
+and substitution, contributes to the reduction of greenhouse gases in the atmosphere, while ensuring that forests
+continue to grow and provide many other services.
+```
+```
+(24) Scientific expertise and the best available, up-to-date evidence, together with information on climate change that is
+both factual and transparent, are imperative and need to underpin the Union’s climate action and efforts to reach
+climate neutrality by 2050. A European Scientific Advisory Board on Climate Change (the ‘Advisory Board’) should
+be established to serve as a point of reference on scientific knowledge relating to climate change by virtue of its
+independence and scientific and technical expertise. The Advisory Board should complement the work of the
+European Environment Agency (EEA) while acting independently in discharging its tasks. Its mission should avoid
+any overlap with the mission of the IPCC at international level. Regulation (EC) No 401/2009 of the European
+Parliament and of the Council(^11 )should therefore be amended in order to establish the Advisory Board. National
+climate advisory bodies can play an important role in, inter alia, providing expert scientific advice on climate policy
+to the relevant national authorities as prescribed by the Member State concerned in those Member States where they
+exist. Therefore, Member States that have not already done so are invited to establish a national climate advisory
+body.
+```
+```
+(25) The transition to climate neutrality requires changes across the entire policy spectrum and a collective effort of all
+sectors of the economy and society, as highlighted in the European Green Deal. The European Council, in its
+conclusions of 12 December 2019 , stated that all relevant Union legislation and policies need to be consistent with,
+and contribute to, the fulfilment of the climate-neutrality objective while respecting a level playing field, and invited
+the Commission to examine whether this requires an adjustment of the existing rules.
+```
+```
+(26) As announced in the European Green Deal, the Commission assessed the Union’s 2030 target for greenhouse gas
+emission reduction, in its communication of 17 September 2020 entitled ‘Stepping up Europe’s 2030 climate
+ambition – Investing in a climate-neutral future for the benefit of our people’. The Commission did so on the basis
+of a comprehensive impact assessment and taking into account its analysis of the integrated national energy and
+climate plans submitted to it in accordance with Regulation (EU) 2018/1999 of the European Parliament and of the
+Council(^12 ). In light of the 2050 climate-neutrality objective, by 2030 greenhouse gas emissions should be reduced
+and removals enhanced, so that net greenhouse gas emissions, that is emissions after the deduction of removals, are
+reduced economy-wide and domestically by at least 55 % by 2030 compared to 1990 levels. The European Council
+endorsed that target in its conclusions of 10 and 11 December 2020. It also provided initial guidance on its
+implementation. That new Union 2030 climate target is a subsequent target for the purposes of point (11) of
+Article 2 of Regulation (EU) 2018/1999, and therefore replaces the 2030 Union-wide target for greenhouse gas
+emissions set out in that point. In addition, the Commission should, by 30 June 2021 , assess how the relevant
+Union legislation implementing the Union 2030 climate target would need to be amended in order to achieve such
+net emission reductions. In view of this, the Commission has announced a revision of the relevant climate and
+energy legislation which will be adopted in a package covering, inter alia, renewables, energy efficiency, land use,
+energy taxation, CO 2 emission performance standards for light-duty vehicles, effort sharing and the EU ETS.
+```
+```
+(^11 ) Regulation (EC) No 401/2009 of the European Parliament and of the Council of 23 April 2009 on the European Environment Agency
+and the European Environment Information and Observation Network (OJ L 126, 21.5.2009, p. 13).
+(^12 ) Regulation (EU) 2018/1999 of the European Parliament and of the Council of 11 December 2018 on the Governance of the Energy
+Union and Climate Action, amending Regulations (EC) No 663/2009 and (EC) No 715/2009 of the European Parliament and of the
+Council, Directives 94/22/EC, 98/70/EC, 2009/31/EC, 2009/73/EC, 2010/31/EU, 2012/27/EU and 2013/30/EU of the European
+Parliament and of the Council, Council Directives 2009/119/EC and (EU) 2015/652 and repealing Regulation (EU) No 525/2013 of
+the European Parliament and of the Council (OJ L 328, 21.12.2018, p. 1).
+```
+9.7.2021 EN Official Journal of the European Union L 243/
+
+
+```
+The Commission intends to assess the impacts of the introduction of additional Union measures that could
+complement existing measures, such as market-based measures that include a strong solidarity mechanism.
+```
+```
+(27) According to Commission assessments, the existing commitments under Article 4 of Regulation (EU) 2018/
+result in a net carbon sink of 225 million tonnes of CO 2 equivalent in 2030. In order to ensure that sufficient
+mitigation efforts are deployed until 2030, it is appropriate to limit the contribution of net removals to the Union
+2030 climate target to that level. This is without prejudice to the review of the relevant Union legislation in order to
+enable the achievement of the target.
+```
+```
+(28) Expenditure under the Union budget and the European Union Recovery Instrument established by Council
+Regulation (EU) 2020/2094(^13 )contributes to climate objectives, by dedicating at least 30 % of the total amount of
+the expenditure to supporting climate objectives, on the basis of an effective methodology and in accordance with
+sectoral legislation.
+```
+```
+(29) In light of the objective of achieving climate neutrality by 2050 and in view of the international commitments under
+the Paris Agreement, continued efforts are necessary to ensure the phasing out of energy subsidies which are
+incompatible with that objective, in particular for fossil fuels, without impacting efforts to reduce energy poverty.
+```
+```
+(30) In order to provide predictability and confidence for all economic actors, including businesses, workers, investors
+and consumers, to ensure a gradual reduction of greenhouse gas emissions over time and that the transition
+towards climate neutrality is irreversible, the Commission should propose a Union intermediate climate target for
+2040, as appropriate, at the latest within six months of the first global stocktake carried out under the Paris
+Agreement. The Commission can make proposals to revise the intermediate target, taking into account the findings
+of the assessments of Union progress and measures and of national measures as well as the outcomes of the global
+stocktake and of international developments, including on common time frames for nationally determined
+contributions. As a tool to increase the transparency and accountability of the Union’s climate policies, the
+Commission should, when making its legislative proposal for the Union 2040 climate target, publish the projected
+indicative Union greenhouse gas budget for the 2030-2050 period, defined as the indicative total volume of net
+greenhouse gas emissions that are expected to be emitted in that period without putting at risk the Union’s
+commitments under the Paris Agreement, as well as the methodology underlying that indicative budget.
+```
+```
+(31) Adaptation is a key component of the long-term global response to climate change. The adverse effects of climate
+change can potentially exceed the adaptive capacities of Member States. Therefore, Member States and the Union
+should enhance their adaptive capacity, strengthen resilience and reduce vulnerability to climate change, as provided
+for in Article 7 of the Paris Agreement, as well as maximise the co-benefits with other policies and legislation. The
+Commission should adopt a Union strategy on adaptation to climate change in line with the Paris Agreement.
+Member States should adopt comprehensive national adaptation strategies and plans based on robust climate
+change and vulnerability analyses, progress assessments and indicators, and guided by the best available and most
+recent scientific evidence. The Union should seek to create a favourable regulatory environment for national policies
+and measures put in place by Member States to adapt to climate change. Improving climate resilience and adaptive
+capacities to climate change requires shared efforts by all sectors of the economy and society, as well as policy
+coherence and consistency in all relevant legislation and policies.
+```
+```
+(32) Ecosystems, people and economies in all regions of the Union will face major impacts from climate change, such as
+extreme heat, f loods, droughts, water scarcity, sea level rise, thawing glaciers, forest fires, windthrows and
+agricultural losses. Recent extreme events have already had substantial impacts on ecosystems, affecting carbon
+sequestration and storage capacities of forest and agricultural land. Enhancing adaptive capacities and resilience,
+taking into account the United Nations Sustainable Development Goals, help to minimise climate change impacts,
+to address unavoidable impacts in a socially balanced manner and to improve living conditions in impacted areas.
+```
+```
+(^13 ) Council Regulation (EU) 2020/2094 of 14 December 2020 establishing a European Union Recovery Instrument to support the
+recovery in the aftermath of the COVID-19 crisis (OJ L 433 I, 22.12.2020, p. 23).
+```
+L 243/6 EN Official Journal of the European Union 9.7.
+
+
+```
+Preparing early for such impacts is cost-effective and can also bring considerable co-benefits for ecosystems, health
+and the economy. Nature-based solutions, in particular, can benefit climate change mitigation, adaptation and
+biodiversity protection.
+```
+```
+(33) The relevant programmes established under the Multiannual Financial Framework provide for the screening of
+projects to ensure that such projects are resilient to the potential adverse impacts of climate change through a
+climate vulnerability and risk assessment, including through relevant adaptation measures, and that they integrate
+the costs of greenhouse gas emissions and the positive effects of climate mitigation measures in the cost-benefit
+analysis. This contributes to the integration of climate change-related risks as well as climate change vulnerability
+and adaptation assessments into investment and planning decisions under the Union budget.
+```
+```
+(34) In taking the relevant measures at Union and national level to achieve the climate-neutrality objective, Member States
+and the European Parliament, the Council and the Commission should, inter alia, take into account: the contribution
+of the transition to climate neutrality to public health, the quality of the environment, the well-being of citizens, the
+prosperity of society, employment and the competitiveness of the economy; the energy transition, strengthened
+energy security and the tackling of energy poverty; food security and affordability; the development of sustainable
+and smart mobility and transport systems; fairness and solidarity across and within Member States, in light of their
+economic capability, national circumstances, such as the specificities of islands, and the need for convergence over
+time; the need to make the transition just and socially fair through appropriate education and training programmes;
+best available and most recent scientific evidence, in particular the findings reported by the IPCC; the need to
+integrate climate change related risks into investment and planning decisions; cost-effectiveness and technological
+neutrality in achieving greenhouse gas emission reductions and removals and increasing resilience; and progression
+over time in environmental integrity and level of ambition.
+```
+```
+(35) As indicated in the European Green Deal, the Commission adopted on 9 December 2020 a communication entitled
+‘Sustainable and Smart Mobility Strategy – putting European transport on track for the future’. The strategy sets out a
+roadmap for a sustainable and smart future for European transport, with an action plan towards an objective to
+deliver a 90 % reduction in emissions from the transport sector by 2050.
+```
+```
+(36) To ensure that the Union and the Member States remain on track to achieve the climate-neutrality objective and
+progress on adaptation, the Commission should regularly assess progress, building upon information as set out in
+this Regulation, including information submitted and reported under Regulation (EU) 2018/1999. In order to allow
+for a timely preparation for the global stocktake referred to in Article 14 of the Paris Agreement, the conclusions of
+this assessment should be published by 30 September every five years, starting in 2023. This implies that the reports
+under Article 29(5) and Article 35 of that Regulation and, in the applicable years, the related reports under Article
+29(1) and Article 32 of that Regulation should be submitted to the European Parliament and to the Council at the
+same time as the conclusions of that assessment. In the event that the collective progress made by Member States
+towards the achievement of the climate-neutrality objective or on adaptation is insufficient or that Union measures
+are inconsistent with the climate-neutrality objective or inadequate to enhance adaptive capacity, strengthen
+resilience or reduce vulnerability, the Commission should take the necessary measures in accordance with the
+Treaties. The Commission should also regularly assess relevant national measures, and issue recommendations
+where it finds that a Member State’s measures are inconsistent with the climate-neutrality objective or inadequate to
+enhance adaptive capacity, strengthen resilience and reduce vulnerability to climate change.
+```
+```
+(37) The Commission should ensure a robust and objective assessment based on the most up-to-date scientific, technical
+and socioeconomic findings, and representative of a broad range of independent expertise, and base its assessment
+on relevant information including information submitted and reported by Member States, reports of the EEA, of the
+Advisory Board and of the Commission’s Joint Research Centre, the best available and most recent scientific
+evidence, including the latest reports of the IPCC, IPBES and other international bodies, as well as the Earth
+observation data provided by the European Earth Observation Programme Copernicus. The Commission should
+further base its assessments on an indicative, linear trajectory linking the Union’s climate targets for 2030
+and 2040, when adopted, with the Union’s climate-neutrality objective and serving as an indicative tool to estimate
+```
+9.7.2021 EN Official Journal of the European Union L 243/
+
+
+```
+and evaluate collective progress towards the achievement of the Union’s climate-neutrality objective. The indicative,
+linear trajectory is without prejudice to any decision to determine a Union climate target for 2040. Given that the
+Commission has committed itself to exploring how the EU taxonomy can be used in the context of the European
+Green Deal by the public sector, this should include information on environmentally sustainable investment, by the
+Union or by Member States, consistent with Regulation (EU) 2020/852 of the European Parliament and of the
+Council(^14 )when such information becomes available. The Commission should use European and global statistics
+and data where available and seek expert scrutiny. The EEA should assist the Commission, as appropriate and in
+accordance with its annual work programme.
+```
+```
+(38) As citizens and communities have a powerful role to play in driving the transformation towards climate neutrality
+forward, strong public and social engagement on climate action should be both encouraged and facilitated at all
+levels, including at national, regional and local level in an inclusive and accessible process. The Commission should
+therefore engage with all parts of society, including stakeholders representing different sectors of the economy, to
+enable and empower them to take action towards a climate-neutral and climate-resilient society, including through
+the European Climate Pact.
+```
+```
+(39) In line with the Commission’s commitment to the principles on Better Law-Making, coherence of the Union
+instruments as regards greenhouse gas emission reductions should be sought. The system of measuring the progress
+towards the achievement of the climate-neutrality objective as well as the consistency of measures taken with that
+objective should build upon and be consistent with the governance framework laid down in Regulation (EU)
+2018/1999, taking into account all five dimensions of the Energy Union. In particular, the system of reporting on a
+regular basis and the sequencing of the Commission’s assessment and actions on the basis of the reporting should be
+aligned to the requirements to submit information and provide reports by Member States laid down in Regulation
+(EU) 2018/1999. Regulation (EU) 2018/1999 should therefore be amended in order to include the climate-
+neutrality objective in the relevant provisions.
+```
+```
+(40) Climate change is by definition a trans-boundary challenge and coordinated action at Union level is needed to
+effectively supplement and reinforce national policies. Since the objective of this Regulation, namely to achieve
+climate neutrality in the Union by 2050, cannot be sufficiently achieved by the Member States, but can rather, by
+reason of the scale and effects, be better achieved at Union level, the Union may adopt measures, in accordance with
+the principle of subsidiarity as set out in Article 5 of the Treaty on European Union. In accordance with the principle
+of proportionality, as set out in that Article, this Regulation does not go beyond what is necessary to achieve that
+objective,
+```
+```
+HAVE ADOPTED THIS REGULATION:
+```
+```
+Article 1
+```
+```
+Subject matter and scope
+```
+```
+This Regulation establishes a framework for the irreversible and gradual reduction of anthropogenic greenhouse gas
+emissions by sources and enhancement of removals by sinks regulated in Union law.
+```
+```
+This Regulation sets out a binding objective of climate neutrality in the Union by 2050 in pursuit of the long-term
+temperature goal set out in point (a) of Article 2(1) of the Paris Agreement, and provides a framework for achieving
+progress in pursuit of the global adaptation goal established in Article 7 of the Paris Agreement. This Regulation also sets
+out a binding Union target of a net domestic reduction in greenhouse gas emissions for 2030.
+```
+```
+(^14 ) Regulation (EU) 2020/852 of the European Parliament and of the Council of 18 June 2020 on the establishment of a framework to
+facilitate sustainable investment, and amending Regulation (EU) 2019/2088 (OJ L 198, 22.6.2020, p. 13).
+```
+L 243/8 EN Official Journal of the European Union 9.7.
+
+
+```
+This Regulation applies to anthropogenic emissions by sources and removals by sinks of the greenhouse gases listed in Part
+2 of Annex V to Regulation (EU) 2018/1999.
+```
+```
+Article 2
+```
+```
+Climate-neutrality objective
+```
+1. Union-wide greenhouse gas emissions and removals regulated in Union law shall be balanced within the Union at the
+latest by 2050, thus reducing emissions to net zero by that date, and the Union shall aim to achieve negative emissions
+thereafter.
+2. The relevant Union institutions and the Member States shall take the necessary measures at Union and national level,
+respectively, to enable the collective achievement of the climate-neutrality objective set out in paragraph 1, taking into
+account the importance of promoting both fairness and solidarity among Member States and cost-effectiveness in
+achieving this objective.
+
+```
+Article 3
+```
+```
+Scientific advice on climate change
+```
+1. The European Scientific Advisory Board on Climate Change established under Article 10a of Regulation (EC)
+No 401/2009 (the ‘Advisory Board’) shall serve as a point of reference for the Union on scientific knowledge relating to
+climate change by virtue of its independence and scientific and technical expertise.
+2. The tasks of the Advisory Board shall include:
+
+```
+(a) considering the latest scientific findings of the IPCC reports and scientific climate data, in particular with regard to
+information relevant to the Union;
+```
+```
+(b) providing scientific advice and issuing reports on existing and proposed Union measures, climate targets and indicative
+greenhouse gas budgets, and their coherence with the objectives of this Regulation and the Union’s international
+commitments under the Paris Agreement;
+```
+```
+(c) contributing to the exchange of independent scientific knowledge in the field of modelling, monitoring, promising
+research and innovation which contribute to reducing emissions or increasing removals;
+```
+```
+(d) identifying actions and opportunities needed to successfully achieve the Union climate targets;
+```
+```
+(e) raising awareness on climate change and its impacts, as well as stimulating dialogue and cooperation between scientific
+bodies within the Union, complementing existing work and efforts.
+```
+3. The Advisory Board shall be guided in its work by the best available and most recent scientific evidence, including the
+latest reports of the IPCC, IPBES and other international bodies. It shall follow a fully transparent process and make its
+reports publicly available. It may take into account, where available, the work of the national climate advisory bodies
+referred to in paragraph 4.
+4. In the context of enhancing the role of science in the field of climate policy, each Member State is invited to establish a
+national climate advisory body, responsible for providing expert scientific advice on climate policy to the relevant national
+authorities as prescribed by the Member State concerned. Where a Member State decides to establish such an advisory body,
+it shall inform the EEA thereof.
+
+```
+Article 4
+```
+```
+Intermediate Union climate targets
+```
+1. In order to reach the climate-neutrality objective set out in Article 2(1), the binding Union 2030 climate target shall
+be a domestic reduction of net greenhouse gas emissions (emissions after deduction of removals) by at least 55 %
+compared to 1990 levels by 2030.
+
+9.7.2021 EN Official Journal of the European Union L 243/
+
+
+```
+When implementing the target referred to in the first subparagraph, the relevant Union institutions and the Member States
+shall prioritise swift and predictable emission reductions and, at the same time, enhance removals by natural sinks.
+```
+```
+In order to ensure that sufficient mitigation efforts are deployed up to 2030, for the purpose of this Regulation and without
+prejudice to the review of Union legislation referred to in paragraph 2, the contribution of net removals to the Union 2030
+climate target shall be limited to 225 million tonnes of CO 2 equivalent. In order to enhance the Union’s carbon sink in line
+with the objective of achieving climate neutrality by 2050, the Union shall aim to achieve a higher volume of its net carbon
+sink in 2030.
+```
+2. By 30 June 2021 , the Commission shall review relevant Union legislation in order to enable the achievement of the
+target set out in paragraph 1 of this Article and the climate-neutrality objective set out in Article 2(1) and consider taking
+the necessary measures, including the adoption of legislative proposals, in accordance with the Treaties.
+
+```
+Within the framework of the review referred to in the first subparagraph and future reviews, the Commission shall assess in
+particular the availability under Union law of adequate instruments and incentives to mobilise the investments needed, and
+propose measures as necessary.
+```
+```
+From the adoption of the legislative proposals by the Commission, it shall monitor the legislative procedures for the
+different proposals and may report to the European Parliament and to the Council on whether the foreseen outcome of
+those legislative procedures, considered together, would achieve the target set out in paragraph 1. If the foreseen outcome
+would not deliver a result in line with the target set out in paragraph 1, the Commission may take the necessary measures,
+including the adoption of legislative proposals, in accordance with the Treaties.
+```
+3. With a view to achieving the climate-neutrality objective set out in Article 2(1) of this Regulation, a Union-wide
+climate target for 2040 shall be set. To that end, at the latest within six months of the first global stocktake referred to in
+Article 14 of the Paris Agreement, the Commission shall make a legislative proposal, as appropriate, based on a detailed
+impact assessment, to amend this Regulation to include the Union 2040 climate target, taking into account the
+conclusions of the assessments referred to in Articles 6 and 7 of this Regulation and the outcomes of the global stocktake.
+4. When making its legislative proposal for the Union 2040 climate target as referred to in paragraph 3, the
+Commission shall, at the same time, publish in a separate report the projected indicative Union greenhouse gas budget for
+the 2030-2050 period, defined as the indicative total volume of net greenhouse gas emissions (expressed as CO 2
+equivalent and providing separate information on emissions and removals) that are expected to be emitted in that period
+without putting at risk the Union’s commitments under the Paris Agreement. The projected indicative Union greenhouse
+gas budget shall be based on the best available science, take into account the advice of the Advisory Board as well as,
+where adopted, the relevant Union legislation implementing the Union 2030 climate target. The Commission shall also
+publish the methodology underlying the projected indicative Union greenhouse gas budget.
+5. When proposing the Union 2040 climate target in accordance with paragraph 3, the Commission shall consider the
+following:
+
+```
+(a) the best available and most recent scientific evidence, including the latest reports of the IPCC and the Advisory Board;
+```
+```
+(b) the social, economic and environmental impacts, including the costs of inaction;
+```
+```
+(c) the need to ensure a just and socially fair transition for all;
+```
+```
+(d) cost-effectiveness and economic efficiency;
+```
+```
+(e) competiveness of the Union’s economy, in particular small and medium-sized enterprises and sectors most exposed to
+carbon leakage;
+```
+```
+(f) best available cost-effective, safe and scalable technologies;
+```
+```
+(g) energy efficiency and the ‘energy efficiency first’ principle, energy affordability and security of supply;
+```
+```
+(h) fairness and solidarity between and within Member States;
+```
+```
+(i) the need to ensure environmental effectiveness and progression over time;
+```
+L 243/10 EN Official Journal of the European Union 9.7.
+
+
+```
+(j) the need to maintain, manage and enhance natural sinks in the long term and protect and restore biodiversity;
+```
+```
+(k) investment needs and opportunities;
+```
+```
+(l) international developments and efforts undertaken to achieve the long-term objectives of the Paris Agreement and the
+ultimate objective of the UNFCCC;
+```
+```
+(m)existing information on the projected indicative Union greenhouse gas budget for the 2030-2050 period referred to in
+paragraph 4.
+```
+6. Within six months of the second global stocktake referred to in Article 14 of the Paris Agreement, the Commission
+may propose to revise the Union 2040 climate target in accordance with Article 11 of this Regulation.
+7. The provisions of this Article shall be kept under review in light of international developments and efforts undertaken
+to achieve the long-term objectives of the Paris Agreement, including with regard to the outcomes of international
+discussions on common time frames for nationally determined contributions.
+
+```
+Article 5
+```
+```
+Adaptation to climate change
+```
+1. The relevant Union institutions and the Member States shall ensure continuous progress in enhancing adaptive
+capacity, strengthening resilience and reducing vulnerability to climate change in accordance with Article 7 of the Paris
+Agreement.
+2. The Commission shall adopt a Union strategy on adaptation to climate change in line with the Paris Agreement and
+shall regularly review it in the context of the review provided for in point (b) of Article 6(2) of this Regulation.
+3. The relevant Union institutions and the Member States shall also ensure that policies on adaptation in the Union and
+in Member States are coherent, mutually supportive, provide co-benefits for sectoral policies, and work towards better
+integration of adaptation to climate change in a consistent manner in all policy areas, including relevant socioeconomic
+and environmental policies and actions, where appropriate, as well as in the Union’s external action. They shall focus, in
+particular, on the most vulnerable and impacted populations and sectors, and identify shortcomings in this regard in
+consultation with civil society.
+4. Member States shall adopt and implement national adaptation strategies and plans, taking into consideration the
+Union strategy on adaptation to climate change referred to in paragraph 2 of this Article and based on robust climate
+change and vulnerability analyses, progress assessments and indicators, and guided by the best available and most recent
+scientific evidence. In their national adaptation strategies, Member States shall take into account the particular
+vulnerability of the relevant sectors, inter alia, agriculture, and of water and food systems, as well as food security, and
+promote nature-based solutions and ecosystem-based adaptation. Member States shall regularly update the strategies and
+include the related updated information in the reports to be submitted under Article 19(1) of Regulation (EU) 2018/1999.
+5. By 30 July 2022 , the Commission shall adopt guidelines setting out common principles and practices for the
+identification, classification and prudential management of material physical climate risks when planning, developing,
+executing and monitoring projects and programmes for projects.
+
+```
+Article 6
+```
+```
+Assessment of Union progress and measures
+```
+1. By 30 September 2023 , and every five years thereafter, the Commission shall assess, together with the assessment
+provided for under Article 29(5) of Regulation (EU) 2018/1999:
+
+```
+(a) the collective progress made by all Member States towards the achievement of the climate-neutrality objective set out in
+Article 2(1) of this Regulation;
+```
+9.7.2021 EN Official Journal of the European Union L 243/
+
+
+```
+(b) the collective progress made by all Member States on adaptation as referred to in Article 5 of this Regulation.
+```
+```
+The Commission shall submit the conclusions of that assessment, together with the State of the Energy Union report
+prepared in the respective calendar year in accordance with Article 35 of Regulation (EU) 2018/1999, to the European
+Parliament and to the Council.
+```
+2. By 30 September 2023 , and every five years thereafter, the Commission shall review:
+
+```
+(a) the consistency of Union measures with the climate-neutrality objective set out in Article 2(1);
+```
+```
+(b) the consistency of Union measures with ensuring progress on adaptation as referred to in Article 5.
+```
+3. Where, based on the assessments referred to in paragraphs 1 and 2 of this Article, the Commission finds that Union
+measures are inconsistent with the climate-neutrality objective set out in Article 2(1) or inconsistent with ensuring progress
+on adaptation as referred to in Article 5, or that the progress towards that climate-neutrality objective or on adaptation as
+referred to in Article 5 is insufficient, it shall take the necessary measures in accordance with the Treaties.
+4. The Commission shall assess the consistency of any draft measure or legislative proposal, including budgetary
+proposals, with the climate-neutrality objective set out in Article 2(1) and the Union 2030 and 2040 climate targets before
+adoption, and include that assessment in any impact assessment accompanying these measures or proposals, and make the
+result of that assessment publicly available at the time of adoption. The Commission shall also assess whether those draft
+measures or legislative proposals, including budgetary proposals, are consistent with ensuring progress on adaptation as
+referred to in Article 5. When making its draft measures and legislative proposals, the Commission shall endeavour to
+align them with the objectives of this Regulation. In any case of non-alignment, the Commission shall provide the reasons
+as part of the consistency assessment referred to in this paragraph.
+
+```
+Article 7
+```
+```
+Assessment of national measures
+```
+1. By 30 September 2023 , and every five years thereafter, the Commission shall assess:
+
+```
+(a) the consistency of national measures identified, on the basis of the integrated national energy and climate plans,
+national long-term strategies and the biennial progress reports submitted in accordance with Regulation (EU)
+2018/1999, as relevant for the achievement of the climate-neutrality objective set out in Article 2(1) of this Regulation
+with that objective;
+```
+```
+(b) the consistency of relevant national measures with ensuring progress on adaptation as referred to in Article 5, taking
+into account the national adaptation strategies referred to in Article 5(4).
+```
+```
+The Commission shall submit the conclusions of that assessment, together with the State of the Energy Union report
+prepared in the respective calendar year in accordance with Article 35 of Regulation (EU) 2018/1999, to the European
+Parliament and to the Council.
+```
+2. Where the Commission finds, after due consideration of the collective progress assessed in accordance with Article
+6(1), that a Member State’s measures are inconsistent with the climate-neutrality objective set out in Article 2(1) or
+inconsistent with ensuring progress on adaptation as referred to in Article 5, it may issue recommendations to that
+Member State. The Commission shall make such recommendations publicly available.
+3. Where recommendations are issued in accordance with paragraph 2, the following principles shall apply:
+
+```
+(a) the Member State concerned shall, within six months of receipt of the recommendations, notify the Commission on
+how it intends to take due account of the recommendations in a spirit of solidarity between Member States and the
+Union and between Member States;
+```
+L 243/12 EN Official Journal of the European Union 9.7.
+
+
+```
+(b) after the submission of the notification referred to in point (a) of this paragraph, the Member State concerned shall set
+out, in its following integrated national energy and climate progress report submitted in accordance with Article 17 of
+Regulation (EU) 2018/1999, in the year following the year in which the recommendations were issued, how it has
+taken due account of the recommendations; if the Member State concerned decides not to address the
+recommendations or a substantial part thereof, that Member State shall provide the Commission its reasoning;
+```
+```
+(c) the recommendations shall be complementary to the latest country-specific recommendations issued in the context of
+the European Semester.
+```
+```
+Article 8
+```
+```
+Common provisions on Commission assessment
+```
+1. The Commission shall base its first and second assessments referred to in Articles 6 and 7 on an indicative, linear
+trajectory which sets out the pathway for the reduction of net emissions at Union level and which links the Union 2030
+climate target referred to in Article 4(1), the Union 2040 climate target, when adopted, and the climate-neutrality objective
+set out in Article 2(1).
+2. Following the first and second assessments referred to in paragraph 1, the Commission shall base any subsequent
+assessment on an indicative, linear trajectory linking the Union 2040 climate target, when adopted, and the climate-
+neutrality objective set out in Article 2(1).
+3. In addition to the national measures referred to in point (a) of Article 7(1), the Commission shall base its assessments
+referred to in Articles 6 and 7 on at least the following:
+
+```
+(a) information submitted and reported under Regulation (EU) 2018/1999;
+```
+```
+(b) reports of the EEA, the Advisory Board and the Commission’s Joint Research Centre;
+```
+```
+(c) European and global statistics and data, including statistics and data from the European Earth Observation Programme
+Copernicus, data on reported and projected losses from adverse climate impacts and estimates on the costs of inaction
+or delayed action, where available;
+```
+```
+(d) the best available and most recent scientific evidence, including the latest reports of the IPCC, IPBES and other
+international bodies; and
+```
+```
+(e) any supplementary information on environmentally sustainable investment by the Union or by Member States,
+including, when available, investment consistent with Regulation (EU) 2020/852.
+```
+4. The EEA shall assist the Commission in the preparation of the assessments referred to in Articles 6 and 7, in
+accordance with its annual work programme.
+
+```
+Article 9
+```
+```
+Public participation
+```
+1. The Commission shall engage with all parts of society to enable and empower them to take action towards a just and
+socially fair transition to a climate-neutral and climate-resilient society. The Commission shall facilitate an inclusive and
+accessible process at all levels, including at national, regional and local level and with social partners, academia, the
+business community, citizens and civil society, for the exchange of best practice and to identify actions to contribute to the
+achievement of the objectives of this Regulation. The Commission may also draw on the public consultations and on the
+multilevel climate and energy dialogues as set up by Member States in accordance with Articles 10 and 11 of Regulation
+(EU) 2018/1999.
+2. The Commission shall use all appropriate instruments, including the European Climate Pact, to engage citizens, social
+partners and stakeholders, and foster dialogue and the diffusion of science-based information about climate change and its
+social and gender equality aspects.
+
+9.7.2021 EN Official Journal of the European Union L 243/
+
+
+```
+Article 10
+```
+```
+Sectoral roadmaps
+```
+```
+The Commission shall engage with sectors of the economy within the Union that choose to prepare indicative voluntary
+roadmaps towards achieving the climate-neutrality objective set out in Article 2(1). The Commission shall monitor the
+development of such roadmaps. Its engagement shall involve the facilitation of dialogue at Union level, and the sharing of
+best practice among relevant stakeholders.
+```
+```
+Article 11
+```
+```
+Review
+```
+```
+Within six months of each global stocktake referred to in Article 14 of the Paris Agreement, the Commission shall submit a
+report to the European Parliament and to the Council, together with the conclusions of the assessments referred to in
+Articles 6 and 7 of this Regulation, on the operation of this Regulation, taking into account:
+```
+```
+(a) the best available and most recent scientific evidence, including the latest reports of the IPCC and the Advisory Board;
+```
+```
+(b) international developments and efforts undertaken to achieve the long-term objectives of the Paris Agreement.
+```
+```
+The Commission’s report may be accompanied, where appropriate, by legislative proposals to amend this Regulation.
+```
+```
+Article 12
+```
+```
+Amendments to Regulation (EC) No 401/
+```
+```
+Regulation (EC) No 401/2009 is amended as follows:
+```
+```
+(1) the following article is inserted:
+```
+```
+‘Article 10a
+```
+1. A European Scientific Advisory Board on Climate Change (the “Advisory Board”) is hereby established.
+2. The Advisory Board shall be composed of 15 senior scientific experts covering a broad range of relevant
+disciplines. Members of the Advisory Board shall meet the criteria set out in paragraph 3. No more than two members
+of the Advisory Board shall hold the nationality of the same Member State. The independence of the members of the
+Advisory Board shall be beyond doubt.
+3. The Management Board shall designate the members of the Advisory Board for a term of four years, which shall
+be renewable once, following an open, fair and transparent selection procedure. In its selection of the members of the
+Advisory Board, the Management Board shall seek to ensure a varied disciplinary and sectoral expertise, as well as
+gender and geographical balance. The selection shall be based on the following criteria:
+
+```
+(a) scientific excellence;
+```
+```
+(b)experience in carrying out scientific assessments and providing scientific advice in the fields of expertise;
+```
+```
+(c) broad expertise in the field of climate and environment sciences or other scientific fields relevant for the
+achievement of the Union’s climate objectives;
+```
+```
+(d)professional experience in an inter-disciplinary environment in an international context.
+```
+4. The members of the Advisory Board shall be appointed in a personal capacity and shall give their positions
+completely independently of the Member States and the Union institutions. The Advisory Board shall elect its
+chairperson from among its members for a period of four years and it shall adopt its rules of procedure.
+
+L 243/14 EN Official Journal of the European Union 9.7.
+
+
+5. The Advisory Board shall complement the work of the Agency while acting independently in discharging its
+tasks. The Advisory Board shall establish its annual work programme independently, and when doing so it shall
+consult the Management Board. The chairperson of the Advisory Board shall inform the Management Board and the
+Executive Director of that programme and its implementation.’;
+
+```
+(2) in Article 11, the following paragraph is added:
+```
+```
+‘5. The Agency’s budget shall also include the expenditure relating to the Advisory Board.’.
+```
+```
+Article 13
+```
+```
+Amendments to Regulation (EU) 2018/
+```
+```
+Regulation (EU) 2018/1999 is amended as follows:
+```
+```
+(1) in Article 1(1), point (a) is replaced by the following:
+```
+```
+‘(a)implement strategies and measures designed to meet the objectives and targets of the Energy Union and the long-
+term Union greenhouse gas emissions commitments consistent with the Paris Agreement, in particular the
+Union’s climate-neutrality objective set out in Article 2(1) of Regulation (EU) 2021/1119 of the European
+Parliament and of the Council (*), and, for the first ten-year period, from 2021 to 2030, in particular the Union’s
+2030 targets for energy and climate;
+```
+```
+_____________
+(*) Regulation (EU) 2021/1119 of the European Parliament and of the Council of 30 June 2021 establishing the
+framework for achieving climate neutrality and amending Regulations (EC) No 401/2009 and (EU) 2018/
+(“European Climate Law”) (OJ L 243, 9.7.2021, p. 1).’;
+```
+```
+(2) in Article 2, point (7) is replaced by the following:
+```
+```
+‘(7)“projections” means forecasts of anthropogenic greenhouse gas emissions by sources and removals by sinks or
+developments of the energy system, including at least quantitative estimates for a sequence of six future years
+ending with 0 or 5, immediately following the reporting year;’;
+```
+```
+(3) in Article 3(2), point (f) is replaced by the following:
+```
+```
+‘(f) an assessment of the impacts of the planned policies and measures to meet the objectives referred to in point (b)
+of this paragraph, including their consistency with the Union’s climate-neutrality objective set out in Article 2(1)
+of Regulation (EU) 2021/1119, the long-term greenhouse gas emission reduction objectives under the Paris
+Agreement and the long-term strategies as referred to in Article 15 of this Regulation;’;
+```
+```
+(4) in Article 8(2), the following point is added:
+```
+```
+‘(e)the manner in which existing policies and measures and planned policies and measures contribute to the
+achievement of the Union’s climate-neutrality objective set out in Article 2(1) of Regulation (EU) 2021/1119.’;
+```
+```
+(5) Article 11 is replaced by the following:
+```
+```
+‘Article 11
+```
+```
+Multilevel climate and energy dialogue
+```
+```
+Each Member State shall establish a multilevel climate and energy dialogue pursuant to national rules, in which local
+authorities, civil society organisations, business community, investors and other relevant stakeholders and the general
+public are able actively to engage and discuss the achievement of the Union’s climate-neutrality objective set out in
+Article 2(1) of Regulation (EU) 2021/1119 and the different scenarios envisaged for energy and climate policies,
+including for the long term, and review progress, unless it already has a structure which serves the same purpose.
+Integrated national energy and climate plans may be discussed within the framework of such a dialogue.’;
+```
+9.7.2021 EN Official Journal of the European Union L 243/
+
+
+```
+(6) Article 15 is amended as follows:
+```
+```
+(a) paragraph 1 is replaced by the following:
+```
+```
+‘1. By 1 January 2020, and subsequently by 1 January 2029and every 10 years thereafter, each Member State
+shall prepare and submit to the Commission its long-term strategy with a 30-year perspective and consistent with
+the Union’s climate-neutrality objective set out in Article 2(1) of Regulation (EU) 2021/1119. Member States
+should, where necessary, update those strategies every five years.’;
+```
+```
+(b)in paragraph 3, point (c) is replaced by the following:
+```
+```
+‘(c) achieving long-term greenhouse gas emission reductions and enhancements of removals by sinks in all
+sectors in accordance with the Union’s climate-neutrality objective set out in Article 2(1) of Regulation (EU)
+2021/1119, in the context of necessary greenhouse gas emission reductions and enhancements of removals
+by sinks according to the Intergovernmental Panel on Climate Change (IPCC) to reduce the Union’s
+greenhouse gas emissions in a cost-effective manner and enhance removals by sinks in pursuit of the long-
+term temperature goal in the Paris Agreement so as to achieve a balance between anthropogenic emissions
+by sources and removals by sinks of greenhouse gases within the Union and, as appropriate, achieve
+negative emissions thereafter;’;
+```
+```
+(7) Article 17 is amended as follows:
+```
+```
+(a) in paragraph 2, point (a) is replaced by the following:
+```
+```
+‘(a) information on the progress accomplished towards reaching the objectives, including progress towards the
+Union’s climate-neutrality objective set out in Article 2(1) of Regulation (EU) 2021/1119, targets and
+contributions set out in the integrated national energy and climate plan, and towards financing and
+implementing the policies and measures necessary to meet them, including a review of actual investment
+against initial investment assumptions;’;
+```
+```
+(b)in paragraph 4, the first subparagraph is replaced by the following:
+```
+```
+‘The Commission, assisted by the Energy Union Committee referred to in point (b) of Article 44(1), shall adopt
+implementing acts to set out the structure, format, technical details and process for the information referred to in
+paragraphs 1 and 2 of this Article, including a methodology for the reporting on the phasing out of energy
+subsidies, in particular for fossil fuels, pursuant to point (d) of Article 25.’;
+```
+```
+(8) in Article 29(1), point (b) is replaced by the following:
+```
+```
+‘(b) the progress made by each Member State towards meeting its objectives, including progress towards the Union’s
+climate-neutrality objective set out in Article 2(1) of Regulation (EU) 2021/1119, targets and contributions and
+implementing the policies and measures set out in its integrated national energy and climate plan;’;
+```
+```
+(9) Article 45 is replaced by the following:
+```
+```
+‘Article 45
+```
+```
+Review
+```
+```
+The Commission shall report to the European Parliament and to the Council within six months of each global
+stocktake agreed under Article 14 of the Paris Agreement on the operation of this Regulation, its contribution to
+governance of the Energy Union, its contribution to the long-term goals of the Paris Agreement, progress towards
+the achievement of the 2030 climate and energy targets and the Union’s climate-neutrality objective set out in Article
+2(1) of Regulation (EU) 2021/1119, additional Energy Union objectives and the conformity of the planning, reporting
+and monitoring provisions laid down in this Regulation with other Union law or decisions relating to the UNFCCC
+and the Paris Agreement. The Commission reports may be accompanied by legislative proposals where appropriate.’;
+```
+L 243/16 EN Official Journal of the European Union 9.7.
+
+
+```
+(10) Part 1 of Annex I is amended as follows:
+(a) in point 3.1.1 of Section A, point (i) is replaced by the following:
+‘i. Policies and measures to achieve the target set under Regulation (EU) 2018/842 as referred to in point 2.1.1 of
+this Section and policies and measures to comply with Regulation (EU) 2018/841, covering all key emitting
+sectors and sectors for the enhancement of removals, with an outlook to the Union’s climate-neutrality
+objective set out in Article 2(1) of Regulation (EU) 2021/1119’;
+(b)in Section B, the following point is added:
+‘5.5. The contribution of planned policies and measures to the achievement of the Union’s climate-neutrality
+objective set out in Article 2(1) of Regulation (EU) 2021/1119’;
+(11) in point (c) of Annex VI, point (viii) is replaced by the following:
+‘(viii) an assessment of the contribution of the policy or measure to the achievement of the Union’s climate-neutrality
+objective set out in Article 2(1) of Regulation (EU) 2021/1119 and to the achievement of the long-term strategy
+referred to in Article 15 of this Regulation;’.
+```
+```
+Article 14
+```
+```
+Entry into force
+```
+```
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the
+European Union.
+```
+```
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+```
+```
+Done at Brussels, 30 June 2021.
+```
+```
+For the European Parliament
+The President
+D. M. SASSOLI
+```
+```
+For the Council
+The President
+J. P. MATOS FERNANDES
+```
+9.7.2021 EN Official Journal of the European Union L 243/
+
+
