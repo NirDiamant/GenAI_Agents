@@ -31,20 +31,23 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Disable HTTP request logging
-logging.getLogger("httpx").setLevel(logging.WARNING)
-logging.getLogger("openai").setLevel(logging.WARNING)
-
-class DiscoveryAgent:
+class Config:
     def __init__(self):
         self.openai_api_key = os.getenv("OPENAI_API_KEY")
         self.db = os.getenv("DATABASE")
-
+        self.graph_cache_path = "discover.pkl"
+        
         if not all([self.openai_api_key, self.db]):
             raise ValueError("Missing required environment variables: OPENAI_API_KEY, DATABASE")
+        
+        self.db_engine = SQLDatabase.from_uri(f"sqlite:///{self.db}")
+        self.llm = ChatOpenAI(temperature=0)
+        self.llm_gpt4 = ChatOpenAI(temperature=0, model_name="gpt-4")
 
-        self.dbEngine = SQLDatabase.from_uri(f"sqlite:///{self.db}")
-        self.llm = ChatOpenAI(temperature=0, model_name="gpt-4")
-        self.toolkit = SQLDatabaseToolkit(db=self.dbEngine, llm=self.llm)
+class DiscoveryAgent:
+    def __init__(self):
+        self.config = Config()
+        self.toolkit = SQLDatabaseToolkit(db=self.config.db_engine, llm=self.config.llm_gpt4)
         self.tools = self.toolkit.get_tools()
 
         self.tools.extend([
@@ -67,7 +70,7 @@ class DiscoveryAgent:
 
         self.chat_prompt = self.create_chat_prompt()
         self.agent = create_openai_functions_agent(
-            llm=self.llm,
+            llm=self.config.llm_gpt4,
             prompt=self.chat_prompt,
             tools=self.tools
         )
@@ -80,23 +83,8 @@ class DiscoveryAgent:
             max_iterations=15
         )
 
-        self.graph_cache_path = "discover.pkl"
-
-    def test_connection(self):
-        self.show_tables()
-
     def run_query(self, q):
-        return self.dbEngine.run(q)
-
-    def show_tables(self):
-        q = '''
-            SELECT
-                name,
-                type
-            FROM sqlite_master
-            WHERE type IN ("table","view");
-            '''
-        return self.run_query(q)
+        return self.config.db_engine.run(q)
 
     def create_chat_prompt(self):
         system_message = SystemMessagePromptTemplate.from_template(
@@ -155,19 +143,19 @@ class DiscoveryAgent:
     def save_graph_db(self, graph: nx.Graph) -> None:
         """Save the NetworkX graph to disk"""
         try:
-            with open(self.graph_cache_path, 'wb') as f:
+            with open(self.config.graph_cache_path, 'wb') as f:
                 pickle.dump(graph, f)
-            logger.info(f"Graph saved to {self.graph_cache_path}")
+            logger.info(f"Graph saved to {self.config.graph_cache_path}")
         except Exception as e:
             logger.error(f"Failed to save graph: {str(e)}")
 
     def load_graph_db(self) -> Optional[nx.Graph]:
         """Load the NetworkX graph from disk if it exists"""
         try:
-            if os.path.exists(self.graph_cache_path):
-                with open(self.graph_cache_path, 'rb') as f:
+            if os.path.exists(self.config.graph_cache_path):
+                with open(self.config.graph_cache_path, 'rb') as f:
                     graph = pickle.load(f)
-                logger.info(f"Graph loaded from {self.graph_cache_path}")
+                logger.info(f"Graph loaded from {self.config.graph_cache_path}")
                 return graph
         except Exception as e:
             logger.error(f"Failed to load graph: {str(e)}")
@@ -175,20 +163,16 @@ class DiscoveryAgent:
 
     def discover(self) -> nx.Graph:
         """Modified to check for cached graph first"""
-        # Try to load existing graph
         cached_graph = self.load_graph_db()
         if cached_graph is not None:
             return cached_graph
 
-        # If no cached graph, perform discovery
         logger.info("No cached graph found, performing discovery...")
         prompt = "For all tables in this database, show the table name, column name, column type, if its optional. Also show Foreign key references to other columns. Do not show examples. Output only as json."
-        response = self.agent_executor.invoke({"input": prompt, "db_name": self.db})
+        response = self.agent_executor.invoke({"input": prompt, "db_name": self.config.db})
+        
         graph = self.jsonToGraph(response)
-
-        # Save the newly discovered graph
         self.save_graph_db(graph)
-
         return graph
 
     def jsonToGraph(self, response):
@@ -231,25 +215,18 @@ class DiscoveryAgent:
         return G
 
     def answer_question(self, question: str) -> str:
-        response = self.agent_executor.invoke({"input": question, "db_name": self.db})
+        response = self.agent_executor.invoke({"input": question, "db_name": self.config.db})
         return response['output']
 
 class InferenceAgent:
     def __init__(self):
-        self.openai_api_key = os.getenv("OPENAI_API_KEY")
-        self.db = os.getenv("DATABASE")
-
-        if not all([self.openai_api_key, self.db]):
-            raise ValueError("Missing required environment variables: OPENAI_API_KEY, DATABASE")
-
-        self.dbEngine = SQLDatabase.from_uri(f"sqlite:///{self.db}")
-        self.llm = ChatOpenAI(temperature=0)
-        self.toolkit = SQLDatabaseToolkit(db=self.dbEngine, llm=self.llm)
+        self.config = Config()
+        self.toolkit = SQLDatabaseToolkit(db=self.config.db_engine, llm=self.config.llm)
         self.tools = self.toolkit.get_tools()
         self.chat_prompt = self.create_chat_prompt()
-
+        
         self.agent = create_openai_functions_agent(
-            llm=self.llm,
+            llm=self.config.llm,
             prompt=self.chat_prompt,
             tools=self.tools
         )
@@ -284,7 +261,7 @@ class InferenceAgent:
 
     def run_query(self, q: str) -> str:
         try:
-            return self.dbEngine.run(q)
+            return self.config.db_engine.run(q)
         except Exception as e:
             logger.error(f"Query execution failed: {str(e)}")
             return f"Error executing query: {str(e)}"
@@ -399,10 +376,10 @@ class InferenceAgent:
                 Use this structural information to form an accurate query.
                 """
                 print(f"\n📝 Enhanced prompt created with graph context")
-                return self.agent_executor.invoke({"input": enhanced_prompt, "db_name": self.db})['output']
+                return self.agent_executor.invoke({"input": enhanced_prompt, "db_name": self.config.db})['output']
 
             print(f"\n⚡ No graph available, executing standard query: '{text}'")
-            return self.agent_executor.invoke({"input": text, "db_name": self.db})['output']
+            return self.agent_executor.invoke({"input": text, "db_name": self.config.db})['output']
 
         except Exception as e:
             print(f"\n❌ Error in inference query: {str(e)}")
@@ -410,7 +387,7 @@ class InferenceAgent:
 
 class PlannerAgent:
     def __init__(self):
-        self.llm = ChatOpenAI(temperature=0)
+        self.config = Config()
         self.planner_prompt = self.create_planner_prompt()
 
     def create_planner_prompt(self):
@@ -526,7 +503,7 @@ def classify_user_input(state: ConversationState) -> ConversationState:
 
 class SupervisorAgent:
     def __init__(self):
-        self.llm = ChatOpenAI(temperature=0)
+        self.config = Config()
         self.inference_agent = InferenceAgent()
         self.planner_agent = PlannerAgent()
         self.discovery_agent = DiscoveryAgent()
