@@ -1,0 +1,185 @@
+## European Commission - Questions and answers
+
+# Questions and Answers on BEFIT and transfer pricing
+
+## Strasbourg, 12 September 2023
+
+**Why was BEFIT needed?**
+
+Simplification is crucial to growth and competitiveness in the EU. However, dealing with 27 different
+national tax systems makes tax compliance difficult and costly for companies. This discourages
+cross-border investment in the EU, putting European businesses at a competitive disadvantage
+compared to companies elsewhere in the world.
+
+**What is the Commission proposing?**
+
+The Commission is proposing a new, single set of rules to determine the tax base of groups of
+companies.
+
+Business in Europe: Framework for Income Taxation (or BEFIT) will reduce tax compliance costs for
+large businesses, primarily those who operate in more than one Member State, and make it easier for
+national authorities to determine which taxes are rightly due.
+
+The proposal, which is about simplification and builds on the OECD/G20 international tax agreement
+on a global minimum level of taxation and the Pillar Two EU Directive, will include:
+
+```
+1. Common rules to compute the tax base at entity level
+```
+All companies that are members of the same group will calculate their tax base in accordance with a
+common set of tax adjustments to their financial accounting statements.
+
+```
+2. Aggregation of the tax base at EU group level
+```
+The tax bases of all members of the group will be aggregated into one single tax base. This will entail
+cross-border loss relief, as losses will automatically be set off against profits across borders, as well
+as increased tax certainty in transfer pricing compliance.
+
+_3. Allocation of the aggregated tax base_
+
+By using a transitional allocation rule, each member of the BEFIT group will have a percentage of the
+aggregated tax base calculated on the basis of the average of the taxable results in the previous
+three fiscal years.
+
+**Which companies does this apply to?**
+
+The new rules will be mandatory for groups operating in the EU with an annual combined revenue of
+at least €750 million, and where the ultimate parent entity holds, directly or indirectly, at least 75%
+of the ownership rights or of the rights giving entitlement to profit. For groups headquartered in third
+countries, their EU group members would need to have raised at least €50 million of annual
+combined revenues in at least two of the last four fiscal years or at least 5% of the total revenues of
+the group. This ensures that the requirements of the proposal are proportionate to its benefits.
+
+In addition, the rules will be optional for smaller groups which may choose to opt in as long as they
+prepare consolidated financial statements. This optional scope could be of particular interest to SME
+groups that operate cross-border, as they may have less resources to dedicate to compliance with
+multiple national corporate tax systems.
+
+For certain sectors, sector-specific characteristics are reflected in relevant parts of the proposal. This
+is, in particular, the case for international transport, shipping activities and extractive industries.
+
+**What will the transitional allocation rule lead to?**
+
+The transitional allocation rule will pave the way for a permanent allocation method that can be
+based on a formulary apportionment using substantive factors. In designing a permanent allocation
+method, the transitional solution will make it possible to take into account more recent County-by-
+Country Reporting (CbCR) data and information gathered from the first years of the application of
+
+
+BEFIT. It will also allow for a more thorough assessment of the impact that the implementation of
+the OECD/G20 Inclusive Framework Two-Pillar Approach is expected to have on national and BEFIT
+tax bases. If appropriate, the Commission may propose a Directive whereby the aggregated tax
+base will be allocated based on a factor-based formula.
+
+**What about companies that are part of a group, but do not operate in the EU?**
+
+The profits and losses of related parties which are not members of the BEFIT group (e.g. because
+they are not in the EU) will not be aggregated in the group tax base. This means that their losses
+would not be relieved across borders and transfer pricing would still apply in the transactions
+between these entities and BEFIT group members. In these cases, the so-called ‘traffic light system'
+in BEFIT will simplify transfer pricing compliance.
+
+**How will the BEFIT rules be administered in practice?**
+
+A One-Stop-Shop will allow one group member to fill in the group's information returns with the tax
+administration of one Member State.
+
+Tax audits and dispute settlement will remain at the level of each Member State. In some cases,
+audits may need to be carried out jointly under the existing legislative framework.
+
+**How much will BEFIT save businesses in tax compliance costs?**
+
+According to the OECD, large groups with a consolidated turnover of at least €750 million pay around
+€132 billion, or 1% of GDP, in taxes. The new, simpler rules of BEFIT could reduce businesses'
+current tax compliance costs up to 65%.
+
+**How does the BEFIT proposal relate to the HOT proposal (Establishing a Head Office Tax
+System for SMEs)?**
+
+The BEFIT proposal is primarily aimed at large groups operating across the EU. The HOT proposal
+simplifies rules for SMEs during their early stages of expansion. If SMEs successfully expand and
+grow, they may outgrow the scope of the HOT rules, but then they will be able to opt into BEFIT. In
+this way, the two proposals are complementary. Smaller businesses will be able to choose the best
+option for their own needs throughout their lifecycle.
+
+**TRANSFER PRICING**
+
+**What is transfer pricing?**
+
+Transfer pricing is a mechanism to determine the pricing of transactions between companies that are
+part of the same group. A significant volume of global trade consists of international transfers of
+goods and services, capital and intangibles, such as intellectual property, within a multinational
+group. These are called intra-group transactions. According to the current international standards -
+the OECD's arm's length principle - transactions between related entities of a multinational group
+must be priced on the same basis as transactions between third parties under comparable
+circumstances. This arm's length principle is further elaborated in the OECD's Transfer Pricing
+Guidelines.
+
+In order to apply the arm's length principle, it is necessary to identify the commercial or financial
+relations between the associated enterprises and to compare the conditions and economically
+relevant circumstances of transactions between associated enterprises, called _controlled transactions_ ,
+with those of comparable transactions between independent enterprises, which are called
+_comparable uncontrolled transactions_.
+
+**What are the problems related to current transfer pricing practices?**
+
+At European Union level, transfer pricing rules are currently not harmonised through legislative acts.
+While all Member States have in place domestic legislation that provides for some degree of a
+common approach by following the arm's length principle, even if its application is not identical
+across Member States, the definition of _associated enterprises_ and the notion of _control_ , which are
+pre-conditions to applying transfer pricing, differ between Member States. Certain Member States
+apply a threshold of 25% while others apply a threshold of 50% shareholding when it comes to
+determining whether the control criterion is met.
+
+The complexity of the transfer pricing rules also causes a number of other problems, such as:
+
+```
+Profit shifting and tax avoidance , as transfer prices can be easily manipulated to shift profit
+and be used in the context of aggressive tax planning schemes.
+Litigation and double-taxation , as transfer pricing is more subjective than other areas of
+taxation and, for this reason, is sensitive to disputes, with tax administrations not always
+```
+
+```
+sharing a common interpretation.
+High compliance costs , resulting from businesses having to determine what prices could be
+regarded as arm's length, conducting studies, as well as compiling, maintaining and updating
+the related documentation.
+```
+**What is the Commission proposing?**
+
+The Commission's proposal aims at harmonising transfer pricing rules within the EU and ensuring a
+common approach to transfer pricing problems. It incorporates the arm's length principle and key
+transfer pricing rules into EU law, clarifies the role and status of the OECD Transfer Pricing Guidelines
+and creates the possibility to establish common binding rules on specific aspects of the rules within
+the Union.
+
+The proposal will increase tax certainty and mitigate the risk of litigation and double taxation.
+Moreover, it will also reduce the opportunities for companies to use transfer pricing for aggressive tax
+planning purposes.
+
+**When will the new rules start being applied?**
+
+Member States should implement the transfer pricing rules by 1 January 2026.
+
+**For more information**
+
+Press release
+
+BEFIT legal proposal
+
+Transfer Pricing
+
+BEFIT Factsheet
+
+```
+QANDA/23/
+```
+```
+Press contacts:
+Daniel FERRIE (+32 2 298 65 00)
+Francesca DALBONI (+32 2 298 81 70)
+General public inquiries: Europe Direct by phone 00 800 67 89 10 11 or by email
+```
+

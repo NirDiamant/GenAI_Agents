@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registration Form</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f0f2f5;
+        }
+        .container {
+            background-color: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            width: 100%;
+            max-width: 320px;
+            box-sizing: border-box;
+            overflow: hidden;
+        }
+        h2 {
+            text-align: center;
+            margin: 0;
+            margin-bottom: 20px;
+        }
+        .form-group {
+            margin-bottom: 15px;
+        }
+        label {
+            display: block;
+            font-weight: bold;
+        }
+        input[type="text"],
+        input[type="password"] {
+            width: 100%;
+            padding: 8px;
+            margin-top: 5px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            box-sizing: border-box;
+        }
+        .success-message {
+            display: none;
+            color: green;
+            text-align: center;
+            font-weight: bold;
+        }
+        .error-message {
+            display: none;
+            color: red;
+            font-size: 0.9em;
+        }
+        .btn {
+            width: 100%;
+            padding: 10px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            box-sizing: border-box;
+        }
+        .btn:hover {
+            background-color: #45a049;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>Register</h2>
+        <div class="success-message" id="successMessage" data-testid="successMessage">Registration successful!</div>
+        <form id="registrationForm">
+            <div class="form-group">
+                <label for="username">Username:</label>
+                <input type="text" id="username" name="username" required data-testid="usernameInput">
+            </div>
+            <div class="form-group">
+                <label for="password">Password:</label>
+                <input type="password" id="password" name="password" required data-testid="passwordInput">
+                <div class="error-message" id="passwordError">Password must be at least 6 characters long.</div>
+            </div>
+            <div class="form-group">
+                <label for="confirmPassword">Confirm Password:</label>
+                <input type="password" id="confirmPassword" name="confirmPassword" required data-testid="confirmPasswordInput">
+                <div class="error-message" id="confirmError">Passwords do not match.</div>
+            </div>
+            <button type="button" class="btn" onclick="register()" data-testid="registerButton">Register</button>
+        </form>
+    </div>
+
+    <script>
+        function register() {
+            const password = document.getElementById('password').value;
+            const confirmPassword = document.getElementById('confirmPassword').value;
+            const successMessage = document.getElementById('successMessage');
+            const form = document.getElementById('registrationForm');
+            const passwordError = document.getElementById('passwordError');
+            const confirmError = document.getElementById('confirmError');
+
+            passwordError.style.display = 'none';
+            confirmError.style.display = 'none';
+
+            let valid = true;
+
+            if (password.length <= 5) {
+                passwordError.style.display = 'block';
+                valid = false;
+            }
+
+            if (password !== confirmPassword) {
+                confirmError.style.display = 'block';
+                valid = false;
+            }
+
+            if (valid) {
+                successMessage.style.display = 'block';
+                form.style.display = 'none';
+            }
+        }
+    </script>
+</body>
+</html>

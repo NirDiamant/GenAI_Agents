@@ -1,0 +1,228 @@
+## I
+
+```
+(Legislative acts)
+```
+# DECISIONS
+
+### DECISION (EU) 2023/136 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+
+```
+of 18 January 2023
+```
+```
+amending Directive 2003/87/EC as regards the notification of offsetting in respect of a global market-
+based measure for aircraft operators based in the Union
+```
+```
+(Text with EEA relevance)
+```
+```
+THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
+```
+```
+Having regard to the Treaty on the Functioning of the European Union, and in particular Article 192(1) thereof,
+```
+```
+Having regard to the proposal from the European Commission,
+```
+```
+After transmission of the draft legislative act to the national parliaments,
+```
+```
+Having regard to the opinion of the European Economic and Social Committee(^1 ),
+```
+```
+Having regard to the opinion of the Committee of the Regions(^2 ),
+```
+```
+Acting in accordance with the ordinary legislative procedure(^3 ),
+```
+```
+Whereas:
+```
+```
+(1) The Carbon Offsetting and Reduction Scheme for International Aviation (CORSIA) of the International Civil
+Aviation Organization (ICAO) has been in operation since 2019 as regards the monitoring, reporting and
+verification of emissions, and is intended to be a globally applied market-based measure aiming to offset
+international aviation carbon dioxide emissions from 1 January 2021 above a fixed emissions level with certain
+offset credits.
+```
+```
+(2) The Paris Agreement, adopted in December 2015 under the United Nations Framework Convention on Climate
+Change (UNFCCC)(^4 ), entered into force in November 2016. Its Parties have agreed to hold the increase in the
+global average temperature well below 2 °C above pre-industrial levels and to pursue efforts to limit the temperature
+increase to 1,5 °C above pre-industrial levels. That commitment has been reinforced with the adoption of the
+Glasgow Climate Pact in November 2021, in which the Conference of the Parties recognised that the impacts of
+climate change would be much lower at a temperature increase of 1,5 °C, compared with 2 °C, and resolved to
+pursue efforts to limit the temperature increase to 1,5 °C.
+```
+```
+(^1 ) OJ C 105, 4.3.2022, p. 140.
+(^2 ) OJ C 301, 5.8.2022, p. 116.
+(^3 ) Position of the European Parliament of 13 December 2022 (not yet published in the Official Journal) and decision of the Council of
+19 December 2022.
+(^4 ) OJ L 282, 19.10.2016, p. 4.
+```
+20.1.2023 EN Official Journal of the European Union L 19/
+
+
+```
+(3) Subject to the differences between Union legislation and the provisions in the First Edition of Annex 16, Volume IV,
+to the Convention on International Civil Aviation – Carbon Offsetting and Reduction Scheme for International
+Aviation, establishing the International Standards and Recommended Practices on Environmental Protection for
+CORSIA (CORSIA SARPs), and which were notified to ICAO following the adoption of Council Decision (EU)
+2018/2027(^5 ), and subject to the manner in which the European Parliament and the Council amend Union
+legislation, the Union intends to implement CORSIA through Directive 2003/87/EC of the European Parliament
+and of the Council(^6 ).
+```
+```
+(4) Commission Delegated Regulation (EU) 2019/1603(^7 )was adopted in order to appropriately implement the rules of
+CORSIA for monitoring, reporting and verification of aviation emissions. The offsetting within the meaning of the
+CORSIA SARPs is calculated on the basis of CO 2 emissions verified in accordance with that Delegated Regulation.
+```
+```
+(5) Due to a large decrease in aviation emissions in 2020 as a consequence of the COVID-19 pandemic, the ICAO
+Council decided in its 220th session in June 2020 that 2019 emissions should be used as baseline for calculating
+the offsetting to be carried out by aircraft operators for the years 2021 to 2023. That decision was endorsed by the
+ICAO 41st Assembly in October 2022.
+```
+```
+(6) Aviation emissions did not exceed their collective 2019 levels in 2021. On 31 October 2022 , ICAO determined that
+the Sector Growth Factor (SGF) for 2021 emissions equals zero. The SGF is a parameter of the CORSIA methodology
+used to calculate operators’ annual offsetting requirements. Therefore, aircraft operators’ additional offsetting is to be
+zero for the year 2021.
+```
+```
+(7) Member States should implement CORSIA by notifying aircraft operators that hold an air operator certificate issued
+by a Member State and aircraft operators that are registered in a Member State of those aircraft operators’ offsetting
+in respect of the year 2021 by 30 November 2022.
+```
+```
+(8) Since the objectives of this Decision cannot be sufficiently achieved by the Member States but can rather, by reason
+of its scale and effects, be better achieved at Union level, the Union may adopt measures, in accordance with the
+principle of subsidiarity as set out in Article 5 of the Treaty on European Union. In accordance with the principle of
+proportionality as set out in that Article, this Decision does not go beyond what is necessary in order to achieve
+those objectives.
+```
+```
+(9) It is important to ensure there is legal certainty for national authorities and for aircraft operators as regards CORSIA
+offsetting for the year 2021, as soon as possible in 2022. Accordingly, this Decision should enter into force without
+delay.
+```
+```
+(10) Without prejudice to the adoption of a Directive of the European Parliament and of the Council amending Directive
+2003/87/EC as regards the contribution of aviation to the Union’s economy-wide emissions reduction target, and
+appropriately implementing a global market-based measure, this Decision is intended to be a purely temporary
+measure that is only to apply pending the expiration of the transposition period of that Directive. In the event that
+the transposition period has not expired by 30 November 2023 and ICAO determines that the SGF for 2022
+emissions equals zero, Member States should notify aircraft operators that their offsetting requirements in respect of
+the year 2022 amount to zero. If the SGF for 2022 emissions is different from zero, the Commission should be able,
+where appropriate, to submit a new proposal for the calculation and the notification of those offsetting
+requirements.
+```
+```
+(^5 ) Council Decision (EU) 2018/2027 of 29 November 2018 on the position to be taken on behalf of the European Union within the
+International Civil Aviation Organization in respect of the First Edition of the International Standards and Recommended Practices on
+Environmental Protection – Carbon Offsetting and Reduction Scheme for International Aviation (CORSIA)(OJ L 325, 20.12.2018,
+p. 25).
+(^6 ) Directive 2003/87/EC of the European Parliament and of the Council of 13 October 2003 establishing a system for greenhouse gas
+emission allowance trading within the Union and amending Council Directive 96/61/EC (OJ L 275, 25.10.2003, p. 32).
+(^7 ) Commission Delegated Regulation (EU) 2019/1603 of 18 July 2019 supplementing Directive 2003/87/EC of the European Parliament
+and of the Council as regards measures adopted by the International Civil Aviation Organisation for the monitoring, reporting and
+verification of aviation emissions for the purpose of implementing a global market-based measure (OJ L 250, 30.9.2019, p. 10).
+```
+L 19/2 EN Official Journal of the European Union 20.1.
+
+
+```
+(11) Directive 2003/87/EC should therefore be amended accordingly,
+```
+```
+HAVE ADOPTED THIS DECISION:
+```
+```
+Article 1
+```
+```
+In Article 12 of Directive 2003/87/EC, the following paragraphs are added:
+```
+```
+‘6. By 30 November 2022 , Member States shall notify aircraft operators that, in respect of the year 2021, their
+offsetting requirements within the meaning of paragraph 3.2.1 of ICAO’s International Standards and Recommended
+Practices on Environmental Protection for Carbon Offsetting and Reduction Scheme for International Aviation
+(CORSIA SARPs) amount to zero. Member States shall notify aircraft operators that fulfil the following conditions:
+```
+```
+(a) the aircraft operators hold an air operator certificate issued by a Member State or are registered in a Member State,
+including in the outermost regions, dependencies and territories of that Member State; and
+```
+```
+(b) they produce annual CO 2 emissions greater than 10 000 tonnes from the use of aeroplanes with a maximum certified
+take-off mass greater than 5 700kg conducting f lights covered by Annex I to this Directive and by Article 2(3) of
+Commission Delegated Regulation (EU) 2019/1603 (*), other than those departing and arriving in the same Member
+State, including the outermost regions of that Member State, from 1 January 2021.
+```
+```
+For the purposes of the first subparagraph, point (b), CO 2 emissions from the following types of f lights shall not be taken
+into account:
+```
+```
+(i) state f lights;
+```
+```
+(ii) humanitarian flights;
+```
+```
+(iii) medical f lights;
+```
+```
+(iv) military flights;
+```
+```
+(v) firefighting f lights;
+```
+```
+(vi) f lights preceding or following a humanitarian, medical or firefighting flight, provided that such f lights were conducted
+with the same aircraft and were required to accomplish the related humanitarian, medical or firefighting activities or to
+reposition the aircraft after those activities for its next activity.
+```
+7. Pending a legislative act amending this Directive as regards the contribution of aviation to the Union’s economy-
+wide emission reduction target and appropriately implementing a global market-based measure, and in the event that
+the period for the transposition of such a legislative act has not expired by 30 November 2023 , and the Sector Growth
+Factor (SGF) for 2022 emissions, to be published by ICAO, equals zero, Member States shall, by 30 November 2023 ,
+notify aircraft operators that, in respect of the year 2022, their offsetting requirements within the meaning of
+paragraph 3.2.1 of ICAO’s CORSIA SARPs amount to zero.
+
+```
+_____________
+(*) Commission Delegated Regulation (EU) 2019/1603 of 18 July 2019 supplementing Directive 2003/87/EC of the
+European Parliament and of the Council as regards measures adopted by the International Civil Aviation Organisation
+for the monitoring, reporting and verification of aviation emissions for the purpose of implementing a global market-
+based measure (OJ L 250, 30.9.2019, p. 10).’.
+```
+```
+Article 2
+```
+```
+This Decision shall enter into force on the day following that of its publication in the Official Journal of the European Union.
+```
+20.1.2023 EN Official Journal of the European Union L 19/
+
+
+```
+Done at Strasbourg, 18 January 2023.
+```
+```
+For the European Parliament
+The President
+R. METSOLA
+```
+```
+For the Council
+The President
+J. ROSWALL
+```
+L 19/4 EN Official Journal of the European Union 20.1.
+
+

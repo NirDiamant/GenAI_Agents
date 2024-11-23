@@ -1,0 +1,48 @@
+{
+  "events": [
+    {
+      "id": "evt_001",
+      "summary": "ML Study Session - Fundamentals",
+      "start": {
+        "dateTime": "2024-03-15T09:00:00Z",
+        "timeZone": "UTC"
+      },
+      "end": {
+        "dateTime": "2024-03-15T10:30:00Z",
+        "timeZone": "UTC"
+      },
+      "description": "Focus on ML fundamentals and supervised learning concepts",
+      "location": "Study Room 2",
+      "metadata": {
+        "type": "study_session",
+        "subject": "Machine Learning",
+        "material_ids": [
+          "ml_101"
+        ],
+        "session_structure": "adhd_optimized"
+      }
+    },
+    {
+      "id": "evt_002",
+      "summary": "Python Programming Practice",
+      "start": {
+        "dateTime": "2024-03-16T14:00:00Z",
+        "timeZone": "UTC"
+      },
+      "end": {
+        "dateTime": "2024-03-16T15:30:00Z",
+        "timeZone": "UTC"
+      },
+      "description": "Practical coding session focusing on data structures",
+      "location": "Computer Lab",
+      "metadata": {
+        "type": "practice_session",
+        "subject": "Programming",
+        "material_ids": [
+          "py_201"
+        ],
+        "session_structure": "hands_on"
+      }
+    }
+  ]
+}
