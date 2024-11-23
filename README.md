@@ -234,6 +234,16 @@ Explore our extensive list of GenAI agent implementations, ranging from simple t
     #### Implementation 🛠️
     • Implement a multi-step process involving question anonymization, high-level planning, task breakdown, adaptive information retrieval and question answering, continuous re-planning, and rigorous answer verification to ensure grounded and accurate responses.
 
+20. **[VeritasDoc: Document / Research paper Analysis AI Agent 📄](https://github.com/Amith71965/VeritasDoc.git**
+
+    #### Overview 🔎
+    The Document Analysis AI Agent is a cutting-edge solution that transforms the way we handle document analysis and comparison 🔄. Built on the powerful combination of LangChain framework and OpenAI's language models, this intelligent system streamlines the process of extracting insights from multiple documents simultaneously 📑. Whether you're conducting academic research, performing literature reviews, or analyzing technical documentation, our AI agent serves as your intelligent assistant, capable of understanding, summarizing, and comparing complex documents with remarkable accuracy 🎯.
+    At its core, the system utilizes OpenAI's GPT-3.5-turbo-16k model 🧠 for deep content understanding, coupled with Pinecone's vector database 🗄️ for efficient document storage and retrieval.
+
+
+    #### Implementation 🛠️
+    • Our implementation follows a modular, layered architecture that ensures both efficiency and scalability 📐. The document processing layer handles .PDF, .txt file formats. The analysis layer, powered by advanced language models, performs multiple tasks: generating concise summaries 📝, extracting key points ✨, analyzing methodologies 📊.The storage layer, built on Pinecone's vector database, ensures fast and efficient retrieval of document information, enabling seamless comparative analysis 💾.
+
 
 ## Getting Started
 
