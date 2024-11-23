@@ -234,15 +234,6 @@ Explore our extensive list of GenAI agent implementations, ranging from simple t
     #### Implementation 🛠️
     • Implement a multi-step process involving question anonymization, high-level planning, task breakdown, adaptive information retrieval and question answering, continuous re-planning, and rigorous answer verification to ensure grounded and accurate responses.
 
-20. **[Scientific Paper Assistance: Orchestrated Research Agent using LangGraph 🔬]()**
-
-    #### Overview 🔎 
-
-    A sophisticated scientific research assistant that transforms paper analysis through state-orchestrated workflows. Unlike traditional systems that simply fetch and summarize papers, our approach leverages LangGraph to create an intelligent "conductor" 🎭 that orchestrates the research process through deterministic states and feedback loops. This system breaks free from basic query-response patterns by implementing a robust state machine that can download papers, extract key findings, maintain research context, and generate comprehensive analyses - all while preserving academic rigor through a controlled, step-by-step validation process. Through tools like CORE API integration and PDF processing capabilities, it enables authentic scientific research interactions with verifiable sources and structured outputs. 
-
-    #### Implementation 🛠️ 
-
-    The system executes through a precisely orchestrated five-node workflow: (1) Decision Making Phase - evaluating whether queries require research or direct answers, (2) Planning Phase - breaking down research tasks and selecting appropriate tools, (3) Tool Execution - handling paper retrieval and download through CORE API and PDF processing, (4) Agent Analysis Phase - performing context-aware synthesis of paper content, and (5) Judge Phase - ensuring answer quality through recursive improvement gates. Each node operates under strict state control through LangGraph's StateGraph architecture, with up to three refinement cycles ensuring research quality. This orchestrated approach enables sophisticated paper analysis while maintaining academic integrity through structured validation gates, transforming how users interact with scientific literature while preserving research rigor. 🎯✨
 
 ## Getting Started
 
