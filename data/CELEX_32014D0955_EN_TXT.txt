@@ -1,0 +1,1325 @@
+# DECISIONS
+
+## COMMISSION DECISION
+
+```
+of 18 December 2014
+amending Decision 2000/532/EC European on the list of waste Parliament and of the Council pursuant to Directive 2008/98/EC of the
+(Text with EEA relevance)
+(2014/955/EU)
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+```
+Having regard and repealing certain Directives to Directive 2008/98/EC ( (^1) ), and in particular of the European Article 7(1) thereof, Parliament and of the Council of 19 November 2008 on waste
+Whereas:
+(1) A Union list of hazardous that Decision has been replaced waste (hereafby Commission ter ‘list of waste’) Decision was established 2000/532/EC ( (^3) ). by Council Decision 94/904/EC (^2 ), and
+(2) Directive H 11 and H 14 is to be made on the basis of the criteria laid down by Annex 2008/98/EC provides that the attribution of the hazardous properties H 4, H 5, H 6, H 7, H 8, H 10, VI to Council Directive
+67/548/EEC (^4 ).
+(3) Directive the Council 67/548/EEC ( (^5) ) with effect from 1 June 2015, has been replaced by Regulation reflecting (EC) No 1272/2008 technical and scientific of the European progress. By way of derogation, Parliament and of
+Directive packaged in accordance 67/548/EEC may apply to some mixtures with Directive 1999/45/EC until 1 June 2017, of the European in case they were classified, Parliament and of the Council labelled ( (^6) ) and and
+already placed on the market before 1 June 2015.
+(4) Requirements properties H 3 to H 8, H 10 and H 11 need to be adapted to technical of Decision 2000/532/EC for the classification of wastes as hazardous and scientific progress regarding the hazardous and aligned with
+the new legislation ective 2008/98/EC. on chemicals, where appropriate. These requirements have been included in Annex III to Dir­
+(5) The Annex nology used in Regulation to Decision 2000/532/EC (EC) No 1272/2008. establishing the list of waste needs to be amended It is appropriate to refer to Council to align it with the termiRegulation (EC) ­
+No 440/2008 dous properties is conducted (^7 ) or other internatiby performinonally recognised g a test. test methods and guidelines when the attribution of hazar­
+L 370/44 EN Official Journal of the European Union 30.12.
+((^12 ) OJ L 312, 22.11.2008, ) Council Decision 94/904/EC p. 3. of 22 December 1994 establishing a list of hazardous waste pursuant to Article 1(4) of Council Directive
+(^3 ) Commission 91/689/EEC on hazardous Decision 2000/532/EC waste (OJ L 356, 31.12.1994, of 3 May 2000 replacing p. 14). Decision 94/3/EC establishing a list of wastes pursuant to Article 1(a) of
+Council of Council Directive Directive 75/442/EEC 91/689/EEC on waste and Council on hazardous waste (OJ L 226, 6.9.2000, Decision 94/904/EC establishing p. 3). a list of hazardous waste pursuant to Article 1(4)
+(^4 ) Council classification, Directive packaging and labelling 67/548/EEC of 27 June 1967 on the approximation of dangerous substances (OJ 196, 16.8.1967, of laws, regulations p. 1). and administrative provisions relating to the
+(^5 ) Regulation packaging of substances (EC) No 1272/2008 and mixtures, of the European amending and repealing Parliament and of the Council Directives 67/548/EEC of 16 December and 1999/45/EC, 2008 on classification, and amending Regulation labelling (EC) and
+(^6 ) Directive No 1907/2006 1999/45/EC (OJ L 353, 31.12.2008, of the European Parliament p. 1). and of the Council of 31 May 1999 concerning the approximation of the laws, regula­
+tions and administrative (OJ L 200, 30.7.1999, p. 1). provisions of the Member States relating to the classification, packaging and labelling of dangerous preparations
+(^7 ) Council European Regulation Parliament (EC) No 440/2008 and of the Council of 30 May 2008 laying down test methods on the Registration, Evaluation, Authorisation pursuant and Restriction of Chemicals to Regulation (EC) No 1907/2006 (REACH) (OJ L 142, of the
+31.5.2008, p. 1).
+
+
+```
+(6) The properfore, the characterties that render istics displayed by waste to be considered wastes hazardous are precisely defined in Annex as hazardous as regards III to Directive H3 to H8, H 10 and H 11 2008/98/EC. There­
+that were included in Article 2 of Decision 2000/532/EC have become redundant.
+(7) The requirements 2008/98/EC. Therefore, they have become of Article 3 of Decision redundant. 2000/532/EC are included in Articles 7(2) and (3) of Directive
+(8) The measures Article 39 of Directive provided for in this Decision 2008/98/EC, are in accordance with the opinion of the Committee provided for in
+```
+```
+HAS ADOPTED THIS DECISION:
+Article 1
+Decision 2000/532/EC is amended as follows:
+(1) Articles 2 and 3 are deleted.
+(2) The Annex is replaced by the Annex to this Decision.
+Article 2
+This Decision European Unionshall enter into force on the twentieth. day following that of its publication in the Official Journal of the
+It shall apply from 1 June 2015.
+```
+```
+Done at Brussels, 18 December 2014.
+For the Commission
+The President
+Jean-Claude JUNCKER
+```
+30.12.2014 EN Official Journal of the European Union L 370/
+
+
+```
+ANNEX
+LIST OF WASTE REFERRED TO IN ARTICLE 7 OF DIRECTIVE 2008/98/EC
+DEFINITIONS
+For the purposes of this Annex, the following definitions shall apply:
+```
+1. ‘hazardous in parts 2 to 5 of Annex substance’ means I to Regulation a substance (EC) No 1272/2008; classified as hazardous as a consequence of fulfilling the criteria laid down
+2. ‘heavy metal’ selenium, tellurium, thallium means any compoand tin, as well as these materials in metallic und of antimony, arsenic, cadmium, chromium form, as far as these are classified (VI), copper, lead, mercury, nickel, as hazar­
+    dous substances;
+
+3. ‘polychlorinated biphenyls Directive 96/59/EC ( (^1) ); and polychlorinated terphenyls’ (‘PCBs’) means PCBs as defined in Article 2(a) of Council
+
+4. ‘transition copper, yttrium, niobium, metals’ means any of the following metals: hafnium, tungsten, titanium, any compound chromium, iron, nickel, zinc, zirconium, of scandium, vanadium, manganesemolybdenum , cobalt, and
+    tantalum, as well as these materials in metallic form, as far as these are classified as hazardous substances;
+5. ‘stabilisation’ dous waste into non-hazardous means processes which waste; change the hazardousness of the constituents in the waste and transform hazar­
+6. ‘solidification’ the chemical propermeans ties of the waste; processes which only change the physical state of the waste by using additives without changing
+7. ‘partly stabilised not been changed completely into non-hazardous wastes’ means wastes containing, after the stabilisation constituents and could be released process, hazardous into the environment constituents which in the have
+    short, middle or long term.
+ASSESSMENT AND CLASSIFICATION
+1. Assessment of hazardous properties of waste
+    When apply. For the hazardous assessing the hazardous properproperties HP 4, HP 6 and HP 8, cut-off ties of wastes, the criteria laid down in Annex values for individual III to Directive substances 2008/98/EC as indicated shall in
+    Annex cut-off III to Directive value, it shall not be included 2008/98/EC shall apply to the assessment. in any calculation of a threshold. Where Where a substance a hazardous is present properin the waste below its ty of a waste has
+    been assessed 2008/98/EC, the results by a test and by using the concentrations of the test shall prevail. of hazardous substances as indicated in Annex III to Directive
+2. Classification of waste as hazardous
+    Any waste marked ive 2008/98/EC, unless with an asterisk (*) in the list of wastes shall be considered Article 20 of that Directive applies. as hazardous waste pursuant to Direct­
+    For those wastes for which hazardous and non-hazardous waste codes could be assigned, the following shall apply:
+    — An entry in the harmonised dous substances', is only approprlist of wastes marked iate to a waste when that waste contains as hazardous, having a specific or general relevant hazardous reference to 'hazarsubstances that ­
+       cause the waste to display one or more of the hazardous listed in Annex III to Directive 2008/98/EC. The assessment properof the hazardous ties HP 1 to HP 8 and/or property HP 9 'infectious' HP 10 to HP 15 as shall be
+       made according to relevant legislation or reference documents in the Member States.
+    — A hazardous Annex III to Directive property can be assessed 2008/98/EC or, unless by using the concentration otherwise specified in Regulation of substances in the waste as specified in (EC) No 1272/2008, by
+       performimethods ng a test in accordance and guidelines, taking into account with Regulation Article 7 of Regulation (EC) No 440/2008 (EC) No 1272/2008 or other internationally as regards recognised animal and test
+       human testing.
+
+L 370/46 EN Official Journal of the European Union 30.12.
+
+```
+(^1 ) Council (PCB/PCT) Directive (OJ L 243, 24.9.1996, 96/59/EC of 16 September p. 31). 1996 on the disposal of polychlorinated biphenyls and polychlorinated terphenyls
+```
+
+```
+— Wastes containing bis (4-chlorophenyl)ethane), polychlorinated dibenzo-p-diochlordane, hexachlorocyclohexanes xins and dibenzofurans (including (PCDD/PCDF), lindane), dieldrin, endrin, heptachlorDDT (1,1,1-trichloro-2,2- ,
+hexaclorobenzene, exceeding the concentration chlordecone, limits indicated aldrine, pentachlorobein Annex IV to Regulation nzene, mirex, toxaphene (EC) No 850/2004 hexabromobiphenyl of the European and/or ParliaPCB ­
+ment and of the Council (^1 ) shall be classified as hazardous.
+— The concentration massive form (not contaminatelimits defined d with hazardous in Annex III to Directive substances). 2008/98/EC Those waste alloys that are considered do not apply to pure metal alloys in their as hazardous
+waste are specifically enumerated in this list and marked with an asterisk (*).
+— Where account applicable, when establishing the following notes included the hazardous properin Annex ties of wastes: VI to Regulation (EC) No 1272/2008 may be taken into
+— 1.1.3.1. Q, R, and U. Notes relating to the identification, classification and labelling of substances: Notes B, D, F, J, L, M, P,
+— 1.1.3.2. Notes relating to the classification and labelling of mixtures: Notes 1, 2, 3 and 5.
+— After assessing hazardous entry from the list of wastes the hazardous properties for a waste according shall be assigned. to this method, an appropriate hazardous or non-
+All other entries in the harmonised list of wastes are considered non-hazardous.
+LIST OF WASTE
+The different types of waste in the list are fully defined by the six-digit and four-digit chapter headings. This implies that the following steps should code for the waste and the respective be taken to identify a waste in the list: two-digit
+— Identify of the waste (excluding the source generating codes ending the waste in Chapters 01 to 12 or 17 to 20 and identify with 99 of these chapters). Note that a specific production the appropriate six-digit unit may need to code
+classify (wastes from shaping its activities in several and surface chapters. For instance, treatment of metals), a car manufacturer 11 (inorganic wastes containing may find its wastes metals from metal treatment listed in Chapters 12
+and the coating of metals) and 08 (wastes from the use of coatings), depending on the different process steps.
+— If no approprexamined to identify iate waste code can be found in Chapters 01 to 12 or 17 to 20, the Chapters 13, 14 and 15 must be the waste.
+— If none of these waste codes apply, the waste must be identified according to Chapter 16.
+— If the waste is not in Chapter 16 either, the 99 code (wastes not otherwise specified) the list corresponding to the activity identified in step one. must be used in the section of
+INDEX
+Chapters of the list
+01 Wastes resulting from exploration, mining, quarrying, physical and chemical treatment of minerals
+02 Wastes from agriculture, cessing horticulture, aquaculture, forestry, hunting and fishing, food preparation and pro­
+03 Wastes from wood processing and the production of panels and furniture, pulp, paper and cardboard
+04 Wastes from the leather, fur and textile industries
+05 Wastes from petroleum refining, natural gas purification and pyrolytic treatment of coal
+06 Wastes from inorganic chemical processes
+```
+30.12.2014 EN Official Journal of the European Union L 370/
+
+```
+(^1 ) Regulation amending Directive (EC) No 850/2004 79/117/EEC of the European (OJ L 158, 30.4.2004, parliament p. 7). and of the Council of 29 April 2004 on persistent organic pollutants and
+```
+
+```
+07 Wastes from organic chemical processes
+08 Wastes from the manufacture, eous enamels), adhesives, sealants formulation, and printing inks supply and use (MFSU) of coatings (paints, varnishes and vitr­
+09 Wastes from the photographic industry
+10 Wastes from thermal processes
+11 Wastes from chemical metallurgy surface treatment and coating of metals and other materials; non-ferrous hydro-
+12 Wastes from shaping and physical and mechanical surface treatment of metals and plastics
+13 Oil wastes and wastes of liquid fuels (except edible oils, 05 and 12)
+14 Waste organic solvents, refrigerants and propellants (except 07 and 08)
+15 Waste packagcified ing; absorbents, wiping cloths, filter materials and protective clothing not otherwise spe­
+16 Wastes not otherwise specified in the list
+17 Construction and demolition wastes (including excavated soil from contaminated sites)
+18 Wastes from human not arising from immediate or animal health health care) care and/or related research (except kitchen and restaurant wastes
+19 Wastes from waste managewater intended for human consumpment facilities, tion and water for industroff-site waste water treatment ial use plants and the preparation of
+20 Municipal separately wastes collected (household fractions waste and similar commercial, industrial and institutional wastes) including
+```
+```
+01 WASTES OF MINERALS RESULTING FROM EXPLORATION, MINING, QUARRYING, AND PHYSICAL AND CHEMICAL TREATMENT
+01 01 wastes from mineral excavation
+01 01 01 wastes from mineral metalliferous excavation
+01 01 02 wastes from mineral non-metalliferous excavation
+01 03 wastes from physical and chemical processing of metalliferous minerals
+01 03 04* acid-generating tailings from processing of sulphide ore
+01 03 05* other tailings containing hazardous substances
+01 03 06 tailings other than those mentioned in 01 03 04 and 01 03 05
+01 03 07* other wastes containing minerals hazardous substances from physical and chemical processing of metalliferous
+```
+L 370/48 EN Official Journal of the European Union 30.12.
+
+
+```
+01 03 08 dusty and powdery wastes other than those mentioned in 01 03 07
+01 03 09 red mud from alumina production other than the wastes mentioned in 01 03 10
+01 03 10* red mud from alumina 01 03 07 production containing hazardous substances other than the wastes mentioned in
+01 03 99 wastes not otherwise specified
+01 04 wastes from physical and chemical processing of non-metalliferous minerals
+01 04 07* wastes containing minerals hazardous substances from physical and chemical processing of non-metalliferous
+01 04 08 waste gravel and crushed rocks other than those mentioned in 01 04 07
+01 04 09 waste sand and clays
+01 04 10 dusty and powdery wastes other than those mentioned in 01 04 07
+01 04 11 wastes from potash and rock salt processing other than those mentioned in 01 04 07
+01 04 12 tailings and 01 04 11 and other wastes from washing and cleaning of minerals other than those mentioned in 01 04 07
+01 04 13 wastes from stone cutting and sawing other than those mentioned in 01 04 07
+01 04 99 wastes not otherwise specified
+01 05 drilling muds and other drilling wastes
+01 05 04 freshwater drilling muds and wastes
+01 05 05* oil-containing drilling muds and wastes
+01 05 06* drilling muds and other drilling wastes containing hazardous substances
+01 05 07 barite-containing drilling muds and wastes other than those mentioned in 01 05 05 and 01 05 06
+01 05 08 chloride-containing drilling muds and wastes other than those mentioned in 01 05 05 and 01 05 06
+01 05 99 wastes not otherwise specified
+02 WASTES PREPARATION AND PROCESSING FROM AGRICULTURE, HORTICULTURE, AQUACULTURE, FORESTRY, HUNTING AND FISHING, FOOD
+02 01 wastes from agriculture, horticulture, aquaculture, forestry, hunting and fishing
+02 01 01 sludges from washing and cleaning
+02 01 02 animal-tissue waste
+```
+30.12.2014 EN Official Journal of the European Union L 370/
+
+
+```
+02 01 03 plant-tissue waste
+02 01 04 waste plastics (except packaging)
+02 01 06 animal faeces, urine and manure (including spoiled straw), effluent, collected separately and treated off-site
+02 01 07 wastes from forestry
+02 01 08* agrochemical waste containing hazardous substances
+02 01 09 agrochemical waste other than those mentioned in 02 01 08
+02 01 10 waste metal
+02 01 99 wastes not otherwise specified
+02 02 wastes from the preparation and processing of meat, fish and other foods of animal origin
+02 02 01 sludges from washing and cleaning
+02 02 02 animal-tissue waste
+02 02 03 materials unsuitable for consumption or processing
+02 02 04 sludges from on-site effluent treatment
+02 02 99 wastes not otherwise specified
+02 03 wastes conserve production; from fruit, vegetables, yeast and yeast extract cereals, edible production, oils, cocoa, molasses coffee, tea and tobacco preparation and fermentation preparation and processing;
+02 03 01 sludges from washing, cleaning, peeling, centrifuging and separation
+02 03 02 wastes from preserving agents
+02 03 03 wastes from solvent extraction
+02 03 04 materials unsuitable for consumption or processing
+02 03 05 sludges from on-site effluent treatment
+02 03 99 wastes not otherwise specified
+02 04 wastes from sugar processing
+02 04 01 soil from cleaning and washing beet
+02 04 02 off-specification calcium carbonate
+02 04 03 sludges from on-site effluent treatment
+02 04 99 wastes not otherwise specified
+```
+L 370/50 EN Official Journal of the European Union 30.12.
+
+
+```
+02 05 wastes from the dairy products industry
+02 05 01 materials unsuitable for consumption or processing
+02 05 02 sludges from on-site effluent treatment
+02 05 99 wastes not otherwise specified
+02 06 wastes from the baking and confectionery industry
+02 06 01 materials unsuitable for consumption or processing
+02 06 02 wastes from preserving agents
+02 06 03 sludges from on-site effluent treatment
+02 06 99 wastes not otherwise specified
+02 07 wastes from the production of alcoholic and non-alcoholic beverages (except coffee, tea and cocoa)
+02 07 01 wastes from washing, cleaning and mechanical reduction of raw materials
+02 07 02 wastes from spirits distillation
+02 07 03 wastes from chemical treatment
+02 07 04 materials unsuitable for consumption or processing
+02 07 05 sludges from on-site effluent treatment
+02 07 99 wastes not otherwise specified
+03 WASTES CARDBOARD FROM WOOD PROCESSING AND THE PRODUCTION OF PANELS AND FURNITURE, PULP, PAPER AND
+03 01 wastes from wood processing and the production of panels and furniture
+03 01 01 waste bark and cork
+03 01 04* sawdust, shavings, cuttings, wood, particle board and veneer containing hazardous substances
+03 01 05 sawdust, shavings, cuttings, wood, particle board and veneer other than those mentioned in 03 01 04
+03 01 99 wastes not otherwise specified
+03 02 wastes from wood preservation
+03 02 01* non-halogenated organic wood preservatives
+03 02 02* organochlorinated wood preservatives
+03 02 03* organometallic wood preservatives
+```
+30.12.2014 EN Official Journal of the European Union L 370/
+
+
+```
+03 02 04* inorganic wood preservatives
+03 02 05* other wood preservatives containing hazardous substances
+03 02 99 wood preservatives not otherwise specified
+03 03 wastes from pulp, paper and cardboard production and processing
+03 03 01 waste bark and wood
+03 03 02 green liquor sludge (from recovery of cooking liquor)
+03 03 05 de-inking sludges from paper recycling
+03 03 07 mechanically separated rejects from pulping of waste paper and cardboard
+03 03 08 wastes from sorting of paper and cardboard destined for recycling
+03 03 09 lime mud waste
+03 03 10 fibre rejects, fibre-, filler- and coating-sludges from mechanical separation
+03 03 11 sludges from on-site effluent treatment other than those mentioned in 03 03 10
+03 03 99 wastes not otherwise specified
+04 WASTES FROM THE LEATHER, FUR AND TEXTILE INDUSTRIES
+04 01 wastes from the leather and fur industry
+04 01 01 fleshings and lime split wastes
+04 01 02 liming waste
+04 01 03* degreasing wastes containing solvents without a liquid phase
+04 01 04 tanning liquor containing chromium
+04 01 05 tanning liquor free of chromium
+04 01 06 sludges, in particular from on-site effluent treatment containing chromium
+04 01 07 sludges, in particular from on-site effluent treatment free of chromium
+04 01 08 waste tanned leather (blue sheetings, shavings, cuttings, buffing dust) containing chromium
+04 01 09 wastes from dressing and finishing
+04 01 99 wastes not otherwise specified
+```
+L 370/52 EN Official Journal of the European Union 30.12.
+
+
+```
+04 02 wastes from the textile industry
+04 02 09 wastes from composite materials (impregnated textile, elastomer, plastomer)
+04 02 10 organic matter from natural products (for example grease, wax)
+04 02 14* wastes from finishing containing organic solvents
+04 02 15 wastes from finishing other than those mentioned in 04 02 14
+04 02 16* dyestuffs and pigments containing hazardous substances
+04 02 17 dyestuffs and pigments other than those mentioned in 04 02 16
+04 02 19* sludges from on-site effluent treatment containing hazardous substances
+04 02 20 sludges from on-site effluent treatment other than those mentioned in 04 02 19
+04 02 21 wastes from unprocessed textile fibres
+04 02 22 wastes from processed textile fibres
+04 02 99 wastes not otherwise specified
+05 WASTES FROM PETROLEUM REFINING, NATURAL GAS PURIFICATION AND PYROLYTIC TREATMENT OF COAL
+05 01 wastes from petroleum refining
+05 01 02* desalter sludges
+05 01 03* tank bottom sludges
+05 01 04* acid alkyl sludges
+05 01 05* oil spills
+05 01 06* oily sludges from maintenance operations of the plant or equipment
+05 01 07* acid tars
+05 01 08* other tars
+05 01 09* sludges from on-site effluent treatment containing hazardous substances
+05 01 10 sludges from on-site effluent treatment other than those mentioned in 05 01 09
+05 01 11* wastes from cleaning of fuels with bases
+05 01 12* oil containing acids
+```
+30.12.2014 EN Official Journal of the European Union L 370/
+
+
+```
+05 01 13 boiler feedwater sludges
+05 01 14 wastes from cooling columns
+05 01 15* spent filter clays
+05 01 16 sulphur-containing wastes from petroleum desulphurisation
+05 01 17 Bitumen
+05 01 99 wastes not otherwise specified
+05 06 wastes from the pyrolytic treatment of coal
+05 06 01* acid tars
+05 06 03* other tars
+05 06 04 waste from cooling columns
+05 06 99 wastes not otherwise specified
+05 07 wastes from natural gas purification and transportation
+05 07 01* wastes containing mercury
+05 07 02 wastes containing sulphur
+05 07 99 wastes not otherwise specified
+06 WASTES FROM INORGANIC CHEMICAL PROCESSES
+06 01 wastes from the manufacture, formulation, supply and use (MFSU) of acids
+06 01 01* sulphuric acid and sulphurous acid
+06 01 02* hydrochloric acid
+06 01 03* hydrofluoric acid
+06 01 04* phosphoric and phosphorous acid
+06 01 05* nitric acid and nitrous acid
+06 01 06* other acids
+06 01 99 wastes not otherwise specified
+06 02 wastes from the MFSU of bases
+06 02 01* calcium hydroxide
+06 02 03* ammonium hydroxide
+06 02 04* sodium and potassium hydroxide
+```
+L 370/54 EN Official Journal of the European Union 30.12.
+
+
+```
+06 02 05* other bases
+06 02 99 wastes not otherwise specified
+06 03 wastes from the MFSU of salts and their solutions and metallic oxides
+06 03 11* solid salts and solutions containing cyanides
+06 03 13* solid salts and solutions containing heavy metals
+06 03 14 solid salts and solutions other than those mentioned in 06 03 11 and 06 03 13
+06 03 15* metallic oxides containing heavy metals
+06 03 16 metallic oxides other than those mentioned in 06 03 15
+06 03 99 wastes not otherwise specified
+06 04 metal-containing wastes other than those mentioned in 06 03
+06 04 03* wastes containing arsenic
+06 04 04* wastes containing mercury
+06 04 05* wastes containing other heavy metals
+06 04 99 wastes not otherwise specified
+06 05 sludges from on-site effluent treatment
+06 05 02* sludges from on-site effluent treatment containing hazardous substances
+06 05 03 sludges from on-site effluent treatment other than those mentioned in 06 05 02
+06 06 wastes from the MFSU of sulphur chemicals, sulphur chemical processes and desulphurisation processes
+06 06 02* wastes containing hazardous sulphides
+06 06 03 wastes containing sulphides other than those mentioned in 06 06 02
+06 06 99 wastes not otherwise specified
+06 07 wastes from the MFSU of halogens and halogen chemical processes
+06 07 01* wastes containing asbestos from electrolysis
+06 07 02* activated carbon from chlorine production
+06 07 03* barium sulphate sludge containing mercury
+```
+30.12.2014 EN Official Journal of the European Union L 370/
+
+
+```
+06 07 04* solutions and acids, for example contact acid
+06 07 99 wastes not otherwise specified
+06 08 wastes from the MFSU of silicon and silicon derivatives
+06 08 02* waste containing hazardous chlorosilanes
+06 08 99 wastes not otherwise specified
+06 09 wastes from the MSFU of phosphorous chemicals and phosphorous chemical processes
+06 09 02 phosphorous slag
+06 09 03* calcium-based reaction wastes containing or contaminated with hazardous substances
+06 09 04 calcium-based reaction wastes other than those mentioned in 06 09 03
+06 09 99 wastes not otherwise specified
+06 10 wastes from the MFSU of nitrogen chemicals, nitrogen chemical processes and fertiliser manufacture
+06 10 02* wastes containing hazardous substances
+06 10 99 wastes not otherwise specified
+06 11 wastes from the manufacture of inorganic pigments and opacificiers
+06 11 01 calcium-based reaction wastes from titanium dioxide production
+06 11 99 wastes not otherwise specified
+06 13 wastes from inorganic chemical processes not otherwise specified
+06 13 01* inorganic plant protection products, wood-preserving agents and other biocides.
+06 13 02* spent activated carbon (except 06 07 02)
+06 13 03 carbon black
+06 13 04* wastes from asbestos processing
+06 13 05* Soot
+06 13 99 wastes not otherwise specified
+07 WASTES FROM ORGANIC CHEMICAL PROCESSES
+07 01 wastes from the manufacture, formulation, supply and use (MFSU) of basic organic chemicals
+07 01 01* aqueous washing liquids and mother liquors
+```
+L 370/56 EN Official Journal of the European Union 30.12.
+
+
+```
+07 01 03* organic halogenated solvents, washing liquids and mother liquors
+07 01 04* other organic solvents, washing liquids and mother liquors
+07 01 07* halogenated still bottoms and reaction residues
+07 01 08* other still bottoms and reaction residues
+07 01 09* halogenated filter cakes and spent absorbents
+07 01 10* other filter cakes and spent absorbents
+07 01 11* sludges from on-site effluent treatment containing hazardous substances
+07 01 12 sludges from on-site effluent treatment other than those mentioned in 07 01 11
+07 01 99 wastes not otherwise specified
+07 02 wastes from the MFSU of plastics, synthetic rubber and man-made fibres
+07 02 01* aqueous washing liquids and mother liquors
+07 02 03* organic halogenated solvents, washing liquids and mother liquors
+07 02 04* other organic solvents, washing liquids and mother liquors
+07 02 07* halogenated still bottoms and reaction residues
+07 02 08* other still bottoms and reaction residues
+07 02 09* halogenated filter cakes and spent absorbents
+07 02 10* other filter cakes and spent absorbents
+07 02 11* sludges from on-site effluent treatment containing hazardous substances
+07 02 12 sludges from on-site effluent treatment other than those mentioned in 07 02 11
+07 02 13 waste plastic
+07 02 14* wastes from additives containing hazardous substances
+07 02 15 wastes from additives other than those mentioned in 07 02 14
+07 02 16* waste containing hazardous silicones
+07 02 17 waste containing silicones other than those mentioned in 07 02 16
+07 02 99 wastes not otherwise specified
+```
+30.12.2014 EN Official Journal of the European Union L 370/
+
+
+```
+07 03 wastes from the MFSU of organic dyes and pigments (except 06 11)
+07 03 01* aqueous washing liquids and mother liquors
+07 03 03* organic halogenated solvents, washing liquids and mother liquors
+07 03 04* other organic solvents, washing liquids and mother liquors
+07 03 07* halogenated still bottoms and reaction residues
+07 03 08* other still bottoms and reaction residues
+07 03 09* halogenated filter cakes and spent absorbents
+07 03 10* other filter cakes and spent absorbents
+07 03 11* sludges from on-site effluent treatment containing hazardous substances
+07 03 12 sludges from on-site effluent treatment other than those mentioned in 07 03 11
+07 03 99 wastes not otherwise specified
+07 04 wastes agents (except 03 02) and other biocides from the MFSU of organic plant protection products (except 02 01 08 and 02 01 09), wood preserving
+07 04 01* aqueous washing liquids and mother liquors
+07 04 03* organic halogenated solvents, washing liquids and mother liquors
+07 04 04* other organic solvents, washing liquids and mother liquors
+07 04 07* halogenated still bottoms and reaction residues
+07 04 08* other still bottoms and reaction residues
+07 04 09* halogenated filter cakes and spent absorbents
+07 04 10* other filter cakes and spent absorbents
+07 04 11* sludges from on-site effluent treatment containing hazardous substances
+07 04 12 sludges from on-site effluent treatment other than those mentioned in 07 04 11
+07 04 13* solid wastes containing hazardous substances
+07 04 99 wastes not otherwise specified
+07 05 wastes from the MFSU of pharmaceuticals
+07 05 01* aqueous washing liquids and mother liquors
+```
+L 370/58 EN Official Journal of the European Union 30.12.
+
+
+```
+07 05 03* organic halogenated solvents, washing liquids and mother liquors
+07 05 04* other organic solvents, washing liquids and mother liquors
+07 05 07* halogenated still bottoms and reaction residues
+07 05 08* other still bottoms and reaction residues
+07 05 09* halogenated filter cakes and spent absorbents
+07 05 10* other filter cakes and spent absorbents
+07 05 11* sludges from on-site effluent treatment containing hazardous substances
+07 05 12 sludges from on-site effluent treatment other than those mentioned in 07 05 11
+07 05 13* solid wastes containing hazardous substances
+07 05 14 solid wastes other than those mentioned in 07 05 13
+07 05 99 wastes not otherwise specified
+07 06 wastes from the MFSU of fats, grease, soaps, detergents, disinfectants and cosmetics
+07 06 01* aqueous washing liquids and mother liquors
+07 06 03* organic halogenated solvents, washing liquids and mother liquors
+07 06 04* other organic solvents, washing liquids and mother liquors
+07 06 07* halogenated still bottoms and reaction residues
+07 06 08* other still bottoms and reaction residues
+07 06 09* halogenated filter cakes and spent absorbents
+07 06 10* other filter cakes and spent absorbents
+07 06 11* sludges from on-site effluent treatment containing hazardous substances
+07 06 12 sludges from on-site effluent treatment other than those mentioned in 07 06 11
+07 06 99 wastes not otherwise specified
+07 07 wastes from the MFSU of fine chemicals and chemical products not otherwise specified
+07 07 01* aqueous washing liquids and mother liquors
+07 07 03* organic halogenated solvents, washing liquids and mother liquors
+07 07 04* other organic solvents, washing liquids and mother liquors
+```
+30.12.2014 EN Official Journal of the European Union L 370/
+
+
+```
+07 07 07* halogenated still bottoms and reaction residues
+07 07 08* other still bottoms and reaction residues
+07 07 09* halogenated filter cakes and spent absorbents
+07 07 10* other filter cakes and spent absorbents
+07 07 11* sludges from on-site effluent treatment containing hazardous substances
+07 07 12 sludges from on-site effluent treatment other than those mentioned in 07 07 11
+07 07 99 wastes not otherwise specified
+08 WASTES VARNISHES FROM THE MANUFAND VITREOUS ENAMELS), ACTURE, ADHESIVES, FORMULATION, SEALANTS AND PRINTING SUPPLY AND USE (MFSU) INKS OF COATINGS (PAINTS,
+08 01 wastes from MFSU and removal of paint and varnish
+08 01 11* waste paint and varnish containing organic solvents or other hazardous substances
+08 01 12 waste paint and varnish other than those mentioned in 08 01 11
+08 01 13* sludges from paint or varnish containing organic solvents or other hazardous substances
+08 01 14 sludges from paint or varnish other than those mentioned in 08 01 13
+08 01 15* aqueous sludges containing paint or varnish containing organic solvents or other hazardous substances
+08 01 16 aqueous sludges containing paint or varnish other than those mentioned in 08 01 15
+08 01 17* wastes from paint or varnish removal containing organic solvents or other hazardous substances
+08 01 18 wastes from paint or varnish removal other than those mentioned in 08 01 17
+08 01 19* aqueous substances suspensions containing paint or varnish containing organic solvents or other hazardous
+08 01 20 aqueous suspensions containing paint or varnish other than those mentioned in 08 01 19
+08 01 21* waste paint or varnish remover
+08 01 99 wastes not otherwise specified
+08 02 wastes from MFSU of other coatings (including ceramic materials)
+08 02 01 waste coating powders
+08 02 02 aqueous sludges containing ceramic materials
+08 02 03 aqueous suspensions containing ceramic materials
+08 02 99 wastes not otherwise specified
+```
+L 370/60 EN Official Journal of the European Union 30.12.
+
+
+```
+08 03 wastes from MFSU of printing inks
+08 03 07 aqueous sludges containing ink
+08 03 08 aqueous liquid waste containing ink
+08 03 12* waste ink containing hazardous substances
+08 03 13 waste ink other than those mentioned in 08 03 12
+08 03 14* ink sludges containing hazardous substances
+08 03 15 ink sludges other than those mentioned in 08 03 14
+08 03 16* waste etching solutions
+08 03 17* waste printing toner containing hazardous substances
+08 03 18 waste printing toner other than those mentioned in 08 03 17
+08 03 19* disperse oil
+08 03 99 wastes not otherwise specified
+08 04 wastes from MFSU of adhesives and sealants (including waterproofing products)
+08 04 09* waste adhesives and sealants containing organic solvents or other hazardous substances
+08 04 10 waste adhesives and sealants other than those mentioned in 08 04 09
+08 04 11* adhesive and sealant sludges containing organic solvents or other hazardous substances
+08 04 12 adhesive and sealant sludges other than those mentioned in 08 04 11
+08 04 13* aqueous substances sludges containing adhesives or sealants containing organic solvents or other hazardous
+08 04 14 aqueous sludges containing adhesives or sealants other than those mentioned in 08 04 13
+08 04 15* aqueous substances liquid waste containing adhesives or sealants containing organic solvents or other hazardous
+08 04 16 aqueous liquid waste containing adhesives or sealants other than those mentioned in 08 04 15
+08 04 17* rosin oil
+08 04 99 wastes not otherwise specified
+08 05 wastes not otherwise specified in 08
+08 05 01* waste isocyanates
+```
+30.12.2014 EN Official Journal of the European Union L 370/
+
+
+## 09 WASTES FROM THE PHOTOGRAPHIC INDUSTRY
+
+```
+09 01 wastes from the photographic industry
+09 01 01* water-based developer and activator solutions
+09 01 02* water-based offset plate developer solutions
+09 01 03* solvent-based developer solutions
+09 01 04* fixer solutions
+09 01 05* bleach solutions and bleach fixer solutions
+09 01 06* wastes containing silver from on-site treatment of photographic wastes
+09 01 07 photographic film and paper containing silver or silver compounds
+09 01 08 photographic film and paper free of silver or silver compounds
+09 01 10 single-use cameras without batteries
+09 01 11* single-use cameras containing batteries included in 16 06 01, 16 06 02 or 16 06 03
+09 01 12 single-use cameras containing batteries other than those mentioned in 09 01 11
+09 01 13* aqueous liquid waste from on-site reclamation of silver other than those mentioned in 09 01 06
+09 01 99 wastes not otherwise specified
+10 WASTES FROM THERMAL PROCESSES
+10 01 wastes from power stations and other combustion plants (except 19)
+10 01 01 bottom ash, slag and boiler dust (excluding boiler dust mentioned in 10 01 04)
+10 01 02 coal fly ash
+10 01 03 fly ash from peat and untreated wood
+10 01 04* oil fly ash and boiler dust
+10 01 05 calcium-based reaction wastes from flue-gas desulphurisation in solid form
+10 01 07 calcium-based reaction wastes from flue-gas desulphurisation in sludge form
+10 01 09* sulphuric acid
+10 01 13* fly ash from emulsified hydrocarbons used as fuel
+10 01 14* bottom ash, slag and boiler dust from co-incineration containing hazardous substances
+```
+L 370/62 EN Official Journal of the European Union 30.12.
+
+
+```
+10 01 15 bottom ash, slag and boiler dust from co-incineration other than those mentioned in 10 01 14
+10 01 16* fly ash from co-incineration containing hazardous substances
+10 01 17 fly ash from co-incineration other than those mentioned in 10 01 16
+10 01 18* wastes from gas cleaning containing hazardous substances
+10 01 19 wastes from gas cleaning other than those mentioned in 10 01 05, 10 01 07 and 10 01 18
+10 01 20* sludges from on-site effluent treatment containing hazardous substances
+10 01 21 sludges from on-site effluent treatment other than those mentioned in 10 01 20
+10 01 22* aqueous sludges from boiler cleansing containing hazardous substances
+10 01 23 aqueous sludges from boiler cleansing other than those mentioned in 10 01 22
+10 01 24 sands from fluidised beds
+10 01 25 wastes from fuel storage and preparation of coal-fired power plants
+10 01 26 wastes from cooling-water treatment
+10 01 99 wastes not otherwise specified
+10 02 wastes from the iron and steel industry
+10 02 01 wastes from the processing of slag
+10 02 02 unprocessed slag
+10 02 07* solid wastes from gas treatment containing hazardous substances
+10 02 08 solid wastes from gas treatment other than those mentioned in 10 02 07
+10 02 10 mill scales
+10 02 11* wastes from cooling-water treatment containing oil
+10 02 12 wastes from cooling-water treatment other than those mentioned in 10 02 11
+10 02 13* sludges and filter cakes from gas treatment containing hazardous substances
+10 02 14 sludges and filter cakes from gas treatment other than those mentioned in 10 02 13
+10 02 15 other sludges and filter cakes
+10 02 99 wastes not otherwise specified
+```
+30.12.2014 EN Official Journal of the European Union L 370/
+
+
+```
+10 03 wastes from aluminium thermal metallurgy
+10 03 02 anode scraps
+10 03 04* primary production slags
+10 03 05 waste alumina
+10 03 08* salt slags from secondary production
+10 03 09* black drosses from secondary production
+10 03 15* skimmings that are flammable or emit, upon contact with water, flammable gases in hazardous quantities
+10 03 16 skimmings other than those mentioned in 10 03 15
+10 03 17* tar-containing wastes from anode manufacture
+10 03 18 carbon-containing wastes from anode manufacture other than those mentioned in 10 03 17
+10 03 19* flue-gas dust containing hazardous substances
+10 03 20 flue-gas dust other than those mentioned in 10 03 19
+10 03 21* other particulates and dust (including ball-mill dust) containing hazardous substances
+10 03 22 other particulates and dust (including ball-mill dust) other than those mentioned in 10 03 21
+10 03 23* solid wastes from gas treatment containing hazardous substances
+10 03 24 solid wastes from gas treatment other than those mentioned in 10 03 23
+10 03 25* sludges and filter cakes from gas treatment containing hazardous substances
+10 03 26 sludges and filter cakes from gas treatment other than those mentioned in 10 03 25
+10 03 27* wastes from cooling-water treatment containing oil
+10 03 28 wastes from cooling-water treatment other than those mentioned in 10 03 27
+10 03 29* wastes from treatment of salt slags and black drosses containing hazardous substances
+10 03 30 wastes from treatment of salt slags and black drosses other than those mentioned in 10 03 29
+10 03 99 wastes not otherwise specified
+```
+L 370/64 EN Official Journal of the European Union 30.12.2014
+
+
+```
+10 04 wastes from lead thermal metallurgy
+10 04 01* slags from primary and secondary production
+10 04 02* dross and skimmings from primary and secondary production
+10 04 03* calcium arsenate
+10 04 04* flue-gas dust
+10 04 05* other particulates and dust
+10 04 06* solid wastes from gas treatment
+10 04 07* sludges and filter cakes from gas treatment
+10 04 09* wastes from cooling-water treatment containing oil
+10 04 10 wastes from cooling-water treatment other than those mentioned in 10 04 09
+10 04 99 wastes not otherwise specified
+10 05 wastes from zinc thermal metallurgy
+10 05 01 slags from primary and secondary production
+10 05 03* flue-gas dust
+10 05 04 other particulates and dust
+10 05 05* solid waste from gas treatment
+10 05 06* sludges and filter cakes from gas treatment
+10 05 08* wastes from cooling-water treatment containing oil
+10 05 09 wastes from cooling-water treatment other than those mentioned in 10 05 08
+10 05 10* dross and skimmings quantities that are flammable or emit, upon contact with water, flammable gases in hazardous
+10 05 11 dross and skimmings other than those mentioned in 10 05 10
+10 05 99 wastes not otherwise specified
+10 06 wastes from copper thermal metallurgy
+10 06 01 slags from primary and secondary production
+10 06 02 dross and skimmings from primary and secondary production
+10 06 03* flue-gas dust
+10 06 04 other particulates and dust
+10 06 06* solid wastes from gas treatment
+```
+30.12.2014 EN Official Journal of the European Union L 370/65
+
+
+```
+10 06 07* sludges and filter cakes from gas treatment
+10 06 09* wastes from cooling-water treatment containing oil
+10 06 10 wastes from cooling-water treatment other than those mentioned in 10 06 09
+10 06 99 wastes not otherwise specified
+10 07 wastes from silver, gold and platinum thermal metallurgy
+10 07 01 slags from primary and secondary production
+10 07 02 dross and skimmings from primary and secondary production
+10 07 03 solid wastes from gas treatment
+10 07 04 other particulates and dust
+10 07 05 sludges and filter cakes from gas treatment
+10 07 07* wastes from cooling-water treatment containing oil
+10 07 08 wastes from cooling-water treatment other than those mentioned in 10 07 07
+10 07 99 wastes not otherwise specified
+10 08 wastes from other non-ferrous thermal metallurgy
+10 08 04 particulates and dust
+10 08 08* salt slag from primary and secondary production
+10 08 09 other slags
+10 08 10* dross and skimmings quantities that are flammable or emit, upon contact with water, flammable gases in hazardous
+10 08 11 dross and skimmings other than those mentioned in 10 08 10
+10 08 12* tar-containing wastes from anode manufacture
+10 08 13 carbon-containing wastes from anode manufacture other than those mentioned in 10 08 12
+10 08 14 anode scrap
+10 08 15* flue-gas dust containing hazardous substances
+10 08 16 flue-gas dust other than those mentioned in 10 08 15
+10 08 17* sludges and filter cakes from flue-gas treatment containing hazardous substances
+10 08 18 sludges and filter cakes from flue-gas treatment other than those mentioned in 10 08 17
+```
+L 370/66 EN Official Journal of the European Union 30.12.2014
+
+
+```
+10 08 19* wastes from cooling-water treatment containing oil
+10 08 20 wastes from cooling-water treatment other than those mentioned in 10 08 19
+10 08 99 wastes not otherwise specified
+10 09 wastes from casting of ferrous pieces
+10 09 03 furnace slag
+10 09 05* casting cores and moulds which have not undergone pouring containing hazardous substances
+10 09 06 casting cores and moulds which have not undergone pouring other than those mentioned in 10 09 05
+10 09 07* casting cores and moulds which have undergone pouring containing hazardous substances
+10 09 08 casting cores and moulds which have undergone pouring other than those mentioned in 10 09 07
+10 09 09* flue-gas dust containing hazardous substances
+10 09 10 flue-gas dust other than those mentioned in 10 09 09
+10 09 11* other particulates containing hazardous substances
+10 09 12 other particulates other than those mentioned in 10 09 11
+10 09 13* waste binders containing hazardous substances
+10 09 14 waste binders other than those mentioned in 10 09 13
+10 09 15* waste crack-indicating agent containing hazardous substances
+10 09 16 waste crack-indicating agent other than those mentioned in 10 09 15
+10 09 99 wastes not otherwise specified
+10 10 wastes from casting of non-ferrous pieces
+10 10 03 furnace slag
+10 10 05* casting cores and moulds which have not undergone pouring, containing hazardous substances
+10 10 06 casting cores and moulds which have not undergone pouring, other than those mentioned in 10 10 05
+10 10 07* casting cores and moulds which have undergone pouring, containing hazardous substances
+10 10 08 casting cores and moulds which have undergone pouring, other than those mentioned in 10 10 07
+```
+30.12.2014 EN Official Journal of the European Union L 370/67
+
+
+```
+10 10 09* flue-gas dust containing hazardous substances
+10 10 10 flue-gas dust other than those mentioned in 10 10 09
+10 10 11* other particulates containing hazardous substances
+10 10 12 other particulates other than those mentioned in 10 10 11
+10 10 13* waste binders containing hazardous substances
+10 10 14 waste binders other than those mentioned in 10 10 13
+10 10 15* waste crack-indicating agent containing hazardous substances
+10 10 16 waste crack-indicating agent other than those mentioned in 10 10 15
+10 10 99 wastes not otherwise specified
+10 11 wastes from manufacture of glass and glass products
+10 11 03 waste glass-based fibrous materials
+10 11 05 particulates and dust
+10 11 09* waste preparation mixture before thermal processing, containing hazardous substances
+10 11 10 waste preparation mixture before thermal processing, other than those mentioned in 10 11 09
+10 11 11* waste glass in small particles and glass powder containing tubes) heavy metals (for example from cathode ray
+10 11 12 waste glass other than those mentioned in 10 11 11
+10 11 13* glass-polishing and -grinding sludge containing hazardous substances
+10 11 14 glass-polishing and -grinding sludge other than those mentioned in 10 11 13
+10 11 15* solid wastes from flue-gas treatment containing hazardous substances
+10 11 16 solid wastes from flue-gas treatment other than those mentioned in 10 11 15
+10 11 17* sludges and filter cakes from flue-gas treatment containing hazardous substances
+10 11 18 sludges and filter cakes from flue-gas treatment other than those mentioned in 10 11 17
+10 11 19* solid wastes from on-site effluent treatment containing hazardous substances
+10 11 20 solid wastes from on-site effluent treatment other than those mentioned in 10 11 19
+```
+L 370/68 EN Official Journal of the European Union 30.12.2014
+
+
+```
+10 11 99 wastes not otherwise specified
+10 12 wastes from manufacture of ceramic goods, bricks, tiles and construction products
+10 12 01 waste preparation mixture before thermal processing
+10 12 03 particulates and dust
+10 12 05 sludges and filter cakes from gas treatment
+10 12 06 discarded moulds
+10 12 08 waste ceramics, bricks, tiles and construction products (after thermal processing)
+10 12 09* solid wastes from gas treatment containing hazardous substances
+10 12 10 solid wastes from gas treatment other than those mentioned in 10 12 09
+10 12 11* wastes from glazing containing heavy metals
+10 12 12 wastes from glazing other than those mentioned in 10 12 11
+10 12 13 sludge from on-site effluent treatment
+10 12 99 wastes not otherwise specified
+10 13 wastes from manufacture of cement, lime and plaster and articles and products made from them
+10 13 01 waste preparation mixture before thermal processing
+10 13 04 wastes from calcination and hydration of lime
+10 13 06 particulates and dust (except 10 13 12 and 10 13 13)
+10 13 07 sludges and filter cakes from gas treatment
+10 13 09* wastes from asbestos-cement manufacture containing asbestos
+10 13 10 wastes from asbestos-cement manufacture other than those mentioned in 10 13 09
+10 13 11 wastes from cement-based composite materials other than those mentioned in 10 13 09 and 10 13 10
+10 13 12* solid wastes from gas treatment containing hazardous substances
+10 13 13 solid wastes from gas treatment other than those mentioned in 10 13 12
+10 13 14 waste concrete and concrete sludge
+10 13 99 wastes not otherwise specified
+10 14 waste from crematoria
+10 14 01* waste from gas cleaning containing mercury
+```
+30.12.2014 EN Official Journal of the European Union L 370/69
+
+
+## 11 WASTES FERROUS HYDRO-METFROM CHEMICALLURAL SURFACE TREATMENT GY AND COATING OF METALS AND OTHER MATERIALS; NON-
+
+```
+11 01 wastes processes, from chemical zinc coating processes, surface treatment pickling processes, and coating etching, of metals phosphating, and other alkaline degreasing, materials (for example anodising) galvanic
+11 01 05* pickling acids
+11 01 06* acids not otherwise specified
+11 01 07* pickling bases
+11 01 08* phosphatising sludges
+11 01 09* sludges and filter cakes containing hazardous substances
+11 01 10 sludges and filter cakes other than those mentioned in 11 01 09
+11 01 11* aqueous rinsing liquids containing hazardous substances
+11 01 12 aqueous rinsing liquids other than those mentioned in 11 01 11
+11 01 13* degreasing wastes containing hazardous substances
+11 01 14 degreasing wastes other than those mentioned in 11 01 13
+11 01 15* eluate and sludges from membrane systems or ion exchange systems containing hazardous substances
+11 01 16* saturated or spent ion exchange resins
+11 01 98* other wastes containing hazardous substances
+11 01 99 wastes not otherwise specified
+11 02 wastes from non-ferrous hydrometallurgical processes
+11 02 02* sludges from zinc hydrometallurgy (including jarosite, goethite)
+11 02 03 wastes from the production of anodes for aqueous electrolytical processes
+11 02 05* wastes from copper hydrometallurgical processes containing hazardous substances
+11 02 06 wastes from copper hydrometallurgical processes other than those mentioned in 11 02 05
+11 02 07* other wastes containing hazardous substances
+11 02 99 wastes not otherwise specified
+```
+L 370/70 EN Official Journal of the European Union 30.12.2014
+
+
+```
+11 03 sludges and solids from tempering processes
+11 03 01* wastes containing cyanide
+11 03 02* other wastes
+11 05 wastes from hot galvanising processes
+11 05 01 hard zinc
+11 05 02 zinc ash
+11 05 03* solid wastes from gas treatment
+11 05 04* spent flux
+11 05 99 wastes not otherwise specified
+12 WASTES FROM SHAPING AND PHYSICAL AND MECHANICAL SURFACE TREATMENT OF METALS AND PLASTICS
+12 01 wastes from shaping and physical and mechanical surface treatment of metals and plastics
+12 01 01 ferrous metal filings and turnings
+12 01 02 ferrous metal dust and particles
+12 01 03 non-ferrous metal filings and turnings
+12 01 04 non-ferrous metal dust and particles
+12 01 05 plastics shavings and turnings
+12 01 06* mineral-based machining oils containing halogens (except emulsions and solutions)
+12 01 07* mineral-based machining oils free of halogens (except emulsions and solutions)
+12 01 08* machining emulsions and solutions containing halogens
+12 01 09* machining emulsions and solutions free of halogens
+12 01 10* synthetic machining oils
+12 01 12* spent waxes and fats
+12 01 13 welding wastes
+12 01 14* machining sludges containing hazardous substances
+12 01 15 machining sludges other than those mentioned in 12 01 14
+12 01 16* waste blasting material containing hazardous substances
+12 01 17 waste blasting material other than those mentioned in 12 01 16
+```
+30.12.2014 EN Official Journal of the European Union L 370/71
+
+
+```
+12 01 18* metal sludge (grinding, honing and lapping sludge) containing oil
+12 01 19* readily biodegradable machining oil
+12 01 20* spent grinding bodies and grinding materials containing hazardous substances
+12 01 21 spent grinding bodies and grinding materials other than those mentioned in 12 01 20
+12 01 99 wastes not otherwise specified
+12 03 wastes from water and steam degreasing processes (except 11)
+12 03 01* aqueous washing liquids
+12 03 02* steam degreasing wastes
+13 OIL WASTES AND WASTES OF LIQUID FUELS (except edible oils, and those in chapters 05, 12 and 19)
+13 01 waste hydraulic oils
+13 01 01* hydraulic oils, containing PCBs
+13 01 04* chlorinated emulsions
+13 01 05* non-chlorinated emulsions
+13 01 09* mineral-based chlorinated hydraulic oils
+13 01 10* mineral based non-chlorinated hydraulic oils
+13 01 11* synthetic hydraulic oils
+13 01 12* readily biodegradable hydraulic oils
+13 01 13* other hydraulic oils
+13 02 waste engine, gear and lubricating oils
+13 02 04* mineral-based chlorinated engine, gear and lubricating oils
+13 02 05* mineral-based non-chlorinated engine, gear and lubricating oils
+13 02 06* synthetic engine, gear and lubricating oils
+13 02 07* readily biodegradable engine, gear and lubricating oils
+13 02 08* other engine, gear and lubricating oils
+13 03 waste insulating and heat transmission oils
+13 03 01* insulating or heat transmission oils containing PCBs
+13 03 06* mineral-based chlorinated insulating and heat transmission oils other than those mentioned in 13 03 01
+```
+L 370/72 EN Official Journal of the European Union 30.12.2014
+
+
+```
+13 03 07* mineral-based non-chlorinated insulating and heat transmission oils
+13 03 08* synthetic insulating and heat transmission oils
+13 03 09* readily biodegradable insulating and heat transmission oils
+13 03 10* other insulating and heat transmission oils
+13 04 bilge oils
+13 04 01* bilge oils from inland navigation
+13 04 02* bilge oils from jetty sewers
+13 04 03* bilge oils from other navigation
+13 05 oil/water separator contents
+13 05 01* solids from grit chambers and oil/water separators
+13 05 02* sludges from oil/water separators
+13 05 03* interceptor sludges
+13 05 06* oil from oil/water separators
+13 05 07* oily water from oil/water separators
+13 05 08* mixtures of wastes from grit chambers and oil/water separators
+13 07 wastes of liquid fuels
+13 07 01* fuel oil and diesel
+13 07 02* Petrol
+13 07 03* other fuels (including mixtures)
+13 08 oil wastes not otherwise specified
+13 08 01* desalter sludges or emulsions
+13 08 02* other emulsions
+13 08 99* wastes not otherwise specified
+14 WASTE ORGANIC SOLVENTS, REFRIGERANTS AND PROPELLANTS (except 07 and 08)
+14 06 waste organic solvents, refrigerants and foam/aerosol propellants
+14 06 01* chlorofluorocarbons, HCFC, HFC
+14 06 02* other halogenated solvents and solvent mixtures
+```
+30.12.2014 EN Official Journal of the European Union L 370/73
+
+
+```
+14 06 03* other solvents and solvent mixtures
+14 06 04* sludges or solid wastes containing halogenated solvents
+14 06 05* sludges or solid wastes containing other solvents
+15 WASTE PACKAGING; OTHERWISE SPECIFIED ABSORBENTS, WIPING CLOTHS, FILTER MATERIALS AND PROTECTIVE CLOTHING NOT
+15 01 packaging (including separately collected municipal packaging waste)
+15 01 01 paper and cardboard packaging
+15 01 02 plastic packaging
+15 01 03 wooden packaging
+15 01 04 metallic packaging
+15 01 05 composite packaging
+15 01 06 mixed packaging
+15 01 07 glass packaging
+15 01 09 textile packaging
+15 01 10* packaging containing residues of or contaminated by hazardous substances
+15 01 11* metallic pressure packagcontainers ing containing a hazardous solid porous matrix (for example asbestos), including empty
+15 02 absorbents, filter materials, wiping cloths and protective clothing
+15 02 02* absorbents, contaminated filter materials (including by hazardous substances oil filters not otherwise specified), wiping cloths, protective clothing
+15 02 03 absorbents, 15 02 02 filter materials, wiping cloths and protective clothing other than those mentioned in
+16 WASTES NOT OTHERWISE SPECIFIED IN THE LIST
+16 01 end-of-life tling of end-of-life vehicles vehicles from different and vehicle maintenance means of transpor(except t (including 13, 14, 16 06 and 16 08) off-road machinery) and wastes from disman­
+16 01 03 end-of-life tyres
+16 01 04* end-of-life vehicles
+16 01 06 end-of-life vehicles, containing neither liquids nor other hazardous components
+16 01 07* oil filters
+16 01 08* components containing mercury
+```
+L 370/74 EN Official Journal of the European Union 30.12.2014
+
+
+```
+16 01 09* components containing PCBs
+16 01 10* explosive components (for example air bags)
+16 01 11* brake pads containing asbestos
+16 01 12 brake pads other than those mentioned in 16 01 11
+16 01 13* brake fluids
+16 01 14* antifreeze fluids containing hazardous substances
+16 01 15 antifreeze fluids other than those mentioned in 16 01 14
+16 01 16 tanks for liquefied gas
+16 01 17 ferrous metal
+16 01 18 non-ferrous metal
+16 01 19 Plastic
+16 01 20 Glass
+16 01 21* hazardous 16 01 14 components other than those mentioned in 16 01 07 to 16 01 11 and 16 01 13 and
+16 01 22 components not otherwise specified
+16 01 99 wastes not otherwise specified
+16 02 wastes from electrical and electronic equipment
+16 02 09* transformers and capacitors containing PCBs
+16 02 10* discarded equipment containing or contaminated by PCBs other than those mentioned in 16 02 09
+16 02 11* discarded equipment containing chlorofluorocarbons, HCFC, HFC
+16 02 12* discarded equipment containing free asbestos
+16 02 13* discarded 16 02 12 equipment containing hazardous components (^1 ) other than those mentioned in 16 02 09 to
+16 02 14 discarded equipment other than those mentioned in 16 02 09 to 16 02 13
+16 02 15* hazardous components removed from discarded equipment
+16 02 16 components removed from discarded equipment other than those mentioned in 16 02 15
+16 03 off-specification batches and unused products
+16 03 03* inorganic wastes containing hazardous substances
+```
+30.12.2014 EN Official Journal of the European Union L 370/75
+
+
+```
+16 03 04 inorganic wastes other than those mentioned in 16 03 03
+16 03 05* organic wastes containing hazardous substances
+16 03 06 organic wastes other than those mentioned in 16 03 05
+16 03 07* metallic mercury
+16 04 waste explosives
+16 04 01* waste ammunition
+16 04 02* fireworks wastes
+16 04 03* other waste explosives
+16 05 gases in pressure containers and discarded chemicals
+16 05 04* gases in pressure containers (including halons) containing hazardous substances
+16 05 05 gases in pressure containers other than those mentioned in 16 05 04
+16 05 06* laboratchemicals ory chemicals, consisting of or containing hazardous substances, including mixtures of laboratory
+16 05 07* discarded inorganic chemicals consisting of or containing hazardous substances
+16 05 08* discarded organic chemicals consisting of or containing hazardous substances
+16 05 09 discarded chemicals other than those mentioned in 16 05 06, 16 05 07 or 16 05 08
+16 06 batteries and accumulators
+16 06 01* lead batteries
+16 06 02* Ni-Cd batteries
+16 06 03* mercury-containing batteries
+16 06 04 alkaline batteries (except 16 06 03)
+16 06 05 other batteries and accumulators
+16 06 06* separately collected electrolyte from batteries and accumulators
+16 07 wastes from transport tank, storage tank and barrel cleaning (except 05 and 13)
+16 07 08* wastes containing oil
+16 07 09* wastes containing other hazardous substances
+16 07 99 wastes not otherwise specified
+```
+L 370/76 EN Official Journal of the European Union 30.12.2014
+
+
+```
+16 08 spent catalysts
+16 08 01 spent catalysts 16 08 07) containing gold, silver, rhenium, rhodium, palladium, iridium or platinum (except
+16 08 02* spent catalysts containing hazardous transition metals or hazardous transition metal compounds
+16 08 03 spent catalysts containing transition metals or transition metal compounds not otherwise specified
+16 08 04 spent fluid catalytic cracking catalysts (except 16 08 07)
+16 08 05* spent catalysts containing phosphoric acid
+16 08 06* spent liquids used as catalysts
+16 08 07* spent catalysts contaminated with hazardous substances
+16 09 oxidising substances
+16 09 01* permanganates, for example potassium permanganate
+16 09 02* chromates, for example potassium chromate, potassium or sodium dichromate
+16 09 03* peroxides, for example hydrogen peroxide
+16 09 04* oxidising substances, not otherwise specified
+16 10 aqueous liquid wastes destined for off-site treatment
+16 10 01* aqueous liquid wastes containing hazardous substances
+16 10 02 aqueous liquid wastes other than those mentioned in 16 10 01
+16 10 03* aqueous concentrates containing hazardous substances
+16 10 04 aqueous concentrates other than those mentioned in 16 10 03
+16 11 waste linings and refractories
+16 11 01* carbon-based linings and refractories from metallurgical processes containing hazardous substances
+16 11 02 carbon-based 16 11 01 linings and refractories from metallurgical processes others than those mentioned in
+16 11 03* other linings and refractories from metallurgical processes containing hazardous substances
+16 11 04 other linings and refractories from metallurgical processes other than those mentioned in 16 11 03
+16 11 05* linings and refractories from non-metallurgical processes containing hazardous substances
+16 11 06 linings and refractories from non-metallurgical processes others than those mentioned in 16 11 05
+```
+30.12.2014 EN Official Journal of the European Union L 370/77
+
+
+## 17 CONSTRUCTION AND DEMOLITION WASTES (INCLUDING EXCAVATED SOIL FROM CONTAMINATED SITES)
+
+```
+17 01 concrete, bricks, tiles and ceramics
+17 01 01 Concrete
+17 01 02 Bricks
+17 01 03 tiles and ceramics
+17 01 06* mixtures of, or separate fractions of concrete, bricks, tiles and ceramics containing hazardous substances
+17 01 07 mixtures of concrete, bricks, tiles and ceramics other than those mentioned in 17 01 06
+17 02 wood, glass and plastic
+17 02 01 Wood
+17 02 02 Glass
+17 02 03 Plastic
+17 02 04* glass, plastic and wood containing or contaminated with hazardous substances
+17 03 bituminous mixtures, coal tar and tarred products
+17 03 01* bituminous mixtures containing coal tar
+17 03 02 bituminous mixtures other than those mentioned in 17 03 01
+17 03 03* coal tar and tarred products
+17 04 metals (including their alloys)
+17 04 01 copper, bronze, brass
+17 04 02 Aluminium
+17 04 03 Lead
+17 04 04 Zinc
+17 04 05 iron and steel
+17 04 06 Tin
+17 04 07 mixed metals
+17 04 09* metal waste contaminated with hazardous substances
+17 04 10* cables containing oil, coal tar and other hazardous substances
+17 04 11 cables other than those mentioned in 17 04 10
+```
+L 370/78 EN Official Journal of the European Union 30.12.2014
+
+
+```
+17 05 soil (including excavated soil from contaminated sites), stones and dredging spoil
+17 05 03* soil and stones containing hazardous substances
+17 05 04 soil and stones other than those mentioned in 17 05 03
+17 05 05* dredging spoil containing hazardous substances
+17 05 06 dredging spoil other than those mentioned in 17 05 05
+17 05 07* track ballast containing hazardous substances
+17 05 08 track ballast other than those mentioned in 17 05 07
+17 06 insulation materials and asbestos-containing construction materials
+17 06 01* insulation materials containing asbestos
+17 06 03* other insulation materials consisting of or containing hazardous substances
+17 06 04 insulation materials other than those mentioned in 17 06 01 and 17 06 03
+17 06 05* construction materials containing asbestos
+17 08 gypsum-based construction material
+17 08 01* gypsum-based construction materials contaminated with hazardous substances
+17 08 02 gypsum-based construction materials other than those mentioned in 17 08 01
+17 09 other construction and demolition wastes
+17 09 01* construction and demolition wastes containing mercury
+17 09 02* construction resin-based floorings, PCB-containing and demolition wastes containing sealed glazing units, PCB-containing PCB (for example PCB-containing capacitors) sealants, PCB-containing
+17 09 03* other construction and demolition wastes (including mixed wastes) containing hazardous substances
+17 09 04 mixed construction 17 09 03 and demolition wastes other than those mentioned in 17 09 01, 17 09 02 and
+18 WASTES rant wastes FROM HUMAN not arising from immediate OR ANIMAL HEALTH CARE ANDhealth care) /OR RELATED RESEARCH (except kitchen and restau­
+```
+```
+18 01 wastes from natal care, diagnosis, treatment or prevention of disease in humans
+18 01 01 sharps (except 18 01 03)
+```
+30.12.2014 EN Official Journal of the European Union L 370/79
+
+
+```
+18 01 02 body parts and organs including blood bags and blood preserves (except 18 01 03)
+18 01 03* wastes whose collection and disposal is subject to special requirements in order to prevent infection
+18 01 04 wastes whose (for example dressings, collection plaster and disposal casts, linen, disposable is not subject to special clothing, requirements diapers) in order to prevent infection
+18 01 06* chemicals consisting of or containing hazardous substances
+18 01 07 chemicals other than those mentioned in 18 01 06
+18 01 08* cytotoxic and cytostatic medicines
+18 01 09 medicines other than those mentioned in 18 01 08
+18 01 10* amalgam waste from dental care
+18 02 wastes from research, diagnosis, treatment or prevention of disease involving animals
+18 02 01 sharps (except 18 02 02)
+18 02 02* wastes whose collection and disposal is subject to special requirements in order to prevent infection
+18 02 03 wastes whose collection and disposal is not subject to special requirements in order to prevent infection
+18 02 05* chemicals consisting of or containing hazardous substances
+18 02 06 chemicals other than those mentioned in 18 02 05
+18 02 07* cytotoxic and cytostatic medicines
+18 02 08 medicines other than those mentioned in 18 02 07
+19 WASTES PREPARATION OF WATER INTENDED FROM WASTE MANAGEMENT FOR HUMAN FACILITIES, CONSUMPTION OFF-SITE WASTE WATER TREATMENT AND WATER FOR INDUSTRIAL PLANTS USE AND THE
+19 01 wastes from incineration or pyrolysis of waste
+19 01 02 ferrous materials removed from bottom ash
+19 01 05* filter cake from gas treatment
+19 01 06* aqueous liquid wastes from gas treatment and other aqueous liquid wastes
+19 01 07* solid wastes from gas treatment
+19 01 10* spent activated carbon from flue-gas treatment
+19 01 11* bottom ash and slag containing hazardous substances
+19 01 12 bottom ash and slag other than those mentioned in 19 01 11
+```
+L 370/80 EN Official Journal of the European Union 30.12.2014
+
+
+```
+19 01 13* fly ash containing hazardous substances
+19 01 14 fly ash other than those mentioned in 19 01 13
+19 01 15* boiler dust containing hazardous substances
+19 01 16 boiler dust other than those mentioned in 19 01 15
+19 01 17* pyrolysis wastes containing hazardous substances
+19 01 18 pyrolysis wastes other than those mentioned in 19 01 17
+19 01 19 sands from fluidised beds
+19 01 99 wastes not otherwise specified
+19 02 wastes from physico/chemical treatments of waste (including dechromatation, decyanidation, neutralisation)
+19 02 03 premixed wastes composed only of non-hazardous wastes
+19 02 04* premixed wastes composed of at least one hazardous waste
+19 02 05* sludges from physico/chemical treatment containing hazardous substances
+19 02 06 sludges from physico/chemical treatment other than those mentioned in 19 02 05
+19 02 07* oil and concentrates from separation
+19 02 08* liquid combustible wastes containing hazardous substances
+19 02 09* solid combustible wastes containing hazardous substances
+19 02 10 combustible wastes other than those mentioned in 19 02 08 and 19 02 09
+19 02 11* other wastes containing hazardous substances
+19 02 99 wastes not otherwise specified
+19 03 stabilised/solidified wastes
+19 03 04* wastes marked as hazardous, partly stabilised other than 19 03 08
+19 03 05 stabilised wastes other than those mentioned in 19 03 04
+19 03 06* wastes marked as hazardous, solidified
+19 03 07 solidified wastes other than those mentioned in 19 03 06
+19 03 08* partly stabilised mercury
+19 04 vitrified waste and wastes from vitrification
+19 04 01 vitrified waste
+```
+30.12.2014 EN Official Journal of the European Union L 370/81
+
+
+```
+19 04 02* fly ash and other flue-gas treatment wastes
+19 04 03* non-vitrified solid phase
+19 04 04 aqueous liquid wastes from vitrified waste tempering
+19 05 wastes from aerobic treatment of solid wastes
+19 05 01 non-composted fraction of municipal and similar wastes
+19 05 02 non-composted fraction of animal and vegetable waste
+19 05 03 off-specification compost
+19 05 99 wastes not otherwise specified
+19 06 wastes from anaerobic treatment of waste
+19 06 03 liquor from anaerobic treatment of municipal waste
+19 06 04 digestate from anaerobic treatment of municipal waste
+19 06 05 liquor from anaerobic treatment of animal and vegetable waste
+19 06 06 digestate from anaerobic treatment of animal and vegetable waste
+19 06 99 wastes not otherwise specified
+19 07 landfill leachate
+19 07 02* landfill leachate containing hazardous substances
+19 07 03 landfill leachate other than those mentioned in 19 07 02
+19 08 wastes from waste water treatment plants not otherwise specified
+19 08 01 Screenings
+19 08 02 waste from desanding
+19 08 05 sludges from treatment of urban waste water
+19 08 06* saturated or spent ion exchange resins
+19 08 07* solutions and sludges from regeneration of ion exchangers
+19 08 08* membrane system waste containing heavy metals
+19 08 09 grease and oil mixture from oil/water separation containing only edible oil and fats
+19 08 10* grease and oil mixture from oil/water separation other than those mentioned in 19 08 09
+```
+L 370/82 EN Official Journal of the European Union 30.12.2014
+
+
+```
+19 08 11* sludges containing hazardous substances from biological treatment of industrial waste water
+19 08 12 sludges from biological treatment of industrial waste water other than those mentioned in 19 08 11
+19 08 13* sludges containing hazardous substances from other treatment of industrial waste water
+19 08 14 sludges from other treatment of industrial waste water other than those mentioned in 19 08 13
+19 08 99 wastes not otherwise specified
+19 09 wastes from the preparation of water intended for human consumption or water for industrial use
+19 09 01 solid waste from primary filtration and screenings
+19 09 02 sludges from water clarification
+19 09 03 sludges from decarbonation
+19 09 04 spent activated carbon
+19 09 05 saturated or spent ion exchange resins
+19 09 06 solutions and sludges from regeneration of ion exchangers
+19 09 99 wastes not otherwise specified
+19 10 wastes from shredding of metal-containing wastes
+19 10 01 iron and steel waste
+19 10 02 non-ferrous waste
+19 10 03* fluff-light fraction and dust containing hazardous substances
+19 10 04 fluff-light fraction and dust other than those mentioned in 19 10 03
+19 10 05* other fractions containing hazardous substances
+19 10 06 other fractions other than those mentioned in 19 10 05
+19 11 wastes from oil regeneration
+19 11 01* spent filter clays
+19 11 02* acid tars
+19 11 03* aqueous liquid wastes
+19 11 04* wastes from cleaning of fuel with bases
+19 11 05* sludges from on-site effluent treatment containing hazardous substances
+```
+30.12.2014 EN Official Journal of the European Union L 370/83
+
+
+```
+19 11 06 sludges from on-site effluent treatment other than those mentioned in 19 11 05
+19 11 07* wastes from flue-gas cleaning
+19 11 99 wastes not otherwise specified
+19 12 wastes otherwise specified from the mechanical treatment of waste (for example sorting, crushing, compacting, pelletising) not
+19 12 01 paper and cardboard
+19 12 02 ferrous metal
+19 12 03 non-ferrous metal
+19 12 04 plastic and rubber
+19 12 05 Glass
+19 12 06* wood containing hazardous substances
+19 12 07 wood other than that mentioned in 19 12 06
+19 12 08 Textiles
+19 12 09 minerals (for example sand, stones)
+19 12 10 combustible waste (refuse derived fuel)
+19 12 11* other wastes (including substances mixtures of materials) from mechanical treatment of waste containing hazardous
+19 12 12 other wastes (including mentioned in 19 12 11 mixtures of materials) from mechanical treatment of wastes other than those
+19 13 wastes from soil and groundwater remediation
+19 13 01* solid wastes from soil remediation containing hazardous substances
+19 13 02 solid wastes from soil remediation other than those mentioned in 19 13 01
+19 13 03* sludges from soil remediation containing hazardous substances
+19 13 04 sludges from soil remediation other than those mentioned in 19 13 03
+19 13 05* sludges from groundwater remediation containing hazardous substances
+19 13 06 sludges from groundwater remediation other than those mentioned in 19 13 05
+19 13 07* aqueous substances liquid wastes and aqueous concentrates from groundwater remediation containing hazardous
+19 13 08 aqueous mentioned liquid wastes and aqueous in 19 13 07 concentrates from groundwater remediation other than those
+```
+L 370/84 EN Official Journal of the European Union 30.12.2014
+
+
+## 20 MUNICIPWASTES) AL WASTES INCLUDING SEPARATELY COLLECTED (HOUSEHOLD WASTE AND SIMILAR COMMERFRACTIONS CIAL, INDUSTRIAL AND INSTITUTIONAL
+
+```
+20 01 separately collected fractions (except 15 01)
+20 01 01 paper and cardboard
+20 01 02 Glass
+20 01 08 biodegradable kitchen and canteen waste
+20 01 10 Clothes
+20 01 11 Textiles
+20 01 13* Solvents
+20 01 14* Acids
+20 01 15* Alkalines
+20 01 17* Photochemicals
+20 01 19* Pesticides
+20 01 21* fluorescent tubes and other mercury-containing waste
+20 01 23* discarded equipment containing chlorofluorocarbons
+20 01 25 edible oil and fat
+20 01 26* oil and fat other than those mentioned in 20 01 25
+20 01 27* paint, inks, adhesives and resins containing hazardous substances
+20 01 28 paint, inks, adhesives and resins other than those mentioned in 20 01 27
+20 01 29* detergents containing hazardous substances
+20 01 30 detergents other than those mentioned in 20 01 29
+20 01 31* cytotoxic and cytostatic medicines
+20 01 32 medicines other than those mentioned in 20 01 31
+20 01 33* batteries and accumulators mulators containing these batteries included in 16 06 01, 16 06 02 or 16 06 03 and unsorted batteries and accu­
+20 01 34 batteries and accumulators other than those mentioned in 20 01 33
+```
+20 01 35* discarded containing electrical and electronic hazardous components (equipment (^1) ) other than those mentioned in 20 01 21 and 20 01 23
+30.12.2014 EN Official Journal of the European Union L 370/85
+
+
+```
+20 01 36 discarded 20 01 35 electrical and electronic equipment other than those mentioned in 20 01 21, 20 01 23 and
+20 01 37* wood containing hazardous substances
+20 01 38 wood other than that mentioned in 20 01 37
+20 01 39 Plastics
+20 01 40 Metals
+20 01 41 wastes from chimney sweeping
+20 01 99 other fractions not otherwise specified
+20 02 garden and park wastes (including cemetery waste)
+20 02 01 biodegradable waste
+20 02 02 soil and stones
+20 02 03 other non-biodegradable wastes
+20 03 other municipal wastes
+20 03 01 mixed municipal waste
+20 03 02 waste from markets
+20 03 03 street-cleaning residues
+20 03 04 septic tank sludge
+20 03 06 waste from sewage cleaning
+20 03 07 bulky waste
+20 03 99 municipal wastes not otherwise specified
+(^1 ) Hazardous marked as hazardous; components mercurfrom electrical and electronic y switches, glass from cathode equipment ray tubes and other activated may include accumulators glass, etc. and batteries mentioned in 16 06 and
+```
+L 370/86 EN Official Journal of the European Union 30.12.2014
+
+
