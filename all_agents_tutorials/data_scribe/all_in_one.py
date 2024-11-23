@@ -286,74 +286,45 @@ class InferenceAgent:
         return ChatPromptTemplate.from_messages([system_message, human_message])
 
     def analyze_question_with_graph(self, db_graph: nx.Graph, question: str) -> dict:
-        """Use the graph structure to understand how to answer the question"""
         print(f"\n🔎 Starting graph analysis for: '{question}'")
-
-        # Convert question to lowercase for matching
         question_lower = question.lower()
-
+        
         analysis = {
             'tables': [],
             'relationships': [],
             'columns': [],
             'possible_paths': []
         }
-
-        print("\n📋 Scanning graph nodes for relevant tables and columns...")
+        
+        # Scan nodes for relevant tables and columns
         for node in db_graph.nodes():
             node_data = db_graph.nodes[node]
-
-            # Check if it's a table node
-            if 'tableName' in node_data:
-                table_name = node_data['tableName'].lower()
-                # Only include table if it or its common variations appear in the question
-                if (table_name in question_lower or
-                    table_name.rstrip('s') in question_lower or  # singular form
-                    f"{table_name}s" in question_lower):        # plural form
-
-                    print(f"  📦 Found relevant table: {node_data['tableName']}")
-                    columns = []
-                    for neighbor in db_graph.neighbors(node):
-                        col_data = db_graph.nodes[neighbor]
-                        if 'columnName' in col_data:
-                            col_name = col_data['columnName'].lower()
-                            # Only include column if it appears in the question
-                            if col_name in question_lower:
-                                columns.append({
-                                    'name': col_data['columnName'],
-                                    'type': col_data['columnType'],
-                                    'table': node_data['tableName']
-                                })
-                                print(f"    📎 Found relevant column: {col_data['columnName']}")
-
-                    analysis['tables'].append({
-                        'name': node_data['tableName'],
-                        'columns': columns
+            
+            if 'tableName' not in node_data:
+                continue
+            
+            table_name = node_data['tableName'].lower()
+            if not (table_name in question_lower or 
+                    table_name.rstrip('s') in question_lower or 
+                    f"{table_name}s" in question_lower):
+                continue
+            
+            print(f"  📦 Found relevant table: {node_data['tableName']}")
+            table_info = {'name': node_data['tableName'], 'columns': []}
+            
+            # Get relevant columns
+            for neighbor in db_graph.neighbors(node):
+                col_data = db_graph.nodes[neighbor]
+                if 'columnName' in col_data and col_data['columnName'].lower() in question_lower:
+                    table_info['columns'].append({
+                        'name': col_data['columnName'],
+                        'type': col_data['columnType'],
+                        'table': node_data['tableName']
                     })
-
-        # Only look for paths between relevant tables
-        if len(analysis['tables']) > 1:
-            print("\n🔗 Finding relationships between relevant tables...")
-            table_nodes = [n for n in db_graph.nodes()
-                          if db_graph.nodes[n].get('tableName') in [t['name'] for t in analysis['tables']]]
-
-            for i, start_node in enumerate(table_nodes):
-                for end_node in table_nodes[i+1:]:
-                    try:
-                        path = nx.shortest_path(db_graph, start_node, end_node)
-                        named_path = []
-                        for node in path:
-                            node_data = db_graph.nodes[node]
-                            if 'tableName' in node_data:
-                                named_path.append(f"Table: {node_data['tableName']}")
-                            elif 'columnName' in node_data:
-                                named_path.append(f"Column: {node_data['columnName']}")
-                        analysis['possible_paths'].append(named_path)
-                        print(f"  ↔️  Found path: {' -> '.join(named_path)}")
-                    except nx.NetworkXNoPath:
-                        continue
-
-        print("\n✅ Graph analysis complete")
+                    print(f"    📎 Found relevant column: {col_data['columnName']}")
+            
+            analysis['tables'].append(table_info)
+        
         return analysis
 
     def query(self, text: str, db_graph) -> str:
@@ -417,32 +388,21 @@ class PlannerAgent:
             HumanMessagePromptTemplate.from_template(human_template)
         ])
 
-    def create_plan(self, question: str, context: dict = None) -> list:
+    def create_plan(self, question: str) -> list:
         try:
             logger.info(f"Creating plan for question: {question}")
-            planner_response = self.llm.invoke(
-                self.planner_prompt.format(
-                    question=question,
-                    context=context or {}
-                )
-            )
-            # Get all steps, removing empty lines and 'plan:' header
-            plan = [step.strip() for step in planner_response.content.split('\n')
-                   if step.strip() and not step.lower() == 'plan:']
-
-            inference_steps = [step for step in plan
-                           if step.startswith('Inference:') and len(step.split(':', 1)) == 2 and step.split(':', 1)[1].strip()]
-            general_steps = [step for step in plan if step.startswith('General:')]
-
-            if inference_steps or general_steps:
-                logger.info(f"Generated steps: Inference={inference_steps}, General={general_steps}")
-                return inference_steps + general_steps
-            elif general_steps:
-                logger.info("Conversational response only")
-                return general_steps
-            else:
-                logger.info("No valid steps found - providing friendly default")
+            response = self.config.llm.invoke(self.planner_prompt.format(
+                question=question
+            ))
+            
+            # Get valid steps, filtering empty lines and headers
+            steps = [step.strip() for step in response.content.split('\n')
+                    if step.strip() and not step.lower() == 'plan:']
+            
+            if not steps:
                 return ["General: I'd love to help you explore the database! What would you like to know?"]
+            
+            return steps
 
         except Exception as e:
             logger.error(f"Error creating plan: {str(e)}", exc_info=True)
@@ -554,80 +514,49 @@ class SupervisorAgent:
         }
 
     def execute_plan(self, state: ConversationState) -> ConversationState:
-        inference_results = []
-        general_results = []
-
+        results = []
+        
         try:
             for step in state['plan']:
-                if not (':' in step):
+                if ':' not in step:
                     continue
-
+                
                 step_type, content = step.split(':', 1)
-                step_type = step_type.lower().strip()
                 content = content.strip()
-
-                if step_type == 'inference':
-                    logger.info(f"Delegating to InferenceAgent: {content}")
+                
+                if step_type.lower().strip() == 'inference':
                     try:
                         result = self.inference_agent.query(content, state.get('db_graph'))
-                        inference_results.append(f"Step: {step}\nResult: {result}")
+                        results.append(f"Step: {step}\nResult: {result}")
                     except Exception as e:
                         logger.error(f"Error in inference step: {str(e)}", exc_info=True)
-                        inference_results.append(f"Step: {step}\nError: Query failed - {str(e)}")
-
-                elif step_type == 'general':
-                    logger.info(f"Handling general action: {content}")
-                    general_results.append(f"Step: {step}\nResult: {content}")
-
-            all_results = inference_results + general_results
-
-            if not all_results:
-                logger.info("No steps were found in the plan")
-                return {
-                    **state,
-                    "db_results": "No results were generated as no valid steps were found."
-                }
-
-            new_state = {
+                        results.append(f"Step: {step}\nError: Query failed - {str(e)}")
+                else:
+                    results.append(f"Step: {step}\nResult: {content}")
+            
+            return {
                 **state,
-                "db_results": "\n\n".join(all_results)
+                "db_results": "\n\n".join(results) if results else "No results were generated."
             }
-            logger.info(f"Steps executed.")
-            return new_state
+            
         except Exception as e:
             logger.error(f"Error in execute_plan: {str(e)}", exc_info=True)
-            new_state = {
-                **state,
-                "db_results": f"Error executing steps: {str(e)}"
-            }
-            logger.info(f"Execution error.")
-            return new_state
+            return {**state, "db_results": f"Error executing steps: {str(e)}"}
 
     def generate_response(self, state: ConversationState) -> ConversationState:
         logger.info("Generating final response")
+        
+        # Simplify prompt selection
+        is_chat = state.get("input_type") in ["GREETING", "CHITCHAT", "FAREWELL"]
+        prompt = self.chat_response_prompt if is_chat else self.db_response_prompt
+        
+        # Simplify response generation
+        response = self.config.llm.invoke(prompt.format(
+            question=state['question'],
+            db_results=state.get('db_results', '')
+        ))
 
-        if state.get("input_type") in ["GREETING", "CHITCHAT", "FAREWELL"]:
-            # Use chat prompt for non-database interactions
-            response = self.llm.invoke(
-                self.chat_response_prompt.format(
-                    question=state['question']
-                )
-            )
-        else:
-            # Use database prompt for database queries
-            response = self.llm.invoke(
-                self.db_response_prompt.format(
-                    question=state['question'],
-                    db_results=state.get('db_results', '')
-                )
-            )
-
-        logger.info("Response generated.")
-        return {
-            **state,
-            "response": response.content,
-            "plan": []  # Clear the plan for the next cycle
-        }
+        return {**state, "response": response.content, "plan": []}
 
     def visualize_db_graph(self):
         """Visualize the database graph structure using matplotlib and graphviz."""
