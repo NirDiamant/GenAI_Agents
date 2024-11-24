@@ -25,7 +25,7 @@ Welcome to one of the most extensive and dynamic collections of Generative AI (G
 <img src="https://img.shields.io/badge/Subscribe%20to%20DiamantAI%20Newsletter-4285F4?style=for-the-badge&logo=substack&logoColor=white" alt="Subscribe to Newsletter" />
 </a>
 
-*Join thousands of AI enthusiasts getting weekly insights!*
+*Join thousands of AI enthusiasts getting unique cutting edge insights!*
 </div>
 
 [![DiamantAI's newsletter](images/substack_image.png)](https://diamantai.substack.com/?r=336pe4&utm_campaign=pub-share-checklist)
