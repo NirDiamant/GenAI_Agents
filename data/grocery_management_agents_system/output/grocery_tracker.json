@@ -1,0 +1,38 @@
+```json
+{
+    "items": [
+        {
+            "item_name": "Eggplant",
+            "count": 2,
+            "unit": "lbs",
+            "expiration_date": "2024-11-19"
+        },
+        {
+            "item_name": "Potatoes Russet",
+            "count": 1,
+            "unit": "lbs",
+            "expiration_date": "2024-12-07"
+        },
+        {
+            "item_name": "BH Fresh Mozzarella Ball",
+            "count": 5,
+            "unit": "pcs",
+            "expiration_date": "2024-11-23"
+        },
+        {
+            "item_name": "Onions Jumbo White",
+            "count": 0,
+            "unit": "lbs",
+            "expiration_date": "2025-01-16"
+        },
+        {
+            "item_name": "Cheez-It Snack Size Original",
+            "count": 1,
+            "unit": "pcs",
+            "expiration_date": "2024-11-30"
+        }
+    ]
+}
+``` 
+
+The inventory has been updated to reflect that all onions have been consumed. Let me know if there are any further updates!

@@ -1,0 +1,2409 @@
+## Carbon Border Adjustment Mechanism (CBAM)
+
+**Document last updated on 24 October. Overview of recent Changes (compared to version**
+
+         - Last updated on 24 October Questions and Answers
+- Answers updated 27, 39, 40, 52, 68, 75, 76, 89, from 8 August 2024)
+- Questions added 41, 113,
+   - General Outline
+      - 1. Why is the EU putting in place a Carbon Border Adjustment Mechanism?
+      - 2. What is the current stage of implementation of CBAM?..............................................................
+      - 3. How does the CBAM work?
+      - 4. How does CBAM interact with the EU Emissions Trading System (ETS)?
+      - 5. How is the CBAM compatible with other ETS systems outside the EU?.......................................
+      - 6. Which sectors does the new mechanism cover and why were they chosen?..............................
+      - 7. To which goods does the CBAM Regulation apply?
+      - 8. How will the CBAM tackle carbon leakage of finished or semi-finished products?
+      - 9. Does the CBAM apply to ‘second hand’ goods?
+      - 10. Does the CBAM apply to ‘returned goods’?
+      - 11. Does the CBAM apply to packaging?
+      - 12. Does the CBAM apply to military goods?....................................................................................
+      - Reunion? 13. Does the CBAM apply to goods produced in EU outermost regions, such as Mayotte or La
+      - 14. Which third countries fall under the scope of the CBAM?
+      - 15. Do I need to report the import of CBAM goods originating from the UK?
+      - 16. What happens during the transitional period?
+      - 17. Are there penalties for non-compliance with the CBAM Regulation?
+      - emissions? 18. Where can I find detailed information on how to carry out the reporting of embedded
+      - 19. Is it mandatory to use the communication template Excel file?
+      - 20. Who is liable in cases where incorrect or insufficient information is submitted?......................
+
+
+21. Who can I contact if I have further, more specific questions? ................................................... 14
+
+Reporting: general issues ........................................................................................................................ 14
+
+22. Who is responsible for the reporting? ........................................................................................ 14
+23. Can an importer have several indirect customs representatives, and vice versa? ..................... 15
+24. What is an EORI number and what is the role of EORI numbers for the CBAM reporting? ....... 15
+25. Will companies be allowed to report at centralised level if subsidiaries in the different Member
+States have different Economic Operators Registration and Identification (EORI) numbers? ........... 16
+26. What are the reporting obligations? By when do I need to submit a report?............................ 16
+27. I was unable to submit the first CBAM report within the submission deadline due to technical
+errors. What should I do? [updated 24/10] ........................................................................................ 17
+28. I failed to submit a CBAM report within the submission deadline. What will happen now? ..... 17
+29. I import very small quantities of CBAM goods. Do these products fall within the scope of the
+CBAM Regulation? .............................................................................................................................. 18
+30. What is considered a ‘consignment’? ......................................................................................... 18
+31. I am a natural person and have purchased a CBAM good online for my personal use. I later
+realised that the good was imported into the EU. Do I need to comply with the CBAM reporting
+obligations? ......................................................................................................................................... 19
+32. I have not imported CBAM goods during a given reporting quarter. Must I submit a CBAM
+report? ................................................................................................................................................ 19
+33. Is it mandatory to report the associated operators/installations of the CBAM goods declared?
+20
+34. What should I do if the operator who produced the goods is no longer in existence at the time
+of import? ........................................................................................................................................... 20
+
+Reporting: responsibilities and procedures ............................................................................................ 20
+
+35. What is the role of the European Commission during the transitional period? ......................... 20
+36. What is a national competent authority (NCA)? ......................................................................... 21
+37. Do importers of CBAM goods need to be ‘authorised’ in order to import CBAM goods during
+the transitional period? ...................................................................................................................... 21
+38. Are there verification obligations during the transitional period? ............................................. 21
+39. Which embedded emissions need to be reported by each CBAM sector? [updated 24/10] ..... 22
+40. What information should reporting declarants request from producers in third countries to
+ensure they can submit the quarterly CBAM report? [updated 24/10] ............................................. 23
+41. I am an installation operator outside the EU. How can I best share data with EU reporting
+declarants? [added 24/10] .................................................................................................................. 23
+42. What documents in original shall be provided in the quarterly CBAM report? ......................... 23
+
+
+43. I am both an importer and an indirect customs representative filing CBAM reports for another
+importer. Do I file a single CBAM report or two separate CBAM reports? ........................................ 24
+44. What is the effective ‘carbon price’ due that I need to report on? ............................................ 24
+45. Who will check the accuracy of submitted data and reports? ................................................... 24
+46. Is it possible to correct a CBAM report that has already been submitted? ................................ 24
+47. I want to correct a CBAM report. Should I correct individual pieces of information immediately
+or rather collect items for correction and submit a consolidated correction report later? ............... 25
+48. Should the report be in English only or is it possible to report in other languages? .................. 25
+
+Reporting: CBAM Transitional Registry ................................................................................................... 25
+
+49. What is the CBAM Transitional Registry? ................................................................................... 25
+50. What will the CBAM Transitional Registry be used for? ............................................................. 25
+51. Is the CBAM Transitional Registry the same as the EU Customs trader portal? ......................... 26
+52. Will the data shared in the CBAM Transitional Registry be dealt with confidentiality? [updated
+24/10] .................................................................................................................................................. 26
+53. How can I register as a declarant and access the CBAM Transitional Registry? ......................... 26
+54. I am an importer based in Switzerland, or in the EEA (Norway, Iceland, Liechtenstein). How can
+I access the CBAM Transitional Registry? ........................................................................................... 27
+55. What CBAM Transitional Registry environments are available? ................................................ 27
+56. In a company which is a reporting declarant, who can request access to the Transitional
+Registry? .............................................................................................................................................. 28
+57. Who can fill in the CBAM report in the CBAM Transitional Registry for the reporting declarant?
+28
+58. Can companies that are not directly subject to the CBAM also have access to the CBAM
+Transitional Registry? .......................................................................................................................... 28
+59. How should I fill in the data in the CBAM Transitional Registry? ............................................... 28
+60. What information should I enter in the fields “applicable reporting methodology” and “other
+source indication”? ............................................................................................................................. 29
+
+Methodology for calculating embedded emissions in CBAM goods in the transitional period ............. 29
+
+61. What is the relevant time period for calculating embedded emissions? Can data from previous
+years be used? .................................................................................................................................... 29
+62. What are simple and complex goods? ........................................................................................ 30
+63. What are direct and indirect emissions? .................................................................................... 30
+64. What is the “bubble approach” and how does it work? ............................................................. 30
+65. If an imported CBAM good was produced using precursors from the EU (e.g. pig iron) – would
+this have to be considered in the calculation? ................................................................................... 31
+
+
+66. Can the absorption rule be applied for the calculation of embedded emissions of composite
+goods? ................................................................................................................................................. 31
+67. Will the European Commission formally or informally verify the “equivalence” of alternative
+methods? ............................................................................................................................................ 31
+68. How are indirect emissions for the production of CBAM goods determined? [updated 24/10] 31
+69. Which emission factors for electricity should be used to determine indirect emissions? ......... 31
+70. Can market-based certificates (Guarantee of Origin, Renewable Energy Certificates, etc.) be
+used to justify the use of actual emission factors? ............................................................................. 32
+71. Should emissions from on-site transportation be included in the calculation? ......................... 32
+72. Can carbon capture and use (CCU) / carbon capture and storage (CCS) be used to reduce
+emissions for the purpose of determining embedded emissions? .................................................... 32
+73. Is enhanced oil recovery (EOR) eligible for deduction in the calculation of embedded
+emissions? ........................................................................................................................................... 33
+74. Are emission factors from life-cycle assessments (LCA) / life-cycle inventory databases
+accepted? ............................................................................................................................................ 33
+75. My supplier is not sending me the necessary information before the report is due. What
+should I do? [updated 24/10] ............................................................................................................. 33
+76. What are the default values? How does this work? [updated 24/10] ........................................ 35
+77. How do you determine default values? ...................................................................................... 36
+78. Until which point in time will EU importers be allowed to use alternative monitoring and
+reporting methods? ............................................................................................................................ 36
+79. How should emissions resulting from the use of biomass be accounted for? ........................... 36
+80. How should decimal places and rounding be handled in calculations? ..................................... 37
+81. Should the gross weight or the net weight of the imported CBAM goods to be used for the
+calculation of the embedded emissions? ........................................................................................... 37
+82. How to deal with stock items for which there is no emission data available? ........................... 37
+83. If a facility is used simultaneously by multiple production processes, how do you attribute the
+emissions from that facility to each production process? .................................................................. 37
+84. Should saleable off-spec products be considered for the determination of the activity level?. 38
+
+Cement .................................................................................................................................................... 38
+
+85. Is cement defined as a complex good in the scope of the CBAM? ............................................. 38
+
+Fertilisers ................................................................................................................................................. 38
+
+86. Are the exothermic chemical reactions involved in fertiliser production accounted for as direct
+emissions? ........................................................................................................................................... 38
+87. Can CO2 bound in urea be counted as negative emissions? ...................................................... 38
+
+Electricity as CBAM good ........................................................................................................................ 38
+
+
+88. Who is the CBAM reporting declarant for electricity imports? .................................................. 38
+89. What is the difference between the emission factor for electricity and the CO 2 emission factor?
+[updated 24/10] .................................................................................................................................. 39
+90. Which CO 2 emission factors should be used? ............................................................................. 39
+91. What are the requirements to report actual embedded emissions of electricity, the so called
+“conditionality”? ................................................................................................................................. 39
+92. Is transit through non-EU countries considered for reporting on electricity in the CBAM? ...... 40
+93. Which are the system boundaries to determine the embedded emissions of electricity? ........ 40
+
+Hydrogen ................................................................................................................................................. 40
+
+94. What is the connection between hydrogen as a CBAM good and the Renewable Energy
+Directive (EU) 2018/2001 (‘RED II’))? .................................................................................................. 40
+
+Iron and steel .......................................................................................................................................... 40
+
+95. When calculating the embedded emission of steel products, are auxiliary processes such as
+lime kilns or coke oven plants plants included in the boundary calculation? .................................... 40
+96. Do iron ore pellets fall within the scope of CBAM? .................................................................... 41
+97. Can we divide a steel site into more than one installation? ....................................................... 41
+98. What should be filled in the field "steel mill identification number" in the CBAM report? ....... 41
+
+Aluminium/Steel ..................................................................................................................................... 41
+
+99. Should the specific embedded emissions of aluminium/steel goods be determined separately
+for different alloy grades?................................................................................................................... 41
+
+Customs .................................................................................................................................................. 42
+
+100. Can an importer use different customs representatives for the customs declaration and the
+CBAM reporting? ................................................................................................................................. 42
+101. What happens if an indirect customs representative does not agree to carry out CBAM
+reporting obligations? ......................................................................................................................... 43
+102. Can a direct customs representative be a CBAM reporting declarant for companies established
+in the territory of the EU? ................................................................................................................... 44
+103. My company is registered in one EU Member State but imports CBAM goods through multiple
+Member States. Should I compile all these imports into one single quarterly report? ..................... 44
+104. Which is the relevant NCA in case an importer is a branch of a company registered abroad, and
+both share the same EORI number? ................................................................................................... 45
+105. Must goods transiting in the EU be reported under CBAM? ...................................................... 45
+106. Will the CBAM reporting obligation apply to CBAM goods that have entered free circulation
+within the EU due to non-compliance with a customs procedure other than import (e.g., temporary
+admission), and for which all duties and taxes have already been pai through the said non-
+compliance procedure? ...................................................................................................................... 45
+
+
+107. Do I need to report on CBAM goods that are placed under the inward processing regime? .... 46
+108. There is a tariff suspension on the CBAM good that I have imported. Am I exempt from the
+CBAM? ................................................................................................................................................. 46
+109. What happens if indirect customs representatives agree to act as reporting declarants only for
+some goods but not for others? Do they need to submit two different customs declarations, one for
+the goods for which they act as reporting declarant and one for which they do not? ...................... 46
+110. Can an indirect customs representative holding an “Entry into the Declarants Records” (EIDR
+authorisation) also refuse to act as reporting declarant if acting on behalf of an EU-importer for
+customs purposes? ............................................................................................................................. 47
+
+Definitive period ..................................................................................................................................... 47
+
+111. How will the CBAM work in practice during the definitive period? ........................................... 47
+112. What obligations will importers of CBAM goods have during the definitive period? ................ 48
+113. How can I become an “authorised CBAM declarant”? [added 24/10] ....................................... 48
+114. After 2026, are you going to prohibit the import of CBAM items if the EU importers is not an
+authorised CBAM declarant? .............................................................................................................. 48
+115. How can the CBAM report be submitted during the definitive period? ..................................... 48
+116. How will I get access to the CBAM Registry in the definitive period? ........................................ 49
+117. What will be the role of the European Commission during the definitive period? .................... 49
+118. Why are indirect emissions only included in the CBAM for cement and fertilisers?.................. 49
+119. Will the EU expand the scope of the CBAM? .............................................................................. 50
+120. How will a CBAM declarant become ‘authorised’ and what is the timeline for its authorisation
+during the definitive period? .............................................................................................................. 50
+121. How can EU importers ensure that they receive the information they need from their non-EU
+exporters to be able to use the new system correctly? [updated 24/10] .......................................... 50
+122. How will the reliability of the reported information be ensured?.............................................. 50
+123. How will the accreditation of verifiers work? ............................................................................. 51
+124. How will I be able to find accredited CBAM verifiers? ................................................................ 51
+125. How will free allocation be accounted for in the calculation of the CBAM obligation to be paid?
+51
+126. How will the CBAM benchmarks be defined? [added 24/10] ..................................................... 52
+127. How will the carbon price paid in a third country be discounted from the CBAM? ................... 52
+128. Will CBAM generate revenues and, if so, how will they be used? .............................................. 53
+
+
+General
+
+Please note that this FAQ document is mainly focusing on the transitional phase of the Carbon
+Border Adjustment Mechanism (CBAM), which entered into force on 1 October 2023.
+Nonetheless, several questions concerning the definitive period (starting in January 2026) are
+also addressed.
+
+#### 1. Why is the EU putting in place a Carbon Border Adjustment Mechanism?
+
+- The EU is at the forefront of international efforts to fight climate change. The European
+    Green Deal set out a clear path towards achieving the EU's ambitious target of a 55% net
+    reduction in greenhouse gas emissions compared to 1990 levels by 2030, and to become
+    climate-neutral by 2050. In July 2021, the Commission made its Fit for 55 policy proposals
+    to turn this ambition into reality, further establishing the EU as a global climate leader.
+    Since then, those policies have taken shape through negotiations with co-legislators, the
+    European Parliament and the Council, and many have now been signed into EU law. This
+    includes the EU’s Carbon Border Adjustment Mechanism (CBAM).
+- As the EU raises its climate ambition and less stringent environmental and climate policies
+    prevail in some non-EU countries, there is a strong risk of so-called ‘carbon leakage' – i.e.
+    companies based in the EU could move carbon-intensive production abroad to take
+    advantage of laxer standards, or EU products could be replaced by more carbon-intensive
+    imports. Such carbon leakage can shift emissions outside of Europe and therefore
+    seriously undermine the EU’s as well as global climate efforts. The CBAM will support the
+    EU’s increased climate ambition and ensure that climate action is not undermined by
+    production relocating to countries with less ambitious policies.
+
+#### 2. What is the current stage of implementation of CBAM?..............................................................
+
+- The European Parliament and the Council of the European Union, as co-legislators, signed
+    the CBAM Regulation (EU) 2023 /956 on 10 May 2023. The CBAM entered into application
+    in its transitional period on 1 October 2023, with the first quarterly reports due by 31
+    January 2024. The set of rules and requirements for the reporting of emissions under
+    CBAM are further specified in Implementing Regulation (EU) 2023/1773 laying out
+    reporting rules during the transitional period. The Commission has set up the transitional
+    CBAM registry, is preparing further secondary legislation, and carrying out the planned
+    analysis. The definitive period of CBAM will enter into force in January 2026.
+- The European Commission has made available detailed guidance for the application of
+    CBAM during the transitional period. These include detailed manuals, webinars, e-
+    learnings, and other materials. All information supporting the implementation can be
+    accessed on the Commission’s CBAM webpage.
+
+
+#### 3. How does the CBAM work?
+
+- The CBAM has been designed to comply with the EU’s international commitments and
+    obligations including World Trade Organisation (WTO) rules. The CBAM system mirrors
+    the EU ETS and works as follows:
+       o CBAM is applied on the actual embedded emissions in the goods imported in the
+          EU, determined according to a methodology that is in line with the reporting of
+          emissions under the EU ETS for the production of the same goods in the EU.
+       o As from the entry into force of the definitive period of CBAM in 2026, EU importers
+          will buy CBAM certificates corresponding to the carbon price that would have
+          been paid, had the goods been produced under the EU's carbon pricing rules.
+       o Conversely, if a non-EU producer has already paid a carbon price in a third country
+          on the embedded emissions for the production of the imported goods, the
+          corresponding cost can be fully deducted from the CBAM obligation.
+- The CBAM will therefore help reduce the risk of carbon leakage while encouraging both,
+    producers in non-EU countries to green their production processes as well as countries to
+    introduce carbon pricing measures.
+- To provide businesses and other countries with legal certainty and stability, the CBAM is
+    being phased in gradually and initially applies only to a selected number of goods in
+    sectors at high risk of carbon leakage: iron/steel, cement, fertilisers, aluminium, hydrogen
+    and electricity. In the transitional period, which started on 1 October 2023, a reporting
+    system applies for those goods with the objective of facilitating a smooth roll-out and to
+    facilitate dialogue with third countries. Importers will start paying the CBAM financial
+    adjustment in 2026.
+
+#### 4. How does CBAM interact with the EU Emissions Trading System (ETS)?
+
+- The EU Emissions Trading System (ETS) is the world's first international emissions trading
+    scheme and the EU's flagship policy to combat climate change. It sets a cap on the amount
+    of greenhouse gas emissions that can be released from power production and large
+    industrial installations. Allowances must be bought on the ETS trading market, though a
+    certain number of free allowances is distributed to industry to prevent carbon leakage. In
+    order to step up the incentive to decarbonise, the CBAM will progressively be introduced
+    as free allowances are reduced. Under the EU ETS, the number of free allowances declines
+    over time for all sectors. For CBAM sectors, the decline accelerates as from 2026, so that
+    the ETS can have maximum impact in fulfilling the EU’s ambitious climate goals. At the
+    same time, the CBAM financial adjustment is phased in according to a gradual schedule.
+- The CBAM will be based on a system of certificates corresponding to embedded emissions
+    in CBAM products imported into the EU. The CBAM departs from the ETS in some limited
+    areas where it was needed, as it is not a ‘cap and trade' system. For example, and unlike
+    the EU ETS, an unlimited number of certificates can be purchased. Nevertheless, the price
+    of CBAM certificates will mirror the ETS allowance price.
+
+
+- Once the full CBAM regime becomes operational in 2026, the system will adjust to reflect
+    the revised EU ETS, in particular when it comes to the reduction of available free
+    allowances in the sectors covered by the CBAM. This means that the CBAM will only begin
+    to apply to the products covered, and in direct proportion to the reduction of free
+    allowances allocated under the ETS for those sectors. Put simply, until free allowances in
+    CBAM sectors are completely phased out in 2034, the CBAM will apply only to the
+    proportion of emissions that does not benefit from free allowances under the EU ETS,
+    thus ensuring that importers are treated in an even-handed way compared to EU
+    producers.
+
+#### 5. How is the CBAM compatible with other ETS systems outside the EU?.......................................
+
+- The CBAM will ensure that imported goods will get “no less favourable treatment” than
+    EU products, thanks in particular to three CBAM design features:
+       o the CBAM takes into consideration “actual values” of embedded emissions,
+          meaning that decarbonising efforts of companies exporting to the EU will lead to
+          a lower CBAM payment;
+       o the price of the CBAM certificates to be purchased for the importation of the
+          CBAM goods will be the same as for EU producers under the EU Emissions Trading
+          System (EU ETS); and
+       o the effective carbon prices paid outside the EU will be deducted from the
+          adjustment to avoid a double price.
+- This carbon price paid in a third country could for example be due to an established
+    emissions trading system. The Commission will, before the end of the transitional period,
+    adopt secondary legislation to design the rules and processes to take into account the
+    effective carbon price paid abroad. During the transitional period, reporting declarants
+    need to report the carbon price due in a country of origin for the embedded emissions in
+    the imported goods, taking into account any rebate or other form of compensation
+    available.
+
+#### 6. Which sectors does the new mechanism cover and why were they chosen?..............................
+
+- The CBAM initially applies to imports of goods in the following sectors:
+    - Cement
+    - Iron and Steel
+    - Aluminium
+    - Fertilisers
+    - Hydrogen
+    - Electricity
+- These sectors were selected following specific criteria, in particular their high risk of
+    carbon leakage and high emission intensity which will eventually – once fully phased in –
+
+
+```
+represent more than 50% of the emissions of the industry sectors covered by the ETS. In
+the future, the CBAM may be extended to other ETS sectors.
+```
+#### 7. To which goods does the CBAM Regulation apply?
+
+- The CBAM Regulation applies to CN codes (Combined Nomenclature), which adds two
+    digits to the HS code and is used as a commodity code for exports outside the EU.
+- All goods for which the embedded emissions must be reported are listed in Annex I to the
+    CBAM Regulation. These are called ‘CBAM goods’.
+- Sectors such as ‘iron and steel’ are mentioned only for informational purposes. For
+    example, this means that imports of ammonia (CN code 2814 10 00 or 2814 20 00 under
+    the fertilizer sector) are covered by the CBAM Regulation even if the ammonia is not used
+    to produce fertilisers.
+
+#### 8. How will the CBAM tackle carbon leakage of finished or semi-finished products?
+
+- The CBAM applies mostly to basic materials and basic material goods, but also to some
+    finished/downstream products, such as fasteners (CN code 7318 XX XX).
+- The CBAM Regulation will be reviewed at the end of the transitional period to assess,
+    based on selected criteria, if additional goods and sectors within the ETS could be added.
+
+#### 9. Does the CBAM apply to ‘second hand’ goods?
+
+- The CBAM Regulation applies to all goods that are _imported_ into the EU, namely released
+    for free circulation in the EU single market.
+
+#### 10. Does the CBAM apply to ‘returned goods’?
+
+- Returned goods are goods defined in Article 203 of the Union Customs Code (Regulation
+    (EU) No 952/2013). They are goods that are released for free circulation and benefit from
+    duty exemption because they were Union goods before, either because they have
+    originally been exported as Union goods or because they were previously released for
+    free circulation, and because they fulfil certain conditions (e.g. they are released for free
+    circulation within three years after they were previously exported). The conditions under
+    which those goods qualify as returned goods are laid down in the customs legislation, and
+    competent customs authorities assess whether these conditions are fulfilled when the
+    goods are declared for release for free circulation in the EU.
+- _During the transitional period_ , CBAM reporting obligations do not apply to returned goods
+    as defined in Article 203 of the Union Customs Code. As a result, the embedded emissions
+    of these goods do not need to be included in the quarterly CBAM report. However, for
+    returned goods as defined in Article 205 of the Union Customs Code, the reporting
+    obligations are not waived. Article 205 applies to returned goods which were originally
+    re-exported after having been placed under inward processing.
+
+
+- _During the definitive period_ , reporting declarants will have to report returned goods as
+    defined in Article 203 of the Union Customs Code in their annual CBAM declaration,
+    however they must input ‘zero’ for the total embedded emissions corresponding to those
+    goods. For returned goods as defined in Article 205 of the Union Customs Code, the
+    declarant must report the embedded emissions like for any other import of CBAM goods.
+- The above provisions on “returned goods” only apply to goods of non-EU origin.
+    Conversely, for goods which are of EU origin (according to the rules of origin) when they
+    are returned to the Union, no CBAM applies.
+
+#### 11. Does the CBAM apply to packaging?
+
+- The CBAM reporting obligation applies if the CN code of the packaging is given in the
+    customs declaration and is covered by Annex I to the CBAM Regulation.
+
+#### 12. Does the CBAM apply to military goods?....................................................................................
+
+- As provided in Article 2(3)(c) of the CBAM Regulation, CBAM does not apply to goods to
+    be moved or used in the context of military activities pursuant to Article 1, point (49), of
+    Commission Delegated Regulation (EU) 2015/2446 (UCC-DA).
+- Note, however, that Article 1(49) of Commission Delegated Regulation (EU) 2015/
+    (UCC-DA) only refers to goods moved between military forces (e.g. between NATO basis)
+    in the context of the military activities as specified in points a) and b) of the above
+    mentioned Article. The definition provided by Article 1 (49) of the UCC-DA, therefore,
+    does not apply to the movement of commercial goods, e.g. goods sold to EU military
+    forces. This means that for goods produced, repaired or processed by commercial
+    companies established in the EU and then sold to EU military forces, the CBAM Regulation
+    applies.
+- For the cross-border movements of military goods to be moved or used in the context of
+    the military activities as defined in Article 1(49) of the UCC-DA, the document that can be
+    used for customs purposes is the NATO or the EU form 302 as defined by Article 1(50) and
+    (51) of Regulation (EU) 2015/2446 (UCC-DA). When those goods are declared by means
+    of a Form 302, it is clear that they are not subject to CBAM. If they are declared in a
+    different way, then it is recommendable that the importer clarifies in the customs
+    declaration that the goods are not subject to CBAM because of Article 2(3)(c) of the CBAM
+    Regulation. Detailed information regarding the use of the NATO and EU 302 forms can be
+    found in the TAXUD guidance document on ‘customs formalities in the EU for military
+    goods to be moved or used in the context of military activities (use of the form 302)’.
+- Moreover, it should be noted that if goods are imported by or on behalf of the military
+    authorities of an EU MS, but not to be moved or used in any of the activities referred to
+    in Article 1(49) UCC-DA, then the goods cannot benefit from the exemption from CBAM.
+- For completeness of information, note that according to Article 324(1)(c) and (3) UCC-IA,
+    goods placed under inward processing for the delivery of an aircraft that are deemed to
+
+
+```
+be re-exported, a repair is within the scope of this provision. In that case, CBAM would
+not apply.
+```
+#### Reunion? 13. Does the CBAM apply to goods produced in EU outermost regions, such as Mayotte or La
+
+regions, such as Mayotte or La Reunion?
+
+- The CBAM Regulation applies only to CBAM goods originating in third countries and
+    imported into the customs territory of the Union. The list of territories which comprise
+    the EU customs territory is included in Article 4 of the Union Customs Code (Regulation
+    (EU) No 952/2013). La Réunion, Mayotte, Guadeloupe and Martinique are part of the EU
+    customs territory, and therefore the CBAM Regulation does not apply to goods produced
+    in these territories.
+
+#### 14. Which third countries fall under the scope of the CBAM?
+
+- In principle, imports of goods from all non-EU countries are covered by the CBAM.
+    However, certain third countries who participate in the EU ETS or have an emission
+    trading system linked to it are excluded from the CBAM, so that a carbon price is not paid
+    twice for the same product. This is the case for members of the European Economic Area
+    (EEA) and Switzerland.
+- The CBAM applies to electricity generated in and imported from third countries including
+    those that wish to integrate their electricity markets with the EU. If those electricity
+    markets are fully integrated and provided that certain strict obligations and commitments
+    are implemented, the concerned countries could be exempted from the CBAM. If that is
+    the case, the EU will review any exemptions in 2030, at which point those partners should
+    have put in place the decarbonisation measures they have committed to, and an
+    emissions trading system equivalent to the EU's.
+
+#### 15. Do I need to report the import of CBAM goods originating from the UK?
+
+- Embedded emissions from goods originating from the UK will need to be reported during
+    the transitional period.
+
+#### 16. What happens during the transitional period?
+
+- During the transitional period, which started on 1 October 2023 and finishes at the end
+    of 2025, the reporting declarant (which could be the importer or the indirect customs
+    representative) must report at the end of each quarter emissions embedded in CBAM
+    goods imported quarterly, without paying a financial adjustment, giving time for the final
+    system to be put in place.
+- Reporting declarants should get in touch with the national competent authority (NCA) in
+    the country where they are established to gain access to the CBAM Transitional Registry,
+    which will be used to submit CBAM quarterly reports.
+
+
+#### 17. Are there penalties for non-compliance with the CBAM Regulation?
+
+- Yes. Reporting of embedded emissions in CBAM goods from 1 October 2023 is
+    compulsory. Reporting declarants may face penalties ranging between EUR 10 and EUR
+    50 per tonne of unreported emissions.
+- In the case of missing, incorrect, or incomplete CBAM reports, the NCA may initiate a
+    correction procedure, granting reporting declarants the possibility to rectify potential
+    errors.
+- The NCA shall apply penalties where a) the reporting declarant has not taken the
+    necessary steps to comply with the obligation to submit a CBAM report, or b) where the
+    CBAM report is incorrect or incomplete, and the reporting declarant has not taken the
+    necessary steps to correct the CBAM report after the competent authority initiated the
+    correction procedure.
+
+#### emissions? 18. Where can I find detailed information on how to carry out the reporting of embedded
+
+reporting of embedded emissions?
+
+- All the required information to carry out the reporting is set out in the Implementing
+    Regulation (EU) 2023/1773 setting out reporting rules for the transitional period.
+    Commission services published, and will periodically update, two guidance documents
+    (one for importers of CBAM goods and one for third-country producers) as well as one
+    optional communication template to facilitate the exchange of information between
+    producers and importers. You may find these documents on the CBAM webpage:
+    https://taxation-customs.ec.europa.eu/carbon-border-adjustment-mechanism_en.
+- The guidance document for EU importers was translated in the 24 official EU languages.
+    The Guidance document for non-EU producers is now available in English, French,
+    German, Polish, Spanish, Italian, Arabic, Hindi, Korean, Mandarin, Turkish, and Ukrainian.
+- The CBAM website also contains webinars, e-learnings, and other materials.
+
+#### 19. Is it mandatory to use the communication template Excel file?
+
+- No, the use of the communication template is not compulsory but recommended.
+- The communication template is a tool that allows operators to determine the embedded
+    emissions in CBAM goods according to the methodology specified in Implementing
+    Regulation (EU) 2023/1773. The template ensures that all relevant source streams and
+    emission sources, electricity consumption as well as relevant precursors are taken into
+    account for the calculation.
+- The template contains a worksheet ‘Summary_Communication’ which contains all
+    information needed by the reporting declarant. This worksheet thus facilitates
+    communication between third-country producers and importers (or their
+    representatives).
+
+
+- Pre-filled versions are available on the CBAM website to help users fill in the
+    communication template. Additionally, a training video detailing all necessary steps is
+    available under the following link.
+
+#### 20. Who is liable in cases where incorrect or insufficient information is submitted?......................
+
+- Liability lies with the reporting declarant. This may be either the importer or the indirect
+    customs representative. The NCA is responsible for engaging in the appropriate dialogue
+    with the reporting declarant and may impose penalties.
+
+#### 21. Who can I contact if I have further, more specific questions?
+
+- The relevant NCA and ultimately the Commission remain at your disposal to address any
+    doubts you may have on the CBAM implementation.
+- The list of NCAs is published and continuously updated on the dedicated CBAM webpage
+    of the Commission: Carbon Border Adjustment Mechanism (europa.eu).
+
+Reporting: general issues
+
+#### 22. Who is responsible for the reporting?
+
+- Customs authorities will inform customs declarants of their obligation to report
+    information during the transitional period. The reporting declarant will either be the
+    importer or the indirect customs representative depending on who lodges the customs
+    declaration. Customs authorities are free to choose in what form they inform reporting
+    declarants of their reporting obligations.
+- The person responsible for the reporting obligation can be one of the following:
+    1. the importer when (i) the importer lodges a customs declaration for release for free
+       circulation of goods in its own name and on its own behalf; and when (ii) the importer
+       is also the declarant holding an authorisation to lodge a customs declaration and
+       declares the importation of goods;
+    2. the indirect customs representative, when the customs declaration is lodged by the
+       indirect customs representative appointed in accordance with Article 18 of Regulation
+       (EU) No 952/2013; in cases where the importer is established outside of the Union; or
+       when an indirect customs representative has agreed to the reporting obligations in
+       accordance with Article 32 of Regulation 2023/956, in case where the importer is
+       established within the EU. The appointed indirect customs representative shall be
+       established in the EU and comply with the conditions for customs representatives
+       determined by the concerned Member State (see Article 18 of Regulation (EU) No
+       952/2013).
+
+
+#### 23. Can an importer have several indirect customs representatives,
+
+and vice versa?
+
+- The importer is free to use different indirect customs representatives, each being
+    accountable for the specific CBAM goods that they have introduced in their customs
+    declaration. Each representative will show their own EORI number at the customs, which
+    is the evidence of who is responsible for the CBAM reporting obligation. Therefore, there
+    can be no double-counting of embedded emissions.
+- Indirect customs representatives can also carry out the CBAM reporting obligation and
+    act as reporting declarant for multiple importers. In such case, the indirect customs
+    representatives must still submit one single quarterly CBAM report containing all the
+    CBAM goods for which they have carried out the customs declaration. An indirect customs
+    representative cannot submit several quarterly CBAM reports for a single reporting
+    period.
+
+#### 24. What is an EORI number and what is the role of EORI numbers
+
+for the CBAM reporting?
+
+- According to Article 1(18) of the Union Customs Code Delegated Act (UCC-DA) 2015/2446,
+    ‘Economic Operators Registration and Identification number' (EORI number) means an
+    identification number, unique in the customs territory of the EU, assigned by a customs
+    authority to an economic operator or to another person in order to register the economic
+    operator or another person for customs purposes. The EORI number is unique in the
+    customs territory of the EU, because it may be used for the customs-related activities of
+    the person concerned in any EU Member State. For example, a Dutch company with a
+    Dutch EORI number may lodge a declaration for release for free circulation in Spain. If the
+    Dutch company wishes to use a customs representative, that customs representative may
+    be established in Spain, but not necessarily; in the latter case, the provisions of Article
+    18(3) UCC have to be respected. In any case, irrespective of the national legislations on
+    customs representation, persons who comply with the criteria laid down in points (a) to
+    (d) of Article 39 UCC (i.e. the criteria fulfilled by an Authorised Economic Operator for
+    customs simplifications – AEOC) are entitled to provide such services in a Member State
+    other than the one where they are established.
+- CBAM reporting declarants must submit their CBAM report using the same EORI number,
+    which was provided to the customs authorities when submitting the customs declaration.
+    There can only be one EORI number per economic operator. The competent NCA will be
+    the NCA of the EU Member State in which the reporting declarant has received its EORI
+    number.
+
+
+#### 25. Will companies be allowed to report at centralised level if
+
+```
+subsidiaries in the different Member States have different Economic
+Operators Registration and Identification (EORI) numbers?
+```
+- In principle, CBAM goods are attributed to a CBAM reporting declarant through the EORI
+    number provided to the customs authorities. This means that by default, the CBAM
+    reports for the different subsidiaries (with different EORI numbers) will be done
+    separately.
+- However, multiple group entities of the same multinational corporation can appoint one
+    single indirect customs representative to carry out customs obligations and the related
+    CBAM obligations at a centralised level for all group entities.
+- It is also possible that one group entity acts as indirect customs representative for the
+    CBAM goods imported by all other group entities. However, the general rule still applies:
+    indirect customs representatives which act as reporting declarants and submit CBAM
+    reports must also carry out the customs obligations related to the goods covered by the
+    CBAM report.
+- Further, it would also be possible for one group entity to submit CBAM reports as service
+    provider for other group entities of the same multinational corporation. This is in principle
+    possible, but (i) the other group entities would remain reporting declarants for the goods
+    they imported and would therefore remain legally liable for the CBAM report, and (ii) the
+    group entity acting as service provider would need to submit a separate CBAM report for
+    the goods imported by each group entity, including for the goods it has imported itself.
+
+#### 26. What are the reporting obligations? By when do I need to submit
+
+a report?
+During the transitional period of the CBAM, from 1 October 2023 until 31 December 2025, the
+importer shall submit a CBAM report on a quarterly basis. This report shall include the
+information on the goods imported during the previous quarter and should not be submitted
+later than one month after the end of that quarter. The reporting calendar during the transitional
+period is outlined below:
+
+
+The report shall include the information referred to in Article 35 of the Regulation:
+
+- the total quantity of each type of CBAM good;
+- the actual total embedded emissions;
+- the total indirect emissions;
+- the carbon price due in a country of origin for the embedded emissions in the imported
+    goods (including its relevant precursors where applicable), taking into account any rebate
+    or other form of compensation available.
+
+#### 27. I was unable to submit the first CBAM report within the
+
+```
+submission deadline due to technical errors. What should I do?
+[updated 24 /10]
+```
+- If a reporting declarant is unable to submit a CBAM report within the submission deadline
+    due to technical errors, they may contact their NCA to request delayed submission
+    (following the steps indicated in the subsequent Question 28).
+- Note that the functionality for reporting declarants to request delayed submission
+    directly in the CBAM Transitional Registry (“request delayed submission (technical
+    error)”), is no longer available as of 1st October 2024.
+- For more detailed information on the request delay functionality, you may consult the
+    “CBAM – Request Delayed Submission Process for declarants” document published on
+    the CBAM website under the “Where to report” section.
+
+#### 28. I failed to submit a CBAM report within the submission deadline.
+
+What will happen now?
+
+- Non-submission of a CBAM report within the reporting period is a violation of the
+    Implementing Regulation. If a CBAM report is not submitted, penalties can be applied.
+- If a reporting declarant fails to submit a CBAM report within the submission deadline, the
+    NCA will make a submission request through the CBAM Transitional Registry. If the
+
+
+```
+reporting declarant is not registered, the NCA will communicate with the declarant
+outside of the registry.
+```
+- Alternatively, to submit a CBAM report after the deadline, declarants should contact the
+    competent authority of the Member State where they are established. This is done via
+    the request functionality in the CBAM Transitional Registry. If declarants are not
+    registered, they should contact the NCA via the contacts points indicated in the
+    “Provisional list of NCAs for the Carbon Border Adjustment Mechanism” document
+    published on the Commission CBAM website under the “where to report” section.
+- The NCA will provide the reporting declarant with a reference number, which will allow
+    the declarant to use the "Request delayed submission (Requested by NCA)" functionality
+    in the CBAM Transitional Registry. The declarant will then have 30 days to submit the
+    report.
+- For more detailed information on the request delay button, you may consult the “CBAM
+    - Request Delayed Submission Process for declarants” document published on the
+    Commission CBAM website under the “Guidance” section.
+
+#### 29. I import very small quantities of CBAM goods. Do these products
+
+fall within the scope of the CBAM Regulation?
+
+- Small quantities of imported goods falling in the scope of the CBAM may be automatically
+    treated as exempt from the CBAM Regulation provided that the _de minimis_ exemption
+    applies. In such case, there is no reporting obligation.
+- The _de minimis_ exemption applies to consignments in which the total intrinsic value of
+    the CBAM goods does not exceed EUR 150. Therefore, the overall value of the total CBAM
+    goods in one consignment has to be considered, and if that value is above EUR 150, then
+    the _de minimis_ exemption does not apply. To illustrate, consider the following two cases:
+       o Case 1: In my consignment, I have X non-CBAM goods, each of a nominal value of
+          Y EUR. They are not relevant for the application of the _de minimis_ exemption. I
+          also have one transport container of Portland cement identified by its CN code
+          (2523 21 00) for which the value does not exceed 150. The _de minimis_ exemption
+          applies.
+       o Case 2: In my consignment, I have X non-CBAM goods, each of a nominal value of
+          Y EUR. They are not relevant for the application of the de _minimis_ exemption. I
+          also carry one tonne of white Portland cement (CN code 2523 21 00) and one
+          tonne of other Portland cement (CN code 2523 29 00). The value of each CBAM
+          good is EUR 120. The total value of the CBAM goods in my consignment is above
+          EUR 150 and therefore the _de minimis_ exemption does not apply.
+
+#### 30. What is considered a ‘consignment’?
+
+- A single 'consignment' means products that are either:
+    o (a) sent simultaneously from one exporter to one consignee; or
+
+
+```
+o (b) covered by a single transport document covering their shipment from the
+exporter to the consignee or, in the absence of such document, by a single invoice.
+```
+- Goods dispatched by the same consignor to the same consignee that were ordered and
+    shipped separately, even if arriving on the same day but as separate parcels to the postal
+    operator or the express carrier at the destination, should be considered as separate
+    consignments. In the same vein, goods covered by the one order placed by the same
+    person, but dispatched separately, should be considered as separate consignments. Such
+    definition, however, should apply without prejudice to the provisions governing customs
+    controls (Article 46 UCC). Customs authorities may carry out any control they deem
+    necessary to ensure compliance with the customs rules.
+- It should be remembered, however, that according to Art. 27 of the CBAM Regulation,
+    the Commission shall take action to address practices of circumvention, which includes
+    the artificial splitting of shipments into consignments the value of which does not exceed
+    the de minimis threshold of 150€ (see Art. 27(2b) CBAM Regulation).
+
+#### 31. I am a natural person and have purchased a CBAM good online
+
+```
+for my personal use. I later realised that the good was imported into
+the EU. Do I need to comply with the CBAM reporting obligations?
+```
+- The CBAM mostly applies to basic materials and basic material goods such as steel or
+    cement, and only to a limited number of finished products. If the total intrinsic value of
+    the CBAM goods in the consignment does not exceed EUR 150, the de minimis exemption
+    applies.
+- Secondly, individuals usually purchase goods from a seller established in the EU, who will
+    import the goods through a courier. The courier would usually lodge the customs
+    declaration in the name of the seller, who is considered the ‘reporting declarant’ for
+    CBAM purposes. In such case, individuals will not appear anywhere in the customs
+    declaration and the CBAM Regulation does not apply to them. Note, however, that if it
+    results from the customs declaration that the natural person is the importer and that the
+    customs representation through the courier is direct, the natural person is responsible
+    for complying with the CBAM reporting obligations.
+
+#### 32. I have not imported CBAM goods during a given reporting
+
+quarter. Must I submit a CBAM report?
+
+- If you have not imported (meaning released for free circulation) any CBAM goods during
+    a given quarter, then you should not submit any CBAM report for this given quarter.
+
+
+#### 33. Is it mandatory to report the associated operators/installations of
+
+the CBAM goods declared?
+
+- As a general rule, it is mandatory for reporting declarants to report information on the
+    operators/installations where the CBAM goods were produced.
+- By derogation from this rule, reporting declarants may decide not to provide this
+    information for imports occurring until 30 June 2024 if the embedded emissions were
+    determined using other methods pursuant to Art. 4(3) of Implementing Regulation (EU)
+    2023/1773, including default values made available and published by the Commission.
+- It is not mandatory to add the operators/installations to the installation/operator registry
+    available within the CBAM Transitional Registry. This is an optional functionality designed
+    to ease the burden in the case of multiple reporting. Therefore, data on
+    operators/installations can be filled in directly in the CBAM report without being
+    previously recorded in the installation/operator registry.
+
+#### 34. What should I do if the operator who produced the goods is no
+
+longer in existence at the time of import?
+
+- The Implementing Regulation does not contain a derogation for goods produced by
+    operators that have ceased to exist. Therefore, in principle, the same reporting
+    obligations apply as for any other import of CBAM goods.
+- However, if a reporting declarant is unable to comply with the reporting obligations
+    because the operator no longer exists, the declarant could use emissions data for similar
+    or identical goods, and clearly state this as additional information. For the definition of
+    similar or identical goods, you can refer to Art. 1(14) and Art. 1(4) of Implementing
+    Regulation (EU) 2015/2447.
+- Further, for the field on the operator’s name and operator ID, it should also be stated that
+    the operator is no longer in existence. The Commission and the NCA may check the
+    veracity of these statements during the review process and may launch a correction
+    procedure, where considered necessary.
+
+Reporting: responsibilities and procedures
+
+#### 35. What is the role of the European Commission during the
+
+transitional period?
+The Commission will have the following tasks during the transitional period:
+
+- Manage the CBAM Transitional Registry.
+- Review CBAM reports communicated by reporting declarants, and communicate to the
+    NCAs a list of reports for which it has reasons to believe they are not compliant with the
+    CBAM rules.
+
+
+- Monitor the implementation of CBAM, progress, and risks of circumvention, as well as
+    analyse the impact of CBAM on exports, downstream products, trade flows and least
+    developed countries (LDCs).
+- Prepare secondary legislation in the form of implementing acts:
+    o In mid-2023 on the transitional period (art. 35), reporting obligations and
+       reporting infrastructure.
+    o In mid-2024 on the authorisation of declarants (art. 5 and 17), and the CBAM
+       registry (art. 14).
+    o In mid-2025 implementing acts on indirect emissions (annex IV), verification (art.
+       8), accreditation of verifiers (art. 18) carbon price paid (art. 9), information for
+       customs (art. 25), continental shell (art. 2), average ETS price (art. 21), CBAM
+       declaration (art. 6), methodology (art. 7) and free allocations (art. 31).
+- Prepare secondary legislation in the form of delegated acts during mid-2025 for the
+    accreditation of verifiers (art. 18) and the selling and repurchasing of certificates (art. 20).
+    If necessary, the Commission will also prepare delegated acts on exempted countries,
+    rules on electricity and anti-circumvention.
+- Set up the Common Central Platform where the sale, repurchase of certificates will take
+    place in the definitive period.
+
+#### 36. What is a national competent authority (NCA)?
+
+- Each Member State has designated a national competent authority (NCA), which will carry
+    out the functions and duties as defined in Regulation (EU) 2023/956. In short, NCAs are
+    responsible for checking the quality of the CBAM quarterly report (with support from the
+    Commission) and engage, where needed, in a dialogue with reporting declarants. NCAs
+    ultimately ensure compliance with CBAM rules and they may impose penalties. Finally,
+    from 2025 onwards, for the definitive period, NCAs will grant the status of ‘authorised
+    CBAM declarant’.
+- The list of NCAs is published and continuously updated on the dedicated CBAM webpage
+    of the Commission: Carbon Border Adjustment Mechanism (europa.eu). The competent
+    NCA is the NCA of the Member State of establishment of the reporting declarant.
+
+#### 37. Do importers of CBAM goods need to be ‘authorised’ in order to
+
+import CBAM goods during the transitional period?
+
+- Importers of CBAM goods do not need to be authorised during the transitional period in
+    order to import these goods into the EU. Customs will inform importers of CBAM goods
+    of their reporting obligations at the moment of import.
+
+#### 38. Are there verification obligations during the transitional period?
+
+- No, verification by an external independent body will only be mandatory from 2026 for
+    reporting based on actual values. Secondary legislation for the definitive period will follow
+
+
+```
+in the coming years which will define the rules for verification of emissions based on the
+data collected during the transitional period from EU importers.
+```
+#### 39. Which embedded emissions need to be reported by each CBAM
+
+sector? [updated 24 / 10 ]
+
+- The following table provides an overview of the specific emissions and greenhouse gases
+    covered and how direct and indirect emissions are determined for each sector falling
+    under the CBAM scope. Each sector’s particularities have been taken into account when
+    designing the methods for reporting and calculating embedded emissions in these goods
+    while mirroring the EU Emissions Trading System:
+
+**Issue CBAM good
+Cement Fertilisers Iron/Steel Aluminium Hydrogen Electricity
+Reporting
+metrics** (per) Tonne of good^ (per) MWh^
+
+**Greenhouse
+gases covered**
+
+```
+Only
+CO 2
+```
+```
+CO 2 (plus
+nitrous
+oxide for
+some
+fertiliser
+goods)
+```
+```
+Only CO 2
+```
+```
+CO 2 (plus
+perfluorocar
+bons (PFCs)
+for some
+aluminium
+goods)
+```
+```
+Only CO 2 Only CO 2
+```
+**Emission
+coverage
+during
+transitional
+period**
+
+```
+Direct and indirect Only direct
+```
+**Emission
+coverage
+during
+definitive
+period**
+
+```
+Direct and indirect Only direct, subject to review Only direct
+```
+**Determination
+of direct
+embedded
+emissions**
+
+```
+Based on actual emissions, but estimations (including default
+values) could be used for up to 100% of the specific direct
+embedded emissions for imports until 30 June 2024 (i.e. CBAM
+reports due until 31 July 2024). For imports until 31 December
+2025, estimations (including default values) can be used for up to
+20% of the total specific embedded emissions of complex goods.
+```
+Based on
+default
+values,
+unless
+several
+cumulative
+conditions
+are met
+**Determination
+of indirect
+embedded
+emissions**
+
+```
+Based on actual electricity consumption and default emission
+factors for electricity, unless conditions are met (i.e. direct
+technical connection or power purchase agreement). Estimations
+(including default values) could be used for up to 100% of the
+```
+```
+Not
+applicable
+```
+
+```
+specific indirect embedded emissions for imports until 30 June
+2024.
+```
+#### 40. What information should reporting declarants request from
+
+```
+producers in third countries to ensure they can submit the quarterly
+CBAM report? [updated 24/10]
+```
+- The CBAM declarant must submit in the CBAM report the information contained in Annex
+    I to the Implementing Regulation.
+- In order to ensure that they possesses all the required information, the reporting
+    declarant should request from the producer the information contained in Annex IV of the
+    aforementioned Implementing Regulation. The Commission services have compiled this
+    information into an optional communication template (in Excel format) to facilitate the
+    communication of information to between operators and importers. This template is
+    available on the Commission webpage.
+
+#### 41. I am an installation operator outside the EU. How can I best share
+
+data with EU reporting declarants? [added 24/10]
+
+- Installation operators outside the EU may use the aforementioned communication
+    template (Question 40 ) to share all required information for CBAM reporting with the
+    reporting declarants.
+- Furthermore, a new portal section of the CBAM Registry will allow installation operators
+    outside the EU to upload and share their installations and emissions data with reporting
+    declarants in a streamlined manner, instead of submitting it to each declarant separately.
+    The portal will allow operators to ensure the confidential treatment of business-sensitive
+    data. Reporting declarants will then be able to automatically populate their CBAM reports
+    with this emissions data in order to comply with their reporting obligation. Registration
+    for installation operators will open from 1 January 2025.
+
+#### 42. What documents in original shall be provided in the quarterly
+
+CBAM report?
+
+- No document in original needs to be provided. The reporting declarant must only submit
+    the required information for the quarterly CBAM report through the CBAM Transitional
+    Registry.
+- According to the principle of transparency outlined in Annex III section A.2 of the
+    Implementing Regulation, complete and transparent records shall be kept at the
+    installation of all data relevant for determining embedded emissions of the goods
+    produced, including necessary supporting documents, for at least 4 years after the
+
+
+```
+reporting period. Those records may be disclosed to the reporting declarant. Such records
+may be requested by EU Member States in case of a review of the quarterly CBAM report.
+```
+#### 43. I am both an importer and an indirect customs representative
+
+```
+filing CBAM reports for another importer. Do I file a single CBAM
+report or two separate CBAM reports?
+```
+- Reporting declarants can act both as importer (company A, importing steel) and as
+    indirect customs representative (for company B, importing aluminium). In such case, the
+    reporting declarants must still submit one single quarterly CBAM report containing all the
+    CBAM goods for which they have carried out the customs declaration.
+
+#### 44. What is the effective ‘carbon price’ due that I need to report on?
+
+- As indicated in the CBAM Regulation, a carbon price is the monetary amount paid in a
+    third country, under a carbon emissions reduction scheme, which can adopt various forms
+    such as a tax, levy, fee or emission allowances under a greenhouse gas emissions trading
+    system, calculated on greenhouse gases covered by such a measure, and released during
+    the production of goods.
+- During the transitional period, reporting declarants must report the effective carbon price
+    due in the jurisdiction where the CBAM good was produced. During the definitive period,
+    the disclosure of this information will give importers a rebate, to avoid double pricing of
+    embedded emissions.
+
+#### 45. Who will check the accuracy of submitted data and reports?
+
+- During the transitional period, and in line with Articles 11 of the Implementing Regulation,
+    the Commission will conduct a first screening of the CBAM reports, and communicate to
+    the competent national authority a list of incomplete or suspicious reports (i.e. when the
+    Commission has reasons to believe they have failed to comply with the CBAM Regulation).
+    It is then up to the competent national authority to decide whether to initiate a review as
+    well as a potential correction procedure, which may ultimately lead to penalties.
+
+#### 46. Is it possible to correct a CBAM report that has already been
+
+submitted?
+
+- Article 9(1) of the Implementing Regulation provides that a CBAM report that has already
+    been submitted may still be corrected until two months after the end of the reporting
+    quarter.
+- Furthermore, in line with Article 9(3) of the Implementing Regulation, the reporting
+    declarant may request, and provide justification for this request, to correct the CBAM
+    report after this deadline. Declarants can do so by creating a request to the NCA in the
+    CBAM Transitional Registry (under the functionality “Requests”). The NCA will then assess
+    that request and where appropriate allow the reporting declarant to resubmit a CBAM
+
+
+```
+report or to correct it after the deadline. The resubmission of the corrected CBAM report
+or the correction, as applicable, shall then be made no later than a month following the
+approval by the competent authority.
+```
+- For the first two quarterly reports, the Implementing Regulation allowed for a longer
+    period for corrections up until the deadline for submitting the third quarterly report. This
+    meant that the reports due by 31 January and 30 April could be subsequently corrected
+    until 31 July 2024.
+
+#### 47. I want to correct a CBAM report. Should I correct individual
+
+```
+pieces of information immediately or rather collect items for
+correction and submit a consolidated correction report later?
+```
+- There is no limitation with respect to how often a report can be modified within the
+    allowed time period.
+- Since the Commission has started analysing the reports beginning of February 2024 , for
+    example to produce aggregated statistics, declarants are encouraged to update the
+    information as soon as it is available, even if further modifications are expected
+    afterwards.
+
+#### 48. Should the report be in English only or is it possible to report in
+
+other languages?
+
+- Reporting is possible in all 24 EU languages.
+
+Reporting: CBAM Transitional Registry
+
+#### 49. What is the CBAM Transitional Registry?
+
+- In order to ensure an efficient implementation of reporting obligations, the Commission
+    has developed an electronic database, which will collect the information reported during
+    the transitional period. The CBAM Transitional Registry is a standardised and secured
+    electronic database containing common data elements for reporting in the transitional
+    period, and to provide for access, case handling and confidentiality. The CBAM
+    Transitional Registry is the basis for the development and establishment of the CBAM
+    Registry pursuant to Article 14 of Regulation (EU) 2023/956.
+- Reporting declarants may connect to the CBAM Transitional Registry through this link:
+    https://cbam.ec.europa.eu/declarant
+
+#### 50. What will the CBAM Transitional Registry be used for?
+
+- The CBAM Transitional Registry shall enable communication between the Commission,
+    the competent authorities, customs authorities of the Member States and reporting
+    declarants.
+
+
+- The CBAM Transitional Registry will not be used for enforcement, as the information
+    collected will solely serve to feed onto the data analysis and collection during the
+    transitional period.
+
+#### 51. Is the CBAM Transitional Registry the same as the EU Customs
+
+trader portal?
+
+- The CBAM Transitional Registry for reporting declarants runs independently of the EU
+    Customs Trader Portal (EUCTP). However existing importers that will be also acting as
+    CBAM Declarants may be able to use their existing user account if the EU Member State
+    allows it. Depending on the Member State, specific access to the CBAM module may need
+    to be requested.
+
+#### 52. Will the data shared in the CBAM Transitional Registry be dealt
+
+with confidentiality? [updated 24 / 10 ]
+
+- According to Article 14 of the CBAM Regulation, the information contained in the CBAM
+    registry “shall be confidential, with the exception of the names, addresses and contact
+    information of the operators and the location of installations in third countries”. Article
+    13 of the CBAM Regulation and Article 15 of the Implementing Regulation laying down
+    reporting obligations for the transitional period include an obligation of professional
+    secrecy to information acquired by the competent national authority.
+- In the optional Communication template which operators and importers may use to
+    exchange information during the transitional period, operators of installations have the
+    possibility to decide whether they want to share the full, detailed information (optional)
+    or only the synthesis tabs necessary to submit the CBAM declaration. There is a degree of
+    flexibility allowing operators not to disclose the data they may consider sensitive. On the
+    basis of this experience, the Commission will also reflect on the information that has to
+    be disclosed in the reports and by the external verifiers in the definitive regime.
+- The Commission is working to provide, from January 2025, a separate access for operators
+    to the Registry to allow submitting information directly through the Registry (see
+    Question 41 ). Operators may then decide which information may be disclosed to which
+    reporting declarants.
+
+#### 53. How can I register as a declarant and access the CBAM
+
+Transitional Registry?
+
+- When they intend to become reporting declarant for CBAM purposes, economic
+    operators must contact the national competent authority (NCA) of the Member State
+    where they are established. The provisional list of NCAs is published and continuously
+    updated on the dedicated CBAM webpage of the Commission: Carbon Border Adjustment
+    Mechanism (europa.eu).
+
+
+- In each Member State, the NCA is also responsible for providing reporting declarants with
+    access to the CBAM Transitional Registry. In some cases, a new CBAM specific account
+    with new login credentials will be required. In other cases, existing accounts for accessing
+    custom systems may be used. In the case of Spain, for instance, access to the CBAM
+    Transitional Registry is granted exclusively via the customs domain. Please contact your
+    NCA for further details on the login credentials in your case.
+- Where the reporting declarant uses a “CBAM service provider”, it is possible to request
+    from the NCA, in UUMDS, the creation of all user profiles (importers and “CBAM service
+    providers”) at the same time. Once the user profiles are created in UUMDS, the importer-
+    employer (EO) can delegate the CBAM declarant access to the provider-employee (EMPL).
+
+#### 54. I am an importer based in Switzerland, or in the EEA (Norway,
+
+```
+Iceland, Liechtenstein). How can I access the CBAM Transitional
+Registry?
+```
+- No CBAM reporting obligation applies to CBAM goods imported into Switzerland or the
+    EEA. Importers based in these countries cannot gain access to the CBAM Transitional
+    Registry.
+- However, CBAM goods imported into the EU Customs Union fall under the scope of the
+    CBAM Regulation and must be reported on by a reporting declarant. If an importer of
+    CBAM goods into the EU is based in Switzerland or in the EEA, the reporting declarant for
+    CBAM purposes must be an indirect customs representative hired by the importer. The
+    reporting declarant will be the one receiving access credentials to the Transitional CBAM
+    Registry.
+
+#### 55. What CBAM Transitional Registry environments are available?
+
+- There is a _production_ and a c _onformance_ CBAM registry environment available for CBAM
+    reporting declarants.
+- The conformance environment can be used as test environment for familiarisation with
+    the CBAM quarterly report form and the user interface of the CBAM Registry.
+- A separate registration is required (same email may be used) in each environment for
+    security reasons. For both environments, it is the respective NCA that provides reporting
+    declarants with the access details.
+- Link to the _production_ CBAM Transitional Registry: https://cbam.ec.europa.eu/declarant
+- Link to the conformance CBAM Transitional Registry:
+    https://conformance.cbam.ec.europa.eu/declarant
+
+
+#### 56. In a company which is a reporting declarant, who can request
+
+access to the Transitional Registry?
+
+- Any physical person that can prove he/she represents the legal person can contact the
+    NCA of the Member State where that legal person is established to request access to the
+    CBAM Registry as CBAM reporting declarant. The NCA is responsible for verifying the
+    legitimacy of the requests and grant CBAM Declarant access permissions. The owner of
+    the account that will be granted CBAM Declarant access by the NCA is responsible to keep
+    the account confidential and delegate the access to additional accounts (employees) of
+    the company.
+
+#### 57. Who can fill in the CBAM report in the CBAM Transitional
+
+Registry for the reporting declarant?
+
+- Multiple Transitional Registry user accounts can be linked to the same EORI number as
+    long as these accounts are from employees of the responsible reporting declarant (i.e.
+    the importer or indirect customs representative). However, only one user will be able to
+    edit a particular CBAM quarterly report in the CBAM Transitional Registry at a given time.
+- The reporting declarant can delegate access to the Transitional Registry to a “CBAM
+    Service Provider”, who can fill in the CBAM report in the name and on behalf of the
+    reporting declarant. The delegation in such cases follows the delegation model “Employer
+    - Employee”, where “Employer” is either the importer or an indirect customs
+    representative and “Employee” is the “CBAM Service Provider”. Note that in this case
+    both the importer-employer (EO) and the provider-employee (EMPL) users will need to
+    be configured by the Member States in UUM&DS and the importer will be responsible to
+    delegate (via UUM&DS) the CBAM Declarant access to the “CBAM Service Provider”. This
+    means that when the “CBAM Service Provider” connects to the CBAM Registry as
+    employee, the service provider is using the EORI of the importer that has delegated the
+    access.
+
+#### 58. Can companies that are not directly subject to the CBAM also
+
+have access to the CBAM Transitional Registry?
+
+- No, the access to the CBAM Transitional Registry is limited to reporting declarants,
+    competent authorities in the Member States, customs authorities and the European
+    Commission.
+
+#### 59. How should I fill in the data in the CBAM Transitional Registry?
+
+- The quarterly reports need to be filled in per importer, per CN code and per installation.
+    There are two ways to fill in the data in the CBAM Transitional Registry:
+       o Reporting declarants can manually fill in the data directly within the interface in
+          the CBAM Transitional Registry.
+
+
+```
+o Alternatively, reporting declarants can use an XML structure to upload CBAM
+quarterly reports. Once an XML file is uploaded successfully, a new draft quarterly
+report will be created and can be submitted via the CBAM Registry user interface.
+A supporting XLS file, which can be used to fill in the quarterly report using XML,
+was published on the Commission’s CBAM website.
+```
+- There are mandatory and optional fields. In the CBAM Transitional Registry, mandatory
+    fields are marked with an asterisk (*). Mandatory fields will also be indicated in the
+    supporting XLS file.
+- Detailed information on how to fill in the report, and how to use the XSD file, can be found
+    in the CBAM Transitional Registry user manual for Declarants.
+- A draft report can be saved even without all the mandatory elements provided. However,
+    to submit the report all mandatory elements need to be provided.
+
+#### 60. What information should I enter in the fields “applicable
+
+reporting methodology” and “other source indication”?
+
+- In the field “Applicable reporting methodology”, reporting declarants are asked to
+    provide additional information about the monitoring and reporting methods used. In the
+    case where actual data for indirect and direct emission is used for determining the specific
+    embedded emissions, for instance, declarants may specify whether the methodology was
+    calculation-based (standard or mass balance) or measurement-based.
+- In the field “Other source indication”, declarants are required to provide additional details
+    about the source of the emission factor. This may include providing a web link to publicly
+    available data or other relevant sources.
+
+Methodology for calculating embedded emissions in CBAM goods
+
+in the transitional period
+
+#### 61. What is the relevant time period for calculating embedded
+
+emissions? Can data from previous years be used?
+
+- The default reporting period, i.e. the reference period for operators for determining
+    embedded emissions, is a calendar year. However, it may be justified to use other periods
+    (such as a fiscal year) provided that they ensure similar coverage and cover at least 3
+    months. More details can be found in the Guidance documents under Section 4.3.4 (for
+    EU-importers)/ Section 4.3.3 (for non-EU installations).
+- If operators monitor their emissions on the basis of a calendar year, then they need to
+    start monitoring emissions according to the CBAM methodology already in 2024 so that
+    all required data are available for goods produced in 2024 and imported in 2025.
+- For the CBAM report due in the first quarter of the year, the data of the previous year
+    should be used. In cases where such data are not yet available until the end of
+    January/February, data of the year before could be used.
+
+
+- Concerning stock items, see the question “How to deal with stock items for which there
+    is no emission data available?”.
+
+#### 62. What are simple and complex goods?
+
+- There are two types of CBAM goods, simple and complex ones. **“** Simple goods” are
+    produced from input materials that are considered to have zero embedded emissions
+    under the CBAM reporting methodology. Therefore, the embedded emissions of simple
+    CBAM goods are based entirely on the emissions occurring during their production.
+- For “complex goods”, it is necessary to include the embedded emissions of relevant
+    precursors, themselves in the scope of CBAM, if used in the production process. Relevant
+    precursor materials refer to those raw materials used in the production of complex CBAM
+    goods that are CBAM goods themselves. In the cement sector, a typical example for a
+    precursor is cement clinker, which is the main constituent of Portland cement.
+
+#### 63. What are direct and indirect emissions?
+
+- Direct emissions cover the emissions generated during the production processes of CBAM
+    goods, including from the production of heating and cooling, irrespective of the location
+    of the production of the heating and cooling. This means that when the production of
+    heating and cooling takes place outside the installations, the resulting emissions are
+    counted as direct emissions.
+- Indirect emissions cover the production of electricity that is consumed during the
+    production of CBAM goods.
+- The embedded direct and indirect emissions of relevant precursors are also taken into
+    account when determining the specific embedded direct and indirect emissions of CBAM
+    goods.
+- During the transitional phase, for monitoring purposes, importers are required to report
+    both direct and indirect emissions for all goods falling under the scope of CBAM. During
+    the definite phase starting on 1 January 2026, the CBAM scope is limited to direct
+    emissions for iron/steel, aluminium and hydrogen, while importers of cement and
+    fertilisers will have to declare both direct and indirect emissions.
+
+#### 64. What is the “bubble approach” and how does it work?
+
+- If an installation produces a complex good and its precursor and where this precursor is
+    wholly used to produce the complex good, a joint (single) production process system
+    boundary may be defined within the installation (see further explanations in the guidance
+    documents).
+
+
+#### 65. If an imported CBAM good was produced using precursors from
+
+```
+the EU (e.g. pig iron) – would this have to be considered in the
+calculation?
+```
+- Yes, relevant precursors produced in the EU also need to be accounted for in the
+    determination of the embedded emissions.
+- Note, however, that if a precursor stems from EU production, the carbon price already
+    paid in the EU may also be reflected in the CBAM report. (Find more details on the report
+    of the effective carbon price paid in the Guidance document for non-EU installations
+    Section 6.10.).
+
+#### 66. Can the absorption rule be applied for the calculation of embedded
+
+emissions of composite goods?
+
+- No. The absorption rule is a rule used to determine the origin of a good. The absorption
+    rule allows keeping the originating status of intermediate products, which are used for
+    subsequent manufacturing operations of originating goods and to disregard the part of
+    all former non-originating inputs contained in intermediate products, provided that
+    certain conditions are fulfilled. The calculation of embedded emissions in CBAM goods
+    follows completely different rules.
+
+#### 67. Will the European Commission formally or informally verify the
+
+“equivalence” of alternative methods?
+
+- The transitional period is a learning phase for everyone, including for Commission services
+    and NCAs. If the alternative methods do not meet the standards included in Article 4(2)
+    of the Implementing Regulation, and especially for imports after 30 June 2024, then such
+    calculation method may be rejected. The national competent authority would start a
+    dialogue with the reporting declarant to obtain more accurate data.
+
+#### 68. How are indirect emissions for the production of CBAM goods
+
+determined? [updated 24 / 10 ]
+
+- Indirect emissions are determined by multiplying the electricity consumed to produce a
+    CBAM good with a relevant emission factor. The emission factor could be based on the
+    electricity grid or represent an actual emission factor. The emission factor based on the
+    country’s electricity grid is made available within the CBAM transitional registry.
+
+#### 69. Which emission factors for electricity should be used to
+
+determine indirect emissions?
+
+- For the transitional period, the default emission factors for electricity are based on data
+    from the International Energy Agency (IEA) covering a 5-year average. They are provided
+    per country by the Commission in the CBAM Transitional Registry.
+
+
+- Alternatively, any other emission factor of the country of origin grid may be used if it is
+    based on publicly available data. Both the emission factor for electricity or the CO 2
+    emission factor may be used.
+- Actual emission factors for electricity may be used in the case of a direct technical link
+    between the electricity-generating source and the installation producing the CBAM good
+    or in the case of a power purchase agreement between the electricity producer and
+    consumer.
+
+#### 70. Can market-based certificates (Guarantee of Origin, Renewable
+
+```
+Energy Certificates, etc.) be used to justify the use of actual emission
+factors?
+```
+- During the transitional period, the general rule for the emission factor for electricity is to
+    use default values which will be provided by the Commission. However, actual emission
+    factors for electricity can be used if the relevant conditions are met (i.e., existence of a
+    direct technical link or a power purchase agreement, as explained above).
+- Market-based specific emission factors, determined for example by Guarantees of Origin
+    or Green Certificates cannot be used to justify the use of actual emission factors.
+- Further information can be found in Section D.2 of Annex III to the CBAM Implementing
+    Regulation and in the guidance document for non-EU installations, Section 6.7.3.2.
+
+#### 71. Should emissions from on-site transportation be included in the
+
+calculation?
+
+- Emissions resulting from transport on conveyor belts, in pipelines and using other
+    stationary equipment are included. Emissions resulting from the use of mobile machinery
+    (trucks, forklifts etc.) are excluded. These are the same rules as in the EU ETS.
+
+#### 72. Can carbon capture and use (CCU) / carbon capture and storage
+
+```
+(CCS) be used to reduce emissions for the purpose of determining
+embedded emissions?
+```
+- Carbon capture and use/storage (CCUS) are techniques that become increasingly
+    available on the markets to reduce carbon dioxide emissions. Such emission reductions
+    can be taken into account when determining embedded emissions in CBAM goods,
+    provided that certain criteria are met. These conditions are spelled out in Annex III,
+    Section B.8.2 to the Implementing Regulation (Section 6.5.6.2 of the guidance provides
+    more explanations). The conditions are essentially that the captured carbon dioxide is
+    used to produce products in which it is permanently chemically bound or that the
+    captured carbon dioxide is transferred to a long-term geological storage site.
+
+
+#### 73. Is enhanced oil recovery (EOR) eligible for deduction in the
+
+calculation of embedded emissions?
+
+- Enhanced oil recovery (EOR) is primarily a technology utilized to increase the extraction
+    of oil. The CO2 injected in the process could theoretically be considered for deduction in
+    the calculation of embedded emissions if the oil extraction site provides for a long-term
+    geological storage site and provided that certain criteria are met. The conditions, identical
+    to those for carbon capture and storage (CCS), are spelled out in Annex III, Section B.8.2
+    to the Implementing Regulation (Section 6.5.6.2 of the guidance provides more
+    explanations).
+
+#### 74. Are emission factors from life-cycle assessments (LCA) / life-cycle
+
+inventory databases accepted?
+
+- No, emission factors from life-cycle assessments (LCA)/life-cycle inventory databases are
+    not accepted for calculating embedded emissions in the CBAM report. Note, however,
+    that until 30 June 2024, i.e. reports due until 31 July 2024, for each import of goods for
+    which the reporting declarant does not have all the information, the reporting declarant
+    may use other methods for determining the emissions. In this limited time, emission
+    factors from life-cycle assessments (LCA)/life-cycle inventory database may be used.
+    Moreover, if the embedded emissions are determined using one of the eligible
+    monitoring and reporting methods described in Article 4(2) of Implementing Regulation
+    (EU) 2023/ 1773 and that method uses emission factors from life-cycle assessments, this
+    is also possible until the end of 2024.
+- As is explained in the guidance document for non-EU operators, section 6.2.1 and Table
+    6 - 1, the concept of embedded emissions is narrower than the scope of life-cycle
+    assessments (LCA) and product carbon footprints (PCF). The use of emission factors from
+    LCA databases therefore significantly over-estimate the embedded emissions. This is
+    counter the design of the CBAM which aims at mirroring the emissions covered by the EU
+    ETS. In the definitive phase, importers would be required to surrender too many CBAM
+    certificates if they used these emission factors.
+- However, it cannot be excluded that the providers of LCA databases develop CBAM-
+    compatible datasets in the future. Operators of installations producing CBAM goods
+    would be able to use such databases, provided the database documentation provides
+    evidence that the system boundaries underlying the database values are suitable for the
+    CBAM, as operators are responsible for reporting correct data.
+
+#### 75. My supplier is not sending me the necessary information before
+
+the report is due. What should I do? [updated 24 /10]
+
+- A good cooperation between third-country producers and reporting declarants is crucial.
+    The Commission has published guidance and templates to help producers determine the
+    embedded emissions of the CBAM goods they produce in non-EU countries.
+
+
+- Ultimately, the reporting declarants bear the responsibility for ensuring the completeness
+    and correctness of the CBAM reports. Reporting declarants are liable and may be subject
+    to penalties where they fail to comply with the CBAM reporting obligation and where they
+    have not taken the necessary steps to comply with the obligation to submit a complete
+    and accurate CBAM report, following the correction procedure.
+- For imports as from 1 July 2024, reporting declarants are required to report actual
+    emissions for each CBAM good imported into the EU. If the declarant is not able to receive
+    actual emission data from the supplier and chooses to report default values (outside the
+    quantitative limit explained in Question 76 ), the CBAM report will be
+    incorrect/incomplete.
+- Reporting declarants must undertake all possible efforts to obtain actual emission data
+    from their supplier(s) or producer(s) of CBAM goods. Where declarants eventually fail to
+    get data on actual emissions, they shall select, in the field "Type of determination", the
+    new option "Actual data not available". This option exists for both direct and indirect
+    embedded emissions. Note that if this option is chosen, the CBAM report will be
+    considered incorrect/incomplete.
+- More importantly, if the option "Actual data not available" is chosen, reporting declarants
+    are expected to also follow these steps:
+    (1) Use the "Additional Information" field to provide justifications on why the actual
+    emissions data is missing.
+    ( 2 ) In the tab “Supplementary”, upload supporting documents attesting unsuccessful
+    efforts and steps taken to obtain data from suppliers and/or producers."
+- Note that where the option "Actual data not available" is chosen, subsequent fields in the
+    Emissions tab will become non-editable (i.e. for direct embedded emissions: the field
+    "type of reporting methodology"; for indirect embedded emissions: the fields "Source of
+    emission factor" and "Source of electricity") and numeric fields will be automatically filled
+    with "0".
+- Declarants who have already submitted a CBAM report using a "workaround" to indicate
+    that actual data is not available are not required to resubmit these reports.
+- NCAs are responsible for assessing whether reporting declarants have taken the
+    necessary steps to comply with the obligation to submit complete and accurate CBAM
+    reports. In that context, thoroughly justified difficulties in terms of getting the necessary
+    data on actual emission values from the producer of the CBAM goods might be taken into
+    account.
+- When deciding on penalties, NCAs may take into account the means and resources that
+    reporting declarants have effectively allocated to unsuccessful efforts to collect the data,
+    including assessing the adequacy of these means and resources to the economic size of
+    the reporting declarant and the total amount of imports of CBAM goods and their
+    embedded emissions. NCAs may also take into account the repetition of these actions
+
+
+```
+and follow-ups with third-country producers or suppliers, the time period concerned and
+their duration.
+```
+- The reporting declarants should always demonstrate that they undertook all efforts which
+    can reasonably be expected from them to retrieve from the operator the necessary data
+    on actual embedded emissions, also in view of their internal operational capacities and
+    the operators' ability to determine actual emissions.
+
+#### 76. What are the default values? How does this work? [updated
+
+24 / 10 ]
+
+- For imports until 30 June 2024 (i.e. CBAM reports due until 31 July 2024), for each import
+    of goods for which the reporting declarant does not have all the information, the
+    reporting declarant could use other methods for determining the emissions, including
+    default values made available and published by the Commission (see the TAXUD CBAM
+    website). The use of default values for the purpose of reporting during the transitional
+    period was thus possible for the first three reporting periods, without quantitative limits.
+- In addition, estimated values (including default values) can be used when determining
+    direct emissions during the whole transitional period for input materials or subprocesses
+    with a relatively minor contribution (i.e. <20%) to the total embedded emissions of
+    complex goods (see Article 5 of the CBAM Implementing Regulation). For determining
+    these 20%, indirect emissions are only relevant to calculate what the 100% total
+    embedded emissions entails.
+- In other words, this means that for imports until 30 June 2024 , 100% of the total
+    embedded emissions could be determined using default values. For the remaining
+    transitional period (i.e. for imports from 1 July 2024 to 31 December 2025), estimated
+    values may be used when determining direct emissions but a quantitative limit is applied:
+    for complex goods, up to 20% of the total embedded emissions, considering the entire
+    production chain, may be then determined using estimations (using default values
+    provided by the Commission would qualify as ‘estimation’). When reporting declarants
+    make use of this flexibility to use estimated values (including default values) within the
+    20% limit, they should follow these steps in the Transitional Registry:
+    (1) In the field “Type of determination” for Direct embedded emissions, select “Actual
+    data”.
+    (2) In the field “Type of applicable reporting methodology”, select “Commission rules”
+    (3) In the field “Additional Information”, provide details on the applicable reporting
+    methodology and the use of estimated values within the 20% limit.
+- By the end of the transitional period in 2025, the Commission will assess the default
+    values based on the data collected.
+- During the transitional period, there will be only global default values (for each CN code
+    under the CBAM scope). During the definitive period then, default values by country or
+    even by region will be made available.
+
+
+- During the definitive period, authorised CBAM declarants will be able to use default
+    values, without quantitative limits, in cases where actual emissions data is not available.
+    However, it will likely be more favourable for importers to provide the calculation of
+    embedded emissions.
+
+#### 77. How do you determine default values?
+
+- The EU’s Joint Research Centre (JRC) published on 29 September 2023 estimations of GHG
+    emission intensities for goods from four energy-intensive industries – iron and steel,
+    fertilisers, aluminium, and cement in the EU and in its main trading partners. This work
+    provides scientific support to the implementation of the mechanism, as envisaged by the
+    CBAM Regulation.
+- The JRC report provides the values, disaggregating between direct and indirect emissions.
+    The GHG emission estimations include carbon dioxide, nitrous oxide (for some fertiliser
+    goods) and perfluorocarbons (for aluminium goods) linked to the production of the goods
+    listed in Annex I to the CBAM Regulation. The estimated values of the GHG emission
+    intensities (i.e. of the specific embedded emissions) served as an input to for the setting
+    of the default values for the transitional period.
+
+#### 78. Until which point in time will EU importers be allowed to use
+
+alternative monitoring and reporting methods?
+
+- In accordance with the Implementing Regulation for the transitional period, there are
+    certain flexibilities: for imports until 31 December 2024 reporting declarants can use
+    other methods that lead to similar coverage and accuracy using (a) a carbon pricing
+    scheme, (b) a compulsory emission monitoring scheme or (c) an emission monitoring
+    scheme at the installation (Article 4(2)).
+- For imports until 30 June 2024 (i.e. CBAM reports due until 31 July 2024), any other
+    reference method, including default values, could be used if the reporting declarant does
+    not have all necessary information (see Article 4(3) of the Implementing Regulation).
+    Accordingly, reporting declarants may decide, until that date, to bring forward additional
+    methods of their choosing. These methods will then be assessed by Commission services
+    for the purpose of adjusting the CBAM reporting methodology for the definitive phase.
+
+#### 79. How should emissions resulting from the use of biomass be
+
+accounted for?
+
+- The CBAM methodology follows the same rules as the EU ETS.
+- If biomass is used as a process input (e.g. where charcoal is used as a reducing agent in a
+    blast furnace or for producing electrodes), emissions from the biomass use are not
+    accounted for (‘zero-rating’).
+- If biomass (solid, liquid or gaseous) is used as a fuel (i.e. for energy purposes), emissions
+    are accounted for unless the biomass fulfils the relevant sustainability and greenhouse
+
+
+```
+gas savings criteria of the Renewable Energy Directive (EU) 2018/2001. The applicable
+criteria depend on the type of biomass used.
+```
+- Annex D of the guidance document for installation operators outside the EU provides
+    further details.
+
+#### 80. How should decimal places and rounding be handled in
+
+calculations?
+
+- All "significant" digits (in accordance with the metering uncertainty) should be kept
+    throughout the complete calculation.
+
+#### 81. Should the gross weight or the net weight of the imported CBAM
+
+goods to be used for the calculation of the embedded emissions?
+
+- Goods subject to CBAM that are imported into the customs territory of the Union are
+    measured in net weight. Thus, also for the calculation of embedded emissions of CBAM
+    goods, net weight should be used.
+
+#### 82. How to deal with stock items for which there is no emission data
+
+available?
+
+- The embedded emissions of such stock items could, for imports until 30 June 2024 , be
+    estimated using the default values published by the European Commission.
+- For imports after 30 June 2024, actual data needs to be reported. In the case of lacking
+    data for old spare parts or stock items, data for similar or identical goods could be
+    submitted.
+
+#### 83. If a facility is used simultaneously by multiple production
+
+```
+processes, how do you attribute the emissions from that facility to
+each production process?
+```
+- All inputs, outputs and corresponding emissions in an installation should be attributed to
+    a production process, unless they relate to any non-CBAM good.
+- Overall, the relevant emissions of an installation should be 100% covered by production
+    processes for CBAM goods and any non-CBAM goods, where applicable.
+- For an installation with several relevant production processes, where shared equipment,
+    shared ‘source streams’ or shared emission sources are relevant, inputs, outputs and
+    emissions should be attributed to the different production processes with an appropriate
+    share. For example, if an installation produces purified water and 60% of that water is
+    used to produce a CBAM good, then 60% of the direct and indirect emissions related to
+    the water purification should be attributed to the production of the CBAM good.
+
+
+#### 84. Should saleable off-spec products be considered for the
+
+determination of the activity level?
+
+- If the off-spec product is saleable, it should be included in the activity level, provided it
+    complies with the CN codes referring to the CBAM goods category of the production
+    process (as listed in Annex II of Implementing Regulation (EU) 2023/1773).
+
+Cement
+
+#### 85. Is cement defined as a complex good in the scope of the CBAM?
+
+- Yes. Cement is defined as a complex good in the scope of CBAM, because clinker is a
+    precursor to cement and clinker itself is in the scope of CBAM.
+
+Fertilisers
+
+#### 86. Are the exothermic chemical reactions involved in fertiliser
+
+production accounted for as direct emissions?
+
+- If a reaction leads to the generation of CO2, e.g. through the oxidation of organic
+    chemicals, and the CO2 is emitted, it is accounted for as direct emissions.
+- Emissions from the conversion of natural gas to hydrogen also count as direct emissions.
+
+#### 87. Can CO2 bound in urea be counted as negative emissions?
+
+- No. Under the EU ETS, the CO 2 bound in urea does not count as negative emissions.
+    Therefore, no discounts for CO 2 bound in urea apply for the purpose of reporting
+    emissions under CBAM. This also means that the CO 2 generated in ammonia production
+    and transferred to urea productions counts as emission under the ammonia production.
+
+Electricity as CBAM good
+
+#### 88. Who is the CBAM reporting declarant for electricity imports?
+
+- In general, the CBAM reporting declarant is the person who submits the customs
+    declaration. As is the case for other CBAM goods, importers established outside of the EU
+    must appoint an indirect representative to fulfil the CBAM reporting obligations. There is
+    also the possibility to appoint service providers for CBAM reporting purposes, but this
+    does not lift importers (or indirect representatives, where applicable) from liability.
+- During the definitive period, under Article 5(4) of the CBAM Regulation, where
+    transmission capacity for the import of electricity is allocated through explicit capacity
+    allocation, the person to whom capacity has been allocated for import and who
+    nominates that capacity for import shall be regarded as an authorised CBAM declarant in
+    the Member State where the person has declared the importation of electricity in the
+    customs declaration.
+
+
+#### 89. What is the difference between the emission factor for
+
+electricity and the CO 2 emission factor? [updated 24 / 10 ]
+
+- The emission factor for electricity represents the weighted average emission factor of all
+    electricity-generating sources (including nuclear and renewable sources) in a geographic
+    area (e.g. third country, group of third countries or region within a third country). By
+    contrast, the CO 2 emission factor represents the weighted average emission factor of
+    those electricity-generating sources that are based on the combustion of fossil fuels. This
+    means that the CO 2 emission factor is always larger than the emission factor for electricity
+    for the same geographic area,
+- During the transitional period, the use of a CO 2 emission factor for electricity is the default
+    method to determine the specific direct embedded emissions for electricity as a CBAM
+    good. By contrast, the emission factor for electricity is used for the default method to
+    determine the specific indirect emissions for CBAM goods other than electricity.
+
+#### 90. Which CO 2 emission factors should be used?
+
+- Default values for imported electricity are determined for a third country, group of third
+    countries or region within a third country, based on the best data available to the
+    Commission. For the transitional period, the default values are CO 2 emission factors per
+    country based on data from the International Energy Agency (IEA) covering a 5-year
+    average. They are provided by the Commission in the CBAM Transitional Registry.
+- When there is no specific default value available, the CO 2 emission factor in the EU shall
+    be used. It is also based on IEA data and provided via the CBAM Transitional Registry.
+- When a reporting declarant submits sufficient evidence based on official and public
+    information to demonstrate that the applicable CO 2 emission factor is lower than the
+    values in accordance with the above points, the reporting declarant may determine the
+    CO 2 emission factor based on the method defined in the Implementing Regulation.
+
+#### 91. What are the requirements to report actual embedded
+
+emissions of electricity, the so called “conditionality”?
+
+- The actual emissions data of a specific electricity-producing installation may be used, if
+    the criteria in the CBAM Regulation (Annex IV (5)) are met, the so called ‘conditionality’).
+- The following conditions shall be met, bearing in mind that the criteria are cumulative.
+    o The amount of electricity for which the use of actual embedded emissions is
+       claimed is covered by a power purchase agreement between the authorised
+       CBAM declarant and a producer of electricity located in a third country;
+    o The installation producing electricity is either directly connected to the Union
+       transmission system or it can be demonstrated that at the time of export there
+       was no physical network congestion at any point in the network between the
+       installation and the Union transmission system;
+
+
+```
+o The installation producing electricity does not emit more than 550 grammes of
+CO 2 of fossil fuel origin per kWh of electricity;
+o The amount of electricity for which the use of actual embedded emissions is
+claimed has been firmly nominated to the allocated interconnection capacity by
+all responsible transmission system operators in the country of origin, the country
+of destination and, if relevant, each country of transit, and the nominated capacity
+and the production of electricity by the installation refer to the same period of
+time, which shall not be longer than one hour.
+```
+#### 92. Is transit through non-EU countries considered for reporting on
+
+electricity in the CBAM?
+
+- For electricity as a CBAM good, the relevant third country is the country where the
+    electricity has been produced. No emission factor for the transit country shall be
+    considered in the CBAM report.
+
+#### 93. Which are the system boundaries to determine the embedded
+
+emissions of electricity?
+
+- Only the direct CO 2 emissions during the production of electricity are considered for the
+    reporting. For example, no upstream emissions related to the production and installation
+    of wind turbines are considered.
+
+Hydrogen
+
+#### 94. What is the connection between hydrogen as a CBAM good and
+
+the Renewable Energy Directive (EU) 2018/2001 (‘RED II’))?
+
+- The Implementing Regulation provides that "Where the produced hydrogen has been
+    certified to comply with Commission Delegated Regulation (EU) 2023/1184(1), an
+    emission factor of zero for the electricity may be used." (Annex II, Section 3.6). This means
+    that a certification of hydrogen as being an "RFNBO" (renewable fuel of non-biological
+    origin) under the Renewable Energy Directive can be used for demonstrating zero indirect
+    emissions, no double certification is needed.
+- In the absence of such certification, the indirect emissions need to be determined in line
+    with Annex III of the Implementing Regulation.
+
+Iron and steel
+
+#### 95. When calculating the embedded emission of steel products, are
+
+```
+auxiliary processes such as lime kilns or coke oven plants plants
+included in the boundary calculation?
+```
+- System boundaries for each aggregated goods category can be found in Annex III to
+    Implementing Regulation (EU) 2023/1773.
+
+
+- Lime kilns and coke oven plants are not included in the system boundaries for iron and
+    steel production. This is because the outputs of those plants (i.e. lime and coke) are not
+    CBAM goods themselves. Consequently, lime and coke are also not considered precursors
+    for the calculation of the specific embedded emissions.
+
+#### 96. Do iron ore pellets fall within the scope of CBAM?
+
+- Yes. Iron ore pellets fall under CN code 2601 12 00 ‘Agglomerated iron ores and
+    concentrates, other than roasted iron pyrites’. They are considered a precursor ("sintered
+    ore") in the production of pig iron or Direct Reduced Iron (DRI).
+
+#### 97. Can we divide a steel site into more than one installation?
+
+- The division of sites into different installations is possible. The division of installations into
+    separate production processes is even obligatory where different production routes exist
+    within one installation.
+- Moreover, dividing installations is in particular useful for more detailed, more transparent
+    monitoring. For example, it may be useful to consider the coke ovens and a lime
+    production as separate installations, as they would not count to the embedded emissions
+    of the steel produced.
+- According to the monitoring rules of Implementing Regulation (EU) 2023/1773, a division
+    of installations should not lead to different results of the final embedded emissions of
+    steel products, as precursors are taken fully into account by the CBAM methodology.
+
+#### 98. What should be filled in the field "steel mill identification
+
+number" in the CBAM report?
+
+- The "steel mill identification number", also known as "heat number", in principle indicates
+    the mill/furnace where the steel product came from. In case there are many different
+    heat numbers, we suggest leaving a comment. However if there are only a few heat
+    numbers, they can all be filled in the field.
+-^ Note that, while we encourage you to provide this information, the "steel mill
+    identification number" is an optional field.
+
+Aluminium/Steel
+
+#### 99. Should the specific embedded emissions of aluminium/steel
+
+goods be determined separately for different alloy grades?
+
+- Specific embedded emissions are generally determined per aggregated goods category,
+    unless different production routes are used in an installation. The aggregated goods
+    categories may cover goods with different CN codes. Within the same CN code, the
+    content of alloying elements or the share of input scrap may vary. Nevertheless,
+    embedded emissions during the transitional period can be reported per aggregated goods
+    category.
+
+
+- Operators may voluntarily choose a more disaggregated determination of specific
+    embedded emissions for certain goods or groups of goods.
+
+Customs
+
+#### 100. Can an importer use different customs representatives for the
+
+customs declaration and the CBAM reporting?
+
+- As regards to the reporting requirements applicable during the transitional period, the
+    CBAM Regulation (Article 5) foresees the possibility for importers of CBAM goods to
+    appoint direct or indirect customs representatives within the meaning of Article 18 of the
+    Union Customs Code (see to that effect Regulation No 952/2013):
+       o In the case of direct representation, the EU-established importer would be subject
+          to the CBAM obligations, while the direct customs representative submits the
+          customs declaration in the name of and on behalf of the importer.
+       o If an EU-established importer appoints an indirect customs representative, and
+          the latter agrees, the reporting obligations shall apply to such indirect customs
+          representative.
+       o Where the importer is not established in an EU Member State, the reporting
+          obligations shall apply to the indirect customs representative in any case.
+- There is no possibility for an importer to have several indirect customs representatives
+    for CBAM goods covered by the same customs declaration.
+- For an importer established in an EU Member State, it would be possible to use a direct
+    customs representative to carry out customs obligations, and to hire a service provider to
+    enter CBAM reporting data in the CBAM Transitional Registry. For this purpose, the
+    importer would delegate access to the Transitional Registry to this service provider, who
+    would fill in the CBAM report in the name and on behalf of the importer. The delegation
+    in such cases follows the delegation model “Employer - Employee”, where “Employer” is
+    either the importer or an indirect customs representative and “Employee” is the service
+    provider. Note that in this case both the importer-employer (EO) and the provider-
+    employee (EMPL) users will need to be configured by the Member States in UUM&DS and
+    the importer will be responsible to delegate (via UUM&DS) the CBAM Declarant access to
+    the Service Provider. This means that when the “CBAM Service Provider” connects to the
+    CBAM Registry as employee, the EORI of the importer that has delegated the access is
+    being used.
+    When the “CBAM service provider” thus gains access to the Registry using the EORI
+    number of the importer, and when the CBAM report for that importer is submitted, the
+    importer would in any case remain the reporting declarant and therefore be legally liable
+    for CBAM obligations.
+- For an importer established outside the EU, the indirect customs representative will be
+    responsible for both the customs declaration and the CBAM declaration.
+
+
+#### 101. What happens if an indirect customs representative does not
+
+agree to carry out CBAM reporting obligations?
+
+- This is only possible in cases where the importer is established within the EU. Where on
+    the contrary the importer is not established in the EU, the importer must appoint an
+    indirect customs representative who has to fulfil the CBAM reporting obligations.
+- Art 8.3 of the Implementing Regulation provides that in cases where indirect customs
+    representatives do not agree to carry out CBAM reporting obligations, they shall notify
+    the importer of the obligation to carry out the reporting.
+- To facilitate CBAM implementation, the text in the box below is an indicative and non-
+    binding template that indirect customs representatives may use as a basis to inform
+    importers of their decision to not carry out the abovementioned reporting obligations for
+    CBAM purposes.
+
+```
+Notification template
+From indirect customs representatives to importers
+```
+From: Name and address of the indirect customs representative
+To: Name and address of the importer
+Date: Date
+
+Dear Madam, Sir,
+
+Following the adoption of Regulation (EU) 2023/956 of the European Parliament and of the
+Council of 10 May 2023 establishing a Carbon Border Adjustment Mechanism (CBAM),
+CBAM has started to apply with a transitional period as from 1 October 2023 until 31
+December 2025. The rules applicable to CBAM reporting obligations during this transitional
+period are laid down by Commission Implementing Regulation (EU) 2023/1773 of 17 August
+2023.
+
+Pursuant to Articles 32 of the Regulation and 8(3) of the Commission Implementing
+Regulation, indirect customs representatives which do not agree with carrying out the CBAM
+reporting obligations shall notify importers of their obligation to comply with this Regulation.
+This notification shall include the information referred to in Article 33(1) of this Regulation.
+
+I notify you my decision not to carry out the CBAM reporting obligations provided in Articles
+33 and 35 of the CBAM Regulation. I inform you that it is your obligation, as an importer, to
+submit a report (“CBAM report”) containing information on the goods that you import into the
+
+
+EU during a given quarter of a calendar year, no later than one month after the end of that
+quarter. This report must be submitted to the CBAM Transitional Registry
+(https://cbam.ec.europa.eu/declarant).
+
+I invite you to contact the National Competent Authority for CBAM purposes (NCA) of the
+Member State where you are established for further information on CBAM-related reporting
+obligations. You may also find relevant information on CBAM on the European Commission’s
+dedicated webpage (see: https://taxation-customs.ec.europa.eu/carbon-border-adjustment-
+mechanism_en).
+
+Yours faithfully,
+
+#### 102. Can a direct customs representative be a CBAM reporting
+
+declarant for companies established in the territory of the EU?
+
+- EU importers can indeed appoint direct or indirect customs representatives. However, as
+    regards CBAM reporting (under the CBAM Regulation and the Implementing Regulation),
+    the obligations lie either on the importer or on their indirect representatives where the
+    latter so agree (please see Art. 32 of Regulation (EU) 2023/956 for the transitional period).
+- Even in the case where the importer appoints a direct customs representative, that
+    importer remains liable for CBAM reporting obligations. In other words, the importer
+    remains the declarant for CBAM purposes.
+- Nothing prevents importers from appointing service providers who may assist them in
+    preparing and submitting their CBAM reports in practice, but the responsibility for
+    complying with the CBAM reporting obligations, even in such cases, lies on the importers
+    or, where the case may be, on the indirect representatives.
+
+#### 103. My company is registered in one EU Member State but imports
+
+```
+CBAM goods through multiple Member States. Should I compile all
+these imports into one single quarterly report?
+```
+- During the transitional period, the CBAM declarant is responsible for submitting quarterly
+    CBAM reports containing information on embedded emissions of all imported CBAM
+    goods. CBAM goods are attributed to a CBAM declarant through the EORI number
+    provided to the customs authorities. In the given scenario, there is only one company with
+    one EORI number involved. The quarterly CBAM report should therefore compile the
+    information on embedded emissions of all CBAM goods imported by this company, even
+    if the goods were imported in different Member States.
+- Please note that importers may decide to appoint an indirect customs representative
+    who, if they agree to carry out the reporting obligation, will have to provide their own
+    EORI number during the importation of CBAM goods, and to undertake the CBAM
+
+
+```
+obligations in the stead of the importer for those goods imported by the indirect customs
+representative.
+```
+#### 104. Which is the relevant NCA in case an importer is a branch of a
+
+company registered abroad, and both share the same EORI number?
+
+- If the parent company is a legal person with headquarters in a non-EU country and has
+    several entities in different EU Member States, none of which are ‘persons’ as defined by
+    Article 3(18) of Regulation (EU) 2023/956, that parent company will need an EORI
+    number. Since economic operators and other persons may have only one EORI number,
+    although the parent company has entities in several Member States, they may apply for
+    and use only one EORI number assigned by one of these Member States.
+- If the parent company has an entity (e.g. registered office) in another EU Member State
+    that meets the definition of a ‘person’ under Article 3(18) of Regulation (EU) 2023/956,
+    that entity would also have an EORI number and the respective Member State would be
+    considered the Member State of establishment for that respective entity. In such cases,
+    both the parent company and that entity will each be assigned an EORI number. The
+    parent company will be assigned an EORI number by the authorities of the EU Member
+    State where it is established. In this case, in principle, there are different NCAs responsible
+    for the parent company and the subsidiary.
+
+#### 105. Must goods transiting in the EU be reported under CBAM?
+
+- No. If goods are declared for temporary admission, for example under Article 95 of
+    Council regulation (EC) No 1186/2009, they do not fall under the scope of the CBAM. Only
+    goods released for free circulation into the EU are subject to the CBAM.
+- Similarly, the CBAM does not apply in respect to samples of non-EU origin (e.g. sent for
+    testing), which are declared for temporary admission and not released for free circulation.
+
+#### 106. Will the CBAM reporting obligation apply to CBAM goods that
+
+```
+have entered free circulation within the EU due to non-compliance
+with a customs procedure other than import (e.g., temporary
+admission), and for which all duties and taxes have already been paid
+through the said non-compliance procedure?
+```
+- The release of the goods for free circulation requires that the CBAM requirements have
+    been fulfilled. Therefore, the controls on whether or not those requirements have been
+    fulfilled should precede the release of the goods for free circulation.
+- In case of non-compliance, Article 198(1)(b) UCC would apply ( _i.e. “the customs_
+    _authorities shall take any necessary measures, including confiscation and sale, or_
+    _destruction, to dispose of goods where the goods cannot be released because they are_
+    _subject to prohibitions or restrictions”_ ), because the goods are subject to CBAM
+    requirements which have not been fulfilled.
+
+
+- In such a case, Article 198(2) UCC would apply as well ( _i.e. “non-Union goods which have_
+    _been abandoned to the State, seized or confiscated shall be deemed to be placed under_
+    _the customs warehousing procedure”_ ).
+
+#### 107. Do I need to report on CBAM goods that are placed under the
+
+inward processing regime?
+
+- CBAM becomes due only for goods that are released for free circulation in the EU. Thus,
+    in the case of CBAM goods that are placed under a custom suspensive regime in view of
+    their future export or in view of their processing, there is no CBAM obligation.
+- Note, however, that if a CBAM good leaves the inward processing regime to be placed on
+    the EU market, then there is a CBAM obligation. In this case, the bill of discharge should
+    be uploaded as a supporting document when submitting the CBAM report.
+- A CBAM reporting obligation also arises in the specific case where a CBAM good that was
+    placed under inward processing is processed into a product that itself is no longer a CBAM
+    good, and this final good is finally released for free circulation in the EU (see Article 6 of
+    the Implementing Regulation). In this specific case, the CBAM report would contain
+    information on the quantities and embedded emissions of CBAM goods placed under
+    inward processing (Article 6(f) and (g) of the CBAM Regulation), but not on the quantities
+    and embedded emissions of the final goods released for free circulation, because in the
+    example, these goods are not CBAM goods themselves (i.e. Article 6(a) and (b) do not
+    apply).
+
+#### 108. There is a tariff suspension on the CBAM good that I have
+
+imported. Am I exempt from the CBAM?
+
+- EU legislation provides for some tariff suspension, such as through Council Regulation (EU)
+    2023/2890 of 19 December 2023 amending Regulation (EU) 2021/2278 suspending the
+    Common Customs Tariff duties referred to in Article 56(2), point (c), of Regulation (EU) No
+    952/2013 on certain agricultural and industrial products.
+- Such tariff suspension has no effect on the CBAM obligations (including reporting
+    requirements), which still apply even in the case of a tariff suspension.
+
+#### 109. What happens if indirect customs representatives agree to act as
+
+```
+reporting declarants only for some goods but not for others? Do they
+need to submit two different customs declarations, one for the goods
+for which they act as reporting declarant and one for which they do
+not?
+```
+- Yes, this is correct. Indirect customs representatives, who agree to act as reporting declarants
+    only for some goods but not for others, would need to submit two separate customs
+
+
+```
+declarations, one for the goods for which they act as reporting declarants and one for the
+goods for which they do not.
+```
+#### 110. Can an indirect customs representative holding an “Entry into the
+
+```
+Declarants Records” (EIDR authorisation) also refuse to act as
+reporting declarant if acting on behalf of an EU-importer for customs
+purposes?
+```
+- Art. 2(1b) of the Implementing Regulation provides that a person holding an authorisation to
+    import through an “Entry into the Declarants Records” (EIDR authorisation) can act as
+    reporting declarant.
+- The general provisions of Art. 8(3) of the Implementing Regulation apply to this case as well.
+    Thus, yes indeed, a person holding an EIDR authorisation can also refuse to act as reporting
+    declarant.
+
+Definitive period
+
+#### 111. How will the CBAM work in practice during the definitive period?
+
+- The CBAM will mirror the ETS in the sense that the system is based on the purchase of
+    certificates by importers. The price of the certificates will be calculated depending on the
+    weekly average auction price of EU ETS allowances expressed in € per tonne of CO 2
+    equivalents emitted, and it will be made publicly available weekly by the Commission.
+    Importers of goods will have to, either individually or through a representative, register
+    to take part in the CBAM and buy CBAM certificates.
+- The certificates surrendered by the CBAM declarant shall correspond to the amount of
+    embedded emissions of the relevant goods expressed in tonnes of CO2. In addition, there
+    is a possibility to purchase certificates along the year.
+- CBAM certificates will be sold by Member States through a common central platform to
+    authorised CBAM declarants established in that Member State. Only _authorised_ CBAM
+    declarants are allowed to purchase certificates. These certificates shall be surrendered
+    via the CBAM registry by 31 May each year, 2027 the first time, for the embedded
+    emissions of imports that occurred in year 2026.
+- The reporting for embedded emissions is expected to take place under similar conditions
+    than during the transitional period, i.e. exclusively through an online portal, the CBAM
+    registry.
+
+
+#### 112. What obligations will importers of CBAM goods have during the
+
+definitive period?
+
+- During the definitive period, only authorised CBAM declarants may import goods into the
+    Union (Article 4 of the CBAM Regulation). The authorised CBAM declarant is, according
+    to Article 5 of the CBAM Regulation, as below:
+       o if the importer is not established in a Member State: the indirect customs
+          representative;
+       o if the importer is established in a Member State: the importer, or, subject to
+          agreement, the indirect customs representative.
+- It follows that if the importer is not established in a Member State and the indirect
+    customs representative does not have the status of authorised CBAM declarant, the
+    concerned CBAM goods cannot be imported in the Union.
+- During the definitive period, authorised CBAM declarants will have the obligation to buy
+    and surrender CBAM certificates corresponding to the total embedded emissions in the
+    imported CBAM goods. Authorised CBAM declarants will also have the obligation to
+    submit annual CBAM reports.
+
+#### 113. How can I become an “authorised CBAM declarant”? [added
+
+24 / 10 ]
+
+- From January 2025 onwards, CBAM declarants will be able to apply for the ‘authorised
+    CBAM declarant’ status via the CBAM Registry. Their application will be processed by the
+    National Competent Authority of the EU Member State where they are established. This
+    status will become mandatory as of 1 January 2026 for the import of CBAM goods in the
+    EU customs territory.
+
+#### 114. After 2026, are you going to prohibit the import of CBAM items if
+
+the EU importers is not an authorised CBAM declarant?
+
+- Yes. Article 25 of the CBAM Regulation provides that “customs authorities shall not allow
+    the importation of goods by any other person than an authorised CBAM declarant”.
+
+#### 115. How can the CBAM report be submitted during the definitive
+
+period?
+
+- The CBAM report shall be submitted through the CBAM Registry by the authorised CBAM
+    declarant. Note that for the definitive period, the ‘CBAM Transitional Registry’ will be
+    replaced by the ‘CBAM Registry’.
+
+
+#### 116. How will I get access to the CBAM Registry in the definitive
+
+period?
+
+- Once an importer’s application has been authorised by the competent authority, they will
+    be considered an authorised CBAM declarant. Each CBAM declarant will be assigned a
+    CBAM account number by the Commission, which will then allow access to the CBAM
+    registry.
+- The access management in the definitive period will also be performed via the EU-wide
+    UUM&DS. This means that declarants will have the ability to access the CBAM Definitive
+    system using either Option 1 (CBAM Domain) or Option 2 (Customs Domain), depending
+    on the choice made by the national authorities.
+- New UUMDS profiles will be required for the definitive registry. NCAs will need to assign
+    these new profiles to existing declarants to ensure their access to the definitive system.
+- In the definitive period, third-country operators will also be able to access the CBAM
+    Registry. Third-country operators will use the Commission’s DG DIGIT's EU-Access
+    platform to access the CBAM portal. The Commission will validate access requests from
+    third-country operators and grant access where appropriate. If access to the platform
+    needs to be revoked, the Commission will consult Member States.
+
+#### 117. What will be the role of the European Commission during the
+
+definitive period?
+
+- Like during the transitional period, the Commission will continue managing the CBAM
+    Registry, reviewing CBAM reports communicated by reporting declarants and
+    communicating any potential issues with NCAs, as well as monitoring the implementation
+    of CBAM and risks of circumvention.
+- In addition, the Commission will manage the central platform for the selling of CBAM
+    certificates to importers. Economic operators will purchase and may also surrender CBAM
+    certificates they have purchased on this platform.
+
+#### 118. Why are indirect emissions only included in the CBAM for cement
+
+and fertilisers?
+
+- Indirect emissions are not included in the scope of CBAM for those goods, where EU
+    Member States can grant indirect cost compensation. This compensation applies to
+    indirect emissions costs incurred from greenhouse gas emission costs passed on in
+    electricity prices.
+- However, the Commission will have to assess the possibility to extend the scope of CBAM
+    to indirect emissions of other goods by the end of the transitional phase.
+
+
+#### 119. Will the EU expand the scope of the CBAM?
+
+- By the end of the transitional period of the CBAM (end 2025), the Commission will
+    undertake a full review of the implementation of the CBAM. Using data collected during
+    that period, the review will, amongst others, look carefully into the possibility of
+    extending CBAM to other goods and sectors covered by the EU ETS at risk of carbon
+    leakage (see Article 30(2) of the CBAM Regulation). An extension of the CBAM scope
+    requires a legislative proposal from the Commission followed by an amendment of the
+    CBAM Regulation to be adopted by the European Parliament and Council.
+
+#### 120. How will a CBAM declarant become ‘authorised’ and what is the
+
+timeline for its authorisation during the definitive period?
+
+- The NCA in the Member State in which the applicant is established shall grant the status
+    of authorised CBAM declarant, when the applicant meets the following criteria:
+       o has not been involved in a serious infringement or in repeated infringements of
+          customs legislation, taxation rules, market abuse rules or the CBAM Regulation;
+       o demonstrates its financial and operational capacity;
+       o is established in the Member State where the application has been submitted;
+       o has been assigned an EORI number.
+- A consultation procedure is required before granting the authorisation, and it should not
+    exceed 15 working days. During the transitional period, the European Commission will
+    adopt secondary legislation with further details on the authorisation procedure (see
+    Article 17(10) of the CBAM Regulation).
+
+#### 121. How can EU importers ensure that they receive the information
+
+```
+they need from their non-EU exporters to be able to use the new
+system correctly? [updated 24/10]
+```
+- Non-EU producers should provide the information on embedded emissions for goods
+    subject to CBAM to the EU-registered importers of their goods. In cases where this
+    information is not available, EU importers will be able to use default values to determine
+    the embedded emissions which must be reported in the CBAM declaration and the
+    number of certificates they need to surrender. However, it will likely be more favourable
+    for importers to provide the calculation of embedded emissions.
+
+#### 122. How will the reliability of the reported information be ensured?
+
+- The Commission, in collaboration with Member States authorities, will continuously
+    monitor reported emissions and corresponding trade, to identify practices of
+    circumvention and non-compliance with the CBAM Regulation and its secondary
+    legislation. In addition, verifications will be carried out during the definitive period, and
+    the report derived from them shall include information on the quantification of emissions
+    and how these emissions are attributed to the different types of goods.
+
+
+- During the definitive period, declared embedded emissions should be verified by a
+    verifier, accredited in accordance with specific accreditation rules (to be defined by the
+    Commission during the transitional period), who will prepare a verification report. In line
+    with this, CBAM declarations will be accompanied by copies of emissions verification
+    reports.
+- Penalties will be imposed when a CBAM declarant introduces goods into the customs
+    territory of the Union without complying with the obligations established in the
+    Regulation.
+
+#### 123. How will the accreditation of verifiers work?
+
+- The European Commission will work during the transitional period on supplementary
+    legislation that will establish the rules on accreditation and verification.
+- Such legislation will encompass an implementing act, in accordance with Articles 8 and 18
+    of the CBAM Regulation, for the verification principles and the alignment of the
+    verification scopes of the EU ETS and the CBAM, and secondly a delegated act in
+    accordance with Article 18 of the CBAM Regulation which will specify the conditions for
+    accreditation of verifiers.
+
+#### 124. How will I be able to find accredited CBAM verifiers?
+
+- The accreditation of CBAM verifiers will be the task of National Accreditation Bodies
+    (NABs) in the EU Member States. This has not yet taken place, since relevant
+    supplementary legislation setting out the qualification of verifiers and the methodology
+    to be followed is yet to be adopted (see the answer above).
+
+#### 125. How will free allocation be accounted for in the calculation of the
+
+CBAM obligation to be paid?
+
+- Rules will be developed by the European Commission in that regard following the
+    empowerment of Article 31 (2) of the CBAM Regulation.
+- The CBAM obligation to be paid by importers will be reduced by the corresponding free
+    allocation that an EU producer would receive for the production of the same goods. This
+    will ensure that products produced in the EU and in third countries are treated equally.
+- This adjustment for free allocation will include a definition of CBAM benchmarks, which
+    in turn will be based on a combination of the EU ETS benchmarks. A combination is
+    needed because there are only a limited number of ETS product benchmarks available
+    and because these are not defined per CN codes.
+- The gradual phase-out of ETS free allowances in CBAM sectors from 2026 to 2034 will be
+    mirrored by a corresponding increase in the CBAM obligation. This is because the CBAM
+    adjustment for free allocation will gradually decrease and thereby the CBAM obligation
+    will increase.
+- The emissions subject to CBAM will be calculated as follows:
+
+
+```
+emissions subject to CBAM = embedded emissions – CBAM benchmark × CBAM factor
+```
+- For example, if the embedded emissions of a good amount to 1. 2 t CO2 eq/t good and
+    the corresponding CBAM benchmark is 1 t CO2 eq/t good, then the emissions subject to
+    CBAM in 2026 (with a CBAM factor of 97.5%) would amount to: 1.2 – 1 × 0.975 = 0.2 25
+    t CO2 eq/t good, equivalent to around 19% of the embedded emissions. In 2030 (CBAM
+    factor 51.5%), the emissions subject to CBAM would amount to 0.685 t CO2 eq/t good
+    (i.e. around 57% of the embedded emissions) and in 2034 (CBAM factor 0%) to
+    1.2 t CO2 eq/t (i.e. 100% of the embedded emissions). From 2034 onwards, there will be
+    no adjustment for free allocation and the full CBAM liability would apply for imports of
+    this good.
+- It follows from this calculation that no CBAM obligation will apply in a given year if the
+    embedded emissions of a good are lower than the CBAM benchmark multiplied with the
+    CBAM factor. In the given example for 2026, no CBAM obligation would thus be due if the
+    embedded emissions were equal to or lower than 0.975 t CO2 eq/t.
+- As there is generally no free allocation for electricity generation in the EU ETS, there will
+    in principle no free allocation adjustments to the CBAM liability for electricity imports.
+    Thus, the entire embedded emissions in the electricity production will require a
+    corresponding purchase of CBAM certificates from 2026 onwards.
+
+#### 126. How will the CBAM benchmarks be defined? [added 24/10]
+
+- The CBAM benchmarks will be based on a combination of the EU ETS benchmarks. A
+    combination is needed because there are only a limited number of ETS product
+    benchmarks available and because these are not defined per CN codes. Analytical work
+    on defining the CBAM benchmarks has started. The CBAM benchmarks are not necessarily
+    fixed numbers, as in some cases installation-specific data might be required.
+- While in some cases there could be a CBAM benchmark per CN code, it may also be
+    possible that CBAM benchmarks are set per groups of CN codes (e.g. per aggregated
+    goods category), if the respective production processes are similar. On the other hand,
+    there could also be different CBAM benchmarks for the same CN code, for example in the
+    case of goods made of primary versus secondary steel.
+- The overall objective is developing a methodology that mirrors the EU ETS free allocation
+    rules, while limiting the burden for stakeholders.
+
+#### 127. How will the carbon price paid in a third country be discounted
+
+from the CBAM?
+
+- An authorised CBAM declarant should be allowed to claim a reduction in the number of
+    CBAM certificates to be surrendered corresponding to the carbon price already effectively
+    paid in the country of origin for the declared embedded emissions of CBAM goods.
+- The CBAM Regulation defines a ‘carbon price’ fairly broadly, as the “monetary amount
+    paid in a third country, under a carbon emissions reduction scheme, in the form of a tax, levy or fee or in the form of emission allowances under a greenhouse gas emissions trading system.
+
+- Only the carbon price that has been “ _effectively paid_ in the country of origin” will count
+    for a reduction of the number of CBAM certificates. Should the authorised CBAM
+    declarant benefit from any rebate or other form of compensation, the benefit will be
+    taken into account to establish the carbon price _effectively_ paid.
+- The Commission will prepare, before the end of the transition period in 2025, an
+    implementing act setting out additional details for the calculation of the carbon price
+    effectively paid in the country of origin (see Article 9(4) of the CBAM Regulation).
+
+#### 128. Will CBAM generate revenues and, if so, how will they be used?
+
+- CBAM is not designed to generate budgetary revenues. Generally, the potential
+    evolution of revenues will depend on the future level of the ETS carbon price, the
+    embedded emissions in the imported CBAM products, and the carbon price effectively
+    paid in third countries. Future CBAM revenues would however only represent an ancillary
+    effect of the policy as the introduction of CBAM is expected to lead to a reduction in
+    embedded CO2 emissions and will incentivize trading partners to consider the revenue
+    generation dimension of domestic carbon pricing policies.
+- Should, however, revenues be generated particularly in the first years following the
+    introduction, they are set to become an own resource for the EU’s budget following the
+    EU’s interinstitutional agreement LI 433/28.
+
+

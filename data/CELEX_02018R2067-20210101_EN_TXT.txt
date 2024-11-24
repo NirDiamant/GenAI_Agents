@@ -1,0 +1,4314 @@
+```
+This text is meant purely as a documentation tool and has no legal effect. The Union's institutions do not assume any liability
+for its contents. The authentic versions of the relevant acts, including their preambles, are those published in the Official
+Journal of the European Union and available in EUR-Lex. Those official texts are directly accessible through the links
+embedded in this document
+```
+## ►B COMMISSION IMPLEMENTING REGULATION (EU) 2018/
+
+```
+of 19 December 2018
+on the verification of data and on the accreditation of verifiers pursuant to Directive 2003/87/EC of
+the European Parliament and of the Council
+```
+```
+(Text with EEA relevance)
+(OJ L 334, 31.12.2018, p. 94)
+```
+Amended by:
+
+```
+Official Journal
+```
+```
+No page date
+```
+► **M1** Commission Implementing Regulation (EU) 2020/2084 of
+14 December 2020
+
+## L 423 23 15.12.
+
+
+## COMMISSION IMPLEMENTING REGULATION (EU) 2018/
+
+```
+of 19 December 2018
+```
+```
+on the verification of data and on the accreditation of verifiers
+pursuant to Directive 2003/87/EC of the European Parliament and
+of the Council
+```
+```
+(Text with EEA relevance)
+```
+```
+CHAPTER I
+```
+```
+GENERAL PROVISIONS
+```
+```
+Article 1
+```
+```
+Subject matter
+```
+```
+This Regulation lays down provisions for the verification of reports
+submitted pursuant to Directive 2003/87/EC and for the accreditation
+and supervision of verifiers.
+```
+```
+This Regulation also specifies, without prejudice to Regulation (EC)
+No 765/2008, provisions for the mutual recognition of verifiers and
+peer evaluation of national accreditation bodies pursuant to Article 15
+of Directive 2003/87/EC.
+```
+## ▼M
+
+```
+Article 2
+```
+```
+Scope
+```
+```
+This Regulation shall apply to the verification of greenhouse gas
+emissions and tonne-kilometre data occurring from 1 January 2019,
+reported pursuant to Article 14 of Directive 2003/87/EC, and to the
+verification of data relevant for the update of ex ante benchmarks and
+for the determination of free allocation to installations pursuant to
+Article 10a of that Directive.
+```
+## ▼B
+
+```
+Article 3
+```
+```
+Definitions
+```
+```
+For the purposes of this Regulation, in addition to the definitions laid
+down in Article 3 of Directive 2003/87/EC and Article 3 of Implemen­
+ting Regulation (EU) 2018/2066, the following definitions shall apply:
+```
+```
+(1) ‘detection risk’ means the risk that the verifier does not detect a
+material misstatement;
+```
+```
+(2) ‘accreditation’ means attestation by a national accreditation body
+that a verifier meets the requirements set by harmonised standards,
+within the meaning of point 9 of Article 2 of Regulation (EC)
+No 765/2008, and requirements set out in this Regulation to
+carry out the verification of an operator's or aircraft operator's
+report pursuant to this Regulation;
+```
+## ▼B
+
+
+```
+(3) ‘verifier’ means a legal person carrying out verification activities
+pursuant to this Regulation and accredited by a national accred­
+itation body pursuant to Regulation (EC) No 765/2008 and this
+Regulation or a natural person otherwise authorised, without
+prejudice to Article 5(2) of that Regulation, at the time a verifi­
+cation report is issued;
+```
+## ▼B
+
+```
+(4) ‘verification’ means the activities carried out by a verifier to issue
+a verification report pursuant to this Regulation;
+```
+```
+(5) ‘misstatement’ means an omission, misrepresentation or error in
+the operator's or aircraft operator's reported data, not considering
+the uncertainty permissible under Article 12(1)(a) of Implementing
+Regulation (EU) 2018/2066.
+```
+```
+(6) ‘material misstatement’ means a misstatement that, in the opinion
+of the verifier, individually or when aggregated with other
+misstatements, exceeds the materiality level or could affect the
+treatment of the operator's or aircraft operator's report by the
+competent authority;
+```
+## ▼M
+
+```
+(6a) ‘annual activity level report’ means a report submitted by an
+operator pursuant to Article 3(3) of Commission Implementing
+Regulation (EU) 2019/1842 ( 1 );
+```
+```
+(7) ‘operator’s or aircraft operator’s report’ means the annual emission
+report to be submitted by the operator or aircraft operator pursuant
+to Article 14(3) of Directive 2003/87/EC, the tonne-kilometre
+report to be submitted by the aircraft operator for the purposes
+of applying for the allocation of allowances pursuant to Articles
+3e and 3f of that Directive, the baseline data report submitted by
+the operator pursuant to Article 4(2) of Delegated Regulation (EU)
+2019/331, the new entrant data report submitted by the operator
+pursuant to Article 5(2) of that Regulation or the annual activity
+level report;
+```
+## ▼B
+
+```
+(8) ‘scope of accreditation’ means activities referred to in Annex I for
+which accreditation is sought or has been granted;
+```
+```
+(9) ‘competence’ means the ability to apply knowledge and skills to
+carry out an activity;
+```
+```
+(10) ‘materiality level’ means the quantitative threshold or cut-off
+point above which misstatements, individually or when aggregated
+with other misstatements, are considered material by the verifier;
+```
+## ▼M
+
+```
+( 1 ) Commission Implementing Regulation (EU) 2019/1842 of 31 October 2019
+laying down rules for the application of Directive 2003/87/EC of the
+European Parliament and of the Council as regards further arrangements
+for the adjustments to free allocation of emission allowances due to
+activity level changes (OJ, L 282, 4.11.2019, p. 20).
+```
+
+```
+(11) ‘control system’ means the operator's or aircraft operator's risk
+assessment and entire set of control activities, including the
+continuous management thereof, that an operator or aircraft
+operator has established, documented, implemented and maintained
+pursuant to Article 59 of Implementing Regulation (EU)
+2018/2066 or pursuant to Article 11 of Delegated Regulation (EU)
+►M1 2019/331 ◄, as appropriate;
+```
+```
+(12) ‘control activities’ means any acts carried out or measures im­
+plemented by the operator or aircraft operator to mitigate
+inherent risks;
+```
+```
+(13) ‘non-conformity’ means one of the following:
+```
+```
+(a) for the purposes of verifying an operator's emission report, any
+act or omission of an act by the operator that is contrary to the
+greenhouse gas emissions permit and the requirements in the
+monitoring plan approved by the competent authority;
+```
+```
+(b) for the purposes of verifying an aircraft operator's emission or
+tonne-kilometre report, any act or omission of an act by the
+aircraft operator that is contrary to the requirements in the
+monitoring plan approved by the competent authority;
+```
+## ▼M
+
+```
+(c) for the purposes of verifying the baseline data report submitted
+by the operator pursuant to Article 4(2)(a) of Delegated Regu­
+lation (EU) 2019/331, the new entrant data report submitted by
+the operator pursuant to Article 5(2) of that Regulation or the
+annual activity level report, any act or omission of an act by
+the operator that is contrary to the requirements in the moni­
+toring methodology plan;
+```
+## ▼B
+
+```
+(d) for the purposes of accreditation pursuant to Chapter IV, any
+act or omission of an act by the verifier that is contrary to the
+requirements of this Regulation;
+```
+```
+(14) ‘site’ means, for the purposes of verifying the emission or
+tonne-kilometre report of an aircraft operator, the locations
+where the monitoring process is defined and managed, including
+the locations where relevant data and information are controlled
+and stored;
+```
+```
+(15) ‘control environment’ means the environment in which the internal
+control system functions and the overall actions of an operator's or
+aircraft operator's management to ensure awareness of this internal
+control system;
+```
+```
+(16) ‘inherent risk’ means the susceptibility of a parameter in the oper­
+ator's or aircraft operator's report to misstatements that could be
+material, individually or when aggregated with other misstate­
+ments, before taking into consideration the effect of any related
+control activities;
+```
+```
+(17) ‘control risk’ means the susceptibility of a parameter in the oper­
+ator's or aircraft operator's report to misstatements that could be
+material, individually or when aggregated with other misstate­
+ments, and that will not be prevented or detected and corrected
+on a timely basis by the control system;
+```
+## ▼B
+
+
+```
+(18) ‘verification risk’ means the risk, being a function of inherent risk,
+control risk and detection risk, that the verifier expresses an in­
+appropriate verification opinion when the operator's or aircraft
+operator's report is not free of material misstatements;
+```
+```
+(19) ‘reasonable assurance’ means a high but not absolute level of
+assurance, expressed positively in the verification opinion, as to
+whether the operator's or aircraft operator's report subject to verifi­
+cation is free from material misstatement;
+```
+```
+(20) ‘analytical procedures’ means the analysis of fluctuations and
+trends in the data including an analysis of the relationships that
+are inconsistent with other relevant information or that deviate
+from predicted amounts;
+```
+```
+(21) ‘internal verification documentation’ means all internal documen­
+tation that a verifier has compiled to record all documentary
+evidence and justification of activities that are carried out for the
+verification of an operator's or aircraft operator's report;
+```
+```
+(22) ‘EU ETS lead auditor’ means an EU ETS auditor in charge of
+directing and supervising the verification team, who is responsible
+for performing and reporting on the verification of an operator's or
+aircraft operator's report;
+```
+```
+(23) ‘EU ETS auditor’ means an individual member of a verification
+team responsible for conducting a verification of an operator's or
+aircraft operator's report other than the EU ETS lead auditor;
+```
+```
+(24) ‘technical expert’ means a person who provides detailed
+knowledge and expertise on a specific subject matter needed for
+the performance of verification activities for the purposes of
+Chapter III and for the performance of accreditation activities for
+the purposes of Chapter V;
+```
+```
+(25) ‘level of assurance’ means the degree of assurance the verifier
+provides on the verification report based on the objective of
+reducing the verification risk according to the circumstances of
+the verification engagement;
+```
+```
+(26) ‘assessor’ means a person assigned by a national accreditation
+body to perform individually or as part of an assessment team
+an assessment of a verifier pursuant to this Regulation;
+```
+```
+(27) ‘lead assessor’ means an assessor who is given the overall respon­
+sibility for assessing a verifier pursuant to this Regulation;
+```
+```
+(28) ‘baseline data report’ means a report submitted by an operator
+pursuant to Article 4(2) of Delegated Regulation (EU)
+►M1 2019/331 ◄;
+```
+## ▼B
+
+
+```
+(29) ‘new entrant data report’ means a report submitted by an operator
+pursuant to Article 5(2) of Delegated Regulation (EU)
+►M1 2019/331 ◄ ;
+```
+## ▼M
+
+```
+(30) ‘activity level reporting period’ means the applicable period
+preceding the submission of the annual activity level report
+pursuant to Article 3(1) of Implementing Regulation (EU)
+2019/1842.
+```
+```
+Article 4
+```
+```
+Presumption of conformity
+```
+```
+Where a verifier demonstrates its conformity with the criteria laid down
+in the relevant harmonised standards as defined in point (9) of Article 2
+of Regulation (EC) No 765/2008, or parts thereof, the references of
+which have been published in the Official Journal of the European
+Union , it shall, with the exception of Articles 7(1), 7(4), 22, 27(1),
+28, 31 and 32 of this Regulation, be presumed to comply with the
+requirements set out in Chapters II and III of this Regulation in so
+far as the applicable harmonised standards cover those requirements.
+```
+## ▼B
+
+```
+Article 5
+```
+```
+General framework for accreditation
+```
+```
+Where no specific provisions concerning the composition of the national
+accreditation bodies or the activities and requirements linked to accred­
+itation are laid down in this Regulation, the relevant provisions of
+Regulation (EC) No 765/2008 shall apply.
+```
+```
+CHAPTER II
+```
+```
+VERIFICATION
+```
+```
+Article 6
+```
+```
+Reliability of verification
+```
+## ▼M
+
+```
+A verified emissions report, tonne-kilometre report, baseline data report,
+new entrant data report or annual activity level report shall be reliable
+for users. It shall represent faithfully that, which it either purports to
+represent or may reasonably be expected to represent.
+```
+## ▼B
+
+```
+The process of verifying operator's or aircraft operator's report shall be
+an effective and reliable tool in support of quality assurance and quality
+control procedures, providing information upon which an operator or
+aircraft operator can act to improve performance in monitoring and
+reporting emissions or data relevant for free allocation.
+```
+## ▼B
+
+
+```
+Article 7
+```
+```
+General obligations of the verifier
+```
+1. The verifier shall carry out the verification and the activities
+required by this Chapter with the aim of providing a verification
+report that concludes with reasonable assurance that the operator's or
+aircraft operator's report is free from material misstatements.
+2. The verifier shall plan and perform the verification with an attitude
+of professional scepticism, recognising that circumstances may exist that
+cause the information in the operator's or aircraft operator's report to
+contain material misstatements.
+3. The verifier must carry out verification in the public interest, and
+be independent of the operator or aircraft operator and the competent
+authorities responsible for Directive 2003/87/EC.
+4. During the verification, the verifier shall assess whether:
+
+## ▼M
+
+```
+(a) the operator’s or aircraft operator’s report is complete and meets
+the requirements laid down in Annex X to Implementing
+Regulation (EU) 2018/2066, in Annex IV to Delegated
+Regulation (EU) 2019/331 or Article 3(2) of Implementing Regu­
+lation (EU) 2019/1842, as appropriate;
+```
+## ▼B
+
+```
+(b) the operator or aircraft operator has acted in compliance with the
+requirements of the greenhouse gas emissions permit and the moni­
+toring plan approved by the competent authority, where the verifi­
+cation of an operator's emission report is concerned, and with the
+requirements of the monitoring plan approved by the competent
+authority, where the verification of an aircraft operator's emission
+or tonne-kilometre report is concerned;
+```
+## ▼M
+
+```
+(c) where the verification of an operator’s baseline data report, new
+entrant data report or annual activity level report is concerned, the
+operator has acted in conformance with the requirements of the
+monitoring methodology plan pursuant to Article 8 of Delegated
+Regulation (EU) 2019/331 approved by the competent authority;
+```
+## ▼B
+
+```
+(d) the data in the operator's or aircraft operator's report are free from
+material misstatements;
+```
+```
+(e) information can be provided in support of the operator's or aircraft
+operator's data flow activities, control system and associated
+procedures to improve the performance of their monitoring and
+reporting.
+```
+## ▼B
+
+
+```
+By way of derogation from point (c), the verifier shall assess whether
+the operator's monitoring methodology plan is in compliance with the
+requirements of Delegated Regulation (EU) ►M1 2019/331 ◄ where
+the monitoring methodology plan is not subject to approval of the
+competent authority prior to submission of the baseline data report. If
+the verifier discovers that a monitoring methodology plan does not
+comply with Delegated Regulation (EU) ►M1 2019/331 ◄, the
+operator shall modify the monitoring methodology plan so that it
+complies with that Regulation.
+```
+```
+For the purpose of point (d) of this paragraph, the verifier shall obtain
+clear and objective evidence from the operator or aircraft operator to
+support the reported aggregated emissions, tonne-kilometres or data
+relevant for free allocation taking into account all other information
+provided in the operator's or aircraft operator's report.
+```
+## ▼M
+
+5. If the verifier discovers that an operator or an aircraft operator is
+not complying with Implementing Regulation (EU) 2018/2066 or the
+operator is not complying with, Delegated Regulation (EU) 2019/331 or
+Implementing Regulation (EU) 2019/1842, that irregularity shall be
+included in the verification report even if the monitoring plan or moni­
+toring methodology plan concerned, as appropriate, has been approved
+by the competent authority.
+
+## ▼B
+
+6. If the monitoring plan has not been approved by the competent
+authority pursuant to Article 12 of Implementing Regulation (EU)
+2018/2066, is incomplete or if significant modifications referred to in
+Article 15(3) or (4) of that Implementing Regulation have been made
+during the reporting period which have not been accordingly approved
+by the competent authority, the verifier shall advise the operator or
+aircraft operator to obtain the necessary approval from the competent
+authority.
+
+```
+If the monitoring methodology plan is subject to the approval of the
+competent authority prior to submission of the baseline data report
+pursuant to Article 8(4) of Delegated Regulation (EU)
+►M1 2019/331 ◄ and the monitoring methodology plan has not
+been approved or is incomplete, or where significant modifications
+referred to in Article 9(5) of that Regulation have been made which
+have not been approved by the competent authority, the verifier shall
+advise the operator to obtain the necessary approval from the competent
+authority.
+```
+```
+Following the approval by the competent authority, the verifier shall
+continue, repeat or adapt the verification activities accordingly.
+```
+```
+If the approval has not been obtained before the issue of the verification
+report, the verifier shall report this in the verification report.
+```
+```
+Article 8
+```
+```
+Pre-contractual obligations
+```
+1. Before accepting a verification engagement, a verifier shall obtain
+a proper understanding of the operator or aircraft operator and assess
+whether it can undertake the verification. For this purpose the verifier
+shall at least:
+
+## ▼B
+
+
+```
+(a) evaluate the risks involved to undertake the verification of the oper­
+ator's or aircraft operator's report in accordance with this Regulation;
+```
+```
+(b) undertake a review of the information supplied by the operator or
+aircraft operator to determine the scope of the verification;
+```
+```
+(c) assess whether the engagement falls within the scope of its
+accreditation;
+```
+```
+(d) assess whether it has the competence, personnel and resources
+required to select a verification team capable of dealing with the
+complexity of the installation or the aircraft operator's activities and
+fleet as well as whether it is capable of successfully completing the
+verification activities within the timeframe required;
+```
+```
+(e) assess whether it is capable of ensuring that the potential verifi­
+cation team at its disposal holds all the competence, and persons
+required to carry out verification activities for that specific operator
+or aircraft operator;
+```
+```
+(f) determine, for each verification engagement requested, the time
+allocation needed to properly carry out the verification.
+```
+2. The operator or aircraft operator shall provide the verifier with all
+relevant information that enables the verifier to carry out the activities
+referred to in paragraph 1.
+
+```
+Article 9
+```
+```
+Time allocation
+```
+1. When determining the time allocation for a verification
+engagement referred to in Article 8(1)(f), the verifier shall at least
+take into account:
+
+```
+(a) the complexity of the installation or the aircraft operator's activities
+and fleet;
+```
+```
+(b) the level of information and the complexity of the monitoring plan
+approved by the competent authority or the monitoring
+methodology plan, as appropriate;
+```
+```
+(c) the required materiality level;
+```
+```
+(d) the complexity and completeness of the data flow activities and the
+control system of the operator or aircraft operator;
+```
+```
+(e) the location of information and data related to greenhouse gas
+emissions, tonne-kilometre data or data relevant for free allocation.
+```
+## ▼B
+
+
+2. The verifier shall ensure that the verification contract provides for
+the possibility for time to be charged in addition to the time agreed in
+the contract, where such additional time is found to be needed for the
+strategic analysis, risk analysis or other verification activities. The situ­
+ations where the additional time may be needed shall include at least the
+following:
+
+```
+(a) during the verification where the data flow activities, control
+activities or logistics of the operator or aircraft operator seem to
+be more complex than initially anticipated;
+```
+```
+(b) where misstatements, non-conformities, insufficient data or errors in
+the data sets are identified by the verifier during the verification.
+```
+3. The verifier shall record the time allocated in the internal verifi­
+cation documentation.
+
+```
+Article 10
+```
+```
+Information from an operator or aircraft operator
+```
+1. Before the strategic analysis and at other points of time during the
+verification, the operator or aircraft operator shall provide the verifier
+with all of the following:
+
+```
+(a) the operator's greenhouse gas emissions permit, if this concerns the
+verification of an operator's emission report;
+```
+```
+(b) the latest version of the operator's or aircraft operator's monitoring
+plan as well as any other relevant versions of the monitoring plan
+approved by the competent authority, including evidence of the
+approval;
+```
+```
+(c) the latest version of the operator's monitoring methodology plan as
+well as any other relevant versions of the monitoring methodology
+plan, including, where applicable, evidence of the approval;
+```
+```
+(d) a description of the operator's or aircraft operator's data flow
+activities;
+```
+```
+(e) the operator's or aircraft operator's risk assessment referred to in
+Article 59(2)(a) of Implementing Regulation (EU) 2018/2066 or
+Article 11(1) of Delegated Regulation (EU) ►M1 2019/331 ◄, as
+appropriate, and an outline of the overall control system;
+```
+```
+(f) where applicable, the simplified uncertainty assessment referred to
+in Article 7(2)(c) of Delegated Regulation (EU)
+►M1 2019/331 ◄;
+```
+## ▼B
+
+
+```
+(g) the procedures mentioned in the monitoring plan as approved by
+the competent authority or the monitoring methodology plan,
+including procedures for data flow activities and control activities;
+```
+## ▼M
+
+```
+(h) the operator’s or aircraft operator’s annual emission,
+tonne-kilometre report, baseline data report, new entrant data
+report or annual activity level report, as appropriate;
+```
+## ▼B
+
+```
+(i) the baseline data reports of previous allocation periods for earlier
+allocation phases and annual activity level reports of the previous
+years submitted to the competent authority for the purpose of
+Article 10a(21) of Directive 2003/87/EC, if applicable;
+```
+```
+(j) where applicable, the operator's sampling plan referred to in
+Article 33 of Implementing Regulation (EU) 2018/2066 as
+approved by the competent authority;
+```
+```
+(k) if the monitoring plan was modified during the reporting period, a
+record of all those modifications in accordance with Article 16(3)
+of Implementing Regulation (EU) 2018/2066;
+```
+## ▼M
+
+```
+(ka) if the monitoring methodology plan was modified, a record of all
+modifications in accordance with Article 9 of Delegated Regu­
+lation (EU) 2019/331;
+```
+```
+(l) where applicable, the reports referred to in Article 69(1) and 69(4)
+of Implementing Regulation (EU) 2018/2066;
+```
+```
+(la) where applicable, information on how the operator has corrected
+non-conformities or addressed recommendations of improvements
+that were reported in the verification report concerning an annual
+activity level report from the previous year or a relevant baseline
+data report;
+```
+## ▼B
+
+```
+(m) the verification report from the previous year or the previous
+baseline period, as appropriate, if the verifier did not carry out
+the verification for that particular operator or aircraft operator the
+previous year or baseline period, as appropriate;
+```
+## ▼M
+
+```
+(n) all relevant correspondence with the competent authority, in
+particular information related to the notification of modifications
+of the monitoring plan or monitoring methodology plan as well as
+corrections of reported data, as appropriate;
+```
+## ▼B
+
+```
+(o) information on databases and data sources used for monitoring and
+reporting purposes, including those from Eurocontrol or another
+relevant organisation;
+```
+## ▼B
+
+
+```
+(p) where the verification concerns the emission report of an instal­
+lation carrying out the geological storage of greenhouse gases in a
+storage site permitted under Directive 2009/31/EC, the monitoring
+plan required by that Directive and the reports required by
+Article 14 of that Directive, covering at least the reporting
+period of the emissions report to be verified;
+```
+```
+(q) where applicable, the approval of the competent authority for not
+carrying out site visits for installations pursuant to Article 31(1);
+```
+```
+(r) the operator's evidence demonstrating compliance with the uncer­
+tainty thresholds for the tiers laid down in the monitoring plan;
+```
+```
+(s) any other relevant information necessary for planning and carrying
+out the verification.
+```
+2. Before the verifier issues the verification report, the operator or
+aircraft operator shall provide it with the final authorised and internally
+validated operator's or aircraft operator's report.
+
+```
+Article 11
+```
+```
+Strategic analysis
+```
+1. At the beginning of the verification the verifier shall assess the
+likely nature, scale and complexity of the verification tasks by carrying
+out a strategic analysis of all activities relevant to the installation or the
+aircraft operator.
+2. For the purposes of understanding the activities carried out by the
+installation or the aircraft operator, the verifier shall collect and review
+the information needed to assess that the verification team is sufficiently
+competent to carry out the verification, to determine that the time allo­
+cation indicated in the contract has been set correctly and to ensure that
+it is able to conduct the necessary risk analysis. The information shall
+include at least:
+
+```
+(a) the information referred to in Article 10(1);
+```
+```
+(b) the required materiality level;
+```
+```
+(c) the information obtained from the verification in previous years, if
+the verifier is carrying out the verification for the same operator or
+aircraft operator.
+```
+3. When reviewing the information referred to in paragraph 2, the
+verifier shall at least assess the following:
+
+```
+(a) for the purposes of the verification of the operator's emission report,
+the category of the installation referred to in Article 19 of Imple­
+menting Regulation (EU) 2018/2066 and the activities carried out at
+that installation;
+```
+```
+(b) for the purposes of the verification of the aircraft operator's
+emission or tonne- kilometre report, the size and nature of the
+aircraft operator, the distribution of information in different
+locations as well as the number and type of flights;
+```
+## ▼B
+
+
+```
+(c) the monitoring plan approved by the competent authority or moni­
+toring methodology plan, as appropriate, as well as the specifics of
+the monitoring methodology laid down in that monitoring plan or
+the monitoring methodology plan as appropriate;
+```
+```
+(d) the nature, scale and complexity of emission sources and source
+streams as well as the equipment and processes that have resulted
+in emissions, tonne-kilometre data or data relevant for free allo­
+cation, including the measurement equipment described in the moni­
+toring plan or monitoring methodology plan as appropriate, the
+origin and application of calculation factors and other primary
+data sources;
+```
+```
+(e) the data flow activities, the control system and the control
+environment.
+```
+4. When carrying out the strategic analysis, the verifier shall check
+the following:
+
+```
+(a) whether the monitoring plan or monitoring methodology plan, as
+appropriate, presented to it is the most recent version and, where
+required, approved by the competent authority;
+```
+## ▼M
+
+```
+(b) whether there have been any modifications to the monitoring plan
+during the reporting period;
+```
+```
+(ba) whether there have been any modifications to the monitoring
+methodology plan during the baseline period or the activity level
+reporting period, as appropriate;
+```
+## ▼B
+
+```
+(c) where applicable, whether the modifications referred to in point (b)
+have been notified to the competent authority pursuant to
+Article 15(1) or Article 23 of Implementing Regulation (EU)
+2018/2066 or approved by the competent authority in accordance
+with Article 15(2) of that Implementing Regulation.
+```
+## ▼M
+
+```
+(d) where applicable, whether the modifications referred to in
+point (ba) have been notified to the competent authority pursuant
+to Article 9(3) of Delegated Regulation (EU) 2019/331 or
+approved by the competent authority in accordance with
+Article 9(4) of that Regulation.
+```
+## ▼B
+
+```
+Article 12
+```
+```
+Risk analysis
+```
+1. The verifier shall identify and analyse the following elements to
+design, plan and implement an effective verification:
+
+```
+(a) the inherent risks;
+```
+```
+(b) the control activities;
+```
+```
+(c) where control activities referred to in point (b) have been imple­
+mented, the control risks concerning the effectiveness of those
+control activities.
+```
+## ▼B
+
+
+2. When identifying and analysing the elements referred to in
+paragraph 1, the verifier shall at least consider:
+
+```
+(a) the findings from the strategic analysis referred to in Article 11(1);
+```
+```
+(b) the information referred to in Article 10(1) and Article 11(2)(c);
+```
+```
+(c) the materiality level referred to in Article 11(2)(b).
+```
+3. If the verifier determines that the operator or aircraft operator has
+failed to identify the relevant inherent risks and control risks in its risk
+assessment, the verifier shall inform the operator or aircraft operator
+thereof.
+4. Where appropriate according to the information obtained during
+the verification, the verifier shall revise the risk analysis and modify or
+repeat the verification activities to be performed.
+
+```
+Article 13
+```
+```
+Verification plan
+```
+1. The verifier shall draft a verification plan commensurate with the
+information obtained and the risks identified during the strategic
+analysis and the risk analysis, and including at least:
+
+```
+(a) a verification programme describing the nature and scope of the
+verification activities as well as the time and manner in which
+these activities are to be carried out;
+```
+```
+(b) a test plan setting out the scope and methods of testing the control
+activities as well as the procedures for control activities;
+```
+## ▼M
+
+```
+(c) a data sampling plan setting out the scope and methods of data
+sampling related to data points underlying the aggregated
+emissions in the operator or aircraft operator’s emission report,
+the aggregated tonne-kilometre data in the aircraft operator’s
+tonne-kilometre report or the aggregated data relevant for free allo­
+cation in the operator’s baseline data report, new entrant data report
+or annual activity level report.
+```
+## ▼B
+
+2. The verifier shall set up the test plan referred to in point (b) of
+paragraph 1 in a manner that allows it to determine the extent to which
+the relevant control activities may be relied on for the purposes of
+assessing compliance with the requirements mentioned in Article 7(4)(b),
+(c), (d) or the second subparagraph of Article 7(4).
+
+## ▼B
+
+
+```
+When determining the sampling size and sampling activities for testing
+the control activities, the verifier shall consider the following elements:
+```
+```
+(a) the inherent risks;
+```
+```
+(b) the control environment;
+```
+```
+(c) the relevant control activities;
+```
+```
+(d) the requirement to deliver a verification opinion with reasonable
+assurance.
+```
+3. When determining the sampling size and sampling activities for
+sampling the data referred to in point (c) of paragraph 1, the verifier
+shall consider the following elements:
+
+```
+(a) the inherent risks and control risks;
+```
+```
+(b) the results of the analytical procedures;
+```
+```
+(c) the requirement to deliver a verification opinion with reasonable
+assurance;
+```
+```
+(d) the materiality level;
+```
+```
+(e) the materiality of the contribution of an individual data element for
+the overall data set.
+```
+4. The verifier shall set up and implement the verification plan such
+that the verification risk is reduced to an acceptable level to obtain
+reasonable assurance that the operator's or aircraft operator's report is
+free from material misstatements.
+5. The verifier shall update the risk analysis and the verification plan,
+and adapt the verification activities during the verification when it finds
+additional risks that need to be reduced or when there is less actual risk
+than initially expected.
+
+```
+Article 14
+```
+```
+Verification activities
+```
+```
+The verifier shall implement the verification plan and, based on the risk
+analysis, the verifier shall check the implementation of the monitoring
+plan as approved by the competent authority or monitoring methodology
+plan, as appropriate.
+```
+```
+To that end, the verifier shall at least carry out substantive testing
+consisting of analytical procedures, data verification and checking the
+monitoring methodology and check the following:
+```
+```
+(a) the data flow activities and the systems used in the data flow,
+including information technology systems;
+```
+```
+(b) whether the control activities of the operator or aircraft operator are
+appropriately documented, implemented, maintained and effective to
+mitigate the inherent risks;
+```
+## ▼B
+
+
+```
+(c) whether the procedures listed in the monitoring plan or monitoring
+methodology plan, as appropriate, are effective to mitigate the
+inherent risks and control risks and whether the procedures are
+implemented, sufficiently documented and properly maintained.
+```
+```
+For the purposes of point (a) of the second paragraph, the verifier shall
+track the data flow following the sequence and interaction of the data
+flow activities from primary source data to the compilation of the oper­
+ator's or aircraft operator's report.
+```
+```
+Article 15
+```
+```
+Analytical procedures
+```
+1. The verifier shall use analytical procedures to assess the plausi­
+bility and completeness of data where the inherent risk, the control risk
+and the aptness of the operator's or aircraft operator's control activities
+show the need for such analytical procedures.
+2. In carrying out the analytical procedures referred to in paragraph
+1, the verifier shall assess reported data to identify potential risk areas
+and to subsequently validate and tailor the planned verification activ­
+ities. The verifier shall at least:
+
+```
+(a) assess the plausibility of fluctuations and trends over time or
+between comparable items;
+```
+```
+(b) identify immediate outliers, unexpected data and data gaps.
+```
+3. In applying the analytical procedures referred to in paragraph 1,
+the verifier shall perform the following procedures:
+
+```
+(a) preliminary analytical procedures on aggregated data before carrying
+out the activities referred to in Article 14 in order to understand the
+nature, complexity and relevance of the reported data;
+```
+```
+(b) substantive analytical procedures on the aggregated data and the
+data points underlying these data for the purposes of identifying
+potential structural errors and immediate outliers;
+```
+```
+(c) final analytical procedures on the aggregated data to ensure that all
+errors identified during the verification process have been resolved
+correctly.
+```
+4. Where the verifier identifies outliers, fluctuations, trends, data gaps
+or data that are inconsistent with other relevant information or that differ
+significantly from expected amounts or ratios, the verifier shall obtain
+explanations from the operator or aircraft operator supported by ad­
+ditional relevant evidence.
+
+```
+Based on the explanations and additional evidence provided, the verifier
+shall assess the impact on the verification plan and the verification
+activities to be performed.
+```
+## ▼B
+
+
+```
+Article 16
+```
+```
+Data verification
+```
+1. The verifier shall verify the data in the operator's or aircraft oper­
+ator's report by applying detailed testing of the data, including by
+tracing the data back to the primary data source, cross-checking data
+with external data sources, performing reconciliations, checking
+thresholds regarding appropriate data and carrying out recalculations.
+2. As part of the data verification referred to in paragraph 1 and
+taking into account the approved monitoring plan or monitoring
+methodology plan, as appropriate, including the procedures described
+in that plan, the verifier shall check:
+
+```
+(a) for the purposes of verifying an operator's emission report, the
+boundaries of an installation;
+```
+## ▼M
+
+```
+(b) for the purposes of verifying an operator’s baseline data report, new
+entrant data report or annual activity level report, the boundaries of
+an installation and its sub-installations;
+```
+```
+(c) for the purposes of verifying an operator’s emission report, baseline
+data report, new entrant data report or annual activity level report,
+the completeness of source streams and emission sources as
+described in the monitoring plan approved by the competent
+authority or monitoring methodology plan, as appropriate;
+```
+## ▼B
+
+```
+(d) for the purposes of verifying an aircraft operator's emission report
+and tonne-kilometre report, the completeness of flights covered by
+an aviation activity listed in Annex I to Directive 2003/87/EC for
+which the aircraft operator is responsible as well as the
+completeness of emission data and tonne-kilometre data
+respectively;
+```
+```
+(e) for the purposes of verifying an aircraft operator's emission report
+and tonne-kilometre report, the consistency between reported data
+and mass and balance documentation;
+```
+```
+(f) for the purposes of verifying an aircraft operator's emission report,
+the consistency between aggregated fuel consumption and data on
+fuel purchased or otherwise supplied to the aircraft performing the
+aviation activity;
+```
+## ▼M
+
+```
+(fa) for the purposes of verifying an annual activity level report, the
+accuracy of the parameters listed in Articles 16(5), 19, 20, 21 or 22
+of Delegated Regulation (EU) 2019/331 as well as data required
+under paragraphs 1, 2 and 4 of Article 6 of Implementing Regu­
+lation (EU) 2019/1842;
+```
+## ▼B
+
+
+```
+(g) the consistency of the aggregated reported data in an operator's or
+aircraft operator's report with primary source data;
+```
+```
+(h) where an operator applies a measurement-based methodology
+referred to in Article 21(1) of Implementing Regulation (EU)
+2018/2066, the measured values using the results of the calcu­
+lations performed by the operator in accordance with Article 46
+of that Implementing Regulation;
+```
+```
+(i) the reliability and accuracy of the data.
+```
+3. For the purposes of checking the completeness of flights referred
+to in point (d) of paragraph 2, the verifier shall use an aircraft operator's
+air traffic data, including data collected from Eurocontrol or other
+relevant organisations which can process air traffic information such
+as that available to Eurocontrol.
+
+```
+Article 17
+```
+```
+Verification of the correct application of the monitoring
+methodology
+```
+1. The verifier shall check the correct application and implementation
+of the monitoring methodology as approved by the competent authority
+in the monitoring plan including specific details of that monitoring
+methodology.
+2. For the purposes of verifying the operator's emission report, the
+verifier shall check the correct application and implementation of the
+sampling plan referred to in Article 33 of Implementing Regulation (EU)
+2018/2066, as approved by the competent authority.
+3. **►M1** For the purposes of verifying the operator’s baseline data
+report, new entrant data report or annual activity level report, the
+verifier shall check whether the methodology for collecting and moni­
+toring data defined in the monitoring methodology plan is applied in the
+correct way, including: ◄
+
+```
+(a) whether all data on emissions, inputs, outputs and energy flows are
+attributed correctly to the sub-installations in line with the system
+boundaries as referred to in Annex I to Delegated Regulation (EU)
+►M1 2019/331 ◄;
+```
+```
+(b) whether data are complete and whether data gaps or double
+counting have occurred;
+```
+```
+(c) whether activity levels for product benchmarks are based on a
+correct application of the product definitions listed in Annex I to
+Delegated Regulation (EU) ►M1 2019/331 ◄;
+```
+## ▼B
+
+
+```
+(d) whether activity levels for the heat benchmark sub-installations, the
+district heating sub-installation, the fuel benchmark sub-installations
+and the process emissions sub-installations have been correctly
+attributed according to the products produced and pursuant to
+delegated acts adopted pursuant to Article 10b(5) of Directive
+2003/87/EC ;
+```
+## ▼M
+
+```
+(e) whether the energy consumption has been correctly attributed to
+each sub-installation where applicable;
+```
+```
+(f) whether the value of the parameters listed in Articles 16(5), 19, 20,
+21 or 22 of Delegated Regulation (EU) 2019/331 is based on a
+correct application of that Regulation;
+```
+```
+(g) for the purposes of verifying an annual activity level report and a
+new entrant data report, the date of start of normal operation as
+referred to in Article 5(2) of Delegated Regulation (EU) 2019/331;
+```
+```
+(h) for the purposes of verifying an annual activity level report, whether
+the parameters listed in points 2.3 to 2.7 of Annex IV to Delegated
+Regulation (EU) 2019/331, as appropriate to the installation, have
+been monitored and reported in the correct way in accordance with
+the monitoring methodology plan.
+```
+4. Where transferred CO 2 is subtracted in accordance with Article 49
+of Implementing Regulation (EU) 2018/2066 or transferred N 2 O is not
+counted as emitted in accordance with Article 50 of that Regulation, and
+the CO 2 or N 2 O transferred is measured by both the transferring and
+receiving installation, the verifier shall check whether differences
+between the measured values at both installations can be explained by
+the uncertainty of the measurement systems and whether the correct
+arithmetic average of the measured values has been used in the
+emission reports of both installations.
+
+## ▼B
+
+```
+Where the differences between the measured values at both installations
+cannot be explained by the uncertainty of the measurement systems, the
+verifier shall check whether adjustments were made to align the
+differences between the measured values, whether those adjustments
+were conservative and whether the competent authority has granted
+approval for those adjustments.
+```
+## ▼M
+
+## __________
+
+## ▼B
+
+```
+Article 18
+```
+```
+Verification of methods applied for missing data
+```
+1. Where methods laid down in the monitoring plan as approved by
+the competent authority have been used to complete missing data
+pursuant to Article 66 of Implementing Regulation (EU) 2018/2066,
+the verifier shall check whether the methods used were appropriate
+for the specific situation and whether they have been applied correctly.
+
+## ▼B
+
+
+```
+If the operator or aircraft operator has obtained an approval by the
+competent authority to use other methods than those referred to in the
+first subparagraph in accordance with Article 66 of Implementing Regu­
+lation (EU) 2018/2066, the verifier shall check whether the approved
+approach has been applied correctly and appropriately documented.
+```
+```
+Where an operator or an aircraft operator is not able to obtain such
+approval in time, the verifier shall check whether the approach used by
+the operator or aircraft operator to complete the missing data ensures
+that the emissions are not underestimated and that this approach does
+not lead to material misstatements.
+```
+2. The verifier shall check the effectiveness of the control activities
+implemented by the operator or aircraft operator to prevent missing data
+referred to in Article 66 of Implementing Regulation (EU) 2018/ 2066
+from occurring.
+
+## ▼M
+
+3. Where data gaps in baseline data reports, new entrant data reports
+or annual activity level reports have occurred, the verifier shall check
+whether methods are laid down in the monitoring methodology plan to
+deal with data gaps pursuant to Article 12 of Delegated Regulation (EU)
+2019/331, whether those methods were appropriate for the specific
+situation and whether they have been applied correctly.
+
+```
+Where no applicable data gap method is laid down in the monitoring
+methodology plan, the verifier shall check whether the approach used
+by the operator to compensate for the missing data is based on
+reasonable evidence and ensures that the data required by Annex IV
+to Delegated Regulation (EU) 2019/331 or Article 3(2) of Implementing
+Regulation (EU) 2019/1842 are not underestimated or overestimated.
+```
+## ▼B
+
+```
+Article 19
+```
+```
+Uncertainty assessment
+```
+1. Where Implementing Regulation (EU) 2018/2066 requires the
+operator to demonstrate compliance with the uncertainty thresholds for
+activity data and calculation factors, the verifier shall confirm the
+validity of the information used to calculate the uncertainty levels as
+set out in the approved monitoring plan.
+2. Where an operator applies a monitoring methodology not based on
+tiers, as referred to in Article 22 of Implementing Regulation (EU)
+2018/2066, the verifier shall check the following:
+
+```
+(a) whether an assessment and quantification of the uncertainty has
+been carried out by the operator demonstrating that the required
+overall uncertainty threshold for the annual level of greenhouse
+gas emissions pursuant to point (c) of Article 22 of Implementing
+Regulation (EU) 2018/2066 has been met;
+```
+## ▼B
+
+
+```
+(b) the validity of the information used for the assessment and quan­
+tification of the uncertainty;
+```
+```
+(c) whether the overall approach used for the assessment and the quan­
+tification of the uncertainty is in accordance with point (b) of
+Article 22 of Implementing Regulation (EU) 2018/2066;
+```
+```
+(d) whether evidence is provided that the conditions for the monitoring
+methodology referred to in point (a) of Article 22 of Implementing
+Regulation (EU) 2018/2066 have been met.
+```
+3. Where Delegated Regulation (EU) **►M1** 2019/331 ◄ requires the
+operator to carry out a simplified uncertainty assessment, the verifier
+shall confirm the validity of the information used for that assessment.
+
+```
+Article 20
+```
+```
+Sampling
+```
+1. When checking the conformance of control activities and
+procedures referred to in points (b) and (c) of Article 14 or when
+performing the checks referred to in Articles 15 and 16, the verifier
+may use sampling methods specific to an installation or aircraft operator
+provided that, based on the risk analysis, sampling is justified.
+2. Where the verifier identifies a non-conformity or a misstatement in
+the course of sampling, it shall request the operator or aircraft operator
+to explain the main causes of the non-conformity or the misstatement in
+order to assess the impact of the non-conformity or misstatement on the
+reported data. Based on the outcome of that assessment, the verifier
+shall determine whether additional verification activities are needed,
+whether the sampling size needs to be increased, and which part of
+the data population has to be corrected by the operator or aircraft
+operator.
+3. The verifier shall document the outcome of the checks referred to
+in Articles 14 to 17, including the details of additional samples, in the
+internal verification documentation.
+
+```
+Article 21
+```
+```
+Site visits
+```
+1. At one or more appropriate times during the verification process,
+the verifier shall conduct a site visit in order to assess the operation of
+measuring devices and monitoring systems, to conduct interviews, to
+carry out the activities required by this Chapter as well as to gather
+sufficient information and evidence enabling it to conclude whether the
+operator's or aircraft operator's report is free from material
+misstatements.
+2. The operator or aircraft operator shall provide the verifier access to
+its sites.
+
+## ▼B
+
+
+3. For the purposes of verifying the operator's emission report, the
+verifier shall also use a site visit to assess the boundaries of the instal­
+lation as well as the completeness of source streams and emission
+sources.
+
+## ▼M1
+
+4. For the purposes of verifying the operator’s baseline data report,
+new entrant data report and annual activity level report, the verifier shall
+also use a site visit to assess the boundaries of the installation and its
+sub-installations as well as the completeness of source streams, emission
+sources and technical connections.
+5. For the purposes of verifying the operator’s emission report,
+baseline data report, new entrant data report or annual activity level
+report the verifier shall decide, based on the risk analysis, whether
+visits to additional locations are needed, including where relevant
+parts of data flow activities and control activities are carried out in
+other locations such as company headquarters and other off-site offices.
+
+## ▼B
+
+```
+Article 22
+```
+```
+Addressing misstatements, non-conformities and non-compliance
+```
+1. **►M1** If the verifier identifies misstatements, non-conformities or
+non-compliance with Implementing Regulation (EU) 2018/2066,
+Delegated Regulation (EU) 2019/331 or Implementing
+Regulation (EU) 2019/1842 as appropriate, during the verification, it
+shall inform the operator or aircraft operator thereof on a timely basis
+and request relevant corrections. ◄
+
+```
+The operator or aircraft operator shall correct any communicated
+misstatements or non-conformities.
+```
+## ▼M1
+
+```
+Where a non-compliance with Implementing Regulation (EU)
+2018/2066, Delegated Regulation (EU) 2019/331 or Implementing
+Regulation (EU) 2019/1842 has been identified, the operator or
+aircraft operator shall notify the competent authority and correct the
+non-compliance as appropriate without undue delay.
+```
+2. The verifier shall document and mark as resolved in the internal
+verification documentation all misstatements, non-conformities or
+non-compliance with Implementing Regulation (EU) 2018/2066,
+Delegated Regulation (EU) 2019/331 or Implementing
+Regulation (EU) 2019/1842 that have been corrected by the operator
+or aircraft operator during the verification.
+
+## ▼B
+
+3. If the operator or aircraft operator does not correct the
+misstatements or non-conformities communicated to them by the
+verifier in accordance with paragraph 1 before the verifier issues the
+verification report, the verifier shall request the operator or aircraft
+operator to explain the main causes of the non-conformity or
+misstatement in order to assess the impact of the non-conformities or
+misstatements on the reported data.
+
+## ▼B
+
+
+```
+The verifier shall determine whether the uncorrected misstatements,
+individually or when aggregated with other misstatements, have a
+material effect on the total reported emissions, tonne-kilometre data or
+data relevant for free allocation. In assessing the materiality of
+misstatements the verifier shall consider the size and nature of the
+misstatement as well as the particular circumstances of their occurrence.
+```
+```
+The verifier shall assess whether the uncorrected non-conformity, indi­
+vidually or when combined with other non-conformities, has an impact
+on the reported data and whether this leads to material misstatement.
+```
+## ▼M1
+
+```
+If the operator or aircraft operator does not correct the non-compliance
+with Implementing Regulation (EU) 2018/2066, Delegated
+Regulation (EU) 2019/331 or Implementing Regulation (EU)
+2019/1842 in accordance with paragraph 1 before the verifier issues
+the verification report, the verifier shall assess whether the uncorrected
+non-compliance has an impact on the reported data and whether this
+leads to material misstatement.
+```
+## ▼B
+
+```
+The verifier may consider misstatements as material even if those
+misstatements, individually or when aggregated with other misstate­
+ments, are below the materiality level set out in Article 23, where
+such consideration is justified by the size and nature of the
+misstatements and the particular circumstances of their occurrence.
+```
+```
+Article 23
+```
+```
+Materiality level
+```
+1. For the purposes of verifying emission reports, the materiality
+level shall be 5 % of the total reported emissions in the reporting
+period which is subject to verification, for any of the following:
+
+```
+(a) category A installations referred to in Article 19(2)(a) of Implemen­
+ting Regulation (EU) 2018/2066 and category B installations
+referred to in Article 19(2)(b) of that Implementing Regulation;
+```
+```
+(b) aircraft operators with annual emissions equal to or less than 500
+kilotonnes of fossil CO 2.
+```
+2. For the purposes of verifying emissions reports the materiality
+level shall be 2 % of the total reported emissions in the reporting
+period which is subject to verification, for any of the following:
+
+```
+(a) category C installations referred to in Article 19(2)(c) of Implemen­
+ting Regulation (EU) 2018/2066;
+```
+```
+(b) aircraft operators with annual emissions of more than 500 kilo­
+tonnes of fossil CO 2.
+```
+## ▼B
+
+
+3. For the purposes of verifying tonne-kilometre reports of aircraft
+operators, the materiality level shall be 5 % of the total reported
+tonne-kilometre data in the reporting period which is subject to
+verification.
+4. **►M1** For the purposes of verifying baseline data report, new
+entrant data reports or annual activity level reports, the materiality
+level shall be 5 % of the total reported value of the following: ◄
+
+```
+(a) the installation's total emissions, where the data relate to emissions;
+```
+```
+(b) the sum of imports and production of net measurable heat, if
+relevant, where the data relate to measurable heat data;
+```
+```
+(c) the sum of the amounts of waste gases imported and produced
+within the installation, if relevant;
+```
+```
+(d) the activity level of each relevant product benchmark
+sub-installation individually.
+```
+```
+Article 24
+```
+```
+Concluding on the findings of verification
+```
+```
+When completing the verification and considering the information
+obtained during the verification, the verifier shall:
+```
+```
+(a) check the final data from the operator or aircraft operator, including
+data that have been adjusted based upon information obtained
+during the verification;
+```
+```
+(b) review the operator's or aircraft operator's reasons for any
+differences between the final data and data previously provided;
+```
+```
+(c) review the outcome of the assessment to determine whether the
+monitoring plan approved by the competent authority or monitoring
+methodology plan, as appropriate, including the procedures
+described in that plan, has been implemented correctly;
+```
+```
+(d) assess whether the verification risk is at an acceptably low level to
+obtain reasonable assurance;
+```
+```
+(e) ensure that sufficient evidence has been gathered to be able to give
+a verification opinion with reasonable assurance that the report is
+free from material misstatements;
+```
+```
+(f) ensure that the verification process is fully documented in the
+internal verification documentation and that a final judgment in
+the verification report can be given.
+```
+## ▼B
+
+
+```
+Article 25
+```
+```
+Independent review
+```
+1. The verifier shall submit the internal verification documentation
+and the verification report to an independent reviewer prior to the
+issuance of the verification report.
+2. The independent reviewer shall not have carried out any verifi­
+cation activities that are subject to their review.
+3. The scope of the independent review shall encompass the
+complete verification process described in this Chapter and recorded
+in the internal verification documentation.
+
+```
+The independent reviewer shall perform the review so as to ensure that
+the verification process is conducted in accordance with this Regulation,
+that the procedures for verification activities referred to in Article 41
+have been correctly carried out, and that due professional care and
+judgment has been applied.
+```
+```
+The independent reviewer shall also assess whether the evidence
+gathered is sufficient to enable the verifier to issue a verification
+report with reasonable assurance.
+```
+4. Where circumstances occur which may cause changes in the
+verification report after the review, the independent reviewer shall
+also review those changes and the evidence thereof.
+5. The verifier shall properly authorise a person to authenticate the
+verification report based upon the conclusions of the independent
+reviewer and the evidence in the internal verification documentation.
+
+```
+Article 26
+```
+```
+Internal verification documentation
+```
+1. The verifier shall prepare and compile internal verification docu­
+mentation containing at least:
+
+```
+(a) the results of the verification activities performed;
+```
+```
+(b) the strategic analysis, risk analysis and verification plan;
+```
+```
+(c) sufficient information to support the verification opinion, including
+justifications for judgments made on whether or not the
+misstatements identified have material effect on the reported
+emissions, tonne-kilometre data or data relevant for free allocation.
+```
+2. The internal verification documentation referred to in paragraph 1
+shall be drafted in such a manner that the independent reviewer referred
+to in Article 25 and the national accreditation body can assess whether
+the verification has been performed in accordance with this Regulation.
+
+```
+After authentication of the verification report pursuant to Article 25(5),
+the verifier shall include results of the independent review in the internal
+verification documentation.
+```
+## ▼B
+
+
+3. The verifier shall, upon request, provide the competent authority
+access to the internal verification documentation and other relevant
+information to facilitate an evaluation of the verification by the
+competent authority. The competent authority can set a timeframe
+within which the verifier must provide access to that documentation.
+
+## ▼B
+
+```
+Article 27
+```
+```
+Verification report
+```
+1. **►M1** Based on the information collected during the verification,
+the verifier shall issue a verification report to the operator or aircraft
+operator on each emission report, tonne-kilometre report, baseline data
+report, new entrant data report or annual activity level report that was
+subject to verification. ◄
+
+```
+(a) the report is verified as satisfactory;
+```
+```
+(b) the operator's or aircraft operator's report contains material
+misstatements that were not corrected before issuing the verification
+report;
+```
+```
+(c) the scope of verification is too limited pursuant to Article 28 and
+the verifier could not obtain sufficient evidence to issue a verifi­
+cation opinion with reasonable assurance that the report is free from
+material misstatements;
+```
+```
+(d) non-conformities, individually or combined with other
+non-conformities, provide insufficient clarity and prevent the
+verifier from stating with reasonable assurance that the operator's
+or aircraft operator's report is free from material misstatements;
+```
+```
+(e) where the monitoring methodology plan is not subject to the
+approval of the competent authority, non-compliance with
+Delegated Regulation (EU) ►M1 2019/331 ◄ provide insufficient
+clarity and prevent the verifier from stating with reasonable
+assurance that the baseline data report or new entrant data report
+is free from material misstatements.
+```
+```
+For the purposes of point (a) of the first subparagraph, the operator's or
+aircraft operator's report may be verified as satisfactory only where the
+operator's or aircraft operator's report is free from material
+misstatements.
+```
+2. The operator or aircraft operator shall submit the verification
+report to the competent authority together with the operator's or
+aircraft operator's report concerned.
+3. The verification report shall at least contain the following
+elements:
+
+```
+(a) the name of the operator or aircraft operator that was subject to
+verification;
+```
+```
+(b) the objectives of the verification;
+```
+```
+(c) the scope of the verification;
+```
+## ▼M1
+
+
+```
+(d) a reference to the operator's or aircraft operator's report that has
+been verified;
+```
+```
+(e) the criteria used to verify the operator's or aircraft operator's report,
+including the permit, where applicable, and versions of the moni­
+toring plan approved by the competent authority or monitoring
+methodology plan, as appropriate, as well as the period of
+validity for each plan;
+```
+```
+(f) in the case of verification of the baseline report required for allo­
+cation for the period 2021-2025, and the competent authority has
+not required the monitoring methodology plan to be approved,
+confirmation that the verifier has checked the monitoring
+methodology plan and that this plan is compliant with Delegated
+Regulation (EU) ►M1 2019/331 ◄;
+```
+```
+(g) where it concerns the verification of the operator's or aircraft oper­
+ator's emission report, aggregated emissions or tonne-kilometres
+per activity referred to in Annex I to Directive 2003/87/EC and
+per installation or aircraft operator;
+```
+```
+(h) where it concerns the verification of the baseline data report or
+new entrant data report, aggregated annual verified data for each
+year in the baseline period for each sub-installation for the annual
+activity level and the emissions attributed to the sub-installation;
+```
+## ▼M1
+
+```
+(ha) where it concerns the verification of the annual activity level
+report, aggregated annual verified data for each year in the
+activity level reporting period for each sub-installation for its
+annual activity level;
+```
+```
+(i) the reporting period, the baseline period or the activity level
+reporting period subject to verification;
+```
+## ▼B
+
+```
+(j) the responsibilities of the operator or aircraft operator, the
+competent authority and the verifier;
+```
+```
+(k) the verification opinion statement;
+```
+```
+(l) a description of any identified misstatements and non-conformities
+that were not corrected before the issuance of the verification
+report;
+```
+```
+(m) the dates on which site visits were carried out and by whom;
+```
+```
+(n) information on whether any site visits were waived as well as the
+reasons for waiving these site visits;
+```
+## ▼M1
+
+```
+(o) any issues of non-compliance with Implementing Regulation (EU)
+2018/2066, Delegated Regulation (EU) 2019/331 or Implementing
+Regulation (EU) 2019/1842 which have become apparent during
+the verification;
+```
+## ▼B
+
+
+```
+(p) if approval by the competent authority cannot be obtained in time
+for the method used to complete the data gap pursuant to the last
+subparagraph of Article 18(1), a confirmation whether the method
+used is conservative and whether it does or does not lead to
+material misstatements;
+```
+```
+(q) a statement if the method used to complete any data gap pursuant
+to Article 12 of Delegated Regulation (EU) ►M1 2019/331 ◄
+leads to material misstatements;
+```
+## ▼M1
+
+## __________
+
+```
+(ra) where the verifier has observed relevant changes to the parameters
+listed in Articles 16(5), 19, 20, 21 or 22 of Delegated
+Regulation (EU) 2019/331 or changes in the energy efficiency
+pursuant to paragraphs 1, 2 and 3 of Article 6 of Implementing
+Regulation 2019/1842, a description of those changes and related
+remarks;
+```
+```
+(rb) where applicable, confirmation that the date of start of normal
+operation as referred to in Article 5(2) of Delegated Regu­
+lation (EU) 2019/331 has been checked;
+```
+## ▼B
+
+```
+(s) recommendations for improvements, where applicable;
+```
+```
+(t) the names of the EU ETS lead auditor, the independent reviewer
+and, where applicable, the EU ETS auditor and the technical expert
+that were involved in the verification of the operator's or aircraft
+operator's report;
+```
+```
+(u) the date and signature by an authorised person on behalf of the
+verifier, including his name.
+```
+4. **►M1** The verifier shall describe the misstatements, non-con­
+formities and non-compliance with Implementing Regulation (EU)
+2018/2066, Delegated Regulation (EU) 2019/331 or Implementing
+Regulation (EU) 2019/1842 in sufficient detail in the verification
+report to allow the operator or aircraft operator as well as the
+competent authority to understand the following: ◄
+
+## ▼M1
+
+```
+(a) the size and nature of the misstatement, non-conformity or
+non-compliance with Implementing Regulation (EU) 2018/2066,
+Delegated Regulation (EU) 2019/331 or Implementing Regulation
+(EU) 2019/1842;
+```
+## ▼B
+
+```
+(b) why the misstatement has material effect, or not;
+```
+```
+(c) to which element of the operator's or aircraft operator's report the
+misstatement refers, or to what element of the monitoring plan or
+the monitoring methodology plan the non-conformity refers;
+```
+## ▼B
+
+
+```
+(d) to which Article in Implementing Regulation (EU) 2018/2066,
+Delegated Regulation (EU) 2019/331 or Implementing
+Regulation (EU) 2019/1842 the non-compliance relates.
+```
+## ▼B
+
+5. For the purposes of verifying emission reports or tonne-kilometre
+reports, if a Member State requires the verifier to submit information on
+the verification process in addition to the elements described in
+paragraph 3 and that information is not necessary to understand the
+verification opinion, the operator or aircraft operator may, for efficiency
+reasons, submit that additional information to the competent authority
+separately from the verification report at an alternative date, but no later
+than 15 May of the same year.
+
+```
+Article 28
+```
+```
+Limitation of scope
+```
+```
+The verifier may conclude that the scope of the verification referred to
+in Article 27(1)(c) is too limited in any of the following situations:
+```
+```
+(a) data are missing that prevent a verifier from obtaining the evidence
+required to reduce the verification risk to the level needed to obtain
+reasonable level of assurance;
+```
+```
+(b) the monitoring plan is not approved by the competent authority;
+```
+```
+(c) the monitoring plan or monitoring methodology plan, as appro­
+priate, does not provide sufficient scope or clarity to conclude on
+the verification;
+```
+```
+(d) the operator or aircraft operator has failed to make sufficient
+information available to enable the verifier to carry out the
+verification;
+```
+```
+(e) where Delegated Regulation (EU) ►M1 2019/331 ◄ or the
+Member State required approval of the monitoring methodology
+plan by the competent authority prior to submission of the
+baseline data report and that plan has not been approved by the
+competent authority before the start of verification.
+```
+```
+Article 29
+```
+```
+Addressing outstanding non-material non-conformities
+```
+1. The verifier shall assess whether the operator or aircraft operator
+has corrected the non-conformities indicated in the verification report
+related to the previous monitoring period according to the requirements
+on the operator referred to in Article 69(4) of Implementing Regu­
+lation (EU) 2018/2066, where relevant.
+
+```
+If the operator or aircraft operator has not corrected those
+non-conformities pursuant to Article 69(4) of Implementing Regu­
+lation (EU) 2018/2066, the verifier shall consider whether the
+omission increases or may increase the risk of misstatements.
+```
+## ▼M1
+
+
+```
+The verifier shall report in the verification report whether those
+non-conformities have been resolved by the operator or aircraft operator.
+```
+## ▼M1
+
+```
+1a. For the purposes of the verification of the annual activity level
+report, the verifier shall assess whether the operator has corrected the
+non-conformities indicated in the verification report related to the
+corresponding baseline data report, the new entrant data report or the
+annual activity level report from the previous activity level reporting
+period.
+```
+```
+If the operator has not corrected those non-conformities, the verifier
+shall consider whether the omission increases or may increase the risk
+of misstatements.
+```
+```
+The verifier shall report in the verification report whether those
+non-conformities have been resolved by the operator.
+```
+## ▼B
+
+2. The verifier shall record in the internal verification documentation
+details of when and how identified non-conformities are resolved by the
+operator or aircraft operator during the verification.
+
+```
+Article 30
+```
+```
+Improvement of the monitoring and reporting process
+```
+1. Where the verifier has identified areas for improvement in the
+operator's or aircraft operator's performance related to points (a) to (e)
+of this paragraph, it shall include in the verification report recommen­
+dations for improvement related to the operator's or aircraft operator's
+performance on those points:
+
+```
+(a) the operator's or aircraft operator's risk assessment;
+```
+```
+(b) the development, documentation, implementation and maintenance
+of data flow activities and control activities as well as the evaluation
+of the control system;
+```
+```
+(c) the development, documentation, implementation and maintenance
+of procedures for data flow activities and control activities as well
+as other procedures that an operator or aircraft operator has to
+establish pursuant to Implementing Regulation (EU) 2018/2066 or
+Article 11(2) of Delegated Regulation (EU) ►M1 2019/331 ◄;
+```
+```
+(d) the monitoring and reporting of emissions or tonne kilometres,
+including in relation to achieving higher tiers, reducing risks and
+enhancing efficiency in the monitoring and reporting;
+```
+## ▼B
+
+
+```
+(e) the monitoring and reporting of data for baseline data reports, new
+entrant data reports and annual activity level reports.
+```
+## ▼B
+
+2. During verification following a year in which recommendations
+for improvement were made in a verification report, the verifier shall
+check whether the operator or aircraft operator has implemented those
+recommendations for improvement and the manner in which this has
+been done.
+
+```
+Where the operator or aircraft operator has not implemented those
+recommendations or has not implemented them correctly, the verifier
+shall assess the impact this has on the risk of misstatements and
+non-conformities.
+```
+```
+Article 31
+```
+```
+Simplified verification for installations
+```
+1. By way of derogation from Article 21(1), the verifier may decide,
+subject to the approval by a competent authority in accordance with
+the second subparagraph of this Article, not to carry out site visits to
+installations. This decision shall be based on the outcome of the risk
+analysis and after determining that all relevant data can be remotely
+accessed by the verifier and that the conditions for not carrying out
+site visits are met. The verifier shall inform the operator thereof
+without undue delay.
+
+```
+The operator shall submit an application to the competent authority
+requesting the competent authority to approve the verifier's decision
+not to carry out the site visit.
+```
+```
+On an application submitted by the operator concerned, the competent
+authority shall decide whether to approve the verifier's decision not to
+carry out the site visit, taking into consideration all of the following
+elements:
+```
+```
+(a) the information provided by the verifier on the outcome of the risk
+analysis;
+```
+```
+(b) information that the relevant data can be remotely accessed;
+```
+```
+(c) evidence that the requirements laid down in paragraph 3 are not
+applicable to the installation;
+```
+```
+(d) evidence that the conditions for not carrying out the site visits are
+met.
+```
+2. The approval of the competent authority referred to in paragraph 1
+of this Article is not required for not carrying out site visits of instal­
+lations with low emissions referred to in Article 47(2) of Implementing
+Regulation (EU) 2018/2066.
+
+## ▼M1
+
+
+3. The verifier shall always carry out site visits in the following
+situations:
+
+## ▼M1
+
+```
+(a) when an operator’s emission report or annual activity level report
+is verified for the first time by the verifier;
+```
+```
+(b) for the purposes of verifying the operator’s emission report, if a
+verifier has not carried out a site visit in two reporting periods
+immediately preceding the current reporting period;
+```
+```
+(ba) for the purposes of verifying the operator’s annual activity level
+report, if a verifier has not carried out a site visit during the
+verification of an annual activity level report or a baseline data
+report in the two activity level reporting periods immediately
+preceding the current activity level reporting period;
+```
+## ▼B
+
+```
+(c) if, during the reporting period, there have been significant modi­
+fications of the monitoring plan including those referred to in
+Article 15(3) of Implementing Regulation (EU) 2018/2066;
+```
+## ▼M1
+
+```
+(ca) if, during the activity level reporting period, there have been
+significant changes to the installation or its sub-installations
+which require significant modifications to the monitoring
+methodology plan, including those changes referred to in
+Article 9(5) of Delegated Regulation (EU) 2019/331;
+```
+## ▼B
+
+```
+(d) if an operator's baseline data report or new entrant data report is
+verified.
+```
+## ▼M1
+
+4. Points (c) and (ca) of paragraph 3 are not applicable where, during
+the reporting period, there have been only modifications of the default
+value as referred to in Article 15(3)(h) of Implementing Regulation (EU)
+2018/2066 or Article 9(5)(c) of Delegated Regulation (EU) 2019/331.
+
+## ▼B
+
+```
+Article 32
+```
+```
+Conditions for not carrying out site visits
+```
+```
+The conditions for not carrying out site visits referred to in Article 31(1)
+are any of the following:
+```
+```
+(1) ►M1 the verification of an operator’s emission report concerns a
+category A installation referred to in Article 19(2)(a) of Implemen­
+ting Regulation (EU) 2018/2066 or a category B installation
+referred to in Article 19(2)(b) of that Implementing Regulation
+whereby: ◄
+```
+## ▼B
+
+
+```
+(a) the installation has only one source stream as referred to in
+Article 19(3)(c) of Implementing Regulation (EU) 2018/2066
+which is natural gas, or one or more de minimis source streams
+which aggregated do not exceed the threshold for de minimis
+source streams laid down in Article 19 of Implementing Regu­
+lation (EU) 2018/2066;
+```
+```
+(b) the natural gas is monitored through fiscal metering which is
+subject to an appropriate legal regime for the control of fiscal
+meters and meets the required uncertainty levels related to the
+applicable tier;
+```
+```
+(c) only default values for the calculation factors of natural gas are
+applied;
+```
+```
+(2) ►M1 the verification of an operator’s emission report concerns a
+category A installation referred to in Article 19(2)(a) of Implemen­
+ting Regulation (EU) 2018/2066 or a category B installation
+referred to in Article 19(2)(b) of that Implementing Regulation
+whereby: ◄
+```
+```
+(a) the installation has only one source stream which is a fuel
+without process emissions, and that fuel is either a solid fuel
+directly combusted in the installation without intermediate
+storage, or a liquid or gaseous fuel for which there may be
+intermediate storage;
+```
+```
+(b) the activity data related to the source stream is monitored by
+using one of the following methods:
+```
+```
+(i) fiscal metering method which is subject to an appropriate
+legal regime for the control of fiscal meters and meets the
+required uncertainty levels related to the applicable tier;
+```
+```
+(ii) method based solely on invoice data taking into account
+stock changes if relevant;
+```
+```
+(c) only default values for calculation factors are applied;
+```
+```
+(d) the competent authority has allowed the installation to use a
+simplified monitoring plan in accordance with Article 13 of
+Implementing Regulation (EU) 2018/2066;
+```
+## ▼M1
+
+```
+(3) the verification of an operator’s emission report concerns an instal­
+lation with low emissions as referred to in Article 47(2) of Im­
+plementing Regulation (EU) 2018/2066 and paragraphs (a) to (c)
+of point (2) are applicable;
+```
+```
+(3a) the verification of an operator’s annual activity level report
+concerns an installation as referred to in point 1, 2 or 3 whereby:
+```
+```
+(a) that installation has no other sub-installation than one
+sub-installation to which a product benchmark pursuant to
+Article 10(2) of Delegated Regulation (EU) 2019/331 is appli­
+cable; and
+```
+## ▼B
+
+
+```
+(b) the production data relevant for the product benchmark has
+been evaluated as part of an audit for financial accounting
+purposes and the operator provides evidence thereof;
+```
+```
+(3b) the verification of an operator’s annual activity level report
+concerns an installation as referred to in point 1, 2 or 3 whereby:
+```
+```
+(a) the installation has a maximum of two sub-installations;
+```
+```
+(b) the second sub-installation contributes less than 5 % to the
+installation’s total final allocation of allowances; and
+```
+```
+(c) the verifier has sufficient data available to assess the split of
+sub-installations if relevant;
+```
+```
+(3c) the verification of an operator’s annual activity level report
+concerns an installation as referred to in point 1, 2 or 3 whereby:
+```
+```
+(a) the installation has only heat benchmark or district heating
+sub-installations; and
+```
+```
+(b) the verifier has sufficient data available to assess the split of
+sub-installations if relevant;
+```
+## ▼B
+
+```
+(4) ►M1 the verification of the operator’s emission report or annual
+activity level report concerns an installation located on an
+unmanned site whereby: ◄
+```
+```
+(a) telemetered data from the unmanned site is sent directly to
+another location where all data is processed, managed and
+stored;
+```
+```
+(b) the same person is responsible for all data management and
+recording for the site;
+```
+## ▼M1
+
+```
+(c) the meters have already been inspected on site by the operator
+or a laboratory in accordance with Article 60 of Implementing
+Regulation (EU) 2018/2066 or Article 11 of Delegated Regu­
+lation (EU) 2019/331 and a signed document or date-stamped
+photographic evidence provided by the operator demonstrates
+that no metering or operational changes have occurred at the
+installation since that inspection;
+```
+## ▼B
+
+```
+(5) ►M1 the verification of the operator’s emission report or annual
+activity level report concerns an installation located on a remote or
+inaccessible site, in particular an off-shore installation, whereby: ◄
+```
+```
+(a) there is a high level of centralisation of data collected from
+that site and transmitted directly to another location where all
+the data is processed, managed and stored with good quality
+assurance;
+```
+## ▼M1
+
+
+```
+(b) the meters have already been inspected on site by the operator
+or a laboratory in accordance with Article 60 of Implementing
+Regulation (EU) 2018/2066 or Article 11 of Delegated Regu­
+lation (EU) 2019/331 and a signed document or date-stamped
+photographic evidence provided by the operator demonstrates
+that no metering or operational changes have occurred at the
+installation since that inspection.
+```
+## ▼B
+
+```
+Point (2) may also be applied if, in addition to the source stream as
+referred to in point (a) of that point, the installation uses one or more de
+minimis source streams which aggregated do not exceed the threshold
+for de minimis source streams laid down in Article 19 of Implementing
+Regulation (EU) 2018/2066.
+```
+## ▼M1
+
+```
+Point (3a)(b) must be applied if the sub-installation contributing 95 %
+or more to the installation’s total final allocation of allowances as
+referred to in point (3b)(b) is a sub-installation to which a product
+benchmark pursuant to Article 10(2) of Delegated Regulation (EU)
+2019/331 is applicable.
+```
+## ▼B
+
+```
+Article 33
+```
+```
+Simplified verification for aircraft operators
+```
+1. By way of derogation from Article 21(1) of this Regulation, a
+verifier may decide not to carry out a site visit of a small emitter
+referred to in Article 55(1) of Implementing Regulation (EU)
+2018/2066 if the verifier has concluded, based on its risk analysis,
+that all relevant data can be remotely accessed by the verifier.
+2. Where an aircraft operator uses the simplified tools referred to in
+Article 55(2) of Implementing Regulation (EU) 2018/2066 to determine
+the fuel consumption and the reported data has been generated using
+those tools independently from any input from the aircraft operator, the
+verifier may, based on its risk analysis, decide not to carry out the
+checks referred to in Articles 14 and 16, Article 17(1) and (2) and
+Article 18 of this Regulation.
+
+```
+Article 34
+```
+```
+Simplified verification plans
+```
+```
+Where a verifier uses a simplified verification plan, the verifier shall
+keep a record of justifications for using such plans in the internal verifi­
+cation documentation, including evidence that the conditions for using
+simplified verification plans have been met.
+```
+## ▼M1
+
+
+```
+Article 34a
+```
+```
+Virtual site visits
+```
+1. By way of derogation from Article 21(1), where serious, extra­
+ordinary and unforeseeable circumstances, outside the control of the
+operator or aircraft operator, prevent the verifier from carrying out a
+physical site visit and where these circumstances cannot, after using all
+reasonable efforts, be overcome, the verifier may decide, subject to the
+approval of the competent authority in accordance with paragraph 3 of
+this Article, to carry out a virtual site visit.
+
+```
+The verifier shall take measures to reduce the verification risk to an
+acceptable level to obtain reasonable assurance that the operator’s or
+aircraft operator’s report is free from material misstatements. A physical
+visit to the site of the installation or aircraft operator shall be carried out
+without undue delay.
+```
+```
+The decision to carry out a virtual site visit shall be based on the
+outcome of the risk analysis and after determining that the conditions
+for carrying out a virtual site visit are met. The verifier shall inform the
+operator or aircraft operator thereof without undue delay.
+```
+2. The operator or aircraft operator shall submit an application to the
+competent authority requesting the competent authority to approve the
+verifier’s decision to carry out a virtual site visit. The application shall
+include the following elements:
+
+```
+(a) evidence that it is not possible to carry out a physical site visit
+because of the serious, extraordinary and unforeseeable circum­
+stances, outside the control of the operator or aircraft operator;
+```
+```
+(b) information on how the virtual site visit will be carried out;
+```
+```
+(c) the information on the outcome of the risk analysis by the verifier;
+```
+```
+(d) evidence of the measures taken by the verifier to reduce the verifi­
+cation risk to an acceptable level to obtain reasonable assurance that
+the operator’s or aircraft operator’s report is free from material
+misstatements.
+```
+3. On an application submitted by the operator or aircraft operator
+concerned, the competent authority shall decide whether to approve the
+verifier’s decision to carry out a virtual site visit, taking into consider­
+ation the elements specified in paragraph 2.
+
+## ▼M1
+
+
+4. By way of derogation from paragraph 3, where a large number of
+installations or aircraft operators are affected by the similar serious,
+extraordinary and unforeseeable circumstances, outside the control of
+the operator or aircraft operator, and immediate action is needed
+because of legally imposed national health reasons, the competent
+authority may authorise verifiers to carry out virtual site visits without
+a need for an individual approval referred to in paragraph 3 provided
+that:
+
+```
+(a) the competent authority has established that there are serious extra­
+ordinary and unforeseeable circumstances, outside the control of the
+operator or aircraft operator and immediate action is needed because
+of legally imposed national health reasons;
+```
+```
+(b) the operator or aircraft operator informs the competent authority
+about the verifier’s decision to carry out a virtual site visit,
+including the elements specified in paragraph 2.
+```
+```
+The competent authority shall review the information provided by the
+operator or aircraft operator in accordance with point (b) during the
+assessment of the operator’s or aircraft operator’s report and inform
+the national accreditation body about the outcome of the assessment.
+```
+## ▼B
+
+```
+CHAPTER III
+```
+```
+REQUIREMENTS FOR VERIFIERS
+```
+```
+Article 35
+```
+```
+Sectoral scopes of accreditation
+```
+```
+The verifier shall only issue a verification report to an operator or
+aircraft operator that performs an activity that is covered by the scope
+of the activity referred to in Annex I for which the verifier has been
+granted accreditation according to the provisions of Regulation (EC)
+No 765/2008 and this Regulation.
+```
+```
+Article 36
+```
+```
+Continued competence process
+```
+1. The verifier shall establish, document, implement and maintain a
+competence process to ensure that all personnel entrusted with verifi­
+cation activities are competent for the tasks that are allocated to them.
+2. As part of the competence process referred to in paragraph 1, the
+verifier shall at least determine, document, implement and maintain the
+following:
+
+```
+(a) general competence criteria for all personnel undertaking verifi­
+cation activities;
+```
+## ▼M1
+
+
+```
+(b) specific competence criteria for each function within the verifier
+undertaking verification activities, in particular for the EU ETS
+auditor, EU ETS lead auditor, independent reviewer and technical
+expert;
+```
+```
+(c) a method to ensure the continued competence and regular evaluation
+of the performance of all personnel that undertake verification
+activities;
+```
+```
+(d) a process for ensuring ongoing training of the personnel undertaking
+verification activities;
+```
+```
+(e) a process for assessing whether the verification engagement falls
+within the scope of the verifier's accreditation, and whether the
+verifier has the competence, personnel and resources required to
+select the verification team and successfully complete the verifi­
+cation activities within the timeframe required.
+```
+```
+The competence criteria referred to in point (b) of the first subparagraph
+shall be specific for each scope of accreditation in which these persons
+are carrying out verification activities.
+```
+```
+In evaluating the competence of the personnel pursuant to point (c) of
+the first subparagraph, the verifier shall assess that competence against
+the competence criteria referred to in points (a) and (b).
+```
+```
+The process referred to in point (e) of the first subparagraph shall also
+include a process for assessing whether the verification team holds all
+the competence and persons required to carry out verification activities
+for a specific operator or aircraft operator.
+```
+```
+The verifier shall develop general and specific competence criteria
+which are in conformity with the criteria laid down in Article 37(4)
+and Articles 38, 39 and 40.
+```
+3. The verifier shall regularly monitor the performance of all
+personnel that undertake verification activities to confirm the
+continued competence of that personnel.
+4. The verifier shall regularly review the competence process referred
+to in paragraph 1 to ensure that:
+
+```
+(a) the competence criteria referred to in points (a) and (b) of the first
+subparagraph of paragraph 2 are developed in accordance with the
+competence requirements under this Regulation;
+```
+```
+(b) all issues that may be identified related to the setting of the general
+and specific competence criteria pursuant to points (a) and (b) of the
+first subparagraph of paragraph 2 are addressed;
+```
+```
+(c) all the requirements in the competence process are updated and
+maintained as appropriate.
+```
+5. The verifier shall have a system for recording the results of the
+activities carried out in the competence process referred to in paragraph 1.
+
+## ▼B
+
+
+6. A sufficiently competent evaluator shall assess the competence and
+performance of an EU ETS auditor and EU ETS lead auditor.
+
+```
+The competent evaluator shall monitor those auditors during the verifi­
+cation of the operator's or aircraft operator's report on the site of the
+installation or aircraft operator as appropriate, to determine whether they
+meet the competence criteria.
+```
+7. If a member of personnel fails to demonstrate that the competence
+criteria for a specific task allocated to that member have been fully met,
+the verifier shall identify and organise additional training or supervised
+work experience. The verifier shall monitor that member until the
+member demonstrates to the verifier that the member meets the
+competence criteria.
+
+```
+Article 37
+```
+```
+Verification teams
+```
+1. For each particular verification engagement, the verifier shall
+assemble a verification team capable of performing the verification
+activities referred to in Chapter II.
+2. The verification team shall at least consist of an EU ETS lead
+auditor, and, where the verifier's conclusions during the assessment
+referred to in Article 8(1)(e) and the strategic analysis so require, a
+suitable number of EU ETS auditors and technical experts.
+3. For the independent review of the verification activities related to
+a particular verification engagement, the verifier shall appoint an inde­
+pendent reviewer who shall not be part of the verification team.
+4. Each team member shall:
+
+```
+(a) have a clear understanding of their individual role in the verification
+process;
+```
+```
+(b) be able to communicate effectively in the language necessary to
+perform their specific tasks.
+```
+5. The verification team shall include at least one person with the
+technical competence and understanding required to assess the specific
+technical monitoring and reporting aspects related to the activities
+referred to in Annex I that are carried out by the installation or
+aircraft operator. The verification team shall also include one person
+who is able to communicate in the language required for the verification
+of an operator's or aircraft operator's report in the Member State where
+the verifier is carrying out that verification.
+
+## ▼B
+
+
+```
+Where the verifier is carrying out verification of baseline data reports,
+new entrant data reports or annual activity level reports the verification
+team shall include in addition at least one person with the technical
+competence and understanding required to assess the specific technical
+aspects regarding the collection, monitoring and reporting of data
+relevant for free allocation.
+```
+## ▼B
+
+6. Where the verification team consists of one person, this person
+shall meet all the competence requirements for the EU ETS auditor and
+EU ETS lead auditor and meet the requirements laid down in para­
+graphs 4 and 5.
+
+```
+Article 38
+```
+```
+Competence requirements for EU ETS auditors and EU ETS lead
+auditors
+```
+1. An EU ETS auditor shall have the competence to perform the
+verification. To this end, the EU ETS auditor shall have at least:
+
+## ▼M1
+
+```
+(a) knowledge of Directive 2003/87/EC, Implementing Regulation
+(EU) 2018/2066, Delegated Regulation (EU) 2019/331 and Imple­
+menting Regulation (EU) 2019/1842 in the case of verification of
+the baseline data report, new entrant data report or annual activity
+level report, this Regulation, relevant standards, and other relevant
+legislation, applicable guidelines, as well as relevant guidelines and
+legislation issued by the Member State in which the verifier is
+carrying out a verification;
+```
+## ▼B
+
+```
+(b) knowledge and experience of data and information auditing,
+including:
+```
+```
+(i) data and information auditing methodologies, including the
+application of the materiality level and assessing the
+materiality of misstatements;
+```
+```
+(ii) analysing inherent risks and control risks;
+```
+```
+(iii) sampling techniques in relation to data sampling and checking
+the control activities;
+```
+```
+(iv) assessing data and information systems, IT systems, data flow
+activities, control activities, control systems and procedures
+for control activities.
+```
+```
+(c) the ability to perform the activities related to the verification of an
+operator's or aircraft operator's report as required by Chapter II;
+```
+```
+(d) knowledge of and experience in the sector specific technical moni­
+toring and reporting aspects that are relevant for the scope of
+activities referred to in Annex I in which the EU ETS auditor is
+carrying out verification.
+```
+## ▼M1
+
+
+2. An EU ETS lead auditor shall meet the competence requirements
+for an EU ETS auditor and shall have demonstrated competence to lead
+a verification team and to be responsible for carrying out the verification
+activities in accordance with this Regulation.
+
+```
+Article 39
+```
+```
+Competence requirements for independent reviewers
+```
+1. The independent reviewer shall have the appropriate authority to
+review the draft verification report and internal verification documen­
+tation pursuant to Article 25.
+2. The independent reviewer shall meet the competence requirements
+of an EU ETS lead auditor referred to in Article 38(2).
+3. The independent reviewer shall have the necessary competence to
+analyse the information provided to confirm the completeness and
+integrity of the information, to challenge missing or contradictory
+information as well as to check data trails for the purposes of
+assessing whether the internal verification documentation is complete
+and provides sufficient information to support the draft verification
+report.
+
+```
+Article 40
+```
+```
+Use of technical experts
+```
+1. When carrying out verification activities, a verifier may use
+technical experts to provide detailed knowledge and expertise on a
+specific subject matter needed to support the EU ETS auditor and EU
+ETS lead auditor in carrying out their verification activities.
+2. Where the independent reviewer does not have the competence to
+assess a particular issue in the review process, the verifier shall request
+the support of a technical expert.
+3. The technical expert shall have the competence and expertise
+required to support the EU ETS auditor and EU ETS lead auditor, or
+the independent reviewer, where necessary, effectively on the subject
+matter for which their knowledge and expertise is requested. In addition,
+the technical expert shall have a sufficient understanding of the issues
+described in points (a), (b) and (c) of Article 38(1).
+4. The technical expert shall undertake specified tasks under the
+direction and full responsibility of the EU ETS lead auditor of the
+verification team in which the technical expert is operating or the inde­
+pendent reviewer.
+
+```
+Article 41
+```
+```
+Procedures for verification activities
+```
+1. A verifier shall establish, document, implement and maintain one
+or more procedures for verification activities as described in Chapter II,
+and the procedures and processes required by Annex II. **►M1** When
+establishing and implementing these procedures and processes the
+verifier shall carry out the activities listed in Annex II of this Regulation
+in accordance with the harmonised standard referred to in that
+Annex. ◄
+
+## ▼B
+
+
+2. A verifier shall design, document, implement and maintain a
+management system in accordance with the harmonised standard
+referred to in Annex II to ensure consistent development, implemen­
+tation, improvement and review of the procedures and processes referred
+to in paragraph 1. The management system shall include at least the
+following:
+
+```
+(a) policies and responsibilities;
+```
+```
+(b) management review;
+```
+```
+(c) internal audits;
+```
+```
+(d) corrective action;
+```
+```
+(e) actions to address risk and opportunities and to take preventive
+action;
+```
+```
+(f) control of documented information.
+```
+## ▼B
+
+```
+Article 42
+```
+```
+Records and communication
+```
+## ▼M1
+
+1. A verifier shall maintain and manage records, including records on
+the competence and impartiality of personnel, to demonstrate
+compliance with this Regulation.
+
+## ▼B
+
+2. A verifier shall on a regular basis make information available to
+the operator or aircraft operator and other relevant parties in accordance
+with the harmonised standard referred to in Annex II.
+3. A verifier shall safeguard the confidentiality of information
+obtained during the verification in accordance with the harmonised
+standard referred to in Annex II.
+
+```
+Article 43
+```
+```
+Impartiality and independence
+```
+1. A verifier shall be independent from an operator or aircraft
+operator and impartial in carrying out its verification activities.
+
+```
+To ensure independence and impartiality, the verifier and any part of the
+same legal entity shall not be an operator or aircraft operator, the owner
+of an operator or aircraft operator or owned by them, nor shall the
+verifier have relations with the operator or aircraft operator that could
+affect its independence and impartiality. The verifier shall also be inde­
+pendent from bodies that trade emission allowances under the
+greenhouse gas emission allowances trading system established
+pursuant to Article 19 of Directive 2003/87/EC.
+```
+## ▼M1
+
+
+2. A verifier shall be organised in a manner that safeguards its
+objectivity, independence and impartiality. **►M1** For the purposes of
+this Regulation, the relevant requirements on the structure and organis­
+ation of the verifier laid down in the harmonised standard referred to in
+Annex II shall apply. ◄
+3. A verifier shall not carry out verification activities for an operator
+or aircraft operator that poses an unacceptable risk to its impartiality or
+that creates a conflict of interest for it. The verifier shall not use
+personnel or contracted persons in the verification of an operator's or
+aircraft operator's report that involves an actual or potential conflict of
+interest. The verifier shall also ensure that the activities of personnel or
+organisations do not affect the confidentiality, objectivity, independence
+and impartiality of the verification. **►M1** For this purpose, the verifier
+shall monitor the risks to impartiality and take appropriate action to
+address those risks. ◄
+
+```
+An unacceptable risk to impartiality or a conflict of interest referred to
+in the first sentence of the first subparagraph shall be considered to have
+arisen in particular in either of the following cases:
+```
+```
+(a) where a verifier or any part of the same legal entity provides
+consulting services to develop part of the monitoring and
+reporting process that is described in the monitoring plan
+approved by the competent authority or in the monitoring
+methodology plan, as applicable, including the development of the
+monitoring methodology, the drafting of the operator's or aircraft
+operator's report and the drafting of the monitoring plan or moni­
+toring methodology plan;
+```
+```
+(b) where a verifier or any part of the same legal entity provides
+technical assistance to develop or maintain the system implemented
+to monitor and report emissions, tonne-kilometre data or data
+relevant for free allocation.
+```
+4. A conflict of interest for a verifier in the relations between it and
+an operator or an aircraft operator shall be considered to have arisen in
+particular in either of the following cases:
+
+```
+(a) where the relationship between the verifier and the operator or
+aircraft operator is based on common ownership, common
+governance, common management or personnel, shared resources,
+common finances and common contracts or marketing;
+```
+```
+(b) where the operator or aircraft operator has received consulting
+services referred to in point (a) of paragraph 3 or technical
+assistance referred to in point (b) of that paragraph from a
+consultancy body, technical assistance body or another organisation
+having relations with the verifier and threatening the impartiality of
+the verifier.
+```
+## ▼B
+
+
+```
+For the purposes of point (b) of the first subparagraph, the verifier's
+impartiality shall be considered compromised where the relations
+between the verifier and the consultancy body, technical assistance
+body or the other organisation is based on common ownership,
+common governance, common management or personnel, shared
+resources, common finances, common contracts or marketing and
+common payment of sales commission or other inducement for the
+referral of new clients.
+```
+5. **►M1** A verifier shall not outsource the closing of the agreement
+between the operator or aircraft operator and the verifier, the inde­
+pendent review or the issuance of the verification report. ◄ For the
+purposes of this Regulation, when outsourcing other verification activ­
+ities, the verifier shall meet the relevant requirements laid down in the
+harmonised standard referred to in Annex II.
+
+## ▼M1
+
+```
+However, contracting individuals to carry out verification activities shall
+not constitute outsourcing for the purposes of the first subparagraph if
+the verifier, when contracting those persons, takes full responsibility for
+the verification activities performed by contracted personnel. When
+contracting individuals for carrying out verification activities the
+verifier shall require these individuals to sign a written agreement that
+they comply with the procedures of the verifier and that there is no
+conflict of interest in carrying out these verification activities.
+```
+## ▼B
+
+6. A verifier shall establish, document, implement and maintain a
+process to ensure continuous impartiality and independence of the
+verifier, parts of the same legal entity as the verifier, other organisations
+referred to in paragraph 4, and of all personnel and contracted persons
+involved in the verification. That process shall include a mechanism to
+safeguard the impartiality and independence of the verifier and shall
+meet the relevant requirements laid down in the harmonised standard
+referred to in Annex II.
+
+## ▼M1
+
+```
+6a. When verifying the same operator or aircraft operator as in the
+previous year, the verifier shall consider the risk to impartiality and take
+measures to reduce the risk to impartiality.
+```
+## ▼B
+
+7. If the EU ETS lead auditor undertakes six annual verifications for
+a given aircraft operator, then the EU ETS lead auditor shall take a three
+consecutive year break from providing verification services to that same
+aircraft operator. The six years maximum period includes any
+greenhouse gas verifications performed for the aircraft operator
+starting after the entry into force of this regulation.
+
+## ▼M1
+
+8. If the EU ETS lead auditor undertakes annual verifications for a
+period of five consecutive years for a given installation, then the EU
+ETS lead auditor shall take a three consecutive year break from
+providing verification services to that same installation. The five years
+maximum period includes EU ETS verifications of emissions or allo­
+cation data performed for the installation starting after 1 January 2021.
+
+## ▼B
+
+
+```
+CHAPTER IV
+```
+```
+ACCREDITATION
+```
+```
+Article 44
+```
+```
+Accreditation
+```
+```
+A verifier issuing a verification report to an operator or an aircraft
+operator shall be accredited for the scope of activities referred to in
+Annex I for which the verifier is carrying out the verification of an
+operator's or aircraft operator's report.
+```
+## ▼M1
+
+```
+For the purpose of verifying baseline data reports, new entrant data
+reports or annual activity level reports, a verifier issuing a verification
+report to an operator shall in addition be accredited for activity group
+No 98 referred to in Annex I.
+```
+## ▼B
+
+```
+Article 45
+```
+```
+Objectives of accreditation
+```
+```
+During the accreditation process and the monitoring of accredited
+verifiers, each national accreditation body shall assess whether the
+verifier and its personnel undertaking verification activities:
+```
+```
+(a) have the competence to carry out the verification of operator's or
+aircraft operator's reports in accordance with this Regulation;
+```
+```
+(b) are performing the verification of operator's or aircraft operator's
+reports in accordance with this Regulation;
+```
+```
+(c) meet the requirements referred to in Chapter III.
+```
+```
+Article 46
+```
+```
+Request for accreditation
+```
+1. **►M1** Any legal person established under national law of a
+Member State may request accreditation pursuant to Article 5(1) of
+Regulation (EC) No 765/2008 and the provisions of this Chapter. ◄
+
+```
+The request shall contain the information required on the basis of the
+harmonised standard referred to in Annex III.
+```
+2. In addition to the information referred to in paragraph 1 of this
+Article, an applicant shall also, prior to the commencement of the
+assessment pursuant to Article 45, make available to the national ac­
+creditation body the following:
+
+```
+(a) all information requested by the national accreditation body;
+```
+## ▼B
+
+
+```
+(b) procedures and information concerning processes referred to in
+Article 41(1) and the information on the quality management
+system referred to in Article 41(2);
+```
+```
+(c) the competence criteria referred to in Article 36(2)(a) and (b), the
+results of the competence process referred to in Article 36 as well as
+other relevant documentation on the competence of all personnel
+involved in verification activities;
+```
+```
+(d) information on the process for ensuring continuous impartiality and
+independence referred to in Article 43(6), including relevant records
+on the impartiality and independence of the applicant and its
+personnel;
+```
+```
+(e) information on the technical experts and key personnel involved in
+the verification of operator's or aircraft operator's reports;
+```
+```
+(f) the system and process for ensuring appropriate internal verification
+documentation;
+```
+```
+(g) other relevant records referred to in Article 42(1).
+```
+```
+Article 47
+```
+```
+Preparation for assessment
+```
+1. When preparing the assessment referred to in Article 45, each
+national accreditation body shall take into account the complexity of
+the scope for which the applicant requests accreditation as well as the
+complexity of the quality management system referred to in
+Article 41(2), the procedures and information on processes referred to
+in Article 41(1) and the geographical areas in which the applicant is
+carrying out or planning to carry out verification.
+2. For the purposes of this Regulation, the national accreditation
+body shall meet the minimum requirements set out in the harmonised
+standard referred to in Annex III.
+
+```
+Article 48
+```
+```
+Assessment
+```
+1. The assessment team referred to in Article 58 shall carry out at
+least the following activities for the purposes of making the assessment
+referred to in Article 45:
+
+```
+(a) a review of all relevant documents and records referred to in
+Article 46;
+```
+```
+(b) a visit of the premises of the applicant to review a representative
+sample of the internal verification documentation and to assess the
+implementation of the applicant's quality management system and
+the procedures or processes referred to in Article 41;
+```
+## ▼B
+
+
+```
+(c) witnessing of a representative part of the requested scope for ac­
+creditation and the performance and competence of a representative
+number of the applicant's staff involved in the verification of the
+operator's or aircraft operator's report to ensure that the staff are
+operating in accordance with this Regulation.
+```
+```
+In carrying out those activities, the assessment team shall meet the
+requirements set out in the harmonised standard referred to in Annex III.
+```
+2. The assessment team shall report the findings and
+non-conformities to the applicant in accordance with the requirements
+set out in the harmonised standard referred to in Annex III and shall
+request the applicant to respond to the reported findings and
+non-conformities in accordance with those provisions.
+3. An applicant shall take corrective action to address any
+non-conformities reported pursuant to paragraph 2 and indicate in appli­
+cant's response to the reported findings and non-conformities of the
+assessment team what actions are taken or are planned to be taken
+within a time set by the national accreditation body to resolve any
+identified non-conformities.
+4. The national accreditation body shall review the responses of the
+applicant to the findings and non-conformities submitted pursuant to
+paragraph 3.
+
+```
+Where the national accreditation body finds the response of the
+applicant to be insufficient or ineffective, it shall request further
+information or action from the applicant. The national accreditation
+body may also request evidence of the effective implementation of
+actions taken or carry out a follow-up assessment to assess the
+effective implementation of the corrective actions.
+```
+```
+Article 49
+```
+```
+Decision on accreditation and accreditation certificate
+```
+1. The national accreditation body shall take into account the
+requirements laid down in the harmonised standard referred to in
+Annex III when preparing and taking the decision on whether to
+grant, extend or renew the accreditation of an applicant.
+2. Where the national accreditation body has decided to grant, extend
+or renew the accreditation of an applicant, it shall issue an accreditation
+certificate to that effect.
+
+```
+The accreditation certificate shall at least contain the information
+required on the basis of the harmonised standard referred to in
+Annex III.
+```
+```
+The accreditation certificate shall be valid for a period not exceeding
+five years after the date on which the national accreditation body has
+issued that certificate.
+```
+## ▼B
+
+
+```
+Article 50
+```
+```
+Surveillance
+```
+1. The national accreditation body shall carry out an annual
+surveillance of each verifier to which it has issued an accreditation
+certificate.
+
+```
+The surveillance shall at least comprise the following:
+```
+```
+(a) a visit to the premises of the verifier with a view to carrying out the
+activities referred to Article 48(1)(b);
+```
+```
+(b) witnessing the performance and competence of a representative
+number of the verifier's staff in accordance with Article 48(1)(c).
+```
+2. The national accreditation body shall carry out the first
+surveillance of a verifier in accordance with paragraph 1 no later than
+12 months after the date on which the accreditation certificate has been
+issued to that verifier.
+3. The national accreditation body shall prepare its plan for the
+surveillance of each verifier in a manner that allows for representative
+samples of the scope of accreditation to be assessed, in accordance with
+the requirements laid down in the harmonised standard referred to in
+Annex III.
+4. Based on the results of the surveillance referred to in paragraph 1,
+the national accreditation body shall decide whether to confirm the
+continuation of accreditation.
+5. Where a verifier carries out a verification in another Member
+State, the national accreditation body that has accredited the verifier
+may request the national accreditation body of the Member State
+where the verification is performed to carry out surveillance activities
+on its behalf and under its responsibility.
+
+```
+Article 51
+```
+```
+Reassessment
+```
+1. Before the expiry of the accreditation certificate, the national ac­
+creditation body shall carry out a reassessment of the verifier to which
+the national accreditation body has issued an accreditation certificate to
+determine whether the validity of that accreditation certificate may be
+extended.
+2. The national accreditation body shall prepare its plan for the reas­
+sessment of each verifier in a manner that allows representative samples
+of the scope of accreditation to be assessed. In planning and carrying
+out the reassessment, the national accreditation body shall meet the
+requirements laid down in the harmonised standard referred to in
+Annex III.
+
+```
+Article 52
+```
+```
+Extraordinary assessment
+```
+1. The national accreditation body may conduct an extraordinary
+assessment of the verifier at any time to ensure that the verifier meets
+the requirements of this Regulation.
+
+## ▼B
+
+
+2. For the purposes of enabling the national accreditation body to
+assess the need for an extraordinary assessment, the verifier shall inform
+the national accreditation body forthwith of any significant changes
+relevant to its accreditation concerning any aspect of its status or oper­
+ation. Significant changes shall include those changes mentioned in the
+harmonised standard referred to in Annex III.
+
+```
+Article 53
+```
+```
+Extension of scope
+```
+```
+The national accreditation body shall, in response to an application by a
+verifier for an extension of the scope of a granted accreditation,
+undertake the necessary activities to determine whether the verifier
+meets the requirements of Article 45 for the requested extension of
+the scope of its accreditation.
+```
+```
+Article 54
+```
+```
+Administrative measures
+```
+1. The national accreditation body may suspend, withdraw or reduce
+an accreditation of a verifier if the verifier does not meet the
+requirements of this Regulation.
+
+```
+The national accreditation body shall suspend, withdraw or reduce an
+accreditation of a verifier if the verifier so requests.
+```
+```
+The national accreditation body shall establish, document, implement
+and maintain a procedure for the suspension of the accreditation, the
+withdrawal of the accreditation and the reduction of the scope of
+accreditation.
+```
+2. The national accreditation body shall suspend an accreditation, or
+restrict the scope of an accreditation in any of the following cases:
+
+```
+(a) the verifier has committed a serious breach of the requirements of
+this Regulation;
+```
+```
+(b) the verifier has persistently and repeatedly failed to meet the
+requirements of this Regulation;
+```
+```
+(c) the verifier has breached other specific terms and conditions of the
+national accreditation body.
+```
+3. The national accreditation body shall withdraw the accreditation in
+the following cases:
+
+```
+(a) the verifier has failed to remedy the grounds for a decision to
+suspend the accreditation certificate;
+```
+```
+(b) a member of the top management of the verifier or a verifier's staff
+involved in verification activities under this Regulation has been
+found guilty of fraud;
+```
+```
+(c) the verifier has intentionally provided false information or concealed
+information.
+```
+## ▼B
+
+
+4. The decision of a national accreditation body to suspend, withdraw
+or reduce the scope of the accreditation in accordance with paragraphs 2
+and 3 shall be subject to appeal.
+
+```
+Member States shall establish procedures for the resolution of those
+appeals.
+```
+5. The decision of a national accreditation body to suspend, withdraw
+or reduce the scope of the accreditation shall take effect upon its notifi­
+cation to the verifier.
+
+```
+The national accreditation body shall terminate the suspension of an
+accreditation certificate where it has received satisfactory information
+and is confident that the verifier meets the requirements of this Regu­
+lation.
+```
+```
+CHAPTER V
+```
+```
+REQUIREMENTS CONCERNING ACCREDITATION BODIES FOR
+THE ACCREDITATION OF ETS VERIFIERS
+```
+```
+Article 55
+```
+```
+National accreditation body
+```
+1. The tasks related to accreditation pursuant to this Regulation shall
+be carried out by the national accreditation bodies appointed pursuant to
+Article 4(1) of Regulation (EC) No 765/2008.
+2. Where a Member State decides to allow the certification of
+verifiers that are natural persons, under this Regulation the tasks
+related to the certification of those verifiers shall be entrusted to a
+national authority other than the national accreditation body appointed
+pursuant to Article 4(1) of Regulation (EC) No 765/2008.
+3. Where a Member State decides to use the option laid down in
+paragraph 2, it shall ensure that the national authority concerned meets
+the requirements of this Regulation, including those laid down in
+Article 71 of this Regulation, and provide the required documentary
+evidence in accordance with Article 5(2) of Regulation (EC)
+No 765/2008.
+4. A national accreditation body shall be a member of the body
+recognised under Article 14 of that Regulation (EC) No 765/2008.
+5. A national accreditation body shall be entrusted with the operation
+of accreditation as a public authority activity and be granted formal
+recognition by the Member State, if accreditation is not operated
+directly by public authorities.
+6. For the purposes of this Regulation, the national accreditation
+body shall carry out its functions in accordance with the requirements
+set out in the harmonised standard referred to in Annex III.
+
+## ▼B
+
+
+```
+Article 56
+```
+```
+Cross-border accreditation
+```
+```
+Where a Member State considers that it is economically not meaningful
+or sustainable to appoint a national accreditation body or to provide
+accreditation services within the meaning of Article 15 of Directive
+2003/87/EC, that Member State shall have recourse to a national accred­
+itation body of another Member State.
+```
+```
+The Member State concerned shall inform the Commission and the
+other Member States.
+```
+```
+Article 57
+```
+```
+Independence and impartiality
+```
+1. The national accreditation body shall be organised in a manner
+that guarantees its full independence from verifiers it assesses and its
+impartiality in carrying out its accreditation activities.
+2. For that purpose, the national accreditation body shall not offer or
+provide any activities or services provided by a verifier, nor shall it
+provide consultancy services, own shares in or otherwise have a
+financial or managerial interest in a verifier.
+3. Without prejudice to Article 55(2), the structure, responsibilities
+and tasks of the national accreditation body shall be clearly distin­
+guished from those of the competent authority and those of other
+national authorities.
+4. The national accreditation body shall take all final decisions
+pertaining to the accreditation of verifiers.
+
+```
+However, the national accreditation body may sub-contract certain activ­
+ities, subject to the requirements set out in the harmonised standard
+referred to in Annex III.
+```
+```
+Article 58
+```
+```
+Assessment team
+```
+1. The national accreditation body shall appoint an assessment team
+for each particular assessment.
+2. An assessment team shall consist of a lead assessor and, where
+necessary, a suitable number of assessors or technical experts for a
+specific scope of accreditation.
+
+```
+The assessment team shall include at least one person with the
+knowledge of the monitoring and reporting of greenhouse gas
+emissions pursuant to Implementing Regulation (EU) 2018/2066 that
+are relevant for the scope of accreditation and the competence and
+understanding required to assess the verification activities within the
+installation or aircraft operator for that scope, and at least one person
+with the knowledge of relevant national legislation and guidance.
+```
+## ▼B
+
+
+```
+Where the national accreditation body assesses the verifier's competence
+and performance for scope no 98 referred to in Annex I of this Regu­
+lation, the assessment team shall include in addition at least one person
+with the knowledge of collecting, monitoring and reporting data relevant
+for free allocation pursuant to Delegated Regulation (EU)
+►M1 2019/331 ◄ as well as the competence and understanding
+required to assess the verification activities for that scope.
+```
+```
+Article 59
+```
+```
+Competence requirements for assessors
+```
+1. An assessor shall have the competence to carry out the activities
+required under Chapter IV when assessing the verifier. To that end, the
+assessor shall:
+
+```
+(a) meet the requirements laid down in the harmonised standard
+pursuant to Regulation (EC) No 765/2008 referred to in Annex III;
+```
+## ▼M1
+
+```
+(b) have knowledge of Directive 2003/87/EC, Implementing
+Regulation (EU) 2018/2066, Delegated Regulation (EU) 2019/331
+and Implementing Regulation 2019/1842 where the assessor
+assesses the verifier’s competence and performance for scope no
+98 referred to in Annex I of this Regulation, this Regulation,
+relevant standards and other relevant legislation as well as
+applicable guidelines;
+```
+## ▼B
+
+```
+(c) have knowledge of data and information auditing referred to in
+Article 38(1)(b) of this Regulation obtained through training or
+access to a person that has knowledge and experience of such
+data and information.
+```
+2. A lead assessor shall meet the competence requirements referred to
+in paragraph 1, have demonstrated competence to lead an assessment
+team and be responsible for carrying out an assessment in accordance
+with this Regulation.
+3. Internal reviewers and persons taking the decisions on the
+granting, extending or renewing of an accreditation shall, in addition
+to the competence requirements referred to in paragraph 1, have
+sufficient knowledge and experience to evaluate the accreditation.
+
+```
+Article 60
+```
+```
+Technical experts
+```
+1. The national accreditation body may include technical experts in
+the assessment team to provide detailed knowledge and expertise on a
+specific subject matter needed to support the lead assessor or assessor in
+carrying out assessment activities.
+
+## ▼B
+
+
+2. A technical expert shall have the competence required to support
+the lead assessor and assessor effectively on the subject matter for
+which knowledge and expertise of such expert is requested. In
+addition, the technical expert shall:
+
+## ▼M1
+
+```
+(a) have knowledge of Directive 2003/87/EC, Implementing
+Regulation (EU) 2018/2066, Delegated Regulation (EU)
+2019/331 and Implementing Regulation 2019/1842 where the
+technical expert assesses the verifier’s competence and
+performance for scope no 98 referred to in Annex I of this Regu­
+lation, this Regulation, relevant standards, and other relevant legis­
+lation as well as applicable guidelines;
+```
+## ▼B
+
+```
+(b) have a sufficient understanding of verification activities.
+```
+3. A technical expert shall undertake specified tasks under the
+direction and full responsibility of the lead assessor of the assessment
+team concerned.
+
+```
+Article 61
+```
+```
+Procedures
+```
+```
+The national accreditation body shall comply with the requirements
+established pursuant to Article 8 of Regulation (EC) No 765/2008.
+```
+```
+Article 62
+```
+```
+Complaints
+```
+```
+Where the national accreditation body has received a complaint
+concerning the verifier from the competent authority, the operator or
+aircraft operator, or other interested parties, the national accreditation
+body shall, within a reasonable time but no later than three months from
+the date of its receipt:
+```
+```
+(a) decide on the validity of the complaint;
+```
+```
+(b) ensure that the verifier concerned is given the opportunity to submit
+its observations;
+```
+```
+(c) take appropriate actions to address the complaint;
+```
+```
+(d) record the complaint and action taken; and
+```
+```
+(e) respond to the complainant.
+```
+```
+Article 63
+```
+```
+Records and documentation
+```
+1. The national accreditation body shall keep records on each person
+involved in the accreditation process. Those records shall include
+records related to relevant qualifications, training, experience, impar­
+tiality and competence necessary to demonstrate compliance with this
+Regulation.
+
+## ▼B
+
+
+2. The national accreditation body shall keep records of the verifier
+in line with the harmonised standard pursuant to Regulation (EC)
+No 765/2008 referred to in Annex III.
+
+```
+Article 64
+```
+```
+Access to information and confidentiality
+```
+1. The national accreditation body shall, on a regular basis, make
+publicly available and update information about the national accred­
+itation body and its accreditation activities.
+2. The national accreditation body shall make, in accordance with
+point 4 of Article 8 of Regulation (EC) No 765/2008, adequate
+arrangements to safeguard, as appropriate, the confidentiality of
+information obtained.
+
+```
+Article 65
+```
+```
+Peer evaluation
+```
+1. National accreditation bodies shall subject themselves to a regular
+peer evaluation.
+
+```
+The peer evaluation shall be organised by the body recognised under
+Article 14 of Regulation (EC) No 765/2008.
+```
+2. The body recognised under Article 14 of Regulation (EC)
+No 765/2008 shall implement appropriate peer evaluation criteria and
+an effective and independent peer evaluation process in order to assess
+whether:
+
+```
+(a) the national accreditation body that is subject to the peer evaluation
+has carried out the accreditation activities in accordance with
+Chapter IV;
+```
+```
+(b) the national accreditation body that is subject to the peer evaluation
+has met the requirements laid down in this Chapter.
+```
+```
+The criteria shall include competence requirements for peer evaluators
+and peer evaluation teams that are specific to the system for greenhouse
+gas emission allowances trading established by Directive 2003/87/EC.
+```
+3. The body recognised under Article 14 of Regulation (EC)
+No 765/2008 shall publish and communicate the outcome of the peer
+evaluation of a national accreditation body to the Commission, the
+national authorities responsible for the national accreditation bodies in
+the Member States, and the competent authority of Member States or
+the focal point referred to in Article 70(2).
+4. Without prejudice to paragraph 1, where a national accreditation
+body has successfully undergone a peer evaluation organised by the
+body recognised under Article 14 of Regulation (EC) No 765/2008
+prior to the entry into force of this Regulation, the national accreditation
+body shall be exempted from undergoing a new peer evaluation
+following the entry into force of this Regulation if it can demonstrate
+conformity with this Regulation.
+
+## ▼B
+
+
+```
+To that end, the national accreditation body concerned shall submit a
+request and the necessary documentation to the body recognised under
+Article 14 of Regulation (EC) No 765/2008.
+```
+```
+The body recognised under Article 14 of Regulation (EC) No 765/ 2008
+shall decide whether the conditions for granting an exemption have been
+met.
+```
+```
+The exemption shall apply for a period not exceeding three years from
+the date of notification of the decision to the national accreditation
+body.
+```
+5. The national authority entrusted, pursuant to Article 55(2), with
+the tasks related to the certification of verifiers that are natural persons,
+pursuant to this Regulation shall meet a level of credibility equivalent to
+national accreditation bodies that have successfully undergone peer
+evaluation.
+
+```
+To that end, the Member State concerned shall, immediately following
+its decisions authorising the national authority to perform certification,
+provide the Commission and the other Member States with all relevant
+documentary evidence. No national authority shall certify verifiers for
+the purposes of this Regulation before the Member State concerned
+provides that documentary evidence.
+```
+```
+The Member State concerned shall periodically review the functioning
+of the national authority to ensure that it continues to meet the afore­
+mentioned level of credibility and shall inform the Commission thereof.
+```
+```
+Article 66
+```
+```
+Corrective action
+```
+1. Member States shall monitor their national accreditation bodies at
+regular intervals in order to ensure that they fulfil the requirements of
+this Regulation on a continuing basis, taking into account the results of
+the peer evaluation carried out in accordance with Article 65.
+2. Where a national accreditation body does not meet the
+requirements or fails to fulfil its obligations as laid down in this Regu­
+lation, the Member State concerned shall take appropriate corrective
+action or ensure that such corrective action is taken, and shall inform
+the Commission thereof.
+
+```
+Article 67
+```
+```
+Mutual recognition of verifiers
+```
+1. Member States shall recognise the equivalence of the services
+delivered by those national accreditation bodies that have successfully
+undergone a peer evaluation. Member States shall accept the accred­
+itation certificates of verifiers accredited by those national accreditation
+bodies and respect the right of the verifiers to carry out verification for
+their scope of accreditation.
+2. Where a national accreditation body has not undergone the
+complete peer evaluation process, Member States shall accept the ac­
+creditation certificates of verifiers accredited by that national accred­
+itation body provided the body recognised under Article 14 of Regu­
+lation (EC) No 765/2008 has started a peer evaluation for that national
+accreditation body and it has not identified any non-compliance of the
+national accreditation body with this Regulation.
+
+## ▼B
+
+
+3. Where the certification of verifiers is carried out by a national
+authority referred to in Article 55(2), Member States shall accept the
+certificate issued by such authority and respect the right of certified
+verifiers to carry out verification for their scope of certification.
+
+```
+Article 68
+```
+```
+Monitoring of services delivered
+```
+```
+Where a Member State has established, in the course of an inspection
+carried out in accordance with Article 31(4) of Directive 2006/123/EC,
+that a verifier is not complying with this Regulation, the competent
+authority or national accreditation body of that Member State shall
+inform the national accreditation body that has accredited the verifier.
+```
+```
+The national accreditation body that has accredited the verifier shall
+consider the communication of that information as a complaint within
+the meaning of Article 62 and shall take appropriate action and respond
+to the competent authority or the national accreditation body in
+accordance with the second subparagraph of Article 73(2).
+```
+```
+Article 69
+```
+```
+Electronic data exchange and use of automated systems
+```
+1. Member States may require verifiers to use electronic templates or
+specific file formats for verification reports in accordance with
+Article 74(1) of Implementing Regulation (EU) 2018/2066 or in
+accordance with Article 13 of Delegated Regulation (EU)
+**►M1** 2019/331 ◄.
+2. Standardised electronic templates or file format specifications may
+be made available for further types of communication between the
+operator, aircraft operator, verifier, competent authority and national
+accreditation body in accordance with Article 74(2) of Implementing
+Regulation (EU) 2018/2066.
+
+```
+CHAPTER VI
+```
+```
+INFORMATION EXCHANGE
+```
+```
+Article 70
+```
+```
+Information exchange and focal points
+```
+1. The Member State shall establish an effective exchange of appro­
+priate information and effective cooperation between their national ac­
+creditation body, or where applicable, the national authority entrusted
+with the certification of verifiers, and the competent authority.
+
+## ▼B
+
+
+2. Where more than one competent authority is designated pursuant
+to Article 18 of Directive 2003/87/EC in a Member State, the Member
+State shall authorise one of those competent authorities to be the focal
+point for the exchange of information, for coordinating the cooperation
+referred to in paragraph 1, and for the activities referred to in this
+Chapter.
+
+```
+Article 71
+```
+```
+Accreditation work programme and management report
+```
+1. By 31 December of each year, the national accreditation body
+shall make available an accreditation work programme to the
+competent authority of each Member State containing the list of
+verifiers accredited by that national accreditation body and which
+have notified it pursuant to Article 77 that they intend to carry out
+verifications in those Member States. The accreditation work
+programme shall at least contain the following information in relation
+to each verifier:
+
+```
+(a) the anticipated time and place of the verification;
+```
+```
+(b) information on activities that the national accreditation body has
+planned for that verifier, in particular surveillance and reassessment
+activities;
+```
+```
+(c) dates of anticipated witnessing audits to be performed by the
+national accreditation body to assess the verifier, including the
+address and contact details of operators or aircraft operators that
+will be visited during the witness audit;
+```
+```
+(d) information on whether the national accreditation body has
+requested the national accreditation body from the Member State
+in which the verifier is performing the verification to carry out
+surveillance activities.
+```
+```
+Where changes occur in the information referred to in the first subpara­
+graph, the national accreditation body shall submit to the competent
+authority an updated work programme by 31 January of each year.
+```
+2. Following the submission of the accreditation work programme in
+accordance with paragraph 1, the competent authority shall provide the
+national accreditation body with any relevant information, including any
+relevant national legislation or guidelines.
+3. By 1 June of each year, the national accreditation body shall make
+available a management report to the competent authority. The
+management report shall at least contain the following information in
+relation to each verifier that has been accredited by that national accred­
+itation body:
+
+```
+(a) accreditation details of verifiers that were newly accredited by that
+national accreditation body, including the scope of accreditation for
+these verifiers
+```
+```
+(b) any changes to the scope of accreditation for these verifiers;
+```
+## ▼B
+
+
+```
+(c) summarised results of surveillance and reassessment activities
+carried out by the national accreditation body;
+```
+```
+(d) summarised results of extraordinary assessments that have taken
+place, including reasons for initiating such extraordinary
+assessments;
+```
+```
+(e) any complaints filed against the verifier since the last management
+report and the actions taken by the national accreditation body;
+```
+```
+(f) details of action taken by the national accreditation body in
+response to the information that is shared by the competent auth­
+ority, unless the national accreditation body has considered the
+information as a complaint within the meaning of Article 62.
+```
+```
+Article 72
+```
+```
+Information exchange on administrative measures
+```
+```
+If the national accreditation body has imposed administrative measures
+on the verifier pursuant to Article 54 or if a suspension of the accred­
+itation has been terminated or a decision on appeal has reversed the
+decision of a national accreditation body to impose administrative
+measures referred to in Article 54, the national accreditation body
+shall inform the following parties:
+```
+```
+(a) the competent authority of the Member State where the verifier is
+accredited;
+```
+```
+(b) the competent authority and the national accreditation body of each
+Member State where the verifier is carrying out verifications.
+```
+```
+Article 73
+```
+```
+Information exchange by the competent authority
+```
+1. The competent authority of the Member State where the verifier is
+carrying out the verification shall annually communicate to the national
+accreditation body which has accredited that verifier at least the
+following:
+
+```
+(a) relevant results from checking the operator's and aircraft operator's
+report and the verification reports, in particular of any identified
+non-compliance of that verifier with this Regulation;
+```
+```
+(b) results from the inspection of the operator or aircraft operator where
+those results are relevant for the national accreditation body
+concerning the verifier's accreditation and surveillance or where
+those results include any identified non-compliance of that verifier
+with this Regulation;
+```
+```
+(c) results from the evaluation of the internal verification documen­
+tation of that verifier where the competent authority has evaluated
+the internal verification documentation pursuant to Article 26(3);
+```
+```
+(d) complaints received by the competent authority concerning that
+verifier.
+```
+## ▼B
+
+
+2. Where the information referred to in paragraph 1 provides
+evidence that the competent authority has identified non-compliance
+of the verifier with this Regulation, the national accreditation body
+shall consider the communication of that information as a complaint
+by the competent authority concerning that verifier within the
+meaning of Article 62.
+
+```
+The national accreditation body shall take appropriate action to address
+such information and respond to the competent authority within a
+reasonable time, but no later than three months from the date of its
+receipt. The national accreditation body shall inform the competent
+authority in its response of the action taken by it and, where relevant,
+the administrative measures imposed on the verifier.
+```
+```
+Article 74
+```
+```
+Information exchange on surveillance
+```
+1. Where the national accreditation body of the Member State in
+which a verifier is performing a verification has been requested,
+pursuant to Article 50(5), to carry out surveillance activities, that
+national accreditation body shall report its findings to the national ac­
+creditation body that has accredited the verifier, unless otherwise agreed
+between both national accreditation bodies.
+2. The national accreditation body that has accredited the verifier
+shall take the findings referred to in paragraph 1 into account when
+assessing whether the verifier meets the requirements of this Regulation.
+3. Where the findings referred to in paragraph 1 show evidence that
+the verifier is not complying with this Regulation, the national accred­
+itation body that has accredited the verifier shall take appropriate action
+pursuant to this Regulation and shall inform the national accreditation
+body that has carried out surveillance activities on:
+
+```
+(a) what action has been taken by the national accreditation body that
+has accredited the verifier;
+```
+```
+(b) where appropriate, how the findings were resolved by the verifier;
+```
+```
+(c) where relevant, what administrative measures have been imposed on
+the verifier.
+```
+```
+Article 75
+```
+```
+Information exchange with a Member State where the verifier is
+established
+```
+```
+Where a verifier has been granted accreditation by a national accred­
+itation body in a Member State other than the Member State in which
+the verifier is established, the accreditation work programme and the
+management report referred to in Article 71, as well as the information
+referred to in Article 72, shall also be provided to the competent
+authority of the Member State in which the verifier is established.
+```
+## ▼B
+
+
+```
+Article 76
+```
+```
+Databases of accredited verifiers
+```
+1. National accreditation bodies, or where applicable national auth­
+orities referred to in Article 55(2), shall set up and manage a database
+and allow access to that database to other national accreditation bodies,
+national authorities, verifiers, operators, aircraft operators and competent
+authorities.
+
+```
+The body recognised under Article 14 of Regulation (EC) No 765/ 2008
+shall facilitate and harmonise access to the databases to enable efficient
+and cost-effective communication between national accreditation bodies,
+national authorities, verifiers, operators, aircraft operators and competent
+authorities, and may reconcile those databases into a single and
+centralised database.
+```
+2. The database referred to in paragraph 1 shall contain at least the
+following information:
+
+```
+(a) the name and address of each verifier accredited by that national
+accreditation body;
+```
+```
+(b) the Member States in which the verifier is carrying out verification;
+```
+```
+(c) each verifier's scope of accreditation;
+```
+```
+(d) the date on which the accreditation was granted and the expiry date
+of the accreditation;
+```
+```
+(e) any information on administrative measures that have been imposed
+on the verifier.
+```
+```
+The information shall be publicly available.
+```
+```
+Article 77
+```
+```
+Notification by verifiers
+```
+1. For the purposes of enabling the national accreditation body to
+draft the accreditation work programme and the management report
+referred to in Article 71, a verifier shall by 15 November of each
+year send the following information to the national accreditation body
+that has accredited that verifier:
+
+```
+(a) the planned time and place of the verifications that the verifier is
+scheduled to perform;
+```
+## ▼M1
+
+```
+(b) the address and contact details of the operators or aircraft operators
+whose emissions, tonne-kilometre reports, baseline data reports, new
+entrant data reports or annual activity level reports are subject to its
+verification;
+```
+## ▼B
+
+
+```
+(c) the names of the members of the verification team and the scope of
+the accreditation under which the operator's or aircraft operator's
+activity falls.
+```
+2. Where changes occur in the information referred to in paragraph 1,
+the verifier shall notify those changes to the accreditation body within a
+timeframe agreed with that national accreditation body.
+
+```
+CHAPTER VII
+```
+```
+FINAL PROVISIONS
+```
+```
+Article 78
+```
+```
+Repeal of Regulation (EU) No 600/2012 and transitional provisions
+```
+1. Regulation (EU) No 600/2012 is repealed with effect from
+1 January 2019 or the date of entry into force of this Regulation,
+whichever is the later.
+
+```
+References to the repealed Regulation shall be construed as references
+to this Regulation and read in accordance with the correlation table in
+Annex IV.
+```
+2. The provisions of Regulation (EU) No 600/2012 shall continue to
+apply to verification of emissions and, where applicable, activity data
+occurring prior to 1 January 2019.
+
+```
+Article 79
+```
+```
+Entry into force
+```
+```
+This Regulation shall enter into force on the day following that of its
+publication in the Official Journal of the European Union.
+```
+```
+It shall apply from 1 January 2019 or the date of entry into force of this
+Regulation, whichever is the later.
+```
+```
+This Regulation shall be binding in its entirety and directly applicable in
+all Member States.
+```
+## ▼B
+
+
+```
+ANNEX I
+```
+```
+Scope of accreditation for verifiers
+The scope of accreditation of verifiers shall be indicated in the accreditation
+certificate using the following groups of activities pursuant to Annex I to
+Directive 2003/87/EC and other activities pursuant to Articles 10a and 24 of
+Directive 2003/87/EC. Those provisions shall equally apply to verifiers
+certified by a national authority in accordance with Article 55(2) of this Regu­
+lation.
+```
+```
+Activity Group
+No. Scopes of Accreditation^
+```
+```
+1a Combustion of fuels in installations, where only commercial
+standard fuels as defined in Commission Implementing
+Regulation (EU) 2018/2066 are used, or where natural gas is
+used in category A or B installations.
+```
+```
+1b Combustion of fuels in installations, without restrictions
+```
+```
+2 Refining of mineral oil
+```
+```
+3 — Production of coke
+— Metal ore (including sulphide ore) roasting or sintering,
+including pelletisation
+— Production of pig iron or steel (primary or secondary
+fusion) including continuous casting
+```
+```
+4 — Production or processing of ferrous metals (including
+ferro-alloys)
+— Production of secondary aluminium
+— Production or processing of non-ferrous metals, including
+production of alloys
+```
+```
+5 Production of primary aluminium (CO 2 and PFC emissions)
+```
+```
+6 — Production of cement clinker
+— Production of lime or calcination of dolomite or magnesite
+— Manufacture of glass including glass fibre
+— Manufacture of ceramic products by firing
+— Manufacture of mineral wool insulation material
+— Drying or calcination of gypsum or production of plaster
+boards and other gypsum products
+```
+```
+7 — Production of pulp from timber or other fibrous materials
+— Production of paper or cardboard
+```
+```
+8 — Production of carbon black
+— Production of ammonia
+— Production of bulk organic chemicals by cracking,
+reforming, partial or full oxidation or by similar processes
+— Production of hydrogen (H 2 ) and synthesis gas by reforming
+or partial oxidation
+— Production of soda ash (Na 2 CO 3 ) and sodium bicarbonate
+(NaHCO 3 )
+```
+## ▼B
+
+
+```
+Activity Group
+No. Scopes of Accreditation^
+```
+```
+9 — Production of nitric acid (CO 2 and N 2 O emissions)
+— Production of adipic acid (CO 2 and N 2 O emissions)
+— Production of glyoxal and glyoxylic acid (CO 2 and N 2 O
+emissions)
+```
+```
+10 — Capture of greenhouse gases from installations covered by
+Directive 2003/87/EC for the purpose of transport and
+geological storage in a storage site permitted under
+Directive 2009/31/EC
+— Transport of greenhouse gases by pipelines for geological
+storage in a storage site permitted under Directive 2009/31/
+EC
+```
+```
+11 Geological storage of greenhouse gases in a storage site
+permitted under Directive 2009/31/EC
+```
+```
+12 Aviation activities (emissions and tonne-kilometre data)
+```
+```
+98 Other activities pursuant to Article 10a of Directive 2003/87/EC
+```
+```
+99 Other activities, included by a Member State pursuant to
+Article 24 of Directive 2003/87/EC, to be specified in detail
+in the accreditation certificate
+```
+## ▼B
+
+
+```
+ANNEX II
+```
+```
+Requirements on verifiers
+With respect to the requirements on verifiers, the harmonised standard pursuant
+to Regulation (EC) No 765/2008 concerning requirements for greenhouse gas
+validation and verification bodies for use in accreditation or other forms of
+recognition, shall apply. In addition, the following procedures, processes and
+arrangements referred to in Article 41(1), shall apply:
+(a) a process and policy for communication with the operator or aircraft operator
+and other relevant parties;
+(b) adequate arrangements to safeguard the confidentiality of information
+obtained;
+(c) a process for dealing with appeals;
+(d) a process for dealing with complaints (including indicative timescale);
+(e) a process for issuing a revised verification report where an error in the
+verification report or operator's or aircraft operator's report has been
+identified after the verifier has submitted the verification report to the
+operator or aircraft operator for onwards submission to the competent
+authority;
+(f) a procedure or process for outsourcing verification activities to other
+organisations ;
+```
+**▼M1**
+(g) a procedure or process to ensure that the verifier takes full responsibility for
+verification activities performed by contracted individuals;
+(h) processes ensuring the proper functioning of the management system as
+referred to in Article 41(2), including:
+i. processes for the review of management system at least once a year, not
+exceeding 15 months between management reviews;
+ii. processes for conducting internal audits at least once a year, not
+exceeding 15 months between internal audits;
+iii. processes for identifying and managing non-conformities in the verifier’s
+activities and taking corrective action to address those non-conformities;
+iv. processes for identifying risks and opportunities in verifier’s activities
+and taking preventive actions to mitigate those risks;
+v. processes for the control of documented information.
+
+## ▼B
+
+
+```
+ANNEX III
+```
+```
+Minimum requirements of the accreditation process and requirements on
+accreditation bodies
+With respect to the minimum requirements for accreditation, and the
+requirements for accreditation bodies, the harmonised standard pursuant to
+Regulation (EC) No 765/2008 concerning general requirements for accreditation
+bodies accrediting conformity assessment bodies shall apply.
+```
+## ▼B
+
+
+```
+ANNEX IV
+```
+```
+Correlation table
+```
+```
+Commission Regulation (EU) No 600/
+2012 This Regulation^
+```
+```
+Article 1 to 31 Article 1 to 31
+```
+```
+— Article 32
+```
+```
+Article 32 to 78 Article 33 to 79
+```
+```
+Annex I to III Annex I to III
+```
+```
+— Annex IV
+```
+## ▼B
+
+

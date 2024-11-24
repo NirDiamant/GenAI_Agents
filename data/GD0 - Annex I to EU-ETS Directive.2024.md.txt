@@ -1,0 +1,2869 @@
+```
+EUROPEAN COMMISSION
+DIRECTORATE-GENERAL
+CLIMATE ACTION
+Directorate B – Carbon Markets & Clean Mobility
+```
+# Guidance on Interpretation of Annex I of the
+
+# EU ETS Directive (excl. aviation and
+
+# maritime activities)
+
+# Update applicable from 2024
+
+**EU ETS Guidance document No. 0,
+Updated Version, 19 December 2023**
+
+This document is part of a series of documents provided by the Commission ser-
+vices for supporting the implementation of the EU ETS (the European Union
+Emission Trading System).
+
+The guidance represents the views of the Commission services at the time of
+publication. It is not legally binding.
+
+All guidance documents relating to the EU ETS can be downloaded from the
+Commission’s website at the following address:
+**https://climate.ec.europa.eu/eu-action/eu-emissions-trading-system-eu-
+ets_en**
+
+
+## Version History
+
+```
+Date Version status Remarks
+18 March 2010 published Endorsed by the Climate Change Committee
+Applicable from 2013 (Phase 3 of EU ETS)
+19 December
+2023
+```
+```
+re -published Update following the review of the EU ETS Di-
+rective by Directive (EU) 2023/959 (as part of
+the “Fit for 55” package)
+Applicable from 2024
+```
+
+## CONTENTS
+
+4.5.2 Identifying installations which fall under the scope of EU ETS,
+
+- 1 INTRODUCTION
+- 1.1 Status of this Guidance
+- 1.2 Scope of this Guidance
+- 1.3 What is new in this guidance?
+- 2 INSTALLATION
+- 2.1 General aspects
+- 2.2 Relation to other classifications of activities
+- 2.3 Various questions
+- 2.3.1 What is “stationary”?
+   - 2.3.2 Installation boundaries and treatment of associated activities
+- 2.3.3 Testing and research
+- 2.3.4 Does an installation have to emit greenhouse gases?
+- 2.3.5 What is an emission?
+- 3 DEFINITION OF ANNEX I ACTIVITIES
+- 3.1 Combustion activities
+- 3.2 Combustion vs. more specific activities
+- 3.2.1 Clause 4 of Annex I
+   - rated thermal input exceeding 20 MW 3.2.2 Specific activities with capacity threshold expressed as total
+- 3.3 Activity definitions applicable from
+- 3.4 Various interpretation issues.............................................
+- 3.4.1 What is “rated thermal input”
+- 3.4.2 Interpretation of “production or processing” of metals
+- 3.4.3 Waste incineration and co-incineration
+- 3.4.4 Waste (co-)incineration units
+- 3.4.5 Units using exclusively biomass............................................
+   - threshold 3.5 Options for installations falling below the 20 MW
+- 4 THE AGGREGATION RULE
+- 4.1 Capacity
+- 4.2 The aggregation clause
+- 4.3 Reserve and backup units and parallel capacities
+- 4.4 Definition of “Unit”
+- 4.5 Step-by-step approach (until end of 2025)
+- 4.5.1 Defining installations which fall under the scope of EU ETS
+   - Article but could be excluded as "small installations" pursuant to
+
+
+4.5.3 Identifying installations or units which could be excluded
+pursuant to Article 27a .......................................................... 29
+4.5.4 Examples ............................................................................... 29
+
+**5 OTHER TOPICS ......................................................... 31**
+
+**5.1 What are “bulk organic chemicals”? ................................ 31**
+
+**5.2 Glyoxal and glyoxylic acid ................................................. 32**
+
+**5.3 Nitric acid, adipic acid, glyoxal and glyoxalic acid .......... 32**
+
+**5.4 Production of primary and secondary aluminium ........... 32**
+
+**5.5 Definition of hospital .......................................................... 33**
+
+**5.6 Flue gas desulphurisation .................................................. 33**
+
+**6 MUNICIPAL WASTE INCINERATION – APPLICABLE
+FROM 2024 ................................................................ 34**
+
+**6.1 What are installations for the incineration of municipal
+waste .................................................................................... 35**
+
+**6.2 MWI-associated activities and aggregation clause ......... 38**
+
+**6.3 Units for the incineration of hazardous or municipal
+waste .................................................................................... 39**
+
+**6.4 How to implement the inclusion for MRV only ................. 40**
+
+**7 CHANGES APPLICABLE FROM 2026 ...................... 41**
+
+**7.1 The biomass criterion from 2026 onwards ....................... 41**
+
+7.1.1 Assessing the biomass criterion for incumbent installations. 42
+7.1.2 Assessing installation not previously included in the EU ETS
+............................................................................................... 44
+
+**7.2 New step-by-step approach regarding aggregation of
+combustion units ................................................................ 46**
+7.2.1 Defining installations which fall under the scope of EU ETS 46
+
+7.2.2 Identifying installations which fall under the scope of EU ETS,
+but could be excluded as "small installations" pursuant to
+Article 27 ............................................................................... 47
+7.2.3 Identifying installations or units which could be excluded
+pursuant to Article 27a .......................................................... 48
+
+**8 ANNEX ....................................................................... 49**
+
+**8.1 Glossary ............................................................................... 49**
+
+**8.2 Annex I of the revised ETS-directive (excluding maritime
+and aviation activities) ........................................................ 50**
+
+
+## 1 INTRODUCTION
+
+## 1.1 Status of this Guidance
+
+This guidance was drafted by consultants in close cooperation with the European
+Commission, taking into account input received from Member State experts. It
+takes into account the discussions within the Technical Working Group on Moni-
+toring, Reporting, Verification and Accreditation (TWG MRVA) and the Climate
+Change Expert Group (CCEG) general and free allocation formations, as well as
+written comments received from stakeholders and experts from Member States.
+It was endorsed by the members of the TWG MRVA in a meeting on
+15 December 2023.
+
+```
+The guidance reflects the status of the EU ETS Directive^1 , following 2023 re-
+vision, as in force on 5 June 2023^2. The majority of the amendments applies
+from 1 January 2024. The provisions related to the deletion of the concept of
+electricity generators and the change of the criterion for excluding biomass
+installations apply from 1 January 2026^3. They will have to be taken into ac-
+count in the National Implementation Measures (NIMs)^4 notification in 2024,
+which applies to the period 2026 to 2030.
+Therefore, this document is structured as follows:
+ Chapters 2 to 5 cover the current situation a nd will continue to apply, w ith
+the exception of the biomass rules (sections 3.4.5 and 4.5) which apply until
+end 2025.
+ Chapter 6 deals with the obligation of installations for the incineration of mu-
+nicipal waste to carry out Monitoring, Reporting and Verification (MRV) from
+1 January 2024.
+ Chapter 7 gives guidance to the rules on exclusion of biomass installations
+and a “decision tree” for compiling the NIMs List in 2024 to be applied to
+installations for the period 2026 to 2030.
+```
+Previous guidance documents provided by the Commission regarding the scope
+of the EU ETS for installations are not applicable anymore.
+
+The guidance represents the views of the Commission services at the time of
+publication. It is not legally binding. O nly the European Court of Justice can give
+definitive judgements concerning interpretation of the EU ETS Directive.
+
+(^1) Directive 2003/87/EC of the European Parliament and of the Council of 13 October 2003 establish-
+ing a system for greenhouse gas emission allowance trading within the Union and amending Coun-
+cil Directive 96/61/EC
+(^2) I.e. including the latest updates by:
+Directive (EU) 2023/958 (for aviation), **[http://data.europa.eu/eli/dir/2023/958/oj](http://data.europa.eu/eli/dir/2023/958/oj)** , and
+Directive (EU) 2023/959, **[http://data.europa.eu/eli/dir/2023/959/oj](http://data.europa.eu/eli/dir/2023/959/oj)**.
+The consolidated version of the Directive is available from: **https://eur-lex.europa.eu/legal-con-
+tent/EN/TXT/?uri=CELEX%3A02003L0087- 20230605**
+(^3) Article 4 of Directive (EU) 2023/
+(^4) Article 11(1) requires the Member States to notify “NIMs” (National Implementation Measures) to
+the Commission, including a list of installations and free allocation levels for the next allocation
+period. Deadline for this notification for the period 2026 to 2030 is 30 September 2024.
+**_Development
+Update Status 2023
+Document structure_**
+
+
+## 1.2 Scope of this Guidance
+
+```
+This guidance does not give instructions regarding the procedures that Member
+States apply when issuing GHG emissions permits. T he approach to setting the
+installation boundaries laid down in GHG emissions permits differ between Mem-
+ber States. Therefore, no further guidance is given on the definitions of "operator"
+and "site". In some Member States, industrial sites (e.g. in the chemical industry)
+receive one overarching GHG emissions permit for the total site and are thus
+regarded as a single installation, whereas in other Member States, the same site
+could receive separate GHG emissions permits and thus be seen as more than
+a single installation.
+For example, industrial combined heat and power (CHP) installations in one
+Member State will operate under a separate GHG emissions permit, while in other
+Member States they will operate under an integrated GHG emissions permit to-
+gether with the industrial installation to which this CHP plant delivers its heat. As
+a result of these different approaches, a full harmonisation of permitting proce-
+dures is outside the scope of this guidance.
+```
+```
+This guidance only deals with the EU ETS scope with regards to stationary in-
+stallations. For guidance on the scope regarding aviation activities, see Commis-
+sion Decision 2009/450/EC^5 and MRR Guidance Document No. 2 (“General guid-
+ance for Aircraft Operators”)^6. Out of scope of this document are furthermore
+maritime transport activities and the activities covered by Annex III of the Directive
+(i.e. the emissions trading system for buildings, road transport and additional sec-
+tors (ETS2).
+```
+```
+Note: All references to articles or annexes in this document refer to the EU
+ETS Directive, unless other legal acts are explicitly specified.
+See consolidated text: https://eur-lex.europa.eu/legal-con-
+tent/EN/TXT/?uri=CELEX%3A02003L0087- 20230605
+For the purposes of this Guidance Document, EU ETS refers to the emission
+trading system for stationary installations ( i.e. installations covered by Chapter
+III of the EU ETS Directive).
+```
+(^5) Commission Decision of 8 June 2009 on the detailed interpretation of the aviation activities listed in
+Annex I to Directive 2003/87/EC of the European Parliament and of the Council.
+(^6) **https://climate.ec.europa.eu/system/files/2023-05/gd2_guidance_aircraft_en.pdf**
+**_Permitting
+unchanged
+Only stationary
+installations
+EU ETS Directive_**
+
+
+## 1.3 What is new in this guidance?
+
+This guidance has been updated in 2023 to take into account the review of the
+EU ETS Directive by Directive (EU) 2023/959, and other issues (e.g. updating
+references to legislation). The structure of the document has been kept to the
+extent possible. New chapters or sections have been added to highlight specific
+new elements as follows:
+
+ From 1 January 2024, some new definitions of activities of Annex I apply. They
+have been compiled in a new section 3.3.
+
+ From 1 January 2024, installations for the incineration of municipal waste are
+included in the EU ETS, but only for the purpose of monitoring, reporting and
+verification, without an obligation to surrender allowances for the emissions
+reported. Guidance on how to identify installations concerned is given in chap-
+ter 6. However, as _co-incineration_ of waste was already fully included in the
+EU ETS before 2024, the respective parts of the guidance (sections 3.4.3 and
+3.4.4) are kept and supplement the new part of the document.
+
+ From 2026, the rules on the exclusion from the EU ETS of installations using
+predominantly biomass will be significantly changed, with a lower threshold
+(95% instead of ‘exclusive’ use) and requiring that the biomass complies with
+the sustainability and greenhouse gas savings criteria put forward by the RED
+II (Renewable Energy Directive). Guidance on how to implement this new ap-
+proach is given in section 7.1.
+
+ The step-by-step approach given in section 4.5 for applying the “aggregation
+clause” remains valid until end 2025. A new version of this “decision tree” is
+presented in section 7.2 for application from 2026 onwards.
+
+ The new version of Annex I of the EU ETS Directive is appended to this docu-
+ment.
+
+
+## 2 INSTALLATION
+
+## 2.1 General aspects
+
+```
+The EU ETS Directive refers in several instances to "installations". The term “in-
+stallation” is defined in Article 3(e) as:
+‘installation’ means a stationary technical unit where one or more activities
+listed in Annex I are carried out and any other directly associated activities
+which have a technical connection with the activities carried out on that site
+and which could have an effect on emissions and pollution;
+Member States shall ensure that no installation carries out any activity listed in
+Annex I unless its operator holds a GHG emissions permit (Article 4)^7 , or the
+installation has been excluded from the EU ETS pursuant to Articles 27 or
+27a(1)^8.
+The GHG emissions permit must contain a description of the activities and emis-
+sions from the installation as well as a monitoring plan. Changes in installation
+boundaries laid down in existing permits or new GHG emissions permits could be
+necessary as a consequence of the changes to Annex I in the EU ETS Directive.
+Accordingly, also changes in the monitoring plan or new monitoring plans may
+have to be submitted to competent authorities for approval.
+To avoid changing the GHG emissions permit too frequently due to changes
+within the monitoring plan, Member States may allow operators to change the
+monitoring plan without changing the permit (Article 6(2)(c)). Furthermore, Arti-
+cles 15 and 16 of the Monitoring and Reporting Regulation (MRR^9 ) provide rules
+on updating monitoring plans (see also section 5.6 of MRR GD1^10 ).
+Where several installations are operated by the same operator at the same site,
+these installations may be covered by one GHG emissions permit (Article 6(1)).
+It should be noted that in applying the Union-wide rules for transitional harmo-
+nised free allocation under Article 10a, it might have several advantages to define
+installations boundaries as broadly as possible. Especially in the case of several
+installations at the same site transferring heat one to another, application of the
+Union-wide rules will become simpler if there is a common GHG emissions per-
+mit.
+The competent authority decides whether an “associated activity” is to be in-
+cluded in the installation’s boundaries. For combustion units, there is a specific
+clause in Annex I of the EU ETS Directive (see section 2.3.2) for this purpose.
+```
+(^7) For installations for the incineration of municipal waste included from 2024 for MRV purposes only,
+there is no obligation for Member States to issue a permit. For details, see section 6.4.
+(^8) For small installations excluded from the EU ETS pursuant to Articles 27 and 27a(1), and in order
+to ensure that monitoring and reporting arrangements in accordance with Article 14 still apply for
+those installations, a Member State may also require that small installations hold a GHG emissions
+permit, even when excluded from the EU ETS.
+(^9) Commission Implementing Regulation (EU) 2018/2066 of 19 December 2018 on the monitoring and
+reporting of greenhouse gas emissions pursuant to Directive 2003/87/EC of the European Parlia-
+ment and of the Council and amending Commission Regulation (EU) No 601/2012, consolidated
+version: **[http://data.europa.eu/eli/reg_impl/2018/2066/2022-08-](http://data.europa.eu/eli/reg_impl/2018/2066/2022-08-) 28**
+(^10) MRR Guidance Document No.1 (“General guidance for installations”), **https://climate.ec.eu-
+ropa.eu/system/files/2023-03/gd1_guidance_installations_en.pdf**
+**_Installation
+definition
+Relationship of GHG
+emissions permit
+and monitoring plan
+Advantage of broad
+installation
+boundaries
+Associated activity_**
+
+
+Furthermore, the criteria given by the definition of “installation” (see above) for
+defining directly associated activities are:
+
+ The directly associated activity has a technical connection to the activities
+listed in Annex I; and
+
+ There could be an effect on the (GHG) emissions of the installation.
+
+If there cannot be an impact on the GHG emissions or there is no technical con-
+nection, the associated activity should not be included in the permit/monitoring
+plan. I f there could be GHG emissions, the criterion of having a “technical con-
+nection” requires further considerations, like for example:
+
+ Is the associated activity a necessary part of the production process otherwise
+covered by an Annex I activity? If the production is not possible without the
+associated activity (e.g. if it concerns the supply with necessary inputs (pres-
+surised air) or if the product is not saleable without the associated activity (e.g.
+packaging of products), this is a confirmation that the associated activity is part
+of the installation.
+
+ Technical connections involve but are not limited to all kinds of (stationary)
+conveyors and pipeline for transporting materials and goods, fuels, heat media
+etc. between technical units. Cables for the transport of electrical energy and
+information may also be considered technical connections if their interruption
+would lead to a necessary stop of the production process.
+
+One installation can have only one operator. For being part of the installation, it
+is therefore a requirement that the associated activity is under the control^11 of the
+same operator. Where there are two different operators, the parts operated by
+each operator must be identified as separate installations. The mere ownership
+of an installation or unit within an installation is not the decisive criterion. In this
+regard, units of different ownership that are technically connected and are effec-
+tively run by one operator with decisive economic power over the technical func-
+tioning of these units should be included under the same GHG emissions permit.
+
+All directly associated activities identified here will have to be taken into account
+for the purpose of clauses 3 and 5 of Annex I (see section 4.2 and the step-by-
+step approach in sections 4.5 and 0).
+
+## 2.2 Relation to other classifications of activities
+
+When determining the coverage of the EU ETS (and compiling the full list of in-
+stallations covered), the activities listed in Annex I of the EU ETS Directive are
+the only relevant criteria.
+
+However, it may be useful to consult other lists of installations based on other
+classifications like NACE or Annex I of the Industrial Emissions Directive (IED)
+with some reservations.
+
+While NACE is used for identification of the sectors or subsectors exposed to a
+significant risk of carbon leakage, NACE can only give a first rough estimate
+where to find EU ETS installations. Most installations covered by t he EU ETS will
+
+(^11) The EU ETS Directive, Article 3(f) defines: “ _‘operator’ means any person who operates or controls
+an installation or, where this is provided for in national legislation, to whom decisive economic power
+over the technical functioning of the installation has been delegated”._
+**_One installation,
+one operator
+Activity is not a
+sector classification_**
+
+
+```
+be found in the NACE categories^12 B (Mining and quarrying), C (Manufacturing)
+and D (Electricity, gas and steam and air conditioning supply). However, the ac-
+tivity “combustion of fuels” can occur in all types of NACE categories, not only
+industrial ones. Examples of such non-industrial installations are combustion
+units in greenhouses, hospitals, universities and office buildings, booster stations
+in natural gas transport networks etc. Thus, performing an “industrial activity” is
+not the determining factor for deciding whether an installation falls under the
+scope of the EU ETS.
+Several activities of Annex I of the EU ETS Directive are not identical to those in
+Annex I of the IED^13. In several cases, the EU ETS-related installation boundaries
+may deviate from the IED-related installation boundaries (e.g., regarding waste
+water plants, on-site landfills, etc.). Also, the EU ETS Directive’s aggregation
+clause for combustion installations (see chapter 4) differs from the IED. While a
+list of IED installations might give a good first estimate, each installation has to
+be assessed individually regarding inclusion in the EU ETS.
+```
+## 2.3 Various questions
+
+## 2.3.1 What is “stationary”?
+
+```
+Every technical unit that is connected to the installation and serves a purpose,
+which usually requires the unit to be stationary during operation, is considered
+part of that installation. For example, some types of installations are stationary
+only for a period of time such as LNG terminals^14 and asphalt plants and can be
+moved to another place. During operation, however, they are stationary. The
+GHG emissions permit should clearly identify such units as part of the installation.
+Furthermore, emergency and backup electricity generators may be installed in
+movable containers but cannot be removed from the installation for safety rea-
+sons. Such units should be considered “stationary”.
+Also, testing stands for motors, turbines and equivalent products should be con-
+sidered stationary. Even though the tested products are removed after the test,
+the production equipment such as fuel supply and exhaust stack are stationary^15
+and should be considered integral part of the installation.
+The “stationary” definition does not include mobile machinery and vehicles (e.g.
+trucks, forklifts, bulldozers, company cars, etc.), which are mobile at the moment
+of performing their tasks. However, their fuel consumption and emissions will be
+included in the ETS2 when they are used for activities listed in Annex III of the
+EU ETS Directive or for activities included by the Member State in accordance
+with Article 30j of the Directive^16.
+```
+(^12) According to NACE rev.2, **https://ec.europa.eu/eurostat/documents/3859598/5902521/KS-RA-
+07-015-EN.PDF**
+(^13) Bulk organic chemicals, ceramics, etc.
+(^14) Note: Where the LNG terminal or other offshore installations such as oil rigs are installed on a ship,
+the emissions from the ship’s engine would be covered by the EU ETS for maritime transport while
+it is mobile. However, if the ship’s engine is used during stationary mode (e.g. for the production of
+electricity or heating, its emissions are to be included in the GHG permit which it requires for being
+stationary.
+(^15) Note that such testing stands could be considered as “units” (see section 4.4) if separately useable,
+and could fall under the 3 MW de-minimis rule of clause 3.
+(^16) A separate guidance document for the ETS2 will be published.
+**_Scope different
+from IED
+Stationary, but not
+permanent
+Mobile machinery_**
+
+
+It should be noted that Chapter III “Stationary installations” of the EU ETS Di-
+rective applies to all the activities listed in Annex I other than aviation activities
+and maritime transport activities. This includes the activity “Transport of green-
+house gases for geological storage in a storage site permitted under Directive
+2009/31/EC, with the exclusion of those emissions covered by another activity
+under this Directive” although it may include non-stationary elements in the chain
+of custody. The exclusion of those emissions covered by another activity means
+that the emissions from the combustion of fuels in maritime transport and in road
+transport (e.g. trucks) would be covered respectively by the maritime activity and
+by the ETS2 activity once it starts. Before the start of ETS2, the emissions from
+road transport should be covered by the existing EU ETS (rules are under devel-
+opment).
+
+```
+2.3.2 Installation boundaries and treatment of associated activi-
+ties
+```
+The installation boundaries should be set as broad as possible. This is supported
+by clause 5 of Annex I:
+
+```
+“When the capacity threshold of any activity in this Annex is found to be
+exceeded in an installation, all units in which fuels are combusted, other than
+units for the incineration of hazardous or municipal waste, shall be included
+in the greenhouse gas emission permit.”
+```
+This also gives an indication that ‘directly associated activities’, as mentioned in
+the definition of installation, are primarily combustion units. Other activities which
+do not emit GHGs but may be relevant under the IED because of the emission of
+other pollutants, are often irrelevant under the EU ETS.
+
+Small units such as heaters for office buildings belonging to the site should be
+considered part of the installation and should be included in the GHG emissions
+permit.
+
+In relation to the phrase “ _other than units for the incineration of hazardous or
+municipal waste_ ” see sections 3.4.3 and 3.4.4 as well as chapter 6.
+
+## 2.3.3 Testing and research
+
+Clause 1 of Annex I states:
+
+```
+“Installations or parts of installations used for research, development and
+testing of new products and processes are not covered by this Directive.”
+```
+Pure research operations (like pilot scale or even small plants) can usually be
+identified based on their environmental permits or other types of written opinion
+given by the competent authority (as far as required by national legislation). The
+production of goods (even if they are saleable) is not the main purpose of such
+installations or technical units. Such installations or parts of installations should
+not be included when calculating the capacity of an installation for the purpose of
+deciding its inclusion in the EU ETS.
+
+“Testing of new products and processes” is often carried out for a limited period
+of time (some hours up to several days) in existing, commercial scale installa-
+
+```
+Use broadest
+installation
+boundaries
+```
+```
+Research
+```
+
+```
+tions. This includes optimisation tests, the test of new raw materials or the pro-
+duction of new grades of products. Such occasional tests are to be understood
+as business as usual for normal industrial operations and cannot, therefore, be
+understood as a reason for exclusion of the whole installation from the EU ETS,
+nor when calculating the capacity (rated thermal input or production capacity) of
+an installation.
+Another type of test is the period of pre-commissioning or start-up operations of
+new installations or after significant technical changes in existing installations.
+Such pre-commissioning or start-up operations are an integral part of the opera-
+tion of installations, and must therefore be covered fully by the GHG emissions
+permit and the monitoring plan. However, precise monitoring may sometimes be
+difficult as long as the construction of the installation is not finalised. The MRR
+requires^17 completeness of monitoring of all emissions including non-typical situ-
+ations such as during start-up. It also covers the commissioning phase^18. As for
+permitting in general (see section 1.2), it is left to the national permitting practice
+and the judgment of the competent authority, whether it may be acceptable if a
+simplified monitoring plan (low tier approaches or the fall-back approach should
+be applicable) is approved by the competent authority until the full regular oper-
+ation starts. It should be ensured that low tier approaches do not lead to an un-
+derestimation of emissions.
+```
+## 2.3.4 Does an installation have to emit greenhouse gases?
+
+```
+Article 2(1), first sentence, describes the scope of the EU ETS Directive as “ This
+Directive shall apply to the activities listed in Annexes I and III, and to the green-
+house gases listed in Annex II. ”^19 This clarifies that the activity carried out in an
+installation (and meeting its threshold, if applicable) is the relevant criterion for
+inclusion in the EU ETS, not whether the installation actually emits greenhouse
+gases covered by the Directive. In this context, note section 3.5 on the option for
+installations to remain in the EU ETS if falling below the 20 MWth threshold, and
+section 3.3 on updated activity definitions in Annex I of the EU ETS Directive.
+```
+(^17) Last subparagraph of Article 20(1) of the MRR: “ _The operator shall also include emissions from
+regular operations and abnormal events, including start-up, shut-down and emergency situations,
+over the reporting period, with the exception of emissions from mobile machinery for transportation
+purposes._ ”
+(^18) European Court of Justice (case C 457/15), Vattenfall Europe Generation AG vs Bundesrepublik
+Deutschland: The ruling finds that emissions generated during other abnormal events, such as
+those produced during the trial period of an installation before the start of normal operation, must
+also be taken into account for the purposes of the monitoring and reporting of emissions.
+(^19) In accordance with the 2023 amendments of the EU ETS Directive, which introduced the quoted
+wording replacing “This Directive shall apply to emissions from the activities...”. Note that this
+amendment impacts the interpretation made in case C-577/16, judgment of the European Court of
+Justice of 28 February 2018, Trinseo Deutschland Anlagengesellschaft mbH vs. Bundesrepublik
+Deutschland.
+**_Commissioning
+New: zero-emission
+installations
+possible_**
+
+
+## 2.3.5 What is an emission?
+
+The 2023 amendment of the EU ETS Directive updated the definition of ‘emis-
+sions’ in Article 3(b) as follows: “‘ _Emissions’ means the release of greenhouse
+gases into the atmosphere from sources in an installation or the release from an
+aircraft performing an aviation activity listed in Annex I or from ships performing
+a maritime transport activity listed in Annex I of the gases specified in respect of
+that activity, or the release of greenhouse gases corresponding to the activity
+referred to in Annex III”_ ;
+
+The deletion of “into the atmosphere” in the definition does not impact whether
+an installation should be included in the EU ETS or the installation boundaries.
+However, it paves the way to a consistent treatment of CO 2 transfer and carbon
+capture and utilisation (CCU) activities (Article 12(3b) of the EU ETS Directive).
+
+
+## 3 DEFINITION OF ANNEX I ACTIVITIES
+
+## 3.1 Combustion activities
+
+```
+The EU ETS uses a broad definition of combustion activities:
+“‘combustion’ means any oxidation of fuels, regardless of the way in
+which the heat, electrical or mechanical energy produced by this process
+is used, and any other directly associated activities, including waste gas
+scrubbing”.
+Although not explicitly stated by the Directive, but within the same spirit of unam-
+biguous broadness, “fuel” for the purpose of the EU ETS for installations^20 should
+be defined as “any solid, liquid or gaseous combustible material”^21.
+Gasification is an oxidation process even though less than the stoichiometric
+amount of oxygen is used. In pyrolysis, heat has to be fed into the process and
+oxygen is usually absent. The gaseous products of pyrolysis and gasification are
+usually used as fuel onsite. Thus, the existence of combustion can be assumed.
+The definition of combustion is applicable to all kind of economic activities, in-
+cluding industrial activities listed in Annex I to the EU ETS Directive as well as
+non-listed ones (e.g. asphalt mixing, textiles production...), as well as to the ser-
+vice sector (see section 2.2), no matter if there is direct heat use (e.g. in a steel
+reheating furnace) or if a heat transfer medium (steam, hot water etc.) is used.
+Even if the generated heat is not used at all (flares and in some post-combustion
+units^22 ), the fact of combustion will lead to an inclusion in the EU ETS, since the
+combustion definition clarifies that combustion is found “regardless of the way in
+which the heat, electrical or mechanical energy produced by this process is used”.
+Furthermore, all combustion units are included of which only the mechanical en-
+ergy is used without use of heat or generation of electricity. This applies e.g. to
+pipeline booster stations and other compressors directly driven by turbines or en-
+gines.
+The fact that the definition is very broad is supported by clause 3 of Annex I,
+which gives a non-exhaustive list of types of combustion units, that includes
+“all types of boilers, burners, turbines, heaters, furnaces, incinerators, cal-
+ciners, kilns, ovens, dryers, engines, fuel cells, chemical looping combustion
+units, flares, and thermal or catalytic post-combustion units.”
+As a further consequence of the definition of combustion, associated activities
+are relevant not only in the context of installation boundaries, but also within the
+activity “combustion of fuels”. This clarifies that process emissions may occur as
+part of combustion activities^23 , especially CO 2 emissions from desulphurisation,
+from deNOx units (e.g. when urea is used as reductant), etc.^24
+```
+(^20) The Directive contains a different definition for ‘fuel’ for the purpose of the ETS2.
+(^21) This is the same definition as in IED Article 3(24).
+(^22) Note that no distinction can be justified between the gases flared and the auxiliary fuel.
+(^23) See also Section 1 of Annex IV of the MRR.
+(^24) The MRR contains specific rules for monitoring of these combustion-associated process emissions.
+They are furthermore included in the calculation of the heat and fuel benchmarks according to the
+FAR (Free Allocation Rules), Commission Delegated Regulation (EU) 2019/331,
+**[http://data.europa.eu/eli/reg_del/2019/331/oj](http://data.europa.eu/eli/reg_del/2019/331/oj)**
+**_Codified broad
+definition
+Sector-independent
+Flue gas treatment_**
+
+
+## 3.2 Combustion vs. more specific activities
+
+## 3.2.1 Clause 4 of Annex I
+
+Eleven activities are listed in Annex I for which the capacity threshold (if any) is
+not expressed as total rated thermal input, but as "production capacity", "melting
+capacity" or just "capacity". These activities are:
+
+_Table 1: Activities of which the capacity threshold is not expressed as total rated
+thermal input (Applicable from 1 January 2024)_
+
+```
+Activities Relevant
+capacity
+```
+```
+Relevant capacity
+threshold to be ex-
+ceeded
+Production of iron or steel (primary or
+secondary fusion) including continuous
+casting
+```
+```
+Capacity 2,5 tonnes per hour
+```
+```
+Production of cement clinker Production
+capacity
+```
+```
+500 tonnes per day
+(when in rotary kilns)
+50 tonnes per day
+(when in other furnaces)
+Production of lime or calcination of dolo-
+mite or magnesite
+```
+```
+Production
+capacity
+```
+```
+50 tonnes per day
+```
+```
+Manufacture of glass including glass fibre Melting
+capacity
+```
+```
+20 tonnes per day
+```
+```
+Manufacture of ceramic products by fir-
+ing, in particular roofing tiles, bricks, re-
+fractory bricks, tiles, stoneware or porce-
+lain
+```
+```
+Production
+capacity
+```
+```
+75 tonnes per day
+```
+```
+Manufacture of mineral wool insulation
+material using glass, rock or slag
+```
+```
+Melting
+capacity
+```
+```
+20 tonnes per day
+```
+```
+Drying or calcination of gypsum or pro-
+duction of plaster boards and other gyp-
+sum products, with a of calcined gypsum
+or dried secondary gypsum
+```
+```
+Production ca-
+pacity
+```
+```
+20 tonnes per day
+```
+```
+Production of paper or cardboard Production
+capacity
+```
+```
+20 tonnes per day
+```
+```
+Production of carbon black involving the
+carbonisation of organic substances such
+as oils, tars, cracker and distillation resi-
+dues
+```
+```
+Production ca-
+pacity
+```
+```
+50 tonnes per day
+```
+```
+Production of bulk organic chemicals by
+cracking, reforming, partial or full oxida-
+tion or by similar processes
+```
+```
+Production
+capacity
+```
+```
+100 tonnes per day
+```
+```
+Production of hydrogen (H 2 ) and synthe-
+sis gas
+```
+```
+Production
+capacity
+```
+```
+5 tonnes per day
+```
+Clause 4 of Annex I stipulates:
+
+```
+“If a unit serves an activity for which the threshold is not expressed as total
+rated thermal input, the threshold of this activity shall take precedence for
+the decision about the inclusion in the EU ETS.”
+```
+```
+Activities with
+production
+thresholds
+```
+
+This clause stipulates that the activity-specific capacity thresholds mentioned in
+Table 1 shall take precedence (above the total rated thermal input capacity
+threshold) for the decision about the inclusion in the EU ETS. That activity-spe-
+cific capacity threshold only takes precedence and does not exclude the applica-
+tion of another threshold expressed as total rated thermal input.
+
+In some cases, a unit can be assigned to two different categories of activity, e.g.,
+a furnace used for production of glass, which can be considered a combustion
+unit (where the threshold for all combustion units is expressed as total rated ther-
+mal input) or a unit dedicated to the activity “manufacture of glass” (where the
+threshold is _not_ expressed as total rated thermal input but as daily tonnage). In
+such a case:
+
+1. If both thresholds are exceeded in the installation, then the threshold not ex-
+    pressed as total rated thermal input takes precedence over the other, and the
+    installation is included in the EU ETS as performing the activity corresponding
+    to that threshold (i.e. as performing “manufacture of glass” in the example
+    mentioned above). The activity under which the installation is included in the
+    EU ETS may be relevant for different reasons:
+
+ (^) regarding the information to be submitted to open the operator holding ac-
+count;
+ regarding the content of the GHG emissions permit;
+ regarding the determination of the possibility of exclusion as small emitter
+(see section 4.5.2).
+
+2. If only one of the thresholds is exceeded in the installation (e.g. the 20 MW
+    total rated thermal input threshold), the installation is included in the EU ETS
+    as performing the related activity (in this example as performing the activity
+    “combustion of fuels”).
+3. If none of the thresholds are exceeded in the installation, then the installation
+    is not included in the EU ETS.
+
+**Example:** An installation producing ceramic products operates 3 units: two ce-
+ramics kilns and one CHP plant.
+
+If the ceramics installation exceeds the threshold of 75 tonnes per day, the instal-
+lation is to be included in the EU ETS. In the GHG emissions permit, the Annex I
+activity "Manufacture of ceramic products" must be listed. Regardless of the total
+rated thermal input of the CHP plant, this unit must also be included in the GHG
+emissions permit (and/or in the monitoring plan), following clause 5 of Annex I^25.
+A special situation occurs if the CHP plant alone exceeds the 20 MW threshold
+for the rated thermal input. In such case, the Annex I activity "Combustion of fuels"
+should also be listed in the GHG emissions permit.
+
+If the ceramics installation does not exceed the threshold of 75 tonnes per day,
+the assessment must continue to confirm if the activity “combustion of fuels” is
+carried out at that installation. If it exceeds 20 MW, this installation is included in
+the EU ETS. The activity listed in the GHG emissions permit is then “Combustion
+of fuels”.
+
+(^25) “ _When the capacity threshold of any activity in this Annex is found to be exceeded in an installation,
+all units in which fuels are combusted, other than units for the incineration of hazardous or municipal
+waste, shall be included in the greenhouse gas emission permit._ ”
+
+
+```
+3.2.2 Specific activities with capacity threshold expressed as to-
+tal rated thermal input exceeding 20 MW
+```
+There are four activities (besides “Combustion of fuels”) listed in Annex I of which
+the specific activity is combined with a capacity threshold expressed as "where
+combustion units with a total rated thermal input exceeding 20 MW are operated"
+(see Table 2).
+
+These activities could have been included in Annex I as the “combustion of fuels”
+activity only since the broad combustion definition would be sufficient for their
+inclusion. However, these activities (e.g. ferrous and non-ferrous metals pro-
+cessing) can also give rise to process emissions (e.g. from reduction agents,
+graphite electrodes etc.), which would not be included in the EU ETS when these
+activities would only fall under the “combustion of fuels” activity alone^26. The sep-
+arate listing of these activities in Annex I together with the 20 MW capacity thresh-
+old makes it clear that all emissions stemming from the respective activity are
+included in the EU ETS, not only those relating to combustion.
+
+_Table 2: Specific activities in Annex I combined with a capacity threshold expressed
+as ”where combustion units with a total rated thermal input exceeding
+20 MW are operated”, applicable from 1 January 2024_
+
+```
+Activities
+Refining of oil
+Production or processing of ferrous metals (including ferro-alloys). Processing includes,
+inter alia, rolling mills, re-heaters, annealing furnaces, smitheries, foundries, coating and
+pickling
+Production of secondary aluminium
+Production or processing of non-ferrous metals, including production of alloys, refining,
+foundry casting, etc.
+```
+Another issue arising from these “pseudo-combustion” activities is the aggrega-
+tion of units belonging to separate activities. As an example, we use a foundry
+which produces parts from cast iron (using combustion units of 15 MW installed
+capacity) and from brass (again 15 MW installed). Here the two activities “pro-
+duction or processing of ferrous metals” and “production or processing of non-
+ferrous metals” are carried out, but each stays below the individual capacity
+threshold. However, in this example the “precedence clause” (clause 4 of An-
+nex I) does not apply, since both activities have capacity thresholds expressed
+as total rated thermal input. Thus, all units involved in the two activities must be
+considered units for the activity “combustion of fuels”, and all the capacities
+should be added together. This gives a rated thermal input of 30 MW, and the
+installation is included in the EU ETS with the activity “combustion of fuels”.
+
+(^26) As mentioned in the last paragraph of section 3.1, some process emissions can be part of the
+combustion activity itself, limited to process emissions from flue-gas scrubbing.
+**_Activities which can
+be treated like
+combustion
+Example: Metals
+processing_**
+
+
+```
+Note that the review of the EU ETS Directive in 2023 resulted in a rule which
+allows installations falling below the 20 MW threshold to remain in the EU ETS
+for some years. Details are given in section 3.5.
+```
+## 3.3 Activity definitions applicable from
+
+```
+As a consequence of the amendments^27 made to the EU ETS Directive in 2023,
+competent authorities will have to revise the list of installations covered in their
+Member States from 1 January 2024. There may be cases where additional in-
+stallations will fall under the EU ETS, or where installations do not fall under the
+EU ETS anymore. The following factors need to be taken into account:
+ Installations that carry out activities which have not been included before may
+have to be included (see below – in particular regarding production of iron other
+than pig iron, alumina, refining of non-mineral oil);
+ For some activities, the threshold for inclusion has changed (also discussed
+below), which may lead to both inclusions or exclusions of installations;
+ Installations, which carry out Annex I activities, may have to be included even
+though they do not emit greenhouse gases (see section 2.3.4), or even though
+they have dropped below the 20 MW thermal input threshold (see section 3.5);
+ The coverage of installations for the incineration of municipal waste for the
+purpose of monitoring and reporting as discussed in chapter 6 will lead to cov-
+erage of additional installations.
+Note : From 1 January 2026, the exclusion of units using exclusively biomass in
+the aggregation clause has been removed from the Directive. Instead, a new cri-
+terion taking into account the sustainability and GHG savings criteria of the RED
+II (Renewable Energy Directive) has been introduced (see section 7.1). This will
+lead to further updates of the installation list, to be made for the NIMs submission
+in September 2024.
+```
+```
+A complete overview of Annex I changes is given in the Annex of this document.
+In connection with the amendment which allows installations without direct GHG
+emissions to be covered by the EU ETS (see section 2.3.4), the consequences
+of the changes are summarised as follows:
+ In the refining sector, t wo changes apply:
+ The activity is not limited anymore to the refining of mineral oils^28.
+ As this may also concern relatively small installations, a new threshold of
+20 MW for the rated thermal input has been added.
+ In the iron and steel sector, “iron production” is not limited anymore to “pig
+iron”. Therefore, production routes leading to other forms of iron, in particular
+sponge iron (also called DRI (Direct Reduced Iron) or HBI (Hot briquetted Iron))
+are covered. This enables inclusion (with free allocation) of steel production
+routes using hydrogen or even electrolytic iron reduction processes.
+```
+(^27) Reference given in footnote 2.
+(^28) The word “mineral” was deleted from “mineral oil refining” to enable the equal treatment of synthetic
+fuels and petroleum refining. The definition should be understood as refining of oil for purposes not
+related to the production of edible products. Refining of oil for edible purposes will continue to be
+covered by the activity ‘combustion of fuels’, where relevant.
+**_New rule when
+falling below the
+threshold
+New: activity
+definitions
+Detailed changes
+and thresholds_**
+
+
+ Alumina (i.e. aluminium oxide) production is included. There is no production
+or thermal input threshold for this activity^29.
+
+ For gypsum and plaster board, instead of the 20 MW threshold, a new thresh-
+old is given as production capacity of calcined gypsum or dried secondary gyp-
+sum exceeding a total of 20 tonnes per day.
+
+ For carbon black, instead of the 20 MW threshold, a production level of 50
+tonnes per day is used for defining the threshold.
+
+ Hydrogen & synthesis gas is affected by two changes:
+
+```
+ The limitation to the production processes “reforming or partial oxidation”
+has been removed. Together with the removal of the need for GHG emis-
+sions in the installation itself (section 2.3.4) this means that all kinds of elec-
+trolysis processes will be included.
+```
+ (^) The threshold has been reduced from 25 to 5 tonnes production per day.
+As a result, more installations are expected to be included in the EU ETS.
+ Regarding CO 2 transport for the purpose of geological storage of CO 2 , the lim-
+itation to transport in pipelines has been removed. However, the Commission
+is in the process of developing the relevant legal framework^30 for this topic.
+
+## 3.4 Various interpretation issues.............................................
+
+## 3.4.1 What is “rated thermal input”
+
+Thermal input in the context of the GHG-emitting processes means all input in
+the form of fuels. Thus, if a furnace can use both, electrical heating or heating by
+combustion of fuels, only the fuel-related input is used for the calculation. Where
+various proportions of heat input can be used, the maximum fuel related input is
+assumed.
+
+The maximum rated thermal input is normally specified by the manufacturer and
+is displayed on the technical device with the consent of an inspection body.
+Where different fuels or fuel mixes can be used, leading to different maximum
+thermal inputs, the highest possible thermal input should be used.
+
+When no information from the manufacturer is available, the operator of the in-
+stallation must provide to the competent authority an estimate based on best
+available information (for example maximum fuel throughput achieved in 24 hours
+during the last calendar year). As in most cases the exhaust gas has a tempera-
+ture above 100°C, and in line with monitoring requirements defined by the MRR,
+net calorific values (NCV^31 ) are considered most appropriate for determination of
+the thermal input.
+
+Although a fully harmonised approach should be the aim for the EU ETS, it is
+recognised that in some Member States gross calorific values (GCV) are used
+
+(^29) Notably, Annex I to the EU ETS Directive lists not only CO 2 but also perfluorocarbon (PFC) emis-
+sions for the activity. In Alumina production processes, usually no PFC emission occur. These will
+therefore not be relevant in practice. It is suggested that operators and CAs explicitly agree upon
+this fact in the GHG permit and/or monitoring plan to provide for legal certainty.
+(^30) At the time of publishing this guidance document.
+(^31) Also known as “lower heating value”
+
+
+```
+for specifying nameplate capacity. For practical and simplicity reasons only, the
+use of GCV in these Member States is considered acceptable.
+```
+```
+Where fuels are used as reducing agents, e.g. in the production or processing of
+metals^ or alloys, the heat input of these fuels is also to be taken into account
+when calculating the rated thermal input as if they were fuels.
+```
+```
+The rated thermal input may be reduced by operators compared to the original
+unit's design by technical means.^32 Such reduction of the rated thermal input may
+be accepted by the competent authority in the determination of the installation's
+total capacity provided that the change is permanent and cannot be reversed
+without major technical intervention or without consent of the competent author-
+ity, and the existence of those restrictions and their permanent nature are in fact
+verifiable by the competent authority.
+```
+## 3.4.2 Interpretation of “production or processing” of metals
+
+```
+In order to distinguish the Annex I activities “Production of iron or steel (primary
+or secondary fusion) including continuous casting” and “Production or processing
+of ferrous metals”, it is useful to look at the production processes:
+ “Production of iron and steel including continuous casting” ends at iron or steel
+in primary forms (slabs, ingots etc.), and it relates to the product benchmarks
+“hot metal”, “EAF carbon steel” or “EAF high alloy steel”.
+ Production or processing of ferrous metals includes activities using these pri-
+mary forms of iron or steel, for performing processes using units such as “ roll-
+ing mills, re-heaters, annealing furnaces, smitheries, foundries, coating and
+pickling ”, relating to product benchmark “iron casting” or heat benchmark or
+fuel benchmark sub-installations.
+Similarly, a distinction is possible for the aluminium-related activities:
+ “Production of primary aluminium”: involving electrolysis processes, product
+benchmark “aluminium”, products in primary forms (ingots, slabs);
+ “Production of secondary aluminium”: Production of aluminium in primary
+forms from aluminium scrap without electrolysis, no product benchmark appli-
+cable;
+ “Production or processing of non-ferrous metals” covers all other production or
+processing of non-ferrous metals, including production of ferro-alloys.
+```
+(^32) Case C-575/20, Apollo Tyres (Hungary)
+**_Technical reduction
+of rated thermal
+input_**
+
+
+## 3.4.3 Waste incineration and co-incineration
+
+The first activity in Annex I is defined as
+
+```
+“Combustion of fuels in installations with a total rated thermal input ex-
+ceeding 20 MW (except in installations for the incineration of hazardous
+or municipal waste)
+From 1 January 2024, combustion of fuels in installations for the incin-
+eration of municipal waste with a total rated thermal input exceeding 20
+MW, for the purposes of Articles 14 and 15.”^33
+```
+Installations for the _incineration_ of municipal waste or hazardous waste are thus
+excluded by Annex I to the EU ETS Directive (see chapter 6 for the partial inclu-
+sion of installations for the incineration of _municipal waste_ ). The competent au-
+thority determines whether a particular installation falls into one of these catego-
+ries taking into account the relevant definitions in the IED. Installations falling un-
+der the IED have a permit under that Directive, which should clearly state the
+status of the waste incineration or waste co-incineration units. The IED in force
+at the time of publication of this guidance defines a “waste incineration plant” as
+a stationary or mobile technical unit and equipment
+
+```
+“dedicated to the thermal treatment of wastes with or without recovery of
+the combustion heat generated, through the incineration by oxidation of
+waste as well as other thermal treatment processes, such as pyrolysis,
+gasification or plasma process, if the substances resulting from the treat-
+ment are subsequently incinerated.”
+```
+If an installation is found by the competent authority to fall under this definition,
+and if the waste incinerated falls predominantly under the category “municipal” or
+“hazardous” (according to the European Waste List^34 ), then it is not subject to the
+EU ETS Directive in respect of any incineration that takes place at that installa-
+tion, **except for cases discussed in chapter 6**.
+
+_A waste co-incineration plant is defined in the IED as a plant_
+
+```
+“whose main purpose is the generation of energy or production of mate-
+rial products and which uses wastes as a regular or additional fuel or in
+which waste is thermally treated for the purpose of disposal through the
+incineration by oxidation of waste as well as other thermal treatment pro-
+cesses, such as pyrolysis, gasification or plasma process, if the sub-
+stances resulting from the treatment are subsequently incinerated.”
+```
+If the status of individual technical units cannot be derived unambiguously from
+the IED permit, the following considerations may serve as guidance: Units burn-
+ing waste, which are situated at sites with industrial production^35 (within the same
+installation or outsourced to a separate operator), are usually to be classified as
+_co-incineration_ , because their main purpose is the supply of energy to the pro-
+duction of industry goods. This fact is often supported by the substitutability of the
+
+(^33) The second part of the activity description will be discussed in chapter 6.
+(^34) Commission Decision of 3 May 2000 replacing Decision 94/3/EC establishing a list of wastes pur-
+suant to Article 1(a) of Council Directive 75/442/EEC on waste and Council Decision 94/904/EC
+establishing a list of hazardous waste pursuant to Article 1(4) of Council Directive 91/689/EEC on
+hazardous waste (2000/532/EC). Consolidated version:
+**[http://data.europa.eu/eli/dec/2000/532/2015-06-](http://data.europa.eu/eli/dec/2000/532/2015-06-) 01**
+(^35) Including both, activities listed in Annex I, and other industrial activities.
+**_Exclusion of
+hazardous and
+municipal waste
+incinerators
+Waste co-
+incineration to be
+included in the
+EU ETS_**
+
+
+```
+waste unit by units fired with conventional fossil fuels. As evidence for such sub-
+stitutability may serve inter alia :
+```
+```
+ The waste unit is operated in technical connection with other boilers or CHP
+units, e.g. by feeding into a steam grid;
+ The waste unit has replaced a previous boiler or CHP plant, which was fired
+by conventional fuels;
+ The existence of reserve units which use conventional fuels;
+ A significant amount of the thermal input in the waste unit is provided by con-
+ventional fuels or other waste than hazardous or municipal waste.
+Wherever the competent authority classifies the waste unit as co-incineration or
+as using other wastes than municipal and hazardous wastes, it is to be included
+in the EU ETS.
+```
+## 3.4.4 Waste (co-)incineration units
+
+```
+Section 3.4.3 has dealt with whole installations for the incineration or co- incinera-
+tion of wastes (or installations where only the activity “combustion of fuels” is car-
+ried out). Beyond this case, clause 5 of Annex I mandates: “ When the capacity
+threshold of any activity in this Annex is found to be exceeded in an installation,
+all units in which fuels are combusted, other than units for the incineration of haz-
+ardous or municipal waste, shall be included in the greenhouse gas emission
+permit. ” In contrast to what has been explained in section 3.4.3, clause 5 of Annex
+I mentions “units” for the incineration of hazardous or municipal waste. As this
+clause deals primarily with the inclusion of associated activities, a suitable deci-
+sion making for this case can be outlined as follows:
+```
+1. Is the unit under consideration, according to the competent authority’s assess-
+    ment, dedicated to the _incineration_ (not co-incineration) of hazardous or mu-
+    nicipal waste? If yes, the unit is to be exempted. If not, continue to point 2.
+2. Is this unit an integral part of another activity listed in Annex I of the EU ETS
+    Directive (e.g. of oil refining or a bulk organic chemical production^36 )? If yes,
+    this unit is included in the EU ETS as part of that activity. If not, continue to
+    point 3.
+3. This unit is exempted from the EU ETS^37.
+
+## 3.4.5 Units using exclusively biomass............................................
+
+```
+Until the end of 2025, units exclusively using biomass^38 are excluded from the
+aggregation clause. However, where an installation also operates fossil fuelled
+```
+(^36) Subject to the judgement of the competent authority, a unit may be regarded as “integral part” of
+the activity, if the production is technically impossible or not allowed under the relevant permit (IED
+or other), when the unit under consideration is shut down.
+(^37) The coverage of installations for the incineration of municipal waste under the EU ETS for monitor-
+ing and reporting purposes as discussed in chapter 6 is independent of the exclusion of waste
+_incineration_ units from the full participation in the EU ETS under the first sentence of the first activity
+in Annex I, or of the inclusion as a waste _co-incineration_ unit within another activity of Annex I.
+(^38) Note that for this clause, for practical purposes, the sustainability and GHG savings criteria of the
+RED II were not applied in most Member States.
+**_Units using
+exclusively biomass_**
+
+
+combustion units (with an aggregated capacity above 20 MWth), the biomass
+units are included in the EU ETS.
+
+When doing the aggregation to decide upon the inclusion of an installation in the
+EU ETS, units which use fossil fuels only for start-up or shutdown may be ex-
+cluded as well. However, this exclusion is only relevant for the decision of includ-
+ing the installation in the EU ETS. As soon as the whole installation is in the EU
+ETS, these units are included as well. Consequently, the fossil emissions from
+the start-up burners are to be monitored and reported.
+
+Start-up burners are separate ignition/pilot burners used during start-up of a com-
+bustion unit, which are necessary for avoiding unstable combustion situations by
+ensuring re-ignition of the fuel, and for controlled shutdown of the combustion
+unit. Usually this should be clearly stated by the manufacturer of that unit and be
+laid down in the operating and/or GHG emissions permit. The existence of a ded-
+icated start-up burner may serve as indicator of the fact that otherwise exclusively
+biomass is used in this unit.
+
+If no detailed information is available on the use of fossil fuels, it can be assumed
+that fossil fuels are used only for start-up if the share of energy input derived from
+fossil fuels of the units does not exceed 1 % of the total annual energy input.
+
+Refer to section 7.1 for the new rules on biomass to be applied to determination
+of the EU ETS scope from 2026 onwards.
+
+```
+3.5 Options for installations falling below the 20 MW
+threshold
+```
+The 2023 amendments of the EU ETS Directive improve the incentive to reduce
+emissions by allowing to keep some free allocation^39 : If an installation is included
+in the EU ETS due to one or more activities with the threshold expressed as
+20 MW rated thermal input (see section 3.2.2) and changes its production pro-
+cesses to reduce its emissions, and thereby reduces its rated thermal input below
+the threshold, e.g. by replacing fuel input by electricity, it will not be automatically
+excluded from the EU ETS anymore. Instead, the operator may request the com-
+petent authority to keep the installation in the EU ETS for the remainder of the
+current 5-year allocation period, and optionally for the following allocation pe-
+riod^40. Remaining in the EU ETS will mean the continued obligation to perform
+monitoring, reporting and verification of emissions, and respective surrender of
+allowances, i.e. continued compliance with the GHG emissions permit.
+
+(^39) Article 2(1), starting from the 2nd sentence: “ _Where an installation that is included in the scope of
+the EU ETS due to the operation of combustion units with a total rated thermal input exceeding 20
+MW changes its production processes to reduce its greenhouse gas emissions and no longer meets
+that threshold, the Member State in which that installation is situated shall provide the operator with
+the options to remain in the scope of the EU ETS until the end of the current and next five year
+period referred to in Article 11(1), second subparagraph, following the change to its production pro-
+cess. The operator of that installation may decide that the installation remains in the scope of the
+EU ETS until the end of that current five-year period only or also in the next five-year period, follow-
+ing the change to its production process. The Member State concerned shall notify to the Commis-
+sion changes compared to the list submitted to the Commission pursuant to Article 11(1)._ ”
+(^40) The Directive does not exclude the possibility for an operator to change their mind and to request
+to be excluded due to the reduced rated thermal input. This may happen e.g. where an installation
+changes ownership. However, the exclusion from the EU ETS thereafter is final.
+**_Start-up burners
+New: remain in the
+EU ETS after
+decarbonisation or
+capacity reduction_**
+
+
+## 4 THE AGGREGATION RULE
+
+## 4.1 Capacity
+
+```
+The EU ETS Directive does not define ‘capacity’. The “Community-wide fully har-
+monised Implementing Measures” pursuant to Article 10a(1) (“CIMs”^41 ) for the
+3 rd phase of the EU ETS (2013-2020) contained a definition of “capacity”, but this
+was removed in the free allocation rules for the 4th phase^42 (2021-2030) as it was
+in some cases difficult to apply. Furthermore, it was linked to the concept of “sub-
+installations” and was therefore not suitable for issues of Annex I of the EU ETS
+Directive.
+Since then, capacity is not defined in the legal acts related to the EU ETS. Nev-
+ertheless, the term has been consistently implemented with the following mean-
+ing since the beginning of the EU ETS, consistent with established practice under
+the IED:
+“The only technically coherent meaning of “capacity” is, therefore, the ca-
+pacity at which the installation is capable of being operated. That is to say,
+it is the rated capacity of the installation to operate 24 hours a day, provided
+that the equipment is capable of being operated in that way.”^43
+```
+## 4.2 The aggregation clause
+
+```
+The aggregation clause in Annex I of the EU ETS Directive uses the same overall
+approach as the IED. The clause is included in the second sentence of clause 2
+of Annex I and states:
+"Where several activities falling under the same category are carried out in
+the same installation, the capacities of such activities are added together.”
+The clause should lead to equal treatment of installations of the same capacity,
+even if one carries out this activity in several smaller production units and the
+other in one bigger unit. In order to support the implementation of the broad com-
+bustion definition, the EU ETS Directive adds further rules with clause 3 of Annex
+I:
+“When the total rated thermal input of an installation is calculated in order to
+decide upon its inclusion in the EU ETS, the rated thermal inputs of all tech-
+nical units which are part of it, in which fuels are combusted within the instal-
+lation, are added together. These units could include all types of boilers,
+burners, turbines, heaters, furnaces, incinerators, calciners, kilns, ovens,
+dryers, engines, fuel cells, chemical looping combustion units, flares, and
+thermal or catalytic post-combustion units. Units with a rated thermal input
+under 3 MW and units which use exclusively biomass shall not be taken into
+account for the purposes of this calculation. ‘Units using exclusively bio-
+mass’ includes units which use fossil fuels only during start-up or shut-down
+of the unit.”
+```
+(^41) Commission Decision 2011/278/EU (not in force anymore).
+(^42) Commission Delegated Regulation (EU) 2019/331
+(^43) COM (2003) 354, cited in a Commission non-paper on the scope of the EU ETS, September 2003.
+**_No specific capacity
+definition
+Adding up of
+smaller units_**
+
+
+The purpose of this clause (which applies only until 31 December 2025)^44 is mul-
+tifold:
+
+ The aggregation clause is repeated with special clarification for all activities,
+which have a capacity threshold expressed as total rated thermal input. All
+units in which fuels are combusted (i.e. without differentiation between more
+specific activities), are to be aggregated. See section 3.2.
+
+ It clarifies (together with the definition of installation (Article 3(e)) the hierarchy
+of terms: A site is the biggest item, which can consist of several installations.
+An installation can consist of several units.
+
+ The non-exhaustive list gives further insight in what can be such units: boilers,
+turbines, kilns, flares, etc. (see section 4.4)
+
+ An exemption (de-minimis rule) to the aggregation clause is included: Units
+with a rated thermal input below 3MW are excluded, as well as units using
+exclusively biomass (see section 3.4.5). This intends to reduce administrative
+burden by excluding installations that would fall under the scope of the EU ETS
+only because of many small emission sources which are hard to monitor.
+
+Note: Article 27 does not provide a basis for leaving out biomass units and the
+3 MW de-minimis units (see section 4.5.2). However, the term “unit” is relevant
+for the exclusion of reserve or backup units under Article 27a(3) (see section
+4.5.3).
+
+## 4.3 Reserve and backup units and parallel capacities
+
+It is common industry practice that reserve or backup units exist at installations.
+Such units are used to replace the main units during maintenance or other shut-
+downs, or to cover heat demands during peak load situations. They can, thus, be
+used in parallel to the main units but are not in operation during a major part of
+the year. A similar situation occurs where two intermittent kilns take turns for pro-
+duction batches.
+
+This situation, where parts of installations _usually_ do not operate at the same
+time, is _per se_ not a reason for not adding their capacities together. An exception
+can only be granted if the operator can give evidence to the satisfaction of the
+competent authority, that there are physical or legal restrictions which effectively
+prevent the simultaneous operation of these units^45. These restrictions must be
+clearly identified and be mandated by the competent authority in an enforceable
+way (e.g. by conditions in the GHG emissions permit or IED permit) and be sub-
+ject to regular inspection^46 b y the competent authority. In such cases, the bigger
+of the two capacities shall be assumed to determine the inclusion in the EU ETS.
+
+## 4.4 Definition of “Unit”
+
+(^44) For the new approach on biomass installations from 1 January 2026 onwards, consult section 7.1.
+(^45) See more details on restricting the thermal input of installations given in section 3.4.1, which espe-
+cially also apply to limiting the possibility to run units in parallel.
+(^46) This can be done either by third party verifiers, who are accredited for this type of inspection, or by
+the competent authority itself.
+**_The meaning of
+clause 3 of Annex I
+Treatment of reserve
+and back-up units
+Combustion units_**
+
+
+```
+The term “unit” is defined only indirectly in the EU ETS Directive, by a non-ex-
+haustive list in clause 3 of Annex I:
+```
+```
+“These units could include all types of boilers, burners, turbines, heaters,
+furnaces, incinerators, calciners, kilns, ovens, dryers, engines, fuel cells,
+chemical looping combustion units, flares, and thermal or catalytic post-com-
+bustion units.”
+Room for interpretation could exist where one unit contained in this list, e.g. a
+kiln, has sub-units also contained in the list, e.g. several burners which together
+supply the heat necessary for a certain production process. In such cases, the
+overarching unit (in this example the kiln) should be considered the “unit” when
+applying the aggregation clause or de-minimis exemption. There are two reasons
+for this:
+```
+```
+ A kiln with 12 MW thermal input could be equipped with 2 × 6 MW burners, but
+also with 3 × 4 MW, 4 × 3 MW or 6 × 2 MW, and several more options. In order
+to treat all comparable kilns equal, the burner cannot be considered the appro-
+priate “unit”.
+ The Directive stated (before the 2023 review, but still applicable until 31 De-
+cember 2025) “‘Units using exclusively biomass’ includes units which use fossil
+fuels only during start-up or shut-down of the unit.” Thus, the Directive acknowl-
+edged with its own example that a unit is usually the more complex item and
+can contain several independent burners (the fossil start-up fuel usually re-
+quires a separate “start-up burner”).
+From the above, it can be concluded that “burner” is in the list of units for com-
+pleteness reasons in order to demonstrate the broadness of the definition for the
+rare case of stand-alone burners. Otherwise, a burner is usually considered to be
+a sub-part of a bigger unit, which as a whole serves a particular purpose, such
+as kilns, boilers or dryers, chemical reactors, distillation columns, CHP plants,
+etc.
+The exclusion of de-minimis units is only relevant for the decision of including the
+installation in the ETS. As soon as the whole installation is in the ETS, these units
+are included as well. However, Article 27a(3) provides a possibility for Member
+States to allow the exclusion of reserve or backup units (see section 4.5.3).
+```
+(^)
+**_Equal treatment
+Unit = equipment
+serving a particular
+purpose_**
+
+
+## 4.5 Step-by-step approach (until end of 2025)
+
+**Note 1** : This guidance focuses on the decision whether an installation should be
+included in the EU ETS, as if the installation in question were a potential new
+entrant. However, it seems logical to apply the same criteria also for the question
+if an installation currently under the EU ETS should be excluded from the EU
+ETS. In practice this question will arise in case of permit or monitoring plan up-
+dates due to technical changes to the installation or upon application by an oper-
+ator to re-evaluate the installation’s situation. In such case, the competent au-
+thority can follow the same step-by-step approach laid down in this section, taking
+into account the latest technical circumstances of the installation.
+
+**Note 2** : Excluding installations under Articles 27 or 27a is only possible for whole
+allocation periods (2021 to 2025, 2026 to 2030, etc.). Re-introduction into the EU
+ETS is due the year after the relevant threshold is exceeded. The exclusion based
+on the 95% biomass criterion from 2026 (see chapter 7) applies to a whole 5-year
+period, and neither re-introduction nor an additional exclusion during the 5-year
+period is foreseen. All other criteria for inclusion/exclusion (in particular the
+thresholds given in Annex I) apply to the actual situation of an installation, i.e.
+changes throughout the allocation period are possible.
+
+## 4.5.1 Defining installations which fall under the scope of EU ETS
+
+Summarizing the previous chapters, the following decision tree can be followed
+when determining if an installation falls under the scope of the EU ETS (valid only
+until the end of 2025)^47 :
+
+1. Apply the broadest possible installation boundaries (section 2).
+2. Are activities of Annex I other than "combustion of fuels" carried out at the
+    installation? ( section 3.2).
+       a. YES: Is the activity-specific capacity threshold (if any) exceeded?
+          i. YES:
+             1. Include all directly related activities (especially combustion units
+                including their waste gas treatment);
+             2. Check for units for the incineration of hazardous or municipal
+                waste to be excluded following section 3.4.4 and for installa-
+                tions/units for the incineration of municipal waste for the inclusion
+                for monitoring and reporting from 2024 in accordance with chap-
+                ter 6;
+             3. _Proceed to point 9_ (section 4.5.2).
+ii. NO: _Carry on with point 3_ (assessing combustion units).
+       b. NO: _Carry on with point 3_ (assessing combustion units).
+3. List all combustion units of the installation.
+4. Exclude units for the incineration of hazardous or municipal waste (see sec-
+    tions 3.4.3 and 3.4.4) from the list derived under point 3, but leave units for
+    waste co-incineration on the list. From 2024, if applicable, include units for the
+
+(^47) For the situation from 1 January 2026 see section 7.2.
+**_Decision tree_**
+
+
+```
+incineration of municipal waste, in accordance with sections 6.2 and 6.3, for
+the purpose of monitoring and reporting of emissions only.
+```
+5. Exclude biomass units from the list^48 ,
+6. Exclude units with a rated thermal input of less than 3 MWth from the list.
+7. Add up all rated thermal inputs of the units remaining on the list of combustion
+    units.
+8. Does the sum determined under point 7 exceed 20 MWth?
+
+```
+a. YES: Installation is under the EU ETS. Add again all units excluded under
+point 5 and 6. From 2024, distinguish cases of inclusion of installations for
+the incineration of municipal waste for monitoring and reporting and cases
+of full inclusion (see sections 6.2 and 6.3). Proceed to point 9 (section
+4.5.2).
+b. NO: Installation stays out of the EU ETS. Exit decision tree.
+```
+```
+4.5.2 Identifying installations which fall under the scope of EU
+ETS, but could be excluded as "small installations" pursu-
+ant to Article 27
+```
+9. Does the Member State concerned intend to allow an exclusion of small in-
+    stallations pursuant to Article 27?
+       a. NO: Installation is included in the EU ETS or may be excluded under Article
+          27a. _Proceed to point 11_.
+       b. YES: _Proceed to point 10_.
+10. Is at least one of the following criteria met?
+
+```
+i. Installation is a hospital (see section 5.5),
+ii. Installation carries out Annex I activity other than “combustion of
+fuels”, and annual GHG emissions potentially^49 covered by the EU
+ETS in each of the three years before notification of the “NIMs list”^50
+have been less than 25 000 tonnes CO 2 (eq)51,^52 ,
+iii. Installation carries out Annex I activity “combustion of fuels”, and the
+aggregate capacity (including the capacity of units mentioned under
+points 5 and 6) is less than 35 MWth^53 , and annual GHG emissions
+potentially^49 covered by the EU ETS in each of the three years before
+notification of the “NIMs list” have been less than 25 000 tonnes
+CO 2 (eq)^51.
+a. YES: Installation may be excluded from EU ETS, if equivalent measures
+and monitoring and reporting arrangements in accordance with Article 14
+```
+(^48) Units with start-up burners are also excluded, see section 3.4.5 for definition.
+(^49) This is to indicate emissions of installations already excluded from the EU ETS before.
+(^50) The list of installations and free allocation levels contained in the “NIMs” (National Implementation
+Measures) pursuant to Article 11(1). Deadline for this notification by Member States is 30 Septem-
+ber 2024 and every 5 years thereafter. Therefore, the three years for assessing the given threshold
+are 2021, 2022 and 2023, and the respective years every five years thereafter.
+(^51) In order to also give the possibility to exclude small installations that only started up their Annex I
+activity in one of the three relevant years, only the years during which the installation was already
+operating are taken into account.
+(^52) Emissions from biomass are to be excluded in this calculation.
+(^53) When assessing the 35 MW and 25 000 tonnes CO 2 (eq) threshold for possible exclusion from the
+EU ETS, also the fuel use (and CO 2 emissions) from units with a rated thermal input of less than
+3 MWth are included. Exempting the latter is only relevant when assessing whether an installation
+falls under the scope of the EU ETS.
+
+
+```
+are put in place and if installation is notified at the latest to the Commission
+by the relevant deadline for NIMs notification^50.
+b. NO: Installation stays in the EU ETS or may be excluded under Article 27a.
+```
+```
+4.5.3 Identifying installations or units which could be excluded
+pursuant to Article 27a
+```
+11. Does the Member State concerned intend to allow an exclusion of small in-
+    stallations pursuant to Article 27a(1)^54?
+       a. NO: Installation is included in the EU ETS. _Proceed to point 13_.
+       b. YES: _Proceed to point 12_.
+12. Did the installation emit less than 2 500 tonnes CO 2 per year^55 in each of the
+    three years before notification of the “NIMs list”?
+       a. YES: _Installation may be excluded from the EU ETS_.
+       b. NO: _Continue to point 13._
+13. Does the Member State intend to allow exclusion of reserve and backup units
+    pursuant to Article 27a(3)^56?
+       a. NO: The installation as a whole remains in the EU ETS. _Exit decision tree._
+       b. YES: _Continue to point 14._
+14. Does the installation have reserve or backup units which did not operate for
+    more than 300 hours in each of the three years before notification of the “NIMs
+    list”?
+       a. YES: Such units may be excluded from the EU ETS.
+       b. NO: The installation as a whole remains in the EU ETS. _Exit decision tree._
+
+```
+4.5.4 Examples
+```
+**Example 1** : An installation operating:
+
+ 3 units with 4 MWth each,
+
+ 1 unit (boiler) of 9 MWth, and
+
+ 8 units of 2 MWth each.
+
+This installation is included in the EU ETS (3 × 4 + 9 = 21 MWth). As all units ex-
+cluded under point 5 and 6 have to be added up again, the installation is in-
+cluded with its full capacity of 12 + 9 + 8 × 2 = 37 MWth, and cannot be excluded
+under Article 27 due to its capacity of 37 MWth.
+
+If the 9 MWth unit were used for the incineration of hazardous waste, the whole
+installation would fall out of the scope of ETS, because only the 3 units with 4
+
+(^54) Article 27a(1): “ _Member States may exclude from the EU ETS installations that have reported to
+the competent authority of the Member State concerned emissions of less than 2 500 tonnes of
+carbon dioxide equivalent, disregarding emissions from biomass, in each of the three years preced-
+ing the notification [of the NIMs]”_ under conditions given in that Article.
+(^55) Emissions from biomass are to be excluded in this calculation.
+(^56) “ _3. Member States may also exclude from the EU ETS reserve or backup units which did not operate
+more than 300 hours per year in each of the three years preceding the notification under point (a)
+of paragraph 1, under the same conditions as set out in paragraphs 1 and 2._ ”
+
+
+MWth each would remain to be aggregated. No decision regarding possible ex-
+clusion under Article 27 would be necessary in this case.
+
+**Example 2** : An installation operates a boiler of 28 MWth fired with natural gas,
+and a biomass-based boiler of 12 MWth. While the biomass boiler is excluded for
+the aggregation, it is included for the purpose of checking the capacity threshold
+for possible exclusion. Since Article 27 does not refer to the same de-minimis
+rules as clause 3 of Annex I, all combustion units at the installation are to be
+considered. Thus, the relevant capacity is 28 + 12 = 40 MWth, i.e. too high for a
+possible exclusion. (Note that this example would not be valid from 2026 due to
+the changes in the biomass criterion).
+
+**Example 3** : A ceramics plant operates 2 tunnel kilns with an aggregate produc-
+tion capacity exceeding 75 tonnes per day and a boiler feeding steam to a dryer.
+In this situation, the installation can be considered to carry out only the activity
+“production of ceramics”. For possible exclusion under Article 27, only the emis-
+sions threshold of 25 000 tonnes CO 2 (eq) per year is relevant.
+
+**Note:** Member States are required to notify a list of _all_ installations under the
+scope of EU ETS in their NIMs list^50 (identifying also small installations to be
+possibly excluded pursuant to Article 27 or 27a).
+
+
+## 5 OTHER TOPICS
+
+**5.1 What are “bulk organic chemicals”?**
+
+Bulk organic chemicals are chemicals which are usually produced at large scale
+and sold as commodities for the purpose of producing other chemicals. Produc-
+tion processes under this activity are “cracking, reforming, partial or full oxidation”
+and “similar processes” (i.e. processes where severe thermal and/or oxidising
+conditions prevail). A production process can be assumed to be a “similar pro-
+cess” falling under this activity, if CO 2 emissions are not only result of separate
+combustion of fuels, but where part of the emitted carbon stems from the feed-
+stock. Other chemical production processes should be assessed regarding inclu-
+sion in the EU ETS under the aspect of combustion activities.
+
+There is no exhaustive list of chemicals available that would satisfy the definition
+of the activity in Annex I of the EU ETS Directive. However, Table 3 can serve as
+a starting point. The fact that the chemicals produced are not listed in Table 3
+does not mean that the installation considered should not be included in the EU
+ETS. A consideration on a case-by-case basis will therefore be required.
+
+In line with section 4.2, where more than one organic chemical is produced, the
+aggregation clause requires all production volumes to be added. Also, in line with
+section 3.2, the production of chemicals which have not been identified as being
+bulk organic chemicals and which are not individually listed in Annex I (i.e. chem-
+icals such as ammonia, carbon black, etc.) must be assessed for inclusion in the
+EU ETS under the assumption that the activity “combustion of fuels” is relevant.
+
+_Table 3: Non-exhaustive list of bulk organic chemicals_
+
+```
+Ethylene / Propylene / Butene / Butadiene and other olefins
+Acetylene if not produced from calcium carbide
+EDC / VCM (Vinyl chloride)
+Aromatics (Benzene, Toluene, Xylenes, Styrene, Ethylbenzene, Naphthalene and oth-
+ers)
+Terephthalic acid / Dimethyl terephthalate
+Ethylene oxide and Ethylene glycol, Propylene oxide and other epoxides
+Phenol and other phenols
+Acetone, Cyclohexanone and other Ketones
+Acrylonitrile, Acrylic acid, Methacrylic acid
+Cumene
+Methanol, Ethanol (if not produced by fermentation) and higher alcohols
+Formaldehyde, Acetaldehyde, Acrolein and higher aldehydes
+Formic acid, acetic acids (if not from fermentation) and higher carboxylic acids
+Phthalic acid, Maleic acid and their anhydrides
+Acetic anhydride
+Polyethylene, Polypropylene, Polystyrene, Polyvinylchloride
+Polycarbonate, Polyamide, Urea derivatives, Silicones
+```
+```
+Production process
+as criterion, no
+exhaustive list
+available
+```
+
+**5.2 Glyoxal and glyoxylic acid**
+
+```
+A special case of Annex I is the activity “production of glyoxal and glyoxylic acid”.
+These can be produced by two different routes: (1) Oxidation of ethylene glycol
+in the presence of a catalyst only leads to CO 2 emissions. (2) Liquid phase oxi-
+dation of acetaldehyde with nitric acid leads to emission of both CO 2 and N 2 O.
+MS have to take this into consideration when identifying and permitting respective
+installations.
+```
+**5.3 Nitric acid, adipic acid, glyoxal and glyoxalic acid**
+
+```
+For these activities, N 2 O and CO 2 emissions are to be included. This means N 2 O
+emissions as covered by Section 16 of Annex IV to the MRR and all CO 2 emis-
+sions arising from the production process of these chemicals and from combus-
+tion activities at these installations.
+```
+**5.4 Production of primary and secondary aluminium**
+
+```
+In the case of primary aluminium production, CO 2 emissions can occur from fuel
+combustion and anode consumption, and PFC emissions^57 can occur from anode
+effects. In secondary aluminium productions CO 2 emissions from fuel consump-
+tion can occur. With regards to installation boundaries, at least the following pro-
+cess steps should be taken into consideration:
+ Primary smelting operations (CO 2 and PFC)
+ Primary aluminium casting
+ Combustion of fuels for
+```
+ (^) Secondary remelting operations
+ (^) Secondary refining operations
+ (^) Rolling operations
+ (^) Extrusion operations
+ Casting
+Alumina refining and anode production are considered part of the activity “alu-
+minium production” if carried out in the same installation. If the production of an-
+odes takes place in a separate installation, the activity must be included in the
+EU ETS if fuels are combusted with a rated thermal input of more than 20 MW.
+Alumina production is included without a threshold, both in installations for the
+production of primary aluminium or as separate installation, from 2024.
+For secondary aluminium production or processing see also section 3.2.2.
+(^57) Gases to be taken into consideration are CF 4 and C 2 F 6.
+**_N 2 O and CO 2
+Aluminium
+production and
+processing_**
+
+
+**5.5 Definition of hospital**
+
+Hospitals can be excluded from the EU ETS under Article 27, irrespective of their
+emissions or thermal capacities. Thus, a definition of hospitals should be applied
+consistently by all Member States in order to prevent abuse of this exception. For
+this purpose, the operator of a hospital shall provide evidence to the competent
+authority that providing hospital activities is the main purpose of the installation in
+question. This can be a proof from the statistical office that the installation is clas-
+sified as 86.10 (NACE rev. 2).
+
+**5.6 Flue gas desulphurisation**
+
+Even though sometimes marketable gypsum is a by-product of flue gas desul-
+phurisation, this cannot be regarded a separate activity of gypsum production as
+listed under Annex I. Since waste gas scrubbing is part of the definition of com-
+bustion, only one activity (“combustion of fuels”) is carried out per definition in
+such case.
+
+
+## 6 MUNICIPAL WASTE INCINERATION –
+
+## APPLICABLE FROM 2024
+
+```
+According to the EU ETS Directive as amended in 2023, the first activity in Annex
+I is defined as
+“Combustion of fuels in installations with a total rated thermal input ex-
+ceeding 20 MW (except in installations for the incineration of hazardous
+or municipal waste)
+From 1 January 2024, combustion of fuels in installations for the
+incineration of municipal waste with a total rated thermal input ex-
+ceeding 20 MW, for the purposes of Articles 14 and 15 .”
+The bold part of the definition is discussed here. How it is applied together with
+the first part, in particular regarding the phrase “ (except in installations for the
+incineration of hazardous or municipal waste) ” is discussed in section 6.3.
+```
+```
+It is a novel element of the Directive that an activity is included in the EU ETS
+only for the obligation to perform monitoring, reporting and verification (MRV), but
+without an obligation to surrender allowances. This is further emphasised by Ar-
+ticle 30(7), which mandates the Commission to perform a review by July 2026 to
+assess the feasibility of including municipal waste incineration (MWI) installations
+in the EU ETS.
+Note: As long as there is no obligation to surrender allowances for emissions
+from installations for the incineration of municipal waste ( ‘ MWI installations’),
+any heat delivered from such installations to other EU ETS installations shall be
+considered “non-ETS heat” for the purpose of free allocation rules. The same
+applies to heat delivered from other EU ETS installations to such MWI installa-
+tions.
+This section only discusses installations or technical units being included in the
+EU ETS with this new qualifier of “MRV only”. All installations or units in which
+waste is used that have already been included in the EU ETS before 2024 do not
+need to be further discussed. All installations and units which have been iden-
+tified as included in accordance with sections 3.4.3 and 3.4.4 remain fully
+within the EU ETS.
+Questions that need to be answered are:
+```
+```
+ How can MWI installations be identified which have not yet been included in
+the EU ETS, but need to carry out MRV from 1 January 2024? (Section 6.1)
+ For these MWI installations, how to interpret the aggregation clause and the
+“associated activities”? (Section 6.2)
+ Regarding installations already included in the EU ETS, are there changes with
+regard to Clause 5 of Annex I, i.e. regarding the exclusion of “units for the in-
+cineration of hazardous or municipal waste”? (Section 6.3)
+ How to implement the “MRV only” inclusion in the EU ETS in practical terms,
+in particular for installations that consist of parts fully included in the EU ETS
+and parts included for MRV only? Guidance on this issue is given in section
+6.4.
+```
+**_Relevance from 1
+January 2024_**
+
+```
+MRV only
+```
+```
+New questions
+```
+
+```
+6.1 What are installations for the incineration of municipal
+waste
+```
+According to the premise put forward that any co-incineration is included in the
+EU ETS already, the first identifying element must be that the installation under
+consideration for inclusion must be a “waste incineration plant” as defined by the
+Industrial Emissions Directive (IED), which regulates waste incineration, not a
+“co-incineration plant”. The IED defines^58 :
+
+```
+“‘waste incineration plant^59 ’ means any stationary or mobile technical unit
+and equipment dedicated to the thermal treatment of waste, with or without
+recovery of the combustion heat generated, through the incineration by oxi-
+dation of waste as well as other thermal treatment processes, such as py-
+rolysis, gasification or plasma process, if the substances resulting from the
+treatment are subsequently incinerated.”
+```
+The IED does not contain a definition of “municipal waste incineration plant”, as
+waste incinerators in general are designed to use many waste types in a flexible
+way. In Annex I of the IED, two different activities are defined:
+
+```
+5.2. Disposal or recovery of waste in waste incineration plants or in waste
+co-incineration plants:
+(a) for non-hazardous waste with a capacity exceeding 3 tonnes per hour;
+```
+```
+(b) for hazardous waste with a capacity exceeding 10 tonnes per day.
+```
+As these thresholds are relatively low, it is highly likely that most waste incinera-
+tion or co-incineration covered by the EU ETS will be covered by an IED permit.
+Smaller units would be of interest for the EU ETS only if they are included due to
+the aggregation clause, in which case they would usually be _co-incineration_ units,
+which would be covered by the EU ETS not just for MRV, as discussed in sections
+3.4.3 and 3.4.4.
+
+The IED provides further helpful elements for the purpose of this guidance:
+
+ Waste incinerators using only certain vegetable biomass wastes are exempted
+from the waste-relevant chapter of the IED^60. Therefore, it can be concluded
+that such installations or units will qualify neither as MWI nor hazardous waste
+incineration installations or units. Note that municipal biomass wastes (park
+and garden wastes, kitchen wastes, etc.) do not fall under this exception.
+
+(^58) IED Article 3(40)
+(^59) Note that “plant” might be both, an installation or only a “unit” in EU ETS terminology.
+(^60) More precisely, point (a)(i) of Article 42(2) of the IED excludes the whole point (b) of Article 3(31)
+from the scope of chapter IV of the IED (i.e. rules on waste (co-)incineration), that is:
+(i) vegetable waste from agriculture and forestry;
+(ii) vegetable waste from the food processing industry, if the heat generated is recovered;
+(iii) fibrous vegetable waste from virgin pulp production and from production of paper from pulp,
+if it is co-incinerated at the place of production and the heat generated is recovered;
+(iv) cork waste;
+(v) wood waste with the exception of wood waste which may contain halogenated organic com-
+pounds or heavy metals as a result of treatment with wood preservatives or coating and which
+includes, in particular, such wood waste originating from construction and demolition waste;
+This list does not include e.g. vegetable wastes like “garden and park wastes” which again qualify
+as municipal according to the European Waste List.
+**_IED differentiates
+only hazardous and
+other waste
+incineration_**
+
+
+```
+ Pursuant to Article 45(1)(a) of the IED, any waste incineration plant’s permit
+must contain a list of all types of waste which may be treated (identified ac-
+cording to the European Waste List^61 ) and information on the quantity of each
+type of waste that can be used.
+ Article 52(2) of the IED requires the operator to determine the mass of each
+type of waste according to the European Waste List, prior to accepting the
+waste. It is therefore a valid assumption that operators can provide data to the
+competent authority demonstrating whether they have incinerated predomi-
+nantly municipal wastes over the last years. The same applies to hazardous
+wastes.
+ Article 45(2) of the IED establishes additional requirements for the permit of
+waste incineration plants which can use hazardous wastes. It is therefore pos-
+sible to identify if units can be used for incinerating hazardous waste.
+ Article 50 of the IED requires that waste incineration plants for the incineration
+of certain^62 hazardous wastes are designed, equipped, built and operated in
+such a way that the gas resulting from incineration is raised to a temperature
+of at least 1100°C for at least 2 seconds, while for the incineration of other
+wastes only a combustion gas temperature of at least 850°C needs to be en-
+sured. Therefore, it can be assumed that if a waste incineration unit has an
+IED permit requiring a combustion gas temperature of at least 1100°C and
+fulfils the requirements of Article 45(2) of the IED, it is a unit for hazardous
+waste incineration.
+```
+```
+The second element to be considered is the definition of “municipal waste”. The
+MRR defines ‘municipal waste’ as defined in the Waste Framework Directive
+(WFD)^63 , Article 3(2b):
+‘municipal waste’ means:
+(a) mixed waste and separately collected waste from households, including
+paper and cardboard, glass, metals, plastics, bio- waste, wood, textiles,
+packaging, waste electrical and electronic equipment, waste batteries
+and accumulators, and bulky waste, including mattresses and furniture;
+(b) mixed waste and separately collected waste from other sources, where
+such waste is similar in nature and composition to waste from house-
+holds;
+Municipal waste does not include waste from production, agriculture, for-
+estry, fishing, septic tanks and sewage network and treatment, including
+sewage sludge, end-of-life vehicles or construction and demolition waste.
+This definition is without prejudice to the allocation of responsibilities for
+waste management between public and private actors.
+```
+(^61) Decision 2000/532/EC
+(^62) More precisely, at least 1100°C are required only if hazardous waste with a content of more than
+1 % of halogenated organic substances, expressed as chlorine, is incinerated.
+(^63) Directive 2008/98/EC of the European Parliament and of The Council of 19 November 2008 on
+waste and repealing certain Directives; consolidated version:
+**[http://data.europa.eu/eli/dir/2008/98/2018-07-](http://data.europa.eu/eli/dir/2008/98/2018-07-) 05**
+**_IED provides basis
+for waste use
+records
+Definition of
+municipal waste
+European Waste List_**
+
+
+The third important legislation in this area is the European Waste List^64. I t can be
+used to determine what should be considered “municipal waste”. Category 20
+contains “ _municipal wastes (household waste and similar commercial, industrial
+and institutional wastes) including separately collected fractions_ ”. However, the
+categorisation is not unique. Category 20 contains also hazardous wastes (e.g.
+batteries and pesticides), while in particular packaging, which will be a significant
+part of mixed municipal wastes, is in category 15, too. Municipal waste is very
+heterogeneous, containing a wide mix of materials common to household-like
+wastes (although fractions suitable for recycling should be largely removed be-
+fore incineration takes place). In this regard, the WFD and the Waste List con-
+verge.
+
+Therefore, the competent authority should assess waste incineration installations
+not yet included in the EU ETS on a case-by-case basis, using the installation’s
+IED permit and its documentation of waste streams received in the past (or
+planned to be used, in case of new installations) to decide whether it is an MWI
+installation that needs to be included in the EU ETS for MRV obligations from
+2024 onwards.
+
+The following may be used for a step-by-step assessment:
+
+1. If the installation or unit does not have an IED permit stating the activity “5.2
+    Disposal or recovery of waste in waste incineration plants”, the installation or
+    unit is probably not relevant^65.
+2. As has been argued above, units which according to the IED permit are de-
+    signed, equipped, built and operated for the incineration of certain types of
+    hazardous waste because they fulfil the criterion of combustion gas tempera-
+    ture above 1100°C can be considered units for the incineration of hazardous
+    waste and can remain excluded in line with clause 5 of Annex I of the EU ETS
+    Directive.
+3. Based on the IED permit and the documentation of actually used waste
+    streams:
+    a. If only a narrow, specific range of (sorted, not mixed) waste types is used,
+       it is likely that it is non-municipal waste, in particular where specific (in-
+       dustrial) sources of the wastes can be identified;
+    b. A broad range of wastes, or highly mixed wastes containing materials
+       typical for household wastes, indicate that it may be an MWI installation
+       or unit;
+    c. A large percentage (in terms of energy content) of hazardous wastes (all
+       waste numbers indicated by an asterisk in the European Waste List), in-
+       dicates that it might be an installation or unit not exclusively used for mu-
+       nicipal wastes. Fractions listed in section 20 of the European Waste List
+       but marked as hazardous waste should be treated like hazardous rather
+       than municipal waste in this assessment. This would be consistent with
+       the fact that also for the plant design and permit conditions the hazardous
+       character of such waste would prevail^66.
+
+(^64) Decision 2000/532/EC
+(^65) It may, however, be worth checking its rated thermal input, whether it has been “forgotten” before.
+(^66) See above regarding the IED requirement of having a combustion gas temperature of at least
+1100°C and meeting the requirements of Art 45(2) of IED.
+**_Identifying MWI
+installations_**
+
+
+```
+The assessment of the predominant waste type should cover the previous three
+years^67 or longest period possible if the start of operation was within the last three
+years. The predominant waste type is defined as the type of waste with the largest
+share in mass (municipal waste, hazardous waste or other wastes). The following
+results are possible:
+ The predominant type is hazardous waste. In this case the installation (or unit)
+remains outside of the EU ETS.
+ The predominant type is other waste (neither municipal, nor hazardous). In this
+case, the installation or unit should be fully included in the EU ETS, i.e. not
+only for MRV purposes.
+ The predominant type is municipal waste. In this case the installation should
+be included for MRV from 2024 onwards.
+ All three types of waste are used with no clearly dominant waste type. The
+installation should be fully included in the EU ETS, as it is not an installation
+“for the incineration of hazardous or municipal waste” only.
+```
+```
+Example:
+A given installation that incinerates waste uses the following types of waste: 34%
+municipal waste, 33% hazardous waste, 33% other wastes. The predominant
+waste type is municipal waste. Therefore, the installation should be included for
+MRV only from 2024 onwards.
+```
+**6.2 MWI-associated activities and aggregation clause**
+
+```
+The aggregation rule of clause 3 of Annex I has not changed. The decision tree
+in section 4.5.1 is still applicable for existing activities.
+As municipal waste incineration is part of the definition of “combustion of fuels”,
+in principle the aggregation clause will apply. This means that e.g. an installation
+consisting of two MWI lines of 12 MW each would be above 20 MW and conse-
+quently be included in the EU ETS for MRV only.
+Because the normal combustion of fuels and MWI fall within the same activity,
+respective units need to be added up in the aggregation clause. However, be-
+cause clause 5 of Annex I still excludes units for MWI, the Directive requires a
+distinction of different cases as follows:
+The following cases can be distinguished:
+ MWI unit above 20 MWth: This unit would fall under the EU ETS for MRV pur-
+poses on its own. It could therefore be qualified as an installation on its own. If
+there are associated activities (combustion units), which are below 20 MWth
+themselves (excluding units for the incineration of hazardous waste), those
+units are included in the monitoring plan and/or permit (depending on the Mem-
+ber State’s practice), but only MRV needs to be performed.
+```
+(^67) Since data needs to be assessed by the competent authority before the end of 2023, these would
+be the years 2020-2022.
+**_Relation to other
+“combustion of
+fuels”_**
+
+
+ MWI unit above 20 MWth (i.e. qualifying as an _installation_ ) and associated ac-
+tivities (combustion units) which are _above_ 20 MWth themselves (excluding
+units for the incineration of hazardous waste): Here the units except the MWI
+need to be fully in the EU ETS. If it is confirmed that the MWI is an _incineration_
+unit, it is subject to MRV only, and its heat – if delivered for use in an EU ETS
+installation, including in the same installation – is considered “non-ETS heat”.
+Those MWI units are to be included in the monitoring plan and/or permit (de-
+pending on the Member State’s practice), but only MRV needs to be performed
+for these units;
+For practical implementation in this situation see section 6.4.
+However, if the competent authority determines that the MWI is in fact _co-in-
+cineration_ , it is to be fully included in the EU ETS (i.e. with an obligation to
+surrender allowances).
+
+ MWI _unit_ below 20 MWth, but as an installation together with other combustion
+units (above 3 MWth each) – the 20 MWth threshold is exceeded (but the non-
+MWI units together do not reach 20 MWth, i.e. the installation was not included
+in the EU ETS before). Here all combustion units (including those below
+3 MWth) are added together to the GHG permit and/or monitoring plan for MRV
+only.
+
+ Installation with activity “combustion of fuels”, where the 20 MWth threshold is
+exceeded without inclusion of MWI units, and where the sum of MWI units
+alone does not exceed the 20 MWth threshold: The installation is fully included
+in the EU ETS, but the _units_ for municipal waste incineration remain excluded
+from the EU ETS (see also section 6.3).
+
+To assess which of the above situations applies, it is necessary to decide which
+combustion units^68 are “normal combustion”, and which ones belong to the incin-
+eration of municipal wastes. For example, auxiliary burners using fossil fuels for
+raising the combustion temperature to the levels required by the IED would qualify
+as units that need to be included as part of the MWI unit. On the other hand,
+where e.g. a reserve boiler with conventional fuels is used to cover heat demand
+of a district heating network during peak hours or maintenance of the MWI unit,
+such reserve boiler would be a “normal combustion unit” for consideration in the
+bullet points below.
+
+```
+6.3 Units for the incineration of hazardous or municipal
+waste
+```
+For the purpose of including associated activities, the 2023 amendment of the EU
+ETS Directive has left clause 5 of Annex I unchanged:
+
+```
+“When the capacity threshold of any activity in this Annex is found to be
+exceeded in an installation, all units in which fuels are combusted, other
+than units for the incineration of hazardous or municipal waste , shall
+be included in the greenhouse gas emission permit.”
+```
+(^68) Annex I clause 3: “ _Those units may include all types of boilers, burners, turbines, heaters, furnaces,
+incinerators, calciners, kilns, ovens, dryers, engines, fuel cells, chemical looping combustion units,
+flares, and thermal or catalytic post-combustion units_ .”
+**_Aggregation clause
+for MWI units_**
+
+
+```
+This is to be understood as applying in the assessment of the activities for the full
+inclusion in the EU ETS as it was not changed in the EU ETS revision. This rule
+should be applied as follows, considering the coverage of MWI installations for
+MRV only:
+ If only other Annex I activities than “combustion of fuels” are carried out in the
+installation, then:
+```
+ (^) The associated activities should be governed by clause 5, i.e. all combus-
+tion units except those for the incineration of municipal or hazardous waste
+should be excluded, as has been discussed in sections 3.4 and 4.5 for the
+situation before the 2023 amendment.
+ However, if units are identified as units for the incineration of municipal
+waste, but not hazardous waste, which together exceed the 20 MWth thresh-
+old, these units need to be included for MRV purposes only.
+ If all combustion units alone exceed the 20 MWth threshold, it can be assumed
+that the activity “combustion of fuels” is carried out at the installation, and the
+approach laid down in section 6.2 above applies. This approach builds on the
+fact that MWI and other combustion of fuels are within the same Annex I activ-
+ity.
+**6.4 How to implement the inclusion for MRV only**
+For practical implementation of the inclusion of MWI installations for MRV pur-
+poses only, Member States should consider the following:
+ Where an MWI installation has been identified in line with section 6.2 to be
+included in the EU ETS for MRV only, the Member State may issue a GHG
+permit for this installation. However, this is not a strict requirement.
+ Where in an installation already included in the EU ETS there are units for the
+incineration of municipal waste which jointly exceed 20 MWth, there is some
+flexibility whether to treat the MWI and the rest of the installation as two sepa-
+rate installations, i.e. with separate monitoring plans. Member States may de-
+cide to include those MWI units in the permit. A separate permit for those units
+is not a requirement.
+ The MWI installation or units included for MRV only have to be covered by a
+monitoring plan. Where installation parts fully covered by the EU ETS and parts
+covered for MRV only are considered the same installation, the monitoring plan
+must clearly indicate which source streams and emissions sources belong to
+which part.
+ In any event, for practical reasons, annual emission reports for the two sepa-
+rate installation parts have to be separate, since the part of the installation fully
+in the EU ETS needs to report the amount of emissions for which allowances
+need to be surrendered (and this number must be entered in the Registry), and
+the MWI under the MRV only regime needs to report information that Member
+States then have to report to the Commission separately according to Article
+68(4) of the MRR.
+**_Practical
+implementation_**
+
+
+## 7 CHANGES APPLICABLE FROM 2026
+
+**7.1 The biomass criterion from 2026 onwards**
+
+Before the 2023 EU ETS review, clause 3 (the aggregation clause) contained the
+provision that “ _units which use exclusively biomass shall not be taken into ac-
+count for the purposes of this calculation_ [i.e. the summing up of thermal inputs
+of combustion units]_. ‘Units using exclusively biomass’ includes units which use
+fossil fuels only during start-up or shut-down of the unit._ ” This provision has been
+deleted from the Directive. Therefore, the provisions discussed in section 3.4.5
+are not applicable from 2026. Consequently, the decision tree presented in sec-
+tion 4.5 is not applicable from 2026. A new decision tree is provided in section
+7.2.
+
+From 2026, the question whether installations can be excluded from the EU ETS
+will not be applied anymore on basis of individual units using biomass, but at
+installation level. Furthermore, it is now clarified that only “zero-rated” biomass
+will allow excluding installations from the EU ETS, i.e. biomass must comply with
+the GHG savings and sustainability criteria defined by the RED II^69. Clause 1 of
+Annex I, 2nd sentence reads:
+
+```
+“Installations where during the preceding relevant five-year period referred
+to in Article 11(1), second subparagraph, emissions from the combustion of
+biomass that complies with the criteria set out pursuant to Article 14 contrib-
+ute on average to more than 95 % of the total average greenhouse gas emis-
+sions are not covered by this Directive.”
+```
+The reference to Article 14 means the way how the MRR applies the RED II cri-
+teria^70.
+
+(^69) RED II means the recast Renewable Energy Directive (Directive (EU) 2018/2001).
+(^70) At the time of publishing this guidance document, Article 38(5) of the MRR reads as follows:
+_“5. Where reference is made to this paragraph, biofuels, bioliquids and biomass fuels used for com-
+bustion shall fulfil the sustainability and the greenhouse gas emissions saving criteria laid down in
+paragraphs 2 to 7 and 10 of Article 29 of Directive (EU) 2018/2001_ [the RED II]_.
+However, biofuels, bioliquids and biomass fuels produced from waste and residues, other than ag-
+ricultural, aquaculture, fisheries and forestry residues are required to fulfil only the criteria laid down
+in Article 29(10) of Directive (EU) 2018/2001. This subparagraph shall also apply to waste and
+residues that are first processed into a product before being further processed into biofuels, bioliq-
+uids and biomass fuels.
+Electricity, heating and cooling produced from municipal solid waste shall not be subject to the
+criteria laid down in Article 29(10) of Directive (EU) 2018/2001.
+The criteria laid down in paragraphs 2 to 7 and 10 of Article 29 of Directive (EU) 2018/2001 shall
+apply irrespective of the geographical origin of the biomass.
+Article 29(10) of Directive (EU) 2018/2001 shall apply to an installation as defined in Article 3(e) of
+Directive 2003/87/EC_ [the EU ETS Directive]_.
+The compliance with the criteria laid down in paragraphs 2 to 7 and 10 of Article 29 of Directive
+(EU) 2018/2001 shall be assessed in accordance with Articles 30 and 31(1) of that Directive.
+Where the biomass used for combustion does not comply with this paragraph, its carbon content
+shall be considered as fossil carbon.”_
+**_Biomass and RED II
+criteria_**
+
+
+```
+For the interpretation of the relevant criteria of the RED II as laid down in Article
+38(5) of the MRR and for how to provide evidence on compliance with those
+criteria, see the Commission’s MRR Guidance document No. 3 (“Biomass is-
+sues in the EU ETS”):
+https://climate.ec.europa.eu/system/files/2022-10/gd3_biomass_is-
+sues_en.pdf (^71 )
+```
+```
+On how to apply Clause 1 of Annex I, two cases should be distinguished:
+ For incumbent installations, guidance is given in section 7.1.1;
+ Installations which had no MRV obligation under the EU ETS in the relevant
+baseline years^72 , but could fall under the scope of the EU ETS due to the ac-
+tivities carried out, should be treated as new entrants (see section 7.1.2).
+```
+```
+7.1.1 Assessing the biomass criterion for incumbent installa-
+tions
+```
+```
+For the assessment whether incumbent installations can be excluded from the
+EU ETS, the following points provide guidance:
+```
+1. The 95% biomass criterion relates to the total emissions of the installation, i.e.
+    it does not exclude process emissions. It is to be noted that process emis-
+    sions, if stemming from biomass, are always zero-rated, as the RED II criteria
+    apply only to combustion emissions (see GD3 as referred to in the box above).
+2. Also, the criterion related to the total emissions is not limited to combustion
+    activities only. For determining the total emissions, to which the biomass emis-
+    sions are to be compared, all emissions must be determined using the “pre-
+    liminary emission factor”^73. If the (final) emission factor were used, all eligible
+    biomass emissions would be zero and would never reach the 95% threshold.
+    If an installation is already included in the EU ETS (or excluded pursuant to
+    Article 27), it is obliged to perform monitoring according to a monitoring plan
+    approved by the competent authority. In this case, the data of verified annual
+    emissions reports of the relevant years are to be used for determination of the
+    zero-rated emissions, and as a basis for determination of the total emissions.
+    In case a competent authority has performed a conservative estimate of the
+    annual emissions pursuant to Article 70 of the MRR, that estimate should be
+    used instead of the annual emissions report.
+3. If the installation has not been operated during the whole reference period
+    (e.g. because of maintenance shut-downs), all years shall be taken into ac-
+    count for which verified annual emission reports are available. If a merger or
+    split of installation has taken place during the reference period, the relevant
+    data representing the situation after the merger or split shall be used.
+
+(^71) Note that FAQs on the topic are included in the 2022 Compliance Forum training material found
+under **https://climate.ec.europa.eu/system/files/2023-05/ets_mrva_training_biomass_en.pdf**
+(^72) This includes installations that have never been in the EU ETS before (e.g. because they are to be
+included due to changed definitions of Annex I activities, see section 3.3), but also installations
+which were excluded due to meeting the 95% threshold (or earlier, the “exclusively biomass use”
+criterion).
+(^73) Defined by Article 3(36) oft he MRR: “ _‘preliminary emission factor’ means the assumed total emis-
+sion factor of a fuel or material based on the carbon content of its biomass fraction and its fossil
+fraction before multiplying it by the fossil fraction to produce the emission factor;_ ”
+**_MRR Guidance
+document 3_**
+
+
+4. Competent authorities have to collect installations’ emissions data of the years
+    2019 to 2023 for the purpose of the NIMs notification in September 2024. For
+    administrative efficiency and to use most recent data available, the emissions
+    data of these five NIMs baseline years are to be used also for the purpose of
+    the biomass criterion of clause 1 of Annex I. In NIMs data, like in annual emis-
+    sion reports, emissions are reported in accordance with the MRR, i.e. the bi-
+    omass emissions complying with the sustainability and GHG savings criteria
+    of the RED II and in accordance with Article 38(5) of the MRR are separately
+    reported.
+    For the years 2019 and 2020 the MRR did not explicitly require the reporting
+    of emissions from biomass. Some Member States allowed them to be reported
+    simply as zero. Only since the MRR 2018 (applicable as of 2021), it has be-
+    come mandatory to report biomass emissions using a _preliminary emissions_
+    _factor_. Therefore, operators will have to provide best available data for these
+    years for the purpose of clause 1 of Annex I of the EU ETS Directive. Such
+    best available data may be based on default values of the preliminary emis-
+    sion factor (tier 2: from national GHG inventories, tier 1: emission factors given
+    in the Annex of MRR Guidance Document 3, see textbox above).
+    Where operators do not submit NIMs baseline data because they do not apply
+    for free allocation, the competent authority will have to rely on annual emis-
+    sions reports. However, the same baseline years are to be used for con-
+    sistency.
+5. While sustainability criteria applied to liquid biomass already during the 3rd
+    phase of the EU ETS, RED II criteria were relevant for biomass fuels (i.e. solid
+    and gaseous biomass) only from 2022 onwards, and many Member States
+    allowed operators a derogation pursuant to Article 38(6) which made monitor-
+    ing of compliance with these criteria mandatory only from 2023 onwards. Op-
+    erators will therefore have only one or two complete years of data available
+    for the data collection in 2024 based on the current RED II criteria. Retrospec-
+    tive certification of biomass is not possible pursuant to the rules of the RED II,
+    i.e. the RED II criteria cannot be checked for years where they were not ap-
+    plicable in the Member State. Therefore, the data collection will cover years
+    for which different sets of sustainability and GHG savings criteria are applied.
+    The rules for zero-rating of biomass applied for the purpose of emissions re-
+    porting during the respective year need to be considered for the purpose of
+    the biomass criterion of clause 1 of Annex I.
+    For subsequent NIMs data (e.g. baseline years 2024-2028 for submission by
+    Member States in 2029), the full RED II criteria as established by the MRR will
+    have to be applied.
+6. The average percentage of zero-rated emissions in the installation’s total
+    emissions of the available years during the reference period shall be calcu-
+    lated as follows to determine whether more than 95 % of emissions stem from
+    zero-rated biomass (see also the example below):
+
+ (^) First calculate the sum of the emissions over the 5 years period:
+ A = Sum of emissions complying with RED II criteria
+ B = Sum of other emissions (Fossil and non-RED II compliant biomass)
+ (^) Then calculate C = A / (A + B)
+ (^) If C > 95%, the installation is to be excluded.
+**_Applicable reference
+period
+Dealing with
+changes of RED
+criteria_**
+
+
+**Example:**
+
+```
+Source stream t CO 2 2019 2020 2021 2022 2023 Sum (5 yr)
+```
+Biomass No 1 fossil (^)
+RED II compliant^ 1 003^406  995 516  997 521  998 438  996 911 **4 991**^792
+other biomass
+Natural gas fossil 29 862 29 883 29 935 30 014 29 920 **149 614**
+RED II compliant^
+other biomass
+Limestone fossil 5 019 4 993 5 019 4 984 4 992 **25 007**
+RED II compliant^
+other biomass
+Biomass No 2 fossil (^)
+RED II compliant^24 935  25 064  25 021^75 020
+other biomass 24 886 25 075 **49 961**
+Sum fossil (^) **174 621**
+RED II compliant^ **5 066**^812
+other biomass **49 961
+Total emissions (fossil + non-RED II biomass)** (^) **5 291 394
+Zero rated emissions 5 066 812
+Percentage of zero-rated emissions** (^) **95,8%
+criterion fulfilled**^
+**7.1.2 Assessing installation not previously included in the EU
+ETS
+Case A** : The installation has operated at least one full calendar year in the base-
+line period mentioned in section 7.1.1, but was not included in the EU ETS during
+that period: In principle, the same approach as described in section 7.1.1 applies.
+However, the installation did neither have a GHG emissions permit nor an obli-
+gation to comply with the MRR in monitoring and reporting. Therefore, data avail-
+ability is limited, unless the Member State has relevant monitoring obligations in
+place (e.g. for providing evidence on its national renewable energy targets). The
+operator should provide “best available data”^74 on its emissions during the rele-
+vant baseline period (or longest available period if not under operation for the
+whole duration of the baseline period) to the competent authority. The competent
+authority should perform a conservative estimation pursuant to Article 70 of the
+MRR; where deemed necessary.
+(^74) Building on the monitoring methods provided by the MRR to the extent possible, not requiring spe-
+cific tiers. For characterisation of source streams, information from currently used fuels and materi-
+als may be considered to apply also to earlier years. Consumption data of fuels and materials should
+be proven using financial statements or production data where possible. Where the Member State
+requires reporting on biomass sustainability for the purpose of its national renewable energy target,
+such data can also be used.
+
+
+**Case B** : For installations which have not operated (“greenfield installations”), the
+above approach is not appropriate. Therefore, a deviating approach should be
+followed exclusively for such installations:
+
+1. _If the operator of such installation provides evidence to the satisfaction of the_
+    _competent authority that more than 95% of their emissions will be from bio-_
+    _mass which complies with the RED II criteria_ , the competent authority may
+    decide to exclude the installation from the EU ETS from the start of its opera-
+    tion. Such evidence may be based on the installation’s design description pro-
+    vided to the competent authority for the purpose of permitting, in combination
+    with supply contracts for specific types and quantities of fuels (including bio-
+    mass and information on their planned certification under the RED II).
+2. Where the occurrence of non-biomass emissions cannot be excluded, or
+    where combustion of biomass not complying with the RED II criteria may oc-
+    cur, or where the competent authority has any other doubts about the pre-
+    dicted biomass use, the competent authority has to require the operator to
+    provide emissions data from the first full calendar year of operation in con-
+    formity with the MRR. For this purpose, it will be necessary to include the in-
+    stallation in the EU ETS by issuing a GHG permit and approving a monitoring
+    plan.
+3. When the annual emissions report, or, where applicable, the new entrant data
+    report (covering the first full calendar year of the installation’s operation) con-
+    firms that the criterion of more than 95% zero-rated biomass emissions is
+    complied with, the installation can be excluded for the rest of the applicable
+    five-year period.
+
+In both cases A and B, installations which have not been covered by the EU ETS
+before but which are included from 2026 based on the 95% biomass criterion will
+be treated like new entrants with regard to receiving a permit and to free alloca-
+tion. Therefore, it is not necessary to notify them to the Commission as part of the
+list pursuant to Article 11(1) of the EU ETS Directive. However, Member State
+should notify the new entrants as soon as possible in a way that allows the instal-
+lation’s inclusion in the EU ETS from 1 January 2026.
+
+
+```
+7.2 New step-by-step approach regarding aggregation of
+combustion units
+```
+```
+Additions compared to the situation in 2024 are indicated in bold font and dele-
+tions by strikethrough.
+```
+```
+7.2.1 Defining installations which fall under the scope of EU ETS
+```
+```
+Summarizing the previous sections, the following decision tree can be followed
+when determining if an installation falls under the scope of the EU ETS from
+1 January 2026:
+```
+1. Apply the broadest possible installation boundaries (chapter 2).
+2. **If the installation uses significant amounts of biomass so that the “95 %**
+    **sustainable biomass” criterion (see section 7.1) might be relevant, carry**
+    **out the assessment as described in that section.**
+       **a. More than 95 % of the installation’s emissions can be zero-rated as**
+          **stemming from RED II compliant biomass75,**^76 **: The installation is not**
+          **to be included in the EU ETS.** **_Exit Decision tree_****.**
+       **b. Less than 95% of the installation’s emissions can be zero-rated as**
+          **stemming from RED II compliant biomass: Continue to point 3.**
+3. Are activities of Annex I other than "combustion of fuels" carried out at the
+    installation? (section 3.2).
+       a. YES: Activity-specific capacity threshold (if any) exceeded?
+          i. YES:
+             1. Include all directly related activities (especially combustion units
+                including their waste gas treatment),
+             2. Check for units for the incineration of municipal and hazardous
+                waste to be excluded following section 3.4.4 and (from 2024) tak-
+                ing into account chapter 6,
+             3. _Proceed to point 10_ (section 7.2.2)_._
+ii. NO: _Carry on with point 4_ (assessing combustion units).
+       b. NO: _Carry on with point 4_ (assessing combustion units).
+4. List all combustion units of the installation.
+5. Exclude units for the incineration of municipal and hazardous waste (see sec-
+    tions 3.4.3 and 3.4.4) from the list derived under point 3, but leave units for
+    co-incineration on the list; from 2024, take into account municipal waste incin-
+    eration units in accordance with sections 6.2 and 6.3,
+6. Exclude biomass units from the list,
+7. Exclude units with a rated thermal input of less than 3 MWth from the list.
+8. Add up all rated thermal inputs of the units remaining on the list of combustion
+    units.
+9. Does the sum determined under point 8 exceed 20 MWth?
+
+(^75) It is to be noted that process emissions, if stemming from biomass, are always zero-rated, as the
+RED II criteria apply only to combustion emissions.
+(^76) RED II criteria compliance can be checked only from the time period the criteria have been applied
+in the specific Member State.
+**_Decision tree
+applicable from 2026_**
+
+
+```
+c. YES: Installation is under the EU ETS. Add again all units excluded under
+point 5 and 6. From 2024, D istinguish cases where municipal waste incin-
+erations units are included for MRV only, and cases of full inclusion (see
+sections 6.2 and 6.3). Proceed to point 10 (section 7.2.2).
+d. NO: Installation stays out of the EU ETS. Exit decision tree.
+```
+```
+7.2.2 Identifying installations which fall under the scope of EU
+ETS, but could be excluded as "small installations" pursu-
+ant to Article 27
+```
+10. Does the Member State concerned intend to allow an exclusion of small in-
+    stallations pursuant to Article 27?
+       a. NO: Installation is included in the EU ETS, or may be excluded under Arti-
+          cle 27a. _Proceed to point 12_.
+       b. YES: _proceed to point 11_.
+11. Is at least one of the following criteria met?
+
+```
+i. Installation is a hospital (see section 5.5),
+ii. Installation carries out Annex I activity other than “combustion of
+fuels”, and annual GHG emissions potentially^77 covered by the EU
+ETS in each of the three years before notification of the “NIMs list”^78
+have been less than 25 000 t CO 2 (eq)79,^80 ,
+iii. Installation carries out Annex I activity “combustion of fuels”, and the
+aggregate capacity (including the capacity of units mentioned under
+points 5 and 6) is less than 35 MWth^81 , and annual GHG emissions
+potentially^77 covered by the EU ETS in each of the three years before
+notification of the “NIMs list” have been less than 25 000 t CO 2 (eq)^79.
+a. YES: Installation may be excluded from EU ETS, if equivalent measures
+and monitoring and reporting arrangements in accordance with Article 14
+are in place and if installation is notified at the latest to the Commission by
+the relevant deadline for NIMs notification^78.
+b. NO: Installation stays in the EU ETS or may be excluded under Article 27a.
+```
+(^77) This is to indicate emissions of installations already excluded from the EU ETS before.
+(^78) The list of installations and free allocation levels contained in the “NIMs” (National Implementation
+Measures) pursuant to Article 11(1). Deadline for this notification by Member States is 30 Septem-
+ber 2024 and every 5 years thereafter. Therefore, the three years for assessing the given threshold
+are 2021, 2022 and 2023, and the respective years every five years thereafter.
+(^79) In order to also give the possibility to exclude small installations that only started up their Annex I
+activity in one of the three relevant years, only the years during which the installation was already
+operating are taken into account.
+(^80) Emissions from biomass are to be excluded in this calculation.
+(^81) When assessing the 35 MW and 25 000 t CO 2 (eq) threshold for possible exclusion from the EU
+ETS, also the fuel use (and CO 2 emissions) from units with a rated thermal input of less than 3 MWth
+are included. Exempting the latter is only relevant when assessing whether an installation falls un-
+der the scope of the EU ETS.
+
+
+```
+7.2.3 Identifying installations or units which could be excluded
+pursuant to Article 27a
+```
+12. Does the Member State concerned intend to allow an exclusion of small in-
+    stallations pursuant to Article 27a(1)^82?
+       a. NO: Installation is included in the EU ETS. _Proceed to point 14_.
+       b. YES: _Proceed to point 13_.
+13. Did the installation emit^80 less than 2 500 t CO 2 per year in each of the three
+    years before notification of the “NIMs list”?
+       a. YES: _Installation may be excluded from the EU ETS_.
+       b. NO: _Continue to point 14._
+14. Does the Member State intend to allow exclusion of reserve and backup units
+    pursuant to Article 27a(3)^83?
+       a. NO: The installation as a whole remains in the EU ETS. _Exit decision tree._
+       b. YES: _Continue to point 15._
+15. Does the installation have reserve or backup units which did not operate more
+    than 300 hours in each of the three years before notification of the “NIMs list”?
+       a. YES: Such units may be excluded from the EU ETS.
+       b. NO: The installation as a whole remains in the EU ETS. _Exit decision tree._
+
+(^82) Article 27a(1): “ _Member States may exclude from the EU ETS installations that have reported to
+the competent authority of the Member State concerned emissions of less than 2 500 tonnes of
+carbon dioxide equivalent, disregarding emissions from biomass, in each of the three years preced-
+ing the notification [of the NIMs]”_ under conditions given in that Article.
+(^83) “ _3. Member States may also exclude from the EU ETS reserve or backup units which did not operate
+more than 300 hours per year in each of the three years preceding the notification under point (a)
+of paragraph 1, under the same conditions as set out in paragraphs 1 and 2._ ”
+
+
+## 8 ANNEX
+
+**8.1 Glossary**
+
+CA ......................... Competent Authority
+
+CHP ...................... Combined Heat and Power production (Cogeneration)
+
+FAR ....................... Free Allocation Rules: Commission Delegated Regulation
+(EU) 2019/331 of 19 December 2018 determining transitional
+Union-wide rules for harmonised free allocation of emission
+allowances pursuant to Article 10a of Directive 2003/87/EC of
+the European Parliament and of the Council. Download:
+**[http://data.europa.eu/eli/reg_del/2019/331/oj](http://data.europa.eu/eli/reg_del/2019/331/oj)**
+
+EU ETS ................. EU greenhouse gas Emission Trading System. For the pur-
+poses of this Guidance Document, EU ETS refers to the emis-
+sion trading system for stationary installations (i.e. installa-
+tions covered by Chapter III of the EU ETS Directive).
+
+EU ETS Directive .. Directive 2003/87/EC of the European Parliament and of the
+Council of 13 October 2003 establishing a system for green-
+house gas emission allowance trading within the Community
+and amending Council Directive 96/61/EC. Download:
+**https://eur-lex.europa.eu/legal-con-
+tent/EN/TXT/?uri=CELEX%3A02003L0087- 20230605**
+
+GD ........................ Guidance Document. For the Commission’s guidance docu-
+ments on MRVA topics (in particular GD3 on biomass issues),
+see **https://climate.ec.europa.eu/eu-action/eu-emissions-
+trading-system-eu-ets/monitoring-reporting-and-verifi-
+cation-eu-ets-emissions_en**
+
+GHG ...................... Greenhouse gas(es) listed in Annex II to the EU ETS Di-
+rective. Only those GHG which are listed in Annex I for each
+activity are considered within this guidance.
+
+IED ........................ Industrial Emissions Directive, i.e. Directive 2010/75/EU of
+the European Parliament and of the Council of 24 November
+2010 on industrial emissions (integrated pollution prevention
+and control), **[http://data.europa.eu/eli/dir/2010/75/2011-01-](http://data.europa.eu/eli/dir/2010/75/2011-01-)
+06**
+
+MRR ...................... Monitoring and Reporting Regulation: Commission Imple-
+menting Regulation (EU) 2018/2066 of 19 December 2018 on
+the monitoring and reporting of greenhouse gas emissions
+pursuant to Directive 2003/87/EC of the European Parliament
+and of the Council and amending Commission Regulation
+(EU) No. 601/2012. Download consolidated version:
+**[http://data.europa.eu/eli/reg_impl/2018/2066/2022-](http://data.europa.eu/eli/reg_impl/2018/2066/2022-) 08 -28**
+
+MRV ...................... Monitoring, Reporting and Verification
+
+MRVA ................... Monitoring, Reporting, Verification and Accreditation
+
+
+MS ........................ Member State(s). Note that within this guidance, this should
+be read as “EU Member States and Norway, Iceland and
+Liechtenstein”, i.e. all States participating in the EU ETS
+
+MWI ...................... Municipal Waste Incineration
+
+NACE .................... Statistical classification of economic activities in the European
+Community
+
+NIMs ..................... National implementation measures pursuant to Article 11
+
+RED II ................... Renewable Energy Directive II: Directive (EU) 2018/2001 of
+the European Parliament and of the Council of 11 December
+2018 on the promotion of the use of energy from renewable
+sources (recast). Download under:
+**[http://data.europa.eu/eli/dir/2018/2001/2022-](http://data.europa.eu/eli/dir/2018/2001/2022-) 06 -07**
+
+WFD ...................... Waste Framework Directive: Directive 2008/98/EC of the Eu-
+ropean Parliament and of The Council of 19 November 2008
+on waste and repealing certain Directives; consolidated ver-
+sion: **[http://data.europa.eu/eli/dir/2008/98/2018-07-05](http://data.europa.eu/eli/dir/2008/98/2018-07-05)**
+
+```
+8.2 Annex I of the revised ETS-directive (excluding
+maritime and aviation activities)
+```
+Additions compared to the Directive before the 2023 preview are indicated in **bold
+font** and deletions by strikethrough.
+
+**Categories of activities to which this directive applies**
+
+1. Installations or parts of installations used for research, development and
+
+```
+testing of new products and processes and installations exclusively using bi-
+omass are not covered by this Directive. Installations where during the
+preceding relevant five-year period referred to in Article 11(1), second
+subparagraph, emissions from the combustion of biomass that com-
+plies with the criteria set out pursuant to Article 14 contribute on aver-
+age to more than 95 % of the total average greenhouse gas emissions
+are not covered by this Directive.
+```
+2. The thresholds values given below generally refer to production capacities or
+
+```
+outputs. Where several activities falling under the same category are carried
+out in the same installation, the capacities of such activities are added to-
+gether.
+```
+3. When the total rated thermal input of an installation is calculated in order to
+
+```
+decide upon its inclusion in the EU ETS, the rated thermal inputs of all tech-
+nical units which are part of it, in which fuels are combusted within the instal-
+lation, are added together. These Those units may could include all types of
+```
+
+```
+boilers, burners, turbines, heaters, furnaces, incinerators, calciners, kilns, ov-
+ens, dryers, engines, fuel cells, chemical looping combustion units, flares,
+and thermal or catalytic post-combustion units. Units with a rated thermal in-
+put under 3 MW and units which use exclusively biomass shall not be taken
+into account for the purposes of this calculation. "Units using exclusively bio-
+mass" includes units which use fossil fuels only during start-up or shut-down
+of the unit.
+```
+4. If a unit serves an activity for which the threshold is not expressed as total
+
+```
+rated thermal input, the threshold of this activity shall take precedence for
+the decision about the inclusion in the EU ETS.
+```
+5. When the capacity threshold of any activity in this Annex is found to be ex-
+
+```
+ceeded in an installation, all units in which fuels are combusted, other than
+units for the incineration of hazardous or municipal waste, shall be included
+in the GHG emission permit.
+```
+```
+Activities Greenhouse gases
+```
+```
+1
+```
+```
+Combustion of fuels in installations with a total rated thermal
+input exceeding 20 MW (except in installations for the incin-
+eration of hazardous or municipal waste)
+From 1 January 2024, combustion of fuels in installa-
+tions for the incineration of municipal waste with a total
+rated thermal input exceeding 20 MW, for the purposes
+of Articles 14 and 15.
+```
+```
+Carbon dioxide
+```
+```
+2 Refining of mineral tal rated thermal input exceeding 20 MW are operated oil , where combustion units with a to- Carbon dioxide
+```
+```
+3 Production of coke Carbon dioxide
+```
+```
+4 Metal ore (including sulphide ore) roasting or sintering, in-cluding pelletisation Carbon dioxide
+```
+```
+5
+```
+```
+Production of pig iron or steel (primary or secondary fusion)
+including continuous casting, with a capacity exceeding 2,5
+tonnes per hour
+```
+```
+Carbon dioxide
+```
+```
+6
+```
+```
+Production or processing of ferrous metals (including ferro-
+alloys) where combustion units with a total rated thermal in-
+put exceeding 20 MW are operated. Processing includes,
+inter alia, rolling mills, re-heaters, annealing furnaces,
+smitheries, foundries, coating and pickling
+```
+```
+Carbon dioxide
+```
+```
+7 Production of primary aluminium or alumina
+```
+```
+Carbon dioxide
+and perfluorocar-
+bons
+```
+```
+8
+```
+```
+Production of secondary aluminium where combustion units
+with a total rated thermal input exceeding 20 MW are oper-
+ated
+```
+```
+Carbon dioxide
+```
+
+**Activities Greenhouse gases**
+
+9
+
+```
+Production or processing of non-ferrous metals, including
+production of alloys, refining, foundry casting, etc., where
+combustion units with a total rated thermal input (including
+fuels used as reducing agents) exceeding 20 MW are oper-
+ated
+```
+```
+Carbon dioxide
+```
+10
+
+```
+Production of cement clinker in rotary kilns with a production
+capacity exceeding 500 tonnes per day or in other furnaces
+with a production capacity exceeding 50 tonnes per day
+```
+```
+Carbon dioxide
+```
+11
+
+```
+Production of lime or calcination of dolomite or magnesite in
+rotary kilns or in other furnaces with a production capacity
+exceeding 50 tonnes per day
+```
+```
+Carbon dioxide
+```
+12 Manufacture of glass including glass fibre with a melting ca-pacity exceeding 20 tonnes per day Carbon dioxide
+
+13
+
+```
+Manufacture of ceramic products by firing, in particular roof-
+ing tiles, bricks, refractory bricks, tiles, stoneware or porce-
+lain, with a production capacity exceeding 75 tonnes per
+day
+```
+```
+Carbon dioxide
+```
+14
+
+```
+Manufacture of mineral wool insulation material using glass,
+rock or slag with a melting capacity exceeding 20 tonnes
+per day
+```
+```
+Carbon dioxide
+```
+15
+
+```
+Drying or calcination of gypsum or production of plaster
+boards and other gypsum products, with a production ca-
+pacity of calcined gypsum or dried secondary gypsum
+exceeding a total of 20 tonnes per day where combustion
+units with a total rated thermal input exceeding 20 MW are
+operated
+```
+```
+Carbon dioxide
+```
+16 Production of pulp from timber or other fibrous materials Carbon dioxide
+
+17 Production of paper or cardboard with a production capacity exceeding 20 tonnes per day Carbon dioxide
+
+18
+
+```
+Production of carbon black involving the carbonisation of or-
+ganic substances such as oils, tars, cracker and distillation
+residues with a production capacity exceeding 50
+tonnes per day , where combustion units with a total rated
+thermal input exceeding 20 MW are operated
+```
+```
+Carbon dioxide
+```
+19 Production of nitric acid Carbon dioxide and nitrous oxide
+
+20 Production of adipic acid Carbon dioxide and nitrous oxide
+
+21 Production of glyoxal and glyoxylic acid Carbon dioxide and nitrous oxide
+
+22 Production of ammonia Carbon dioxide
+
+23
+
+```
+Production of bulk organic chemicals by cracking, reform-
+ing, partial or full oxidation or by similar processes, with a
+production capacity exceeding 100 tonnes per day
+```
+```
+Carbon dioxide
+```
+24
+
+```
+Production of hydrogen (H2) and synthesis gas by reform-
+ing or partial oxidation with a production capacity exceeding
+25 5 tonnes per day
+```
+```
+Carbon dioxide
+```
+25 Production of soda ash (Na2CO3) and sodium bicarbonate (NaHCO3) Carbon dioxide
+
+
+**Activities Greenhouse gases**
+
+26
+
+```
+Capture of greenhouse gases from installations covered by
+this Directive for the purpose of transport and geological
+storage in a storage site permitted under Directive
+2009/31/EC
+```
+```
+Carbon dioxide
+```
+27
+
+```
+Transport of greenhouse gases by pipelines for geological
+storage in a storage site permitted under Directive
+2009/31/EC , with the exclusion of those emissions cov-
+ered by another activity under this Directive
+```
+```
+Carbon dioxide
+```
+28 Geological storage of greenhouse gases in a storage site permitted under Directive 2009/31/EC Carbon dioxide
+
+
