@@ -28,6 +28,9 @@ Welcome to one of the most extensive and dynamic collections of Generative AI (G
 *Join thousands of AI enthusiasts getting weekly insights!*
 </div>
 
+[![DiamantAI's newsletter](images/substack_image.png)](https://diamantai.substack.com/?r=336pe4&utm_campaign=pub-share-checklist)
+
+
 ## Introduction
 
 Generative AI agents are at the forefront of artificial intelligence, revolutionizing the way we interact with and leverage AI technologies. This repository is designed to guide you through the development journey, from basic agent implementations to advanced, cutting-edge systems.
