@@ -1,0 +1,60 @@
+{
+  "tasks": [
+    {
+      "id": "task_001",
+      "title": "Complete ML Exercise Set 1",
+      "notes": "Focus on supervised learning problems. Remember to include practical examples.",
+      "due": "2024-03-20T23:59:59Z",
+      "status": "needsAction",
+      "updated": "2024-03-13T10:00:00Z",
+      "priority": "high",
+      "estimated_duration": 90,
+      "links": [
+        {
+          "type": "study_material",
+          "description": "ML Basics Chapter",
+          "link": "ml_101"
+        },
+        {
+          "type": "exercise",
+          "description": "Practice Problems",
+          "link": "ml_exercises_01"
+        }
+      ],
+      "adhd_support": {
+        "chunked_subtasks": [
+          {
+            "id": "subtask_001",
+            "title": "Review theory (25min)",
+            "completed": false
+          },
+          {
+            "id": "subtask_002",
+            "title": "Solve first 3 problems (25min)",
+            "completed": false
+          },
+          {
+            "id": "subtask_003",
+            "title": "Take a break (5min)",
+            "completed": false
+          },
+          {
+            "id": "subtask_004",
+            "title": "Complete remaining problems (25min)",
+            "completed": false
+          }
+        ],
+        "reminders": [
+          {
+            "type": "start_task",
+            "time": "2024-03-20T19:00:00Z"
+          },
+          {
+            "type": "break_reminder",
+            "interval": 25
+          }
+        ]
+      }
+    }
+  ]
+}
