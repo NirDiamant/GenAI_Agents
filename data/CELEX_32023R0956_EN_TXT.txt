@@ -1,0 +1,3457 @@
+## REGULATION (EU) 2023/956 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+
+```
+of 10 May 2023
+```
+```
+establishing a carbon border adjustment mechanism
+```
+```
+(Text with EEA relevance)
+```
+```
+THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
+```
+```
+Having regard to the Treaty on the Functioning of the European Union, and in particular Article 192(1) thereof,
+```
+```
+Having regard to the proposal from the European Commission,
+```
+```
+After transmission of the draft legislative act to the national parliaments,
+```
+```
+Having regard to the opinion of the European Economic and Social Committee(^1 ),
+```
+```
+Having regard to the opinion of the Committee of the Regions(^2 ),
+```
+```
+Acting in accordance with the ordinary legislative procedure(^3 ),
+```
+```
+Whereas:
+```
+```
+(1) In its communication of 11 December 2019 entitled ‘The European Green Deal’ (the ‘European Green Deal’), the
+Commission set out a new growth strategy. That strategy aims to transform the Union into a fair and prosperous
+society, with a modern, resource-efficient and competitive economy, where there are no net emissions (emissions
+after deduction of removals) of greenhouse gases (‘greenhouse gas emissions’) at the latest by 2050 and where
+economic growth is decoupled from the use of resources. The European Green Deal aims to protect, conserve and
+enhance the Union’s natural capital, and to protect the health and well-being of citizens from environment-related
+risks and impacts. At the same time, that transformation must be just and inclusive, leaving no one behind. The
+Commission also announced in its communication of 12 May 2021entitled ‘Pathway to a Healthy Planet for All,
+EU Action Plan: Towards Zero Pollution for Air, Water and Soil’ the promotion of relevant instruments and
+incentives to better implement the ‘polluter pays’ principle set out in Article 191(2) of the Treaty on the
+Functioning of the European Union (TFEU) and thus complete the phasing out of ‘pollution for free’ with a view to
+maximising synergies between decarbonisation and the zero-pollution ambition.
+```
+```
+(2) The Paris Agreement(^4 ), adopted on 12 December 2015 under the United Nations Framework Convention on
+Climate Change (UNFCCC) (the ‘Paris Agreement’), entered into force on 4 November 2016. The Parties to the Paris
+Agreement have agreed to hold the increase in the global average temperature well below 2 °C above pre-industrial
+levels and to pursue efforts to limit the temperature increase to 1,5 °C above pre-industrial levels. Under the
+Glasgow Climate Pact, adopted on 13 November 2021 , the Conference of the Parties to the UNFCCC, serving as the
+meeting of the Parties to the Paris Agreement, also recognised that limiting the increase in the global average
+temperature to 1,5 °C above pre-industrial levels would significantly reduce the risks and impacts of climate change,
+and committed to strengthening the 2030 targets by the end of 2022 to close the ambition gap.
+```
+```
+(^1 ) OJ C 152, 6.4.2022, p. 181.
+(^2 ) OJ C 301, 5.8.2022, p. 116.
+(^3 ) Position of the European Parliament of 18 April 2023 (not yet published in the Official Journal) and decision of the Council of
+25 April 2023.
+(^4 ) OJ L 282, 19.10.2016, p. 4.
+```
+L 130/52 EN Official Journal of the European Union 16.5.
+
+
+```
+(3) Tackling climate and other environment-related challenges and reaching the objectives of the Paris Agreement are at
+the core of the European Green Deal. The value of the European Green Deal has only grown in light of the very
+severe effects of the COVID-19 pandemic on the health and economic well-being of the Union’s citizens.
+```
+```
+(4) The Union committed to reducing the Union’s economy-wide net greenhouse gas emissions by at least 55 %
+compared to 1990 levels by 2030, as set out in the submission to the UNFCCC on behalf of the European Union
+and its Member States on the update of the nationally determined contribution of the European Union and its
+Member States.
+```
+```
+(5) Regulation (EU) 2021/1119 of the European Parliament and of the Council(^5 )has enshrined in legislation the
+objective of economy-wide climate neutrality at the latest by 2050. That Regulation also establishes a binding
+Union domestic reduction target for net greenhouse gas emissions (emissions after deduction of removals) of at
+least 55 % compared to 1990 levels by 2030.
+```
+```
+(6) The Special Report of the Intergovernmental Panel on Climate Change (IPCC) of 2018 on the impacts of global
+temperature increases of 1,5 °C above pre-industrial levels and related global greenhouse gas emission pathways
+provides a strong scientific basis for tackling climate change and illustrates the need to step up climate action. That
+report confirms that, in order to reduce the likelihood of extreme weather events, greenhouse gas emissions need to
+be urgently reduced, and that climate change needs to be limited to a global temperature increase of 1,5 °C.
+Moreover, if mitigation pathways, consistent with limiting global warming to 1,5 °C above pre-industrial levels, are
+not rapidly activated, much more expensive and complex adaptation measures will have to be taken to avoid the
+impacts of higher levels of global warming. The contribution of Working Group I to the Sixth Assessment Report of
+the IPCC entitled ‘Climate Change 2021: The Physical Science Basis’ recalls that climate change is already affecting
+every region on Earth and projects that in the coming decades climate change will increase in all regions. That
+report stresses that, unless there are immediate, rapid and large-scale reductions in greenhouse gas emissions,
+limiting warming to close to 1,5 °C or even 2 °C will be beyond reach.
+```
+```
+(7) The Union has been pursuing an ambitious policy on climate action and has put in place a regulatory framework to
+achieve its 2030 target for greenhouse gas emissions reduction. The legislation implementing that target consists,
+inter alia, of Directive 2003/87/EC of the European Parliament and of the Council(^6 ), which establishes a system for
+greenhouse gas emission allowance trading within the Union (‘EU ETS’) and delivers harmonised pricing of
+greenhouse gas emissions at Union level for energy-intensive sectors and subsectors, of Regulation (EU) 2018/
+of the European Parliament and of the Council(^7 ), which introduces national targets for the reduction of
+greenhouse gas emissions by 2030, and of Regulation (EU) 2018/841 of the European Parliament and of the
+Council(^8 ), which requires Member States to compensate greenhouse gas emissions from land use with the removal
+of greenhouse gases from the atmosphere.
+```
+```
+(8) While the Union has substantially reduced its domestic greenhouse gas emissions, the greenhouse gas emissions
+embedded in imports to the Union have been increasing, thereby undermining the Union’s efforts to reduce its
+global greenhouse gas emissions footprint. The Union has a responsibility to continue playing a leading role in
+global climate action.
+```
+```
+(^5 ) Regulation (EU) 2021/1119 of the European Parliament and of the Council of 30 June 2021 establishing the framework for achieving
+climate neutrality and amending Regulations (EC) No 401/2009 and (EU) 2018/1999 (‘European Climate Law’) (OJ L 243, 9.7.2021,
+p. 1).
+(^6 ) Directive 2003/87/EC of the European Parliament and of the Council of 13 October 2003 establishing a system for greenhouse gas
+emission allowance trading within the Union and amending Council Directive 96/61/EC (OJ L 275, 25.10.2003, p. 32).
+(^7 ) Regulation (EU) 2018/842 of the European Parliament and of the Council of 30 May 2018 on binding annual greenhouse gas emission
+reductions by Member States from 2021 to 2030 contributing to climate action to meet commitments under the Paris Agreement and
+amending Regulation (EU) No 525/2013 (OJ L 156, 19.6.2018, p. 26).
+(^8 ) Regulation (EU) 2018/841 of the European Parliament and of the Council of 30 May 2018 on the inclusion of greenhouse gas
+emissions and removals from land use, land use change and forestry in the 2030 climate and energy framework, and amending
+Regulation (EU) No 525/2013 and Decision No 529/2013/EU (OJ L 156, 19.6.2018, p. 1).
+```
+16.5.2023 EN Official Journal of the European Union L 130/
+
+
+```
+(9) As long as a significant number of the Union’s international partners have policy approaches that do not achieve the
+same level of climate ambition, there is a risk of carbon leakage. Carbon leakage occurs if, for reasons of costs related
+to climate policies, businesses in certain industry sectors or subsectors transfer production to other countries or
+imports from those countries replace equivalent products that are less intensive in terms of greenhouse
+gas emissions. Such situations could lead to an increase in the total global emissions, thus jeopardising the
+reduction of greenhouse gas emissions that is urgently needed if the world is to keep the increase in global average
+temperature to well below 2 °C above pre-industrial levels and to pursue efforts to limit the temperature increase to
+1,5 °C above pre-industrial levels. As the Union increases its climate ambition, that risk of carbon leakage could
+undermine the effectiveness of Union emission reduction policies.
+```
+```
+(10) The initiative for a carbon border adjustment mechanism (the ‘CBAM’) is part of the ‘Fit for 55’ legislative package.
+The CBAM is to serve as an essential element of the Union’s toolbox for meeting the objective of a climate-neutral
+Union at the latest by 2050 in line with the Paris Agreement by addressing the risk of carbon leakage that results
+from the Union’s increased climate ambition. The CBAM is expected to also contribute to promoting
+decarbonisation in third countries.
+```
+```
+(11) Existing mechanisms for addressing the risk of carbon leakage in sectors or subsectors where such risk exists consist
+of the transitional free allocation of EU ETS allowances and financial measures to compensate for indirect emission
+costs incurred from greenhouse gas emission costs passed on in electricity prices. Those mechanisms are set out in
+Article 10a(6) and Article 10b of Directive 2003/87/EC, respectively. The free allocation of EU ETS allowances at
+the level of best performers has been a policy instrument for certain industrial sectors to address the risk of carbon
+leakage. However, compared to full auctioning, such free allocation weakens the price signal that the system
+provides and thus affects the incentives for investment into further reducing greenhouse gas emissions.
+```
+```
+(12) The CBAM seeks to replace those existing mechanisms by addressing the risk of carbon leakage in a different way,
+namely by ensuring equivalent carbon pricing for imports and domestic products. To ensure a gradual transition
+from the current system of free allowances to the CBAM, the CBAM should be progressively phased in while free
+allowances in sectors covered by the CBAM are phased out. The combined and transitional application of EU ETS
+allowances allocated free of charge and of the CBAM should in no case result in more favourable treatment for
+Union goods compared to goods imported into the customs territory of the Union.
+```
+```
+(13) The carbon price is rising, and companies need long-term visibility, predictability and legal certainty to make their
+decisions on investment in the decarbonisation of industrial processes. Therefore, in order to strengthen the legal
+framework for fighting carbon leakage, a clear pathway for gradual further extension of the scope of the CBAM to
+products, sectors and subsectors at risk of carbon leakage should be established.
+```
+```
+(14) While the objective of the CBAM is to prevent the risk of carbon leakage, this Regulation would also encourage
+producers from third countries to use technologies that are more efficient in reducing greenhouse gases so that
+fewer emissions are generated. For that reason, the CBAM is expected to effectively support the reduction of
+greenhouse gas emissions in third countries.
+```
+```
+(15) As an instrument to prevent carbon leakage and reduce greenhouse gas emissions, the CBAM should ensure that
+imported products are subject to a regulatory system that applies carbon costs equivalent to those borne under the
+EU ETS, resulting in a carbon price that is equivalent for imports and domestic products. The CBAM is a climate
+measure which should support the reduction of global greenhouse gas emissions and prevent the risk of carbon
+leakage, while ensuring compatibility with World Trade Organization law.
+```
+L 130/54 EN Official Journal of the European Union 16.5.
+
+
+```
+(16) This Regulation should apply to goods imported into the customs territory of the Union from third countries, except
+where their production has already been subject to the EU ETS through its application to third countries or
+territories or to a carbon pricing system that is fully linked with the EU ETS.
+```
+```
+(17) With a view to ensuring that the transition to a carbon-neutral economy is continuously accompanied by economic
+and social cohesion, account should be taken, upon future revision of this Regulation, of the special characteristics
+and constraints of the outermost regions referred to in Article 349 TFEU as well as of island States which are part of
+the customs territory of the Union, without undermining the integrity and coherence of the Union legal order,
+including the internal market and common policies.
+```
+```
+(18) With a view to preventing the risk of carbon leakage in offshore installations, this Regulation should apply to goods,
+or processed products from those goods resulting from an inward processing procedure, that are brought to an
+artificial island, a fixed or floating structure, or any other structure on the continental shelf or in the exclusive
+economic zone of a Member State where that continental shelf or exclusive economic zone is adjacent to the
+customs territory of the Union. Implementing powers should be conferred on the Commission to lay down detailed
+conditions for the application of the CBAM to such goods.
+```
+```
+(19) The greenhouse gas emissions that should be subject to the CBAM should correspond to those greenhouse gas
+emissions covered by Annex I to Directive 2003/87/EC, namely carbon dioxide (‘CO 2 ’) as well as, where relevant,
+nitrous oxide and perfluorocarbons. The CBAM should initially apply to direct emissions of those greenhouse gases
+from the time of production of goods until the import of those goods into the customs territory of the Union,
+mirroring the scope of the EU ETS to ensure coherence. The CBAM should also apply to indirect emissions. Those
+indirect emissions are the emissions arising from the generation of electricity used to produce the goods to which
+this Regulation applies. The inclusion of indirect emissions would further enhance the environmental effectiveness
+of the CBAM and its ambition to contribute to fighting climate change. Indirect emissions should, however, not be
+taken into account initially for the goods in respect of which financial measures apply in the Union that compensate
+for indirect emissions costs incurred from greenhouse gas emission costs passed on in electricity prices. Those goods
+are identified in Annex II to this Regulation. Future revisions of the EU ETS in Directive 2003/87/EC and, in
+particular, revisions of the compensation measures of the indirect costs should be appropriately reflected as regards
+the scope of application of the CBAM. During the transitional period, data should be collected for the purpose of
+further specifying the methodology for the calculation of indirect emissions. That methodology should take into
+account the quantity of electricity used for the production of the goods listed in Annex I to this Regulation, as well
+as the country of origin, generation source, and the emission factors related to that electricity. The specific
+methodology should be further specified in order to achieve the most appropriate way to prevent carbon leakage
+and ensure the environmental integrity of the CBAM.
+```
+```
+(20) The EU ETS and the CBAM share a common objective of pricing greenhouse gas emissions embedded in the same
+sectors and goods through the use of specific allowances or certificates. Both systems have a regulatory nature and
+are justified by the need to curb greenhouse gas emissions, in line with the binding environmental target under
+Union law, set out in Regulation (EU) 2021/1119, to reduce the Union’s net greenhouse gas emissions by at least
+55 % compared to 1990 levels by 2030 and the objective to reach economy-wide climate neutrality at the latest by
+2050.
+```
+```
+(21) While the EU ETS sets the total number of allowances issued (the ‘cap’) on the greenhouse gas emissions from
+activities within its scope and allows trading of allowances (the ‘cap and trade system’), the CBAM should not
+establish quantitative limits on imports, so that trade flows are not restricted. Moreover, while the EU ETS applies to
+installations in the Union, the CBAM should apply to certain goods imported into the customs territory of the
+Union.
+```
+```
+(22) The CBAM system has some specific features when compared to the EU ETS, including with respect to the
+calculation of the price of CBAM certificates, the possibilities to trade CBAM certificates and their period of validity.
+Those features are due to the need to preserve the effectiveness of the CBAM as a measure to prevent carbon leakage
+over time. They also ensure that the management of the CBAM system is not excessively burdensome, both in terms
+```
+16.5.2023 EN Official Journal of the European Union L 130/
+
+
+```
+of obligations imposed on operators and administrative resources, while at the same time preserving a level of
+flexibility available to operators equivalent to that under the EU ETS. Ensuring such a balance is of particular
+importance to small and medium-sized enterprises (SMEs) concerned.
+```
+```
+(23) In order to preserve its effectiveness as a measure to prevent carbon leakage, the CBAM needs to reflect closely the
+EU ETS price. While on the EU ETS market the price of allowances released onto the market is determined through
+auctions, the price of CBAM certificates should reasonably reflect the price of such auctions through averages
+calculated on a weekly basis. Such weekly average prices reflect closely the price fluctuations of the EU ETS and
+allow a reasonable margin for importers to take advantage of the price changes of the EU ETS while also ensuring
+that the system remains manageable for administrative authorities.
+```
+```
+(24) Under the EU ETS, the cap determines the supply of emission allowances and provides certainty about maximum
+emissions of greenhouse gases. The carbon price is determined by the balance of that supply against the market
+demand. Scarcity is necessary for there to be a price incentive. This Regulation is not intended to impose a cap on
+the number of CBAM certificates available to importers; if importers were able to carry forward and trade CBAM
+certificates, that ability could have resulted in situations where the price for CBAM certificates would no longer
+reflect the evolution of the price in the EU ETS. Such a situation would weaken the incentive for decarbonisation,
+favouring carbon leakage and impairing the overarching climate objective of the CBAM. It could also result in
+different prices for operators from different countries. The limits on the possibilities to trade CBAM certificates and
+to carry them forward are therefore justified by the need to avoid undermining the effectiveness and climate
+objective of the CBAM and to ensure even-handed treatment of operators from different countries. However, in
+order to preserve the possibility for importers to optimise their costs, this Regulation should provide for a system
+where authorities can repurchase a certain amount of excess certificates from importers. Such amount should be set
+at a level which allows a reasonable margin for importers to leverage their costs over the period of validity of the
+certificates while preserving the overall price transmission effect, ensuring that the environmental objective of the
+CBAM is preserved.
+```
+```
+(25) Given that the CBAM would apply to imports of goods into the customs territory of the Union rather than to
+installations, certain adaptations and simplifications would also need to apply in the CBAM. One such
+simplification should be the introduction of a simple and accessible declarative system whereby importers report
+the total verified greenhouse gas emissions embedded in goods imported in a given calendar year. A different timing
+compared to the compliance cycle of the EU ETS should also be applied to avoid any potential bottleneck that might
+result from obligations for accredited verifiers under this Regulation and Directive 2003/87/EC.
+```
+```
+(26) Member States should impose penalties for infringements of this Regulation and ensure that such penalties are
+enforced. More specifically, the penalty amount for the failure of an authorised CBAM declarant to surrender CBAM
+certificates should be identical to the amount pursuant to Article 16(3) and (4) of Directive 2003/87/EC. However,
+where the goods have been introduced into the Union by a person other than an authorised CBAM declarant
+without complying with the obligations under this Regulation, the amount of those penalties should be higher in
+order to be effective, proportionate and dissuasive, also taking into account the fact that such person is not obliged
+to surrender CBAM certificates. The imposition of penalties under this Regulation is without prejudice to penalties
+that may be imposed under Union or national law for the infringement of other relevant obligations, in particular
+those related to customs rules.
+```
+```
+(27) While the EU ETS applies to certain production processes and activities, the CBAM should target the corresponding
+imports of goods. That requires clearly identifying imported goods by means of their classification in the Combined
+Nomenclature (‘CN’) set out in Council Regulation (EEC) No 2658/87(^9 )and linking them to embedded emissions.
+```
+```
+(^9 ) Council Regulation (EEC) No 2658/87 of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff
+(OJ L 256, 7.9.1987, p. 1).
+```
+L 130/56 EN Official Journal of the European Union 16.5.
+
+
+```
+(28) The goods or processed products covered by the CBAM should reflect the activities covered by the EU ETS as that
+system is based on quantitative and qualitative criteria linked to the environmental objective of
+Directive 2003/87/EC and is the most comprehensive greenhouse gas emissions regulatory system in the Union.
+```
+```
+(29) Defining the scope of the CBAM in a way that reflects the activities covered by the EU ETS would also contribute to
+ensuring that imported products are granted a treatment that is not less favourable than that accorded to like
+products of domestic origin.
+```
+```
+(30) Whilst the ultimate objective of the CBAM is one of broad product coverage, it would be prudent to start with a
+selected number of sectors with relatively homogeneous goods where there is a risk of carbon leakage. Union
+sectors deemed to be at risk of carbon leakage are listed in Commission Delegated Decision (EU) 2019/708(^10 ).
+```
+```
+(31) The goods, to which this Regulation should apply, should be selected after careful analysis of their relevance in terms
+of cumulated greenhouse gas emissions and risk of carbon leakage in the corresponding EU ETS sectors, while
+limiting complexity and administrative burden on the operators concerned. In particular, the selection should take
+into account basic materials and basic products covered by the EU ETS with the objective of ensuring that emissions
+embedded in emission-intensive products imported into the Union are subject to a carbon price that is equivalent to
+that applied to Union products, and of mitigating the risk of carbon leakage. The relevant criteria to narrow the
+selection should be: first, relevance of sectors in terms of emissions, namely whether the sector is one of the largest
+aggregate emitters of greenhouse gas emissions; second, the sector’s exposure to significant risk of carbon leakage,
+as defined pursuant to Directive 2003/87/EC; and third, the need to balance broad product coverage in terms of
+greenhouse gas emissions, while limiting complexity and administrative burden.
+```
+```
+(32) The use of the first criterion would allow the listing of the following industrial sectors in terms of cumulated
+emissions: iron and steel, refineries, cement, aluminium, organic basic chemicals, hydrogen and fertilisers.
+```
+```
+(33) Certain sectors listed in Delegated Decision (EU) 2019/708 should not, however, be addressed in this Regulation at
+this stage, due to their particular characteristics.
+```
+```
+(34) In particular, organic chemicals should not be included in the scope of this Regulation due to technical limitations
+that at the time of the adoption of this Regulation do not allow to define clearly the embedded emissions of such
+imported goods. For those goods the applicable benchmark under the EU ETS is a basic parameter, which does not
+allow for an unambiguous allocation of emissions embedded in individual imported goods. A more targeted
+allocation to organic chemicals requires more data and analysis.
+```
+```
+(35) Similar technical constraints apply to refinery products, for which it is not possible to unambiguously assign
+greenhouse gas emissions to individual output products. At the same time, the relevant benchmark in the EU ETS
+does not directly relate to specific products, such as petrol, diesel or kerosene, but to all refinery output.
+```
+```
+(36) Aluminium products should be included in the CBAM as they are highly exposed to carbon leakage. Moreover, in
+several industrial applications they are in direct competition with steel products because of characteristics which
+closely resemble those of steel products.
+```
+```
+(37) At the time of the adoption of this Regulation, imports of hydrogen into the Union are relatively low. However, that
+situation is expected to change significantly in the coming years as the Union’s ‘Fit for 55’ package promotes the use
+of renewable hydrogen. For the decarbonisation of industry as a whole, the demand for renewable hydrogen will
+increase, and consequently lead to non-integrated production processes in downstream products where hydrogen is
+a precursor. The inclusion of hydrogen in the scope of the CBAM is the appropriate means to further foster the
+decarbonisation of hydrogen.
+```
+```
+(^10 ) Commission Delegated Decision (EU) 2019/708 of 15 February 2019 supplementing Directive 2003/87/EC of the European
+Parliament and of the Council concerning the determination of sectors and subsectors deemed at risk of carbon leakage for the period
+2021 to 2030 (OJ L 120, 8.5.2019, p. 20).
+```
+16.5.2023 EN Official Journal of the European Union L 130/
+
+
+```
+(38) Similarly, certain products should be included in the scope of the CBAM despite their low level of embedded
+emissions occurring during their production process, as their exclusion would increase the likelihood of
+circumventing the inclusion of steel products in the CBAM by modifying the pattern of trade towards downstream
+products.
+```
+```
+(39) Conversely, this Regulation should not initially apply to certain products the production of which does not entail
+meaningful emissions such as ferrous scrap, some ferro-alloys and certain fertilisers.
+```
+```
+(40) The importation of electricity should be included in the scope of this Regulation, as that sector is responsible for
+30 % of the total greenhouse gas emissions in the Union. The Union’s increased climate ambition would widen the
+gap in carbon costs between electricity production within the Union and third countries. That gap, combined with
+the progress in connecting the Union electricity grid to that of its neighbours, would increase the risk of carbon
+leakage due to the increase in imports of electricity, a significant part of which is produced by coal-fired power
+plants.
+```
+```
+(41) In order to avoid excessive administrative burden as regards competent national administrations and importers, it is
+appropriate to specify the limited cases in which the obligations under this Regulation should not apply. That de
+minimis provision, however, is without prejudice to a continued application of the provisions under Union or
+national law that are necessary to ensure compliance with the obligations under this Regulation as well as, in
+particular, with customs legislation, including the prevention of fraud.
+```
+```
+(42) As importers of goods covered by this Regulation should not have to fulfil their obligations under this Regulation at
+the time of importation, specific administrative measures should be applied to ensure that such obligations are
+fulfilled at a later stage. Therefore, importers should only be entitled to import goods that are subject to this
+Regulation after they have been granted an authorisation by competent authorities.
+```
+```
+(43) The customs authorities should not allow the importation of goods by any person other than an authorised CBAM
+declarant. In accordance with Articles 46 and 48 of Regulation (EU) No 952/2013 of the European Parliament and
+of the Council(^11 ), the customs authorities are entitled to carry out checks on the goods, including with respect to
+the identification of the authorised CBAM declarant, the eight-digit CN code, the quantity and the country of origin
+of the imported goods, the date of declaration and the customs procedure. The Commission should include the risks
+relating to the CBAM in the establishment of the common risk criteria and standards pursuant to Article 50 of
+Regulation (EU) No 952/2013.
+```
+```
+(44) During a transitional period, the customs authorities should inform customs declarants of the obligation to report
+information, so as to contribute to the gathering of information as well as to awareness on the need to request the
+status of authorised CBAM declarants where applicable. Such information should be communicated by the customs
+authorities in an appropriate manner to ensure that customs declarants are made aware of such obligation.
+```
+```
+(45) The CBAM should be based on a declarative system in which an authorised CBAM declarant, who could represent
+more than one importer, would submit annually a declaration of the embedded emissions in the goods imported
+into the customs territory of the Union and would surrender the number of CBAM certificates which correspond to
+those declared emissions. The first CBAM declaration, in respect of the calendar year 2026, should be submitted by
+31 May 2027.
+```
+```
+(46) An authorised CBAM declarant should be allowed to claim a reduction in the number of CBAM certificates to be
+surrendered corresponding to the carbon price already effectively paid in the country of origin for the declared
+embedded emissions.
+```
+```
+(^11 ) Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union Customs
+Code (OJ L 269, 10.10.2013, p. 1).
+```
+L 130/58 EN Official Journal of the European Union 16.5.
+
+
+```
+(47) The declared embedded emissions should be verified by a person accredited by a national accreditation body
+appointed in accordance with Regulation (EC) No 765/2008 of the European Parliament and of the Council(^12 )or
+pursuant to Commission Implementing Regulation (EU) 2018/2067(^13 ).
+```
+```
+(48) The CBAM should allow operators of production installations in third countries to register in the CBAM registry and
+to make their verified embedded emissions from production of goods available to authorised CBAM declarants. An
+operator should be able to choose that its name, address and contact information in the CBAM registry are not
+made accessible to the public.
+```
+```
+(49) CBAM certificates would differ from EU ETS allowances for which daily auctioning is an essential feature. The need
+to set a clear price for CBAM certificates would make daily publication excessively burdensome and confusing for
+operators, as daily prices risk becoming obsolete upon publication. Thus, the publication of CBAM prices on a
+weekly basis would more accurately reflect the pricing trend of EU ETS allowances released onto the market and
+pursue the same climate objective. The calculation of the price of CBAM certificates should therefore be set on the
+basis of a longer timeframe, namely on a weekly basis, than on the timeframe established by the EU ETS, namely on
+a daily basis. The Commission should be tasked with calculating and publishing that average price.
+```
+```
+(50) In order to give authorised CBAM declarants flexibility in complying with their obligations under this Regulation
+and allow them to benefit from fluctuations in the price of EU ETS allowances, CBAM certificates should be valid
+for a limited period of time from the date of their purchase. The authorised CBAM declarant should be allowed to
+re-sell a portion of the certificates bought in excess. With a view to surrendering CBAM certificates, the authorised
+CBAM declarant should accumulate the number of certificates required during the year which corresponds with the
+thresholds set at the end of each quarter.
+```
+```
+(51) The physical characteristics of electricity as a product justify a slightly different design within the CBAM as compared
+to other goods. Default values should be used under clearly specified conditions, and it should be possible for
+authorised CBAM declarants to claim the calculation of their obligations under this Regulation based on actual
+emissions. Electricity trade is different from trade in other goods, in particular because it is traded through
+interconnected electricity grids, using power exchanges and specific forms of trading. Market coupling is a densely
+regulated form of electricity trade which enables the aggregation of bids and offers across the Union.
+```
+```
+(52) To avoid the risk of circumvention and improve the traceability of actual CO 2 emissions from import of electricity
+and its use in goods, the calculation of actual emissions should only be permitted under certain strict conditions. In
+particular, it should be necessary to demonstrate a firm nomination of the allocated interconnection capacity and
+that there is a direct contractual relation between the purchaser and the producer of the renewable electricity, or
+between the purchaser and the producer of electricity having lower than default value emissions.
+```
+```
+(53) To reduce the risk of carbon leakage, the Commission should take action to address practices of circumvention. The
+Commission should evaluate the risk of such circumvention in all sectors to which this Regulation applies.
+```
+```
+(54) Contracting Parties to the Treaty establishing the Energy Community concluded by Council
+Decision 2006/500/EC(^14 )and, Parties to Association Agreements, including Deep and Comprehensive Free Trade
+Areas, are committed to decarbonisation processes that should eventually result in the adoption of carbon pricing
+mechanisms similar or equivalent to the EU ETS or in their participation in the EU ETS.
+```
+```
+(^12 ) Regulation (EC) No 765/2008 of the European Parliament and of the Council of 9 July 2008 setting out the requirements for
+accreditation and repealing Regulation (EEC) No 339/93 (OJ L 218, 13.8.2008, p. 30).
+(^13 ) Commission Implementing Regulation (EU) 2018/2067 of 19 December 2018 on the verification of data and on the accreditation of
+verifiers pursuant to Directive 2003/87/EC of the European Parliament and of the Council (OJ L 334, 31.12.2018, p. 94).
+(^14 ) Council Decision 2006/500/EC of 29 May 2006 on the conclusion by the European Community of the Energy Community Treaty
+(OJ L 198, 20.7.2006, p. 15).
+```
+16.5.2023 EN Official Journal of the European Union L 130/
+
+
+```
+(55) The integration of third countries into the Union electricity market is an important factor for those countries to
+accelerate their transition to energy systems with high shares of renewable energies. Market coupling for electricity,
+as set out in Commission Regulation (EU) 2015/1222(^15 ), enables third countries to better integrate electricity from
+renewable energies into the electricity market, to exchange such electricity in an efficient manner within a wider area,
+balancing supply and demand with the larger Union market, and to reduce the CO 2 emission intensity of their
+electricity generation. Integration of third countries into the Union electricity market also contributes to the
+security of electricity supplies in those countries and in the neighbouring Member States.
+```
+```
+(56) Once the electricity markets of third countries are closely integrated into that of the Union through market coupling,
+technical solutions should be found to ensure the application of the CBAM to electricity exported from those
+countries into the customs territory of the Union. If technical solutions cannot be found, third countries whose
+markets are coupled with that of the Union should benefit from a time-limited exemption from the CBAM
+until 2030 with regard solely to the export of electricity, provided that certain conditions are met. Those third
+countries should, however, develop a roadmap and commit to implementing a carbon pricing mechanism
+providing for a price that is equivalent to the EU ETS, and should commit to achieving carbon neutrality at the latest
+by 2050 as well as to align with Union legislation in the areas of environment, climate, competition and energy. Such
+exemption should be withdrawn at any time if there are reasons to believe that the country in question does not fulfil
+its commitments or if it has not adopted by 2030 an emissions trading system equivalent to the EU ETS.
+```
+```
+(57) Transitional provisions should apply for a limited period of time. For that purpose, the CBAM should apply without
+financial adjustment, with the objective of facilitating its smooth roll-out, thereby reducing the risk of disruptive
+impacts on trade. Importers should have to report on a quarterly basis the embedded emissions in goods imported
+during the previous quarter of the calendar year, setting out direct and indirect emissions as well as any carbon
+price effectively paid abroad. The last CBAM report, which is the report to be submitted for the last quarter of
+2025, should be submitted by 31 January 2026.
+```
+```
+(58) To facilitate and ensure a proper functioning of the CBAM, the Commission should provide support to the
+competent authorities in carrying out their functions and duties under this Regulation. The Commission should
+coordinate, issue guidelines and support the exchange of best practices.
+```
+```
+(59) In order to apply this Regulation in a cost-efficient way, the Commission should manage the CBAM registry
+containing data on the authorised CBAM declarants, operators and installations in third countries.
+```
+```
+(60) A common central platform should be established for the sale and repurchase of CBAM certificates. With a view to
+overseeing the transactions on the common central platform, the Commission should facilitate the exchange of
+information and the cooperation between competent authorities, as well as between those authorities and the
+Commission. Furthermore, a rapid flow of information between the common central platform and the CBAM
+registry should be established.
+```
+```
+(61) To contribute to the effective application of this Regulation, the Commission should carry out risk-based controls
+and should review the content of CBAM declarations accordingly.
+```
+```
+(62) In order to further enable a uniform application of this Regulation, the Commission should, as a preliminary input,
+make available to the competent authorities its own calculations regarding the CBAM certificates to be surrendered,
+on the basis of its review of the CBAM declarations. Such preliminary input should be provided for indicative
+purposes only and without prejudice to the definitive calculation to be made by the competent authority. In
+particular, no right of appeal or other remedial measure should be possible against such preliminary input made by
+the Commission.
+```
+```
+(^15 ) Commission Regulation (EU) 2015/1222 of 24 July 2015 establishing a guideline on capacity allocation and congestion management
+(OJ L 197, 25.7.2015, p. 24).
+```
+L 130/60 EN Official Journal of the European Union 16.5.
+
+
+```
+(63) Member States should also be able to carry out reviews of individual CBAM declarations for enforcement purposes.
+The conclusions of the reviews of individual CBAM declarations should be shared with the Commission. Those
+conclusions should also be made available to other competent authorities via the CBAM registry.
+```
+```
+(64) Member States should be responsible for correctly establishing and collecting revenues arising from the application
+of this Regulation.
+```
+```
+(65) The Commission should regularly evaluate the application of this Regulation and report to the European Parliament
+and to the Council. Those reports should in particular focus on possibilities to enhance climate actions towards
+reaching the objective of a climate-neutral Union at the latest by 2050. The Commission should, as part of that
+reporting, collect the information necessary with a view to the further extension of the scope of this Regulation to
+embedded indirect emissions in the goods listed in Annex II as soon as possible, as well as to other goods and
+services that could be at risk of carbon leakage, such as downstream products, and to developing methods of
+calculating embedded emissions based on the environmental footprint methods, as set out in Commission
+Recommendation 2013/179/EU(^16 ). Those reports should also contain an assessment of the impact of the CBAM
+on carbon leakage, including in relation to exports, and its economic, social and territorial impact throughout the
+Union, taking into account also the special characteristics and constraints of outermost regions referred to in
+Article 349 TFEU and of island States which are part of the customs territory of the Union.
+```
+```
+(66) Practices of circumvention of this Regulation should be monitored and addressed by the Commission, including
+where operators could slightly modify their goods without altering their essential characteristics, or artificially split
+shipments, in order to avoid the obligations under this Regulation. Situations where goods would be sent to a third
+country or region prior to their importation to the Union market, with the aim of avoiding the obligations under
+this Regulation, or where operators in third countries would export their less greenhouse gas emissions intensive
+products to the Union and keep their more greenhouse gas emissions intensive products for other markets, or
+reorganisation by exporters or producers of their patterns and channels of sale and production, or any other kinds
+of dual production and dual sale practices, with the aim of avoiding the obligations under this Regulation, should
+also be monitored.
+```
+```
+(67) In full respect of the principles set out in this Regulation, work on extending the scope of this Regulation should
+have the aim of including, by 2030, all the sectors covered by Directive 2003/87/EC. Therefore, when reviewing
+and evaluating the application of this Regulation, the Commission should maintain a reference to this timeline, and
+give priority to including within the scope of this Regulation greenhouse gas emissions embedded in goods that are
+most exposed to carbon leakage and that are most carbon intensive, as well as in downstream products that contain
+a significant share of at least one of the goods within the scope of this Regulation. Should the Commission not
+submit a legislative proposal for such an extension, by 2030, of the scope of this Regulation, it should inform the
+European Parliament and the Council of the reasons and take the necessary steps towards achieving the objective of
+including, as soon as possible, all the sectors covered by Directive 2003/87/EC.
+```
+```
+(68) The Commission should also present a report to the European Parliament and to the Council on the application of
+this Regulation two years from the end of the transitional period, and every two years thereafter. The timing for the
+submission of the reports should follow the timetables on the functioning of the carbon market pursuant to
+Article 10(5) of Directive 2003/87/EC. The reports should contain an assessment of the impacts of the CBAM.
+```
+```
+(69) In order to allow for a rapid and effective response to unforeseeable, exceptional and unprovoked circumstances that
+have destructive consequences on the economic and industrial infrastructure of one or more third countries subject
+to the CBAM, the Commission should submit to the European Parliament and to the Council a legislative proposal,
+as appropriate, amending this Regulation. Such a legislative proposal should set out the measures that are most
+appropriate in light of the circumstances that the third country or countries are facing, while preserving the
+objectives of this Regulation. Those measures should be limited in time.
+```
+```
+(^16 ) Commission Recommendation 2013/179/EU of 9 April 2013 on the use of common methods to measure and communicate the life
+cycle environmental performance of products and organisations (OJ L 124, 4.5.2013, p. 1).
+```
+16.5.2023 EN Official Journal of the European Union L 130/
+
+
+```
+(70) A dialogue with third countries should continue and there should be space for cooperation and solutions that could
+inform the specific choices to be made on the details of the CBAM during its implementation, in particular during
+the transitional period.
+```
+```
+(71) The Commission should strive to engage in an even-handed manner and in line with the international obligations of
+the Union with the third countries whose trade to the Union is affected by this Regulation, in order to explore the
+possibility for dialogue and cooperation regarding the implementation of specific elements of the CBAM. The
+Commission should also explore the possibility of concluding agreements that take into account the carbon pricing
+mechanism of third countries. The Union should provide technical assistance for those purposes to developing
+countries and to least developed countries as identified by the United Nations (LDCs).
+```
+```
+(72) The establishment of the CBAM calls for the development of bilateral, multilateral and international cooperation
+with third countries. For that purpose, a forum of countries with carbon pricing instruments or other comparable
+instruments (‘Climate Club’) should be set up, in order to promote the implementation of ambitious climate policies
+in all countries and pave the way for a global carbon pricing framework. The Climate Club should be open,
+voluntary, non-exclusive and directed in particular at aiming for high climate ambition in line with the Paris
+Agreement. The Climate Club could function under the auspices of a multilateral international organisation and
+should facilitate the comparison and, where appropriate, coordination of relevant measures with an impact on
+emission reduction. The Climate Club should also support the comparability of relevant climate measures by
+ensuring the quality of climate monitoring, reporting and verification among its members and providing means for
+engagement and transparency between the Union and its trade partners.
+```
+```
+(73) In order to further support the achievement of the goals of the Paris Agreement in third countries, it is desirable that
+the Union continue to provide financial support through the Union budget towards climate mitigation and
+adaptation in LDCs, including in their efforts towards the decarbonisation and transformation of their
+manufacturing industries. That Union support should also contribute to facilitating the adaptation of the industries
+concerned to the new regulatory requirements stemming from this Regulation.
+```
+```
+(74) As the CBAM aims to encourage cleaner production, the Union is committed to working with and supporting low
+and middle-income third countries towards the decarbonisation of their manufacturing industries as part of the
+external dimension of the European Green Deal and in line with the Paris Agreement. The Union should continue
+to support those countries through the Union budget, especially LDCs, in order to contribute to ensuring their
+adaptation to the obligations under this Regulation. The Union should also continue to support climate mitigation
+and adaptation in those countries, including in their efforts towards the decarbonisation and transformation of their
+manufacturing industries, within the ceiling of the multi-annual financial framework and the financial support
+provided by the Union to international climate finance. The Union is working towards introducing a new own
+resource based on the revenues generated by the sale of CBAM certificates.
+```
+```
+(75) This Regulation is without prejudice to Regulations (EU) 2016/679(^17 )and (EU) 2018/1725(^18 )of the European
+Parliament and of the Council.
+```
+```
+(76) In the interest of efficiency, Council Regulation (EC) No 515/97(^19 )should apply mutatis mutandis to this Regulation.
+```
+```
+(^17 ) Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with
+regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data
+Protection Regulation) (OJ L 119, 4.5.2016, p. 1).
+(^18 ) Regulation (EU) 2018/1725 of the European Parliament and of the Council of 23 October 2018 on the protection of natural persons
+with regard to the processing of personal data by the Union institutions, bodies, offices and agencies and on the free movement of
+such data, and repealing Regulation (EC) No 45/2001 and Decision No 1247/2002/EC (OJ L 295, 21.11.2018, p. 39).
+(^19 ) Council Regulation (EC) No 515/97 of 13 March 1997 on mutual assistance between the administrative authorities of the Member
+States and cooperation between the latter and the Commission to ensure the correct application of the law on customs and
+agricultural matters (OJ L 82, 22.3.1997, p. 1).
+```
+L 130/62 EN Official Journal of the European Union 16.5.
+
+
+```
+(77) In order to supplement or amend certain non-essential elements of this Regulation, the power to adopt acts in
+accordance with Article 290 TFEU should be delegated to the Commission in respect of:
+```
+```
+— supplementing this Regulation by laying down requirements and procedures for third countries or territories
+that have been removed from the list in point 2 of Annex III, to ensure the application of this Regulation to
+those countries or territories with regard to electricity;
+```
+```
+— amending the list of third countries and territories listed in point 1 or 2 of Annex III, either by adding those
+countries or territories to that list, in order to exclude from the CBAM those third countries or territories that
+are fully integrated into, or linked to, the EU ETS in the event of future agreements, or by removing third
+countries or territories from that list, thereby subjecting them to the CBAM, where they do not effectively
+charge the EU ETS price on goods exported to the Union;
+```
+```
+— supplementing this Regulation by specifying the conditions for granting accreditation to verifiers, control and
+oversight of accredited verifiers, withdrawal of accreditation, and mutual recognition and peer evaluation of the
+accreditation bodies;
+```
+```
+— supplementing this Regulation by further defining the timing, administration and other aspects of the sale and
+repurchase of CBAM certificates; and
+```
+```
+— amending the list of goods in Annex I by adding, in certain circumstances, goods that have been slightly
+modified, in order to strengthen measures that address practices of circumvention.
+```
+```
+It is of particular importance that the Commission carry out appropriate consultations during its preparatory work,
+including at expert level, and that those consultations be conducted in accordance with the principles laid down in
+the Interinstitutional Agreement of 13 April 2016on Better Law-Making(^20 ). In particular, to ensure equal
+participation in the preparation of delegated acts, the European Parliament and the Council receive all documents at
+the same time as Member States' experts, and their experts systematically have access to meetings of Commission
+expert groups dealing with the preparation of delegated acts.
+```
+```
+(78) Such consultations should be conducted in a transparent manner and may include prior consultations of
+stakeholders, such as competent bodies, industry (including SMEs), social partners such as trade unions, civil society
+organisations and environmental organisations.
+```
+```
+(79) In order to ensure uniform conditions for the implementation of this Regulation, implementing powers should be
+conferred on the Commission. Those powers should be exercised in accordance with Regulation (EU) No 182/
+of the European Parliament and of the Council(^21 ).
+```
+```
+(80) The financial interests of the Union should be protected through proportionate measures throughout the
+expenditure cycle, including the prevention, detection and investigation of irregularities, the recovery of funds lost,
+wrongly paid or incorrectly used and, where appropriate, administrative and financial penalties. The CBAM should
+therefore rely on appropriate and effective mechanisms for avoiding losses of revenues.
+```
+```
+(81) Since the objectives of this Regulation, namely to prevent the risk of carbon leakage and thereby reduce global
+carbon emissions, cannot be sufficiently achieved by the Member States, but can rather, by reason of their scale and
+effects, be better achieved at Union level, the Union may adopt measures, in accordance with the principle of
+subsidiarity as set out in Article 5 of the Treaty on European Union. In accordance with the principle of
+proportionality, as set out in that Article, this Regulation does not go beyond what is necessary in order to achieve
+those objectives.
+```
+```
+(82) In order to allow for the timely adoption of delegated and implementing acts under this Regulation, this Regulation
+should enter into force on the day following that of its publication in the Official Journal of the European Union,
+```
+```
+(^20 ) OJ L 123, 12.5.2016, p. 1.
+(^21 ) Regulation (EU) No 182/2011 of the European Parliament and of the Council of 16 February 2011 laying down the rules and general
+principles concerning mechanisms for control by the Member States of the Commission's exercise of implementing powers (OJ L 55,
+28.2.2011, p. 13).
+```
+16.5.2023 EN Official Journal of the European Union L 130/
+
+
+```
+HAVE ADOPTED THIS REGULATION:
+```
+```
+CHAPTER I
+```
+```
+SUBJECT MATTER, SCOPE AND DEFINITIONS
+```
+```
+Article 1
+```
+```
+Subject matter
+```
+1. This Regulation establishes a carbon border adjustment mechanism (the ‘CBAM’) to address greenhouse gas emissions
+embedded in the goods listed in Annex I on their importation into the customs territory of the Union in order to prevent
+the risk of carbon leakage, thereby reducing global carbon emissions and supporting the goals of the Paris Agreement, also
+by creating incentives for the reduction of emissions by operators in third countries.
+2. The CBAM complements the system for greenhouse gas emission allowance trading within the Union established
+under Directive 2003/87/EC (the ‘EU ETS’) by applying an equivalent set of rules to imports into the customs territory of
+the Union of the goods referred to in Article 2 of this Regulation.
+3. The CBAM is set to replace the mechanisms established under Directive 2003/87/EC to prevent the risk of carbon
+leakage by reflecting the extent to which EU ETS allowances are allocated free of charge in accordance with Article 10a of
+that Directive.
+
+```
+Article 2
+```
+```
+Scope
+```
+1. This Regulation applies to goods listed in Annex I originating in a third country, where those goods, or processed
+products from those goods resulting from the inward processing procedure referred to in Article 256 of Regulation (EU)
+No 952/2013, are imported into the customs territory of the Union.
+2. This Regulation also applies to goods listed in Annex I to this Regulation originating in a third country, where those
+goods, or processed products from those goods resulting from the inward processing procedure referred to in Article 256
+of Regulation (EU) No 952/2013, are brought to an artificial island, a fixed or floating structure, or any other structure on
+the continental shelf or in the exclusive economic zone of a Member State that is adjacent to the customs territory of the
+Union.
+
+```
+The Commission shall adopt implementing acts laying down detailed conditions for the application of the CBAM to such
+goods, in particular as regards the notions equivalent to those of importation into the customs territory of the Union and
+of release for free circulation, as regards the procedures relating to the submission of the CBAM declaration in respect of
+such goods and the controls to be carried out by customs authorities. Those implementing acts shall be adopted in
+accordance with the examination procedure referred to in Article 29(2) of this Regulation.
+```
+3. By way of derogation from paragraphs 1 and 2, this Regulation shall not apply to:
+
+```
+(a) goods listed in Annex I to this Regulation which are imported into the customs territory of the Union provided that the
+intrinsic value of such goods does not exceed, per consignment, the value specified for goods of negligible value as
+referred to in Article 23 of Council Regulation (EC) No 1186/2009(^22 );
+```
+```
+(b) goods contained in the personal luggage of travellers coming from a third country provided that the intrinsic value of
+such goods does not exceed the value specified for goods of negligible value as referred to in Article 23 of Regulation
+(EC) No 1186/2009;
+```
+```
+(^22 ) Council Regulation (EC) No 1186/2009 of 16 November 2009 setting up a Community system of reliefs from customs duty
+(OJ L 324, 10.12.2009, p. 23).
+```
+L 130/64 EN Official Journal of the European Union 16.5.
+
+
+```
+(c) goods to be moved or used in the context of military activities pursuant to Article 1, point (49), of Commission
+Delegated Regulation (EU) 2015/2446(^23 ).
+```
+4. By way of derogation from paragraphs 1 and 2, this Regulation shall not apply to goods originating in the third
+countries and territories listed in point 1 of Annex III.
+5. Imported goods shall be considered as originating in third countries in accordance with the rules for non-preferential
+origin as referred to in Article 59 of Regulation (EU) No 952/2013.
+6. Third countries and territories shall be listed in point 1 of Annex III where they fulfil all the following conditions:
+
+```
+(a) the EU ETS applies to that third country or territory or an agreement has been concluded between that third country or
+territory and the Union fully linking the EU ETS and the emission trading system of that third country or territory;
+```
+```
+(b) the carbon price paid in the country in which the goods originate is effectively charged on the greenhouse gas
+emissions embedded in those goods without any rebates beyond those also applied in accordance with the EU ETS.
+```
+7. If a third country or territory has an electricity market which is integrated with the Union internal market for
+electricity through market coupling, and there is no technical solution for the application of the CBAM to the importation
+of electricity into the customs territory of the Union from that third country or territory, such importation of electricity
+from that country or territory shall be exempt from the application of the CBAM, provided that the Commission has
+assessed that all of the following conditions have been fulfilled in accordance with paragraph 8:
+
+```
+(a) the third country or territory has concluded an agreement with the Union which sets out an obligation to apply Union
+law in the field of electricity, including the legislation on the development of renewable energy sources, as well as other
+rules in the field of energy, environment and competition;
+```
+```
+(b) the domestic legislation in that third country or territory implements the main provisions of Union electricity market
+legislation, including on the development of renewable energy sources and the market coupling of electricity markets;
+```
+```
+(c) the third country or territory has submitted a roadmap to the Commission which contains a timetable for the adoption
+of measures to implement the conditions set out in points (d) and (e);
+```
+```
+(d) the third country or territory has committed to climate neutrality by 2050 and, where applicable, has accordingly
+formally formulated and communicated to the United Nations Framework Convention on Climate Change (UNFCCC)
+a mid-century, long-term low greenhouse gas emissions development strategy aligned with that objective, and has
+implemented that commitment in its domestic legislation;
+```
+```
+(e) the third country or territory has, when implementing the roadmap referred to in point (c), demonstrated its fulfilment
+of the set deadlines and the substantial progress towards the alignment of domestic legislation with Union law in the
+field of climate action on the basis of that roadmap, including towards carbon pricing at a level equivalent to that in
+the Union in particular insofar as the generation of electricity is concerned; the implementation of an emissions
+trading system for electricity, with a price equivalent to the EU ETS, is to be finalised by 1 January 2030;
+```
+```
+(f) the third country or territory has put in place an effective system to prevent indirect import of electricity into the Union
+from other third countries or territories that do not fulfil the conditions set out in points (a) to (e).
+```
+```
+(^23 ) Commission Delegated Regulation (EU) 2015/2446 of 28 July 2015 supplementing Regulation (EU) No 952/2013 of the European
+Parliament and of the Council as regards detailed rules concerning certain provisions of the Union Customs Code (OJ L 343,
+29.12.2015, p. 1).
+```
+16.5.2023 EN Official Journal of the European Union L 130/
+
+
+8. A third country or territory that fulfils all the conditions set out in paragraph 7, shall be listed in point 2 of Annex III,
+and shall submit two reports on the fulfilment of those conditions, the first report by 1 July 2025and the second by
+31 December 2027. By 31 December 2025 and by 1 July 2028, the Commission shall assess, in particular on the basis of
+the roadmap referred to in paragraph 7, point (c), and the reports received from the third country or territory, if that third
+country or territory continues to fulfil the conditions set out in paragraph 7.
+9. A third country or territory listed in point 2 of Annex III shall be removed from that list where one or more of the
+following conditions applies:
+
+```
+(a) the Commission has reasons to consider that that third country or territory has not shown sufficient progress to
+comply with one of the conditions set out in paragraph 7, or that third country or territory has taken action that is
+incompatible with the objectives set out in the Union climate and environmental legislation;
+```
+```
+(b) that third country or territory has taken steps that are contrary to its decarbonisation objectives, such as providing
+public support for the establishment of new generation capacity that emits more than 550 grammes of carbon dioxide
+(‘CO 2 ’) of fossil fuel origin per kilowatt-hour of electricity;
+```
+```
+(c) the Commission has evidence that, as a result of increased exports of electricity to the Union, the emissions per
+kilowatt-hour of electricity produced in that third country or territory have increased by at least 5 % compared to
+1 January 2026.
+```
+10. The Commission is empowered to adopt delegated acts in accordance with Article 28 in order to supplement this
+Regulation by laying down requirements and procedures for third countries or territories that have been removed from the
+list in point 2 of Annex III, to ensure the application of this Regulation to those countries or territories with regard to
+electricity. If in such cases market coupling remains incompatible with the application of this Regulation, the Commission
+may decide to exclude those third countries or territories from Union market coupling and require explicit capacity
+allocation at the border between the Union and those third countries or territories, so that the CBAM can apply.
+11. The Commission is empowered to adopt delegated acts in accordance with Article 28 in order to amend the lists of
+third countries or territories listed in point 1 or 2 of Annex III by adding or removing a third country or territory,
+depending on whether the conditions set out in paragraph 6, 7 or 9 of this Article are fulfilled in respect of that third
+country or territory.
+12. The Union may conclude agreements with third countries or territories with a view to taking into account carbon
+pricing mechanisms in such countries or territories for the purposes of the application of Article 9.
+
+```
+Article 3
+```
+```
+Definitions
+```
+```
+For the purposes of this Regulation, the following definitions apply:
+```
+```
+(1) ‘goods’ means goods listed in Annex I;
+```
+```
+(2) ‘greenhouse gases’ means greenhouse gases as specified in Annex I in relation to each of the goods listed in that
+Annex;
+```
+```
+(3) ‘emissions’ means the release of greenhouse gases into the atmosphere from the production of goods;
+```
+```
+(4) ‘importation’ means release for free circulation as provided for in Article 201 of Regulation (EU) No 952/2013;
+```
+```
+(5) ‘EU ETS’ means the system for greenhouse gas emissions allowance trading within the Union in respect of activities
+listed in Annex I to Directive 2003/87/EC other than aviation activities;
+```
+```
+(6) ‘customs territory of the Union’ means the territory defined in Article 4 of Regulation (EU) No 952/2013;
+```
+```
+(7) ‘third country’ means a country or territory outside the customs territory of the Union;
+```
+L 130/66 EN Official Journal of the European Union 16.5.
+
+
+```
+(8) ‘continental shelf’ means a continental shelf as defined in Article 76 of the United Nations Convention on the Law of
+the Sea;
+```
+```
+(9) ‘exclusive economic zone’ means an exclusive economic zone as defined in Article 55 of the United Nations
+Convention on the Law of the Sea and which has been declared as an exclusive economic zone by a Member State
+pursuant to that convention;
+```
+```
+(10) ‘intrinsic value’ means the intrinsic value for commercial goods as defined in Article 1, point (48), of Delegated
+Regulation (EU) 2015/2446;
+```
+```
+(11) ‘market coupling’ means the allocation of transmission capacity through a Union system which simultaneously
+matches orders and allocates cross-zonal capacities as set out in Regulation (EU) 2015/1222;
+```
+```
+(12) ‘explicit capacity allocation’ means the allocation of cross-border transmission capacity separate from the trade of
+electricity;
+```
+```
+(13) ‘competent authority’ means the authority designated by each Member State in accordance with Article 11;
+```
+```
+(14) ‘customs authorities’ means the customs administrations of Member States as defined in Article 5, point (1), of
+Regulation (EU) No 952/2013;
+```
+```
+(15) ‘importer’ means either the person lodging a customs declaration for release for free circulation of goods in its own
+name and on its own behalf or, where the customs declaration is lodged by an indirect customs representative in
+accordance with Article 18 of Regulation (EU) No 952/2013, the person on whose behalf such a declaration is lodged;
+```
+```
+(16) ‘customs declarant’ means a declarant as defined in Article 5, point (15), of Regulation (EU) No 952/2013 lodging a
+customs declaration for release for free circulation of goods in its own name or the person in whose name such a
+declaration is lodged;
+```
+```
+(17) ‘authorised CBAM declarant’ means a person authorised by a competent authority in accordance with Article 17;
+```
+```
+(18) ‘person’ means a natural person, a legal person or any association of persons which is not a legal person but which is
+recognised under Union or national law as having the capacity to perform legal acts;
+```
+```
+(19) ‘established in a Member State’ means:
+```
+```
+(a) in the case of a natural person, any person whose place of residence is in a Member State;
+```
+```
+(b)in the case of a legal person or an association of persons, any person whose registered office, central headquarters
+or permanent business establishment is in a Member State;
+```
+```
+(20) ‘Economic Operators Registration and Identification number (EORI number)’ means the number assigned by the
+customs authority when the registration for customs purposes has been carried out in accordance with Article 9 of
+Regulation (EU) No 952/2013;
+```
+```
+(21) ‘direct emissions’ means emissions from the production processes of goods, including emissions from the production
+of heating and cooling that is consumed during the production processes, irrespective of the location of the
+production of the heating or cooling;
+```
+```
+(22) ‘embedded emissions’ means direct emissions released during the production of goods and indirect emissions from
+the production of electricity that is consumed during the production processes, calculated in accordance with the
+methods set out in Annex IV and further specified in the implementing acts adopted pursuant to Article 7(7);
+```
+```
+(23) ‘tonne of CO 2 e’ means one metric tonne of CO 2 , or an amount of any other greenhouse gas listed in Annex I with an
+equivalent global warming potential;
+```
+```
+(24) ‘CBAM certificate’ means a certificate in electronic format corresponding to one tonne of CO 2 e of embedded
+emissions in goods;
+```
+16.5.2023 EN Official Journal of the European Union L 130/
+
+
+```
+(25) ‘surrender’ means offsetting of CBAM certificates against the declared embedded emissions in imported goods or
+against the embedded emissions in imported goods that should have been declared;
+```
+```
+(26) ‘production processes’ means the chemical and physical processes carried out to produce goods in an installation;
+```
+```
+(27) ‘default value’ means a value, which is calculated or drawn from secondary data, which represents the embedded
+emissions in goods;
+```
+```
+(28) ‘actual emissions’ means the emissions calculated based on primary data from the production processes of goods and
+from the production of electricity consumed during those processes as determined in accordance with the methods
+set out in Annex IV;
+```
+```
+(29) ‘carbon price’ means the monetary amount paid in a third country, under a carbon emissions reduction scheme, in the
+form of a tax, levy or fee or in the form of emission allowances under a greenhouse gas emissions trading system,
+calculated on greenhouse gases covered by such a measure, and released during the production of goods;
+```
+```
+(30) ‘installation’ means a stationary technical unit where a production process is carried out;
+```
+```
+(31) ‘operator’ means any person who operates or controls an installation in a third country;
+```
+```
+(32) ‘national accreditation body’ means a national accreditation body as appointed by each Member State pursuant to
+Article 4(1) of Regulation (EC) No 765/2008;
+```
+```
+(33) ‘EU ETS allowance’ means an allowance as defined in Article 3, point (a), of Directive 2003/87/EC in respect of
+activities listed in Annex I to that Directive other than aviation activities;
+```
+```
+(34) ‘indirect emissions’ means emissions from the production of electricity which is consumed during the production
+processes of goods, irrespective of the location of the production of the consumed electricity.
+```
+```
+CHAPTER II
+```
+```
+OBLIGATIONS AND RIGHTS OF AUTHORISED CBAM DECLARANTS
+```
+```
+Article 4
+```
+```
+Importation of goods
+```
+```
+Goods shall be imported into the customs territory of the Union only by an authorised CBAM declarant.
+```
+```
+Article 5
+```
+```
+Application for authorisation
+```
+1. Any importer established in a Member State shall, prior to importing goods into the customs territory of the Union,
+apply for the status of authorised CBAM declarant (‘application for an authorisation’). Where such an importer appoints an
+indirect customs representative in accordance with Article 18 of Regulation (EU) No 952/2013 and the indirect customs
+representative agrees to act as an authorised CBAM declarant, the indirect customs representative shall submit the
+application for an authorisation.
+2. Where an importer is not established in a Member State, the indirect customs representative shall submit the
+application for an authorisation.
+3. The application for an authorisation shall be submitted via the CBAM registry established in accordance with
+Article 14.
+
+L 130/68 EN Official Journal of the European Union 16.5.
+
+
+4. By way of derogation from paragraph 1, where transmission capacity for the import of electricity is allocated through
+explicit capacity allocation, the person to whom capacity has been allocated for import and who nominates that capacity
+for import shall, for the purposes of this Regulation, be regarded as an authorised CBAM declarant in the Member State
+where the person has declared the importation of electricity in the customs declaration. Imports are to be measured per
+border for time periods no longer than one hour and no deduction of export or transit in the same hour shall be possible.
+
+```
+The competent authority of the Member State in which the customs declaration has been lodged shall register the person in
+the CBAM registry.
+```
+5. The application for an authorisation shall include the following information about the applicant:
+
+```
+(a) name, address and contact information;
+```
+```
+(b) EORI number;
+```
+```
+(c) main economic activity carried out in the Union;
+```
+```
+(d) certification by the tax authority in the Member State where the applicant is established that the applicant is not subject
+to an outstanding recovery order for national tax debts;
+```
+```
+(e) declaration of honour that the applicant was not involved in any serious infringements or repeated infringements of
+customs legislation, taxation rules or market abuse rules during the five years preceding the year of the application,
+including that it has no record of serious criminal offences relating to its economic activity;
+```
+```
+(f) information necessary to demonstrate the applicant’s financial and operational capacity to fulfil its obligations under
+this Regulation and, if decided by the competent authority on the basis of a risk assessment, supporting documents
+confirming that information, such as the profit and loss account and the balance sheet for up to the last three financial
+years for which the accounts were closed;
+```
+```
+(g) estimated monetary value and volume of imports of goods into the customs territory of the Union by type of goods, for
+the calendar year during which the application is submitted, and for the following calendar year;
+```
+```
+(h) names and contact information of the persons on behalf of whom the applicant is acting, if applicable.
+```
+6. The applicant may withdraw its application at any time.
+7. The authorised CBAM declarant shall inform without delay the competent authority, via the CBAM registry, of any
+changes to the information provided under paragraph 5 of this Article that have occurred after the decision granting the
+status of the authorised CBAM declarant has been adopted pursuant to Article 17 that may influence that decision or the
+content of the authorisation granted thereunder.
+8. The Commission is empowered to adopt implementing acts on communications between the applicant, the
+competent authority and the Commission, on the standard format of the application for an authorisation and the
+procedures to submit such an application via the CBAM registry, on the procedure to be followed by the competent
+authority and the deadlines for processing applications for authorisation in accordance with paragraph 1 of this Article,
+and on the rules for identification by the competent authority of the authorised CBAM declarants for the importation of
+electricity. Those implementing acts shall be adopted in accordance with the examination procedure referred to in
+Article 29(2).
+
+```
+Article 6
+```
+```
+CBAM declaration
+```
+1. By 31 May of each year, and for the first time in 2027 for the year 2026, each authorised CBAM declarant shall use
+the CBAM registry referred to in Article 14 to submit a CBAM declaration for the preceding calendar year.
+
+16.5.2023 EN Official Journal of the European Union L 130/
+
+
+2. The CBAM declaration shall contain the following information:
+
+```
+(a) the total quantity of each type of goods imported during the preceding calendar year, expressed in megawatt-hours for
+electricity and in tonnes for other goods;
+```
+```
+(b) the total embedded emissions in the goods referred to in point (a) of this paragraph, expressed in tonnes of
+CO 2 e emissions per megawatt-hour of electricity or, for other goods, in tonnes of CO 2 e emissions per tonne of each
+type of goods, calculated in accordance with Article 7 and verified in accordance with Article 8;
+```
+```
+(c) the total number of CBAM certificates to be surrendered, corresponding to the total embedded emissions referred to in
+point (b) of this paragraph after the reduction that is due on the account of the carbon price paid in a country of origin
+in accordance with Article 9 and the adjustment necessary to reflect the extent to which EU ETS allowances are
+allocated free of charge in accordance with Article 31;
+```
+```
+(d) copies of verification reports, issued by accredited verifiers, under Article 8 and Annex VI.
+```
+3. Where processed products resulting from an inward processing procedure as referred to in Article 256 of Regulation
+(EU) No 952/2013 are imported, the authorised CBAM declarant shall report in the CBAM declaration the emissions
+embedded in the goods that were placed under the inward processing procedure and resulted in the imported processed
+products, even where the processed products are not goods listed in Annex I to this Regulation. This paragraph shall also
+apply where the processed products resulting from the inward processing procedure are returned goods as referred to in
+Article 205 of Regulation (EU) No 952/2013.
+4. Where the imported goods listed in Annex I to this Regulation are processed products resulting from an outward
+processing procedure as referred to in Article 259 of Regulation (EU) No 952/2013, the authorised CBAM declarant shall
+report in the CBAM declaration only the emissions of the processing operation undertaken outside the customs territory
+of the Union.
+5. Where the imported goods are returned goods as referred to in Article 203 of Regulation (EU) No 952/2013, the
+authorised CBAM declarant shall report separately, in the CBAM declaration, ‘zero’ for the total embedded emissions
+corresponding to those goods.
+6. The Commission is empowered to adopt implementing acts concerning the standard format of the CBAM
+declaration, including detailed information for each installation and country of origin and type of goods to be reported
+which supports the totals referred to in paragraph 2 of this Article, in particular as regards embedded emissions and
+carbon price paid, the procedure for submitting the CBAM declaration via the CBAM registry, and the arrangements for
+surrendering the CBAM certificates referred to in paragraph 2, point (c), of this Article, in accordance with Article 22(1), in
+particular as regards the process and the selection by the authorised CBAM declarant of certificates to be surrendered. Those
+implementing acts shall be adopted in accordance with the examination procedure referred to in Article 29(2).
+
+```
+Article 7
+```
+```
+Calculation of embedded emissions
+```
+1. Embedded emissions in goods shall be calculated pursuant to the methods set out in Annex IV. For goods listed in
+Annex II only direct emissions shall be calculated and taken into account.
+2. Embedded emissions in goods other than electricity shall be determined based on the actual emissions in accordance
+with the methods set out in points 2 and 3 of Annex IV. Where the actual emissions cannot be adequately determined, as
+well as in the case of indirect emissions, the embedded emissions shall be determined by reference to default values in
+accordance with the methods set out in point 4.1 of Annex IV.
+3. Embedded emissions in imported electricity shall be determined by reference to default values in accordance with the
+method set out in point 4.2 of Annex IV, unless the authorised CBAM declarant demonstrates that the criteria to determine
+the embedded emissions based on the actual emissions listed in point 5 of Annex IV are met.
+
+L 130/70 EN Official Journal of the European Union 16.5.
+
+
+4. Embedded indirect emissions shall be calculated in accordance with the method set out in point 4.3 of Annex IV and
+further specified in the implementing acts adopted pursuant to paragraph 7 of this Article, unless the authorised CBAM
+declarant demonstrates that the criteria to determine the embedded emissions based on actual emissions that are listed in
+point 6 of Annex IV are met.
+5. The authorised CBAM declarant shall keep records of the information required to calculate the embedded emissions
+in accordance with the requirements laid down in Annex V. Those records shall be sufficiently detailed to enable verifiers
+accredited pursuant to Article 18 to verify the embedded emissions in accordance with Article 8 and Annex VI and to
+enable the Commission and the competent authority to review the CBAM declaration in accordance with Article 19(2).
+6. The authorised CBAM declarant shall keep those records of information referred to in paragraph 5, including the
+report of the verifier, until the end of the fourth year after the year in which the CBAM declaration has been or should
+have been submitted.
+7. The Commission is empowered to adopt implementing acts concerning:
+
+```
+(a) the application of the elements of the calculation methods set out in Annex IV, including determining system
+boundaries of production processes and relevant input materials (precursors), emission factors, installation-specific
+values of actual emissions and default values and their respective application to individual goods as well as laying
+down methods to ensure the reliability of data on the basis of which the default values shall be determined, including
+the level of detail and the verification of the data, and including further specification of goods that are to be considered
+as ‘simple goods’ and ‘complex goods’ for the purpose of point 1 of Annex IV; those implementing acts shall also
+specify the conditions under which it is deemed that actual emissions cannot be adequately determined, as well as the
+elements of evidence demonstrating that the criteria required to justify the use of actual emissions for electricity
+consumed in the production processes of goods for the purpose of paragraph 2 that are listed in points 5 and 6 of
+Annex IV are met; and
+```
+```
+(b) the application of the elements of the calculation methods pursuant to paragraph 4 in accordance with point 4.3 of
+Annex IV.
+```
+```
+Where objectively justified, the implementing acts referred to in the first subparagraph shall provide that default values can
+be adapted to particular areas, regions or countries to take into account specific objective factors that affect emissions, such
+as prevailing energy sources or industrial processes. Those implementing acts shall build upon existing legislation for the
+monitoring and verification of emissions and activity data for installations covered by Directive 2003/87/EC, in particular
+Commission Implementing Regulation (EU) 2018/2066(^24 ), Implementing Regulation (EU) 2018/2067 and Commission
+Delegated Regulation (EU) 2019/331(^25 ). Those implementing acts shall be adopted in accordance with the examination
+procedure referred to in Article 29(2) of this Regulation.
+```
+```
+Article 8
+```
+```
+Verification of embedded emissions
+```
+1. The authorised CBAM declarant shall ensure that the total embedded emissions declared in the CBAM declaration
+submitted pursuant to Article 6 are verified by a verifier accredited pursuant to Article 18, based on the verification
+principles set out in Annex VI.
+2. For embedded emissions in goods produced in installations in a third country registered in accordance with
+Article 10, the authorised CBAM declarant may choose to use verified information disclosed to it in accordance with
+Article 10(7) to fulfil the obligation referred to in paragraph 1 of this Article.
+
+```
+(^24 ) Commission Implementing Regulation (EU) 2018/2066 of 19 December 2018 on the monitoring and reporting of greenhouse gas
+emissions pursuant to Directive 2003/87/EC of the European Parliament and of the Council and amending Commission Regulation
+(EU) No 601/2012 (OJ L 334, 31.12.2018, p. 1).
+(^25 ) Commission Delegated Regulation (EU) 2019/331 of 19 December 2018 determining transitional Union-wide rules for harmonised
+free allocation of emission allowances pursuant to Article 10a of Directive 2003/87/EC of the European Parliament and of the
+Council (OJ L 59, 27.2.2019, p. 8).
+```
+16.5.2023 EN Official Journal of the European Union L 130/
+
+
+3. The Commission is empowered to adopt implementing acts for the application of the verification principles set out in
+Annex VI as regards:
+
+```
+(a) the possibility to waive, in duly justified circumstances and without putting at risk a reliable estimation of the
+embedded emissions, the obligation for the verifier to visit the installation where relevant goods are produced;
+```
+```
+(b) the definition of thresholds for deciding whether misstatements or non-conformities are material; and
+```
+```
+(c) the supporting documentation needed for the verification report, including its format.
+```
+```
+Where it adopts the implementing acts referred to in the first subparagraph, the Commission shall seek equivalence and
+coherence with the procedures set out in Implementing Regulation (EU) 2018/2067. Those implementing acts shall be
+adopted in accordance with the examination procedure referred to in Article 29(2) of this Regulation.
+```
+```
+Article 9
+```
+```
+Carbon price paid in a third country
+```
+1. An authorised CBAM declarant may claim in the CBAM declaration a reduction in the number of CBAM certificates
+to be surrendered in order to take into account the carbon price paid in the country of origin for the declared embedded
+emissions. The reduction may be claimed only if the carbon price has been effectively paid in the country of origin. In such
+a case, any rebate or other form of compensation available in that country that would have resulted in a reduction of that
+carbon price shall be taken into account.
+2. The authorised CBAM declarant shall keep records of the documentation required to demonstrate that the declared
+embedded emissions were subject to a carbon price in the country of origin of the goods that has been effectively paid as
+referred to in paragraph 1. The authorised CBAM declarant shall in particular keep evidence related to any rebate or other
+form of compensation available, in particular the references to the relevant legislation of that country. The information
+contained in that documentation shall be certified by a person that is independent from the authorised CBAM declarant
+and from the authorities of the country of origin. The name and contact information of that independent person shall
+appear on the documentation. The authorised CBAM declarant shall also keep evidence of the actual payment of the
+carbon price.
+3. The authorised CBAM declarant shall keep the records referred to in paragraph 2 until the end of the fourth year after
+the year during which the CBAM declaration has been or should have been submitted.
+4. The Commission is empowered to adopt implementing acts concerning the conversion of the yearly average carbon
+price effectively paid in accordance with paragraph 1 into a corresponding reduction of the number of CBAM certificates
+to be surrendered, including the conversion of the carbon price effectively paid in foreign currency into euro at the yearly
+average exchange rate, the evidence required of the actual payment of the carbon price, examples of any relevant rebate or
+other form of compensation referred to in paragraph 1 of this Article, the qualifications of the independent person
+referred to in paragraph 2 of this Article and the conditions to ascertain that person’s independence. Those implementing
+acts shall be adopted in accordance with the examination procedure referred to in Article 29(2).
+
+```
+Article 10
+```
+```
+Registration of operators and of installations in third countries
+```
+1. The Commission shall, upon request by an operator of an installation located in a third country, register the
+information on that operator and on its installation in the CBAM registry referred to in Article 14.
+2. The request for registration referred to in paragraph 1 shall contain the following information to be included in the
+CBAM registry upon registration:
+
+```
+(a) the name, address and contact information of the operator;
+```
+L 130/72 EN Official Journal of the European Union 16.5.2023
+
+
+```
+(b) the location of each installation including the complete address and geographical coordinates expressed in longitude
+and latitude, including six decimals;
+```
+```
+(c) the main economic activity of the installation.
+```
+3. The Commission shall notify the operator of the registration in the CBAM registry. The registration shall be valid for a
+period of five years from the date of its notification to the operator of the installation.
+4. The operator shall inform the Commission without delay of any changes in the information referred to in paragraph 2
+arising after the registration, and the Commission shall update the relevant information in the CBAM registry.
+5. The operator shall:
+
+```
+(a) determine the embedded emissions calculated in accordance with the methods set out in Annex IV, by type of goods
+produced at the installation referred to in paragraph 1 of this Article;
+```
+```
+(b) ensure that the embedded emissions referred to in point (a) of this paragraph are verified in accordance with the
+verification principles set out in Annex VI by a verifier accredited pursuant to Article 18;
+```
+```
+(c) keep a copy of the verification report as well as records of the information required to calculate the embedded
+emissions in goods in accordance with the requirements laid down in Annex V for a period of four years after the
+verification has been performed.
+```
+6. The records referred to in paragraph 5, point (c), of this Article shall be sufficiently detailed to enable the verification
+of the embedded emissions in accordance with Article 8 and Annex VI, and to enable the review, in accordance with
+Article 19, of the CBAM declaration made by an authorised CBAM declarant to whom the relevant information was
+disclosed in accordance with paragraph 7 of this Article.
+7. An operator may disclose the information on the verification of embedded emissions referred to in paragraph 5 of
+this Article to an authorised CBAM declarant. The authorised CBAM declarant shall be entitled to use that disclosed
+information in order to fulfil the obligation referred to in Article 8.
+8. The operator may, at any time, ask to be deregistered from the CBAM registry. The Commission shall, upon such
+request, and after notifying the competent authorities, deregister the operator and delete the information on that operator
+and on its installation from the CBAM registry, provided that such information is not necessary for the review of CBAM
+declarations that have been submitted. The Commission may, after having given the operator concerned the possibility to
+be heard and having consulted with the relevant competent authorities, also deregister the information if the Commission
+finds that the information on that operator is no longer accurate. The Commission shall inform the competent authorities
+of such deregistrations.
+
+```
+CHAPTER III
+```
+```
+COMPETENT AUTHORITIES
+```
+```
+Article 11
+```
+```
+Competent authorities
+```
+1. Each Member State shall designate the competent authority to carry out the functions and duties under this
+Regulation and inform the Commission thereof.
+
+```
+The Commission shall make available to the Member States a list of all competent authorities and publish that information
+in the Official Journal of the European Union and make that information available in the CBAM registry.
+```
+2. Competent authorities shall exchange any information that is essential or relevant to the exercise of their functions
+and duties under this Regulation.
+
+16.5.2023 EN Official Journal of the European Union L 130/73
+
+
+```
+Article 12
+```
+```
+Commission
+```
+```
+In addition to the other tasks that it exercises under this Regulation, the Commission shall assist the competent authorities
+in carrying out their functions and duties under this Regulation and shall coordinate their activities by supporting the
+exchange of, and issuing guidelines on, best practices within the scope of this Regulation, and by promoting an adequate
+exchange of information and cooperation between competent authorities as well as between competent authorities and
+the Commission.
+```
+```
+Article 13
+```
+```
+Professional secrecy and disclosure of information
+```
+1. All information acquired by the competent authority or the Commission in the course of performing their duties
+which is by its nature confidential or which is provided on a confidential basis shall be covered by the obligation of
+professional secrecy. Such information shall not be disclosed by the competent authority or the Commission without the
+express prior permission of the person or authority that provided it or by virtue of Union or national law.
+2. By way of derogation from paragraph 1, the competent authorities and the Commission may share such information
+with each other, the customs authorities, the authorities in charge of administrative or criminal penalties, and the European
+Public Prosecutor’s Office, for the purposes of ensuring compliance of persons with their obligations under this Regulation
+and the application of customs legislation. Such shared information shall be covered by professional secrecy and shall not
+be disclosed to any other person or authority except by virtue of Union or national law.
+
+```
+Article 14
+```
+```
+CBAM registry
+```
+1. The Commission shall establish a CBAM registry of authorised CBAM declarants in the form of a standardised
+electronic database containing the data regarding the CBAM certificates of those authorised CBAM declarants. The
+Commission shall make the information in the CBAM registry available automatically and in real time to customs
+authorities and competent authorities.
+2. The CBAM registry referred to in paragraph 1 shall contain accounts with information about each authorised CBAM
+declarant, in particular:
+
+```
+(a) the name, address and contact information of the authorised CBAM declarant;
+```
+```
+(b) the EORI number of the authorised CBAM declarant;
+```
+```
+(c) the CBAM account number;
+```
+```
+(d) the identification number, the sale price, the date of sale, and the date of surrender, repurchase or cancellation of CBAM
+certificates for each authorised CBAM declarant.
+```
+3. The CBAM registry shall contain, in a separate section of the registry, the information about the operators and
+installations in third countries registered in accordance with Article 10(2).
+4. The information in the CBAM registry referred to in paragraphs 2 and 3 shall be confidential, with the exception of
+the names, addresses and contact information of the operators and the location of installations in third countries. An
+operator may choose not to have its name, address and contact information made accessible to the public. The public
+information in the CBAM registry shall be made accessible by the Commission in an interoperable format.
+5. The Commission shall publish, on a yearly basis, for each of the goods listed in Annex I, the aggregated emissions
+embedded in the imported goods.
+
+L 130/74 EN Official Journal of the European Union 16.5.2023
+
+
+6. The Commission shall adopt implementing acts concerning the infrastructure and specific processes and procedures
+of the CBAM registry, including the risk analysis referred to in Article 15, the electronic databases containing the
+information referred to in paragraphs 2 and 3 of this Article, the data of the accounts in the CBAM registry referred to in
+Article 16, the transmission to the CBAM registry of the information on the sale, repurchase and cancellation of CBAM
+certificates referred to in Article 20, and the cross-check of information referred to in Article 25(3). Those implementing
+acts shall be adopted in accordance with the examination procedure referred to in Article 29(2).
+
+```
+Article 15
+```
+```
+Risk analysis
+```
+1. The Commission shall carry out risk-based controls on the data and the transactions recorded in the CBAM registry,
+referred to in Article 14, to ensure that there are no irregularities in the purchase, holding, surrender, repurchase and
+cancellation of CBAM certificates.
+2. If the Commission identifies irregularities as a result of the controls carried out under paragraph 1, it shall inform the
+competent authorities concerned so that further investigations are carried out in order to correct the identified
+irregularities.
+
+```
+Article 16
+```
+```
+Accounts in the CBAM registry
+```
+1. The Commission shall assign to each authorised CBAM declarant a unique CBAM account number.
+2. Each authorised CBAM declarant shall be granted access to its account in the CBAM registry.
+3. The Commission shall set up the account as soon as the authorisation referred to in Article 17(1) is granted and shall
+notify the authorised CBAM declarant thereof.
+4. If the authorised CBAM declarant has ceased its economic activity or its authorisation has been revoked, the
+Commission shall close the account of that authorised CBAM declarant, provided that the authorised CBAM declarant has
+complied with all its obligations under this Regulation.
+
+```
+Article 17
+```
+```
+Authorisation
+```
+1. Where an application for an authorisation is submitted in accordance with Article 5, the competent authority in the
+Member State in which the applicant is established shall grant the status of authorised CBAM declarant provided that the
+criteria set out in paragraph 2 of this Article are complied with. The status of authorised CBAM declarant shall be
+recognised in all Member States.
+
+```
+Before granting the status of authorised CBAM declarant, the competent authority shall conduct a consultation procedure
+on the application for an authorisation via the CBAM registry. The consultation procedure shall involve the competent
+authorities in the other Member States and the Commission and shall not exceed 15 working days.
+```
+2. The criteria for granting the status of authorised CBAM declarant shall be the following:
+
+```
+(a) the applicant has not been involved in a serious infringement or in repeated infringements of customs legislation,
+taxation rules, market abuse rules or this Regulation and delegated and implementing acts adopted under this
+Regulation, and in particular the applicant has no record of serious criminal offences relating to its economic activity
+during the five years preceding the application;
+```
+```
+(b) the applicant demonstrates its financial and operational capacity to fulfil its obligations under this Regulation;
+```
+16.5.2023 EN Official Journal of the European Union L 130/75
+
+
+```
+(c) the applicant is established in the Member State where the application is submitted; and
+```
+```
+(d) the applicant has been assigned an EORI number in accordance with Article 9 of Regulation (EU) No 952/2013.
+```
+3. Where the competent authority finds that the criteria set out in paragraph 2 of this Article are not fulfilled, or where
+the applicant has failed to provide information listed in Article 5(5), the granting of the status of authorised CBAM
+declarant shall be refused. Such decision to refuse the status of authorised CBAM declarant shall provide the reasons for
+the refusal and include information on the possibility to appeal.
+4. A decision of the competent authority granting the status of authorised CBAM declarant shall be registered in the
+CBAM registry and shall contain the following information:
+
+```
+(a) the name, address and contact information of the authorised CBAM declarant;
+```
+```
+(b) the EORI number of the authorised CBAM declarant;
+```
+```
+(c) the CBAM account number assigned to the authorised CBAM declarant in accordance with Article 16(1);
+```
+```
+(d) the guarantee required in accordance with paragraph 5 of this Article.
+```
+5. For the purpose of complying with the criteria set out in paragraph 2, point (b), of this Article, the competent
+authority shall require the provision of a guarantee if the applicant was not established throughout the two financial years
+preceding the year when the application in accordance with Article 5(1) was submitted.
+
+```
+The competent authority shall fix the amount of such guarantee at the amount, calculated as the aggregate value of the
+number of CBAM certificates that the authorised CBAM declarant would have to surrender in accordance with Article 22
+in respect of the imports of goods reported in accordance with Article 5(5), point (g). The guarantee provided shall be a
+bank guarantee, payable at first demand, by a financial institution operating in the Union or another form of guarantee
+which provides equivalent assurance.
+```
+6. Where the competent authority establishes that the guarantee provided does not ensure, or is no longer sufficient to
+ensure, the financial and operational capacity of the authorised CBAM declarant to fulfil its obligations under this
+Regulation, it shall require the authorised CBAM declarant to choose between providing an additional guarantee or
+replacing the initial guarantee with a new guarantee in accordance with paragraph 5.
+7. The competent authority shall release the guarantee immediately after 31 May of the second year in which the
+authorised CBAM declarant has surrendered CBAM certificates in accordance with Article 22.
+8. The competent authority shall revoke the status of authorised CBAM declarant where:
+
+```
+(a) the authorised CBAM declarant requests a revocation; or
+```
+```
+(b) the authorised CBAM declarant no longer meets the criteria set out in paragraph 2 or 6 of this Article, or has been
+involved in a serious or repeated infringement of the obligation to surrender CBAM certificates referred to in
+Article 22(1) or of the obligation to ensure a sufficient number of CBAM certificates on its account in the CBAM
+registry at the end of each quarter referred to in Article 22(2).
+```
+```
+Before revoking the status of authorised CBAM declarant, the competent authority shall give the authorised CBAM
+declarant the possibility to be heard and shall conduct a consultation procedure on the possible revocation of such status.
+The consultation procedure shall involve the competent authorities in the other Member States and the Commission and
+shall not exceed 15 working days.
+```
+```
+Any decision of revocation shall contain the reasons for the decision as well as information about the right to appeal.
+```
+L 130/76 EN Official Journal of the European Union 16.5.2023
+
+
+9. The competent authority shall register in the CBAM registry information on:
+
+```
+(a) the applicants whose application for an authorisation has been refused pursuant to paragraph 3; and
+```
+```
+(b) the persons whose status of authorised CBAM declarant has been revoked pursuant to paragraph 8.
+```
+10. The Commission shall adopt, by means of implementing acts, the conditions for:
+
+```
+(a) the application of the criteria referred to in paragraph 2 of this Article, including that of not having been involved in a
+serious infringement or in repeated infringements under paragraph 2, point (a), of this Article;
+```
+```
+(b) the application of the guarantee referred to in paragraphs 5, 6 and 7 of this Article;
+```
+```
+(c) the application of the criteria of a serious or repeated infringement referred to in paragraph 8 of this Article;
+```
+```
+(d) the consequences of the revocation of the status of authorised CBAM declarant referred to in paragraph 8 of this
+Article; and
+```
+```
+(e) the specific deadlines and format of the consultation procedure referred to in paragraphs 1 and 8 of this Article.
+```
+```
+The implementing acts referred to in the first subparagraph shall be adopted in accordance with the examination procedure
+referred to in Article 29(2).
+```
+```
+Article 18
+```
+```
+Accreditation of verifiers
+```
+1. Any person accredited in accordance with Implementing Regulation (EU) 2018/2067 for a relevant group of activities
+shall be an accredited verifier for the purpose of this Regulation. The Commission is empowered to adopt implementing
+acts to identify relevant groups of activities by providing an alignment of the qualifications of an accredited verifier that are
+necessary to perform verifications for the purpose of this Regulation with the relevant group of activities listed in Annex I
+to Implementing Regulation (EU) 2018/2067 and indicated in the accreditation certificate. Those implementing acts shall
+be adopted in accordance with the examination procedure referred to in Article 29(2) of this Regulation.
+2. A national accreditation body may, on request, accredit a person to be a verifier for the purpose of this Regulation
+where it considers, on the basis of the documentation submitted to it, that such person has the capacity to apply the
+verification principles referred to in Annex VI when performing the tasks of verification of the embedded emissions
+pursuant to Articles 8 and 10.
+3. The Commission is empowered to adopt delegated acts in accordance with Article 28 in order to supplement this
+Regulation by specifying the conditions for granting of accreditation referred to in paragraph 2 of this Article, for the
+control and oversight of accredited verifiers, for the withdrawal of accreditation and for mutual recognition and peer
+evaluation of accreditation bodies.
+
+```
+Article 19
+```
+```
+Review of CBAM declarations
+```
+1. The Commission shall have the oversight role in the review of CBAM declarations.
+2. The Commission may review CBAM declarations, in accordance with a review strategy, including risk factors, within
+the period ending with the fourth year after the year during which the CBAM declarations should have been submitted.
+
+```
+The review may consist in verifying the information provided in the CBAM declaration and in verification reports on the
+basis of the information communicated by the customs authorities in accordance with Article 25, any other relevant
+evidence, and on the basis of any audit deemed necessary, including at the premises of the authorised CBAM declarant.
+```
+16.5.2023 EN Official Journal of the European Union L 130/77
+
+
+```
+The Commission shall communicate the initiation and the results of the review to the competent authority of the Member
+State where the CBAM declarant is established, via the CBAM registry.
+```
+```
+The competent authority of the Member State where the authorised CBAM declarant is established may also review a CBAM
+declaration within the period referred to in the first subparagraph of this paragraph. The competent authority shall
+communicate the initiation and the results of a review to the Commission, via the CBAM registry.
+```
+3. The Commission shall periodically set out specific risk factors and points for attention, based on a risk analysis in
+relation to the implementation of the CBAM at Union level, taking into account information contained in the CBAM
+registry, data communicated by customs authorities, and other relevant information sources, including the controls and
+checks carried out pursuant to Article 15(2) and Article 25.
+
+```
+The Commission shall also facilitate the exchange of information with competent authorities about fraudulent activities and
+the penalties imposed in accordance with Article 26.
+```
+4. Where an authorised CBAM declarant fails to submit a CBAM declaration in accordance with Article 6, or where the
+Commission considers, on the basis of its review under paragraph 2 of this Article, that the declared number of CBAM
+certificates is incorrect, the Commission shall assess the obligations under this Regulation of that authorised CBAM
+declarant on the basis of the information at its disposal. The Commission shall establish a preliminary calculation of the
+total number of CBAM certificates which should have been surrendered, at the latest by the 31 December of the year
+following that in which the CBAM declaration should have been submitted, or at the latest by 31 December of the fourth
+year following that in which the incorrect CBAM declaration has been submitted, as applicable. The Commission shall
+provide to competent authorities such a preliminary calculation, for indicative purposes and without prejudice to the
+definitive calculation established by the competent authority of the Member State where the authorised CBAM declarant is
+established.
+5. Where the competent authority concludes that the declared number of CBAM certificates to be surrendered is
+incorrect, or that no CBAM declaration has been submitted in accordance with Article 6, it shall determine the number of
+CBAM certificates which should have been surrendered by the authorised CBAM declarant, taking into account the
+information submitted by the Commission.
+
+```
+The competent authority shall notify the authorised CBAM declarant of its decision on the number of CBAM certificates
+determined and shall request that the authorised CBAM declarant surrender the additional CBAM certificates within one
+month.
+```
+```
+The competent authority’s decision shall contain the reasons for the decision as well as information about the right to
+appeal. The decision shall also be notified via the CBAM registry.
+```
+```
+Where the competent authority, after receiving the preliminary calculation from the Commission in accordance with
+paragraphs 2 and 4 of this Article, decides not to take any action, the competent authority shall inform the Commission
+accordingly, via the CBAM registry.
+```
+6. Where the competent authority concludes that the number of CBAM certificates surrendered exceeds the number
+which should have been surrendered, it shall inform the Commission without delay. The CBAM certificates surrendered in
+excess shall be repurchased in accordance with Article 23.
+
+```
+CHAPTER IV
+```
+```
+CBAM CERTIFICATES
+```
+```
+Article 20
+```
+```
+Sale of CBAM certificates
+```
+1. A Member State shall sell CBAM certificates on a common central platform to authorised CBAM declarants
+established in that Member State.
+
+L 130/78 EN Official Journal of the European Union 16.5.2023
+
+
+2. The Commission shall establish and manage the common central platform following a joint procurement procedure
+between the Commission and the Member States.
+
+```
+The Commission and the competent authorities shall have access to the information in the common central platform.
+```
+3. The information on the sale, repurchase and cancellation of CBAM certificates in the common central platform shall
+be transferred to the CBAM registry at the end of each working day.
+4. CBAM certificates shall be sold to authorised CBAM declarants at the price calculated in accordance with Article 21.
+5. The Commission shall ensure that each CBAM certificate is assigned a unique identification number upon its creation.
+The Commission shall register the unique identification number and the price and date of sale of the CBAM certificate in
+the CBAM registry in the account of the authorised CBAM declarant purchasing that certificate.
+6. The Commission shall adopt delegated acts in accordance with Article 28 supplementing this Regulation by further
+specifying the timing, administration and other aspects related to the management of the sale and repurchase of CBAM
+certificates, seeking coherence with the procedures of Commission Regulation (EU) No 1031/2010(^26 ).
+
+```
+Article 21
+```
+```
+Price of CBAM certificates
+```
+1. The Commission shall calculate the price of CBAM certificates as the average of the closing prices of EU ETS
+allowances on the auction platform, in accordance with the procedures laid down in Regulation (EU) No 1031/2010, for
+each calendar week.
+
+```
+For those calendar weeks in which no auctions are scheduled on the auction platform, the price of CBAM certificates shall
+be the average of the closing prices of EU ETS allowances of the last week in which auctions on the auction platform took
+place.
+```
+2. The Commission shall publish the average price, as referred to in the second subparagraph of paragraph 1, on its
+website or in any other appropriate manner on the first working day of the following calendar week. That price shall apply
+from the first working day following that of its publication to the first working day of the following calendar week.
+3. The Commission is empowered to adopt implementing acts on the application of the methodology provided for in
+paragraph 1 of this Article to calculate the average price of CBAM certificates and the practical arrangements for the
+publication of that price. Those implementing acts shall be adopted in accordance with the examination procedure
+referred to in Article 29(2).
+
+```
+Article 22
+```
+```
+Surrender of CBAM certificates
+```
+1. By 31 May of each year, and for the first time in 2027 for the year 2026, the authorised CBAM declarant shall
+surrender via the CBAM registry a number of CBAM certificates that corresponds to the embedded emissions declared in
+accordance with Article 6(2), point (c), and verified in accordance with Article 8, for the calendar year preceding the
+surrender. The Commission shall remove surrendered CBAM certificates from the CBAM registry. The authorised CBAM
+declarant shall ensure that the required number of CBAM certificates is available on its account in the CBAM registry.
+
+```
+(^26 ) Commission Regulation (EU) No 1031/2010 of 12 November 2010 on the timing, administration and other aspects of auctioning of
+greenhouse gas emission allowances pursuant to Directive 2003/87/EC of the European Parliament and of the Council establishing a
+system for greenhouse gas emission allowances trading within the Union (OJ L 302, 18.11.2010, p. 1).
+```
+16.5.2023 EN Official Journal of the European Union L 130/79
+
+
+2. The authorised CBAM declarant shall ensure that the number of CBAM certificates on its account in the CBAM
+registry at the end of each quarter corresponds to at least 80 % of the embedded emissions, determined by reference to
+default values in accordance with the methods set out in Annex IV, in all goods it has imported since the beginning of the
+calendar year.
+3. Where the Commission finds that the number of CBAM certificates in the account of an authorised CBAM declarant
+does not comply with the obligations pursuant to paragraph 2, it shall inform, via the CBAM registry, the competent
+authority of the Member State where the authorised CBAM declarant is established.
+
+```
+The competent authority shall notify the authorised CBAM declarant of the need to ensure a sufficient number of CBAM
+certificates in its account within one month of such notification.
+```
+```
+The competent authority shall register the notification to, and the response from, the authorised CBAM declarant in the
+CBAM registry.
+```
+```
+Article 23
+```
+```
+Repurchase of CBAM certificates
+```
+1. Where an authorised CBAM declarant so requests, the Member State where that authorised CBAM declarant is
+established shall repurchase the excess CBAM certificates remaining on the account of the declarant in the CBAM registry
+after the certificates have been surrendered in accordance with Article 22.
+
+```
+The Commission shall repurchase the excess CBAM certificates through the common central platform referred to in
+Article 20 on behalf of the Member State where the authorised CBAM declarant is established. The authorised CBAM
+declarant shall submit the repurchase request by 30 June of each year during which CBAM certificates were surrendered.
+```
+2. The number of certificates subject to repurchase as referred to in paragraph 1 shall be limited to one third of the total
+number of CBAM certificates purchased by the authorised CBAM declarant during the previous calendar year.
+3. The repurchase price for each CBAM certificate shall be the price paid by the authorised CBAM declarant for that
+certificate at the time of purchase.
+
+```
+Article 24
+```
+```
+Cancellation of CBAM certificates
+```
+```
+On 1 July of each year, the Commission shall cancel any CBAM certificates that were purchased during the year before the
+previous calendar year and that remained in the account of an authorised CBAM declarant in the CBAM registry. Those
+CBAM certificates shall be cancelled without any compensation.
+```
+```
+Where the number of CBAM certificates to be surrendered is contested in a pending dispute in a Member State, the
+Commission shall suspend the cancellation of the CBAM certificates to the extent corresponding to the disputed amount.
+The competent authority of the Member State where the authorised CBAM declarant is established shall communicate
+without delay any relevant information to the Commission.
+```
+L 130/80 EN Official Journal of the European Union 16.5.2023
+
+
+```
+CHAPTER V
+```
+```
+RULES APPLICABLE TO THE IMPORTATION OF GOODS
+```
+```
+Article 25
+```
+```
+Rules applicable to the importation of goods
+```
+1. The customs authorities shall not allow the importation of goods by any person other than an authorised CBAM
+declarant.
+2. The customs authorities shall periodically and automatically, in particular by means of the surveillance mechanism
+established pursuant to Article 56(5) of Regulation (EU) No 952/2013, communicate to the Commission specific
+information on the goods declared for importation. That information shall include the EORI number and the CBAM
+account number of the authorised CBAM declarant, the eight-digit CN code of the goods, the quantity, the country of
+origin, the date of the customs declaration and the customs procedure.
+3. The Commission shall communicate the information referred to in paragraph 2 of this Article to the competent
+authority of the Member State where the authorised CBAM declarant is established and shall, for each CBAM declarant,
+cross-check that information with the data in the CBAM registry pursuant to Article 14.
+4. The customs authorities may communicate, in accordance with Article 12(1) of Regulation (EU) No 952/2013,
+confidential information acquired by the customs authorities in the course of performing their duties, or provided to the
+customs authorities on a confidential basis, to the Commission and the competent authority of the Member State that has
+granted the status of the authorised CBAM declarant.
+5. Regulation (EC) No 515/97 shall apply mutatis mutandis to this Regulation.
+6. The Commission is empowered to adopt implementing acts defining the scope of information and the periodicity,
+timing and means for communicating that information pursuant to paragraph 2 of this Article. Those implementing acts
+shall be adopted in accordance with the examination procedure referred to in Article 29(2).
+
+```
+CHAPTER VI
+```
+```
+ENFORCEMENT
+```
+```
+Article 26
+```
+```
+Penalties
+```
+1. An authorised CBAM declarant who fails to surrender, by 31 May of each year, the number of CBAM certificates that
+corresponds to the emissions embedded in goods imported during the preceding calendar year shall be held liable for the
+payment of a penalty. Such a penalty shall be identical to the excess emissions penalty set out in Article 16(3) of
+Directive 2003/87/EC and increased pursuant to Article 16(4) of that Directive, applicable in the year of importation of
+the goods. Such a penalty shall apply for each CBAM certificate that the authorised CBAM declarant has not surrendered.
+2. Where a person other than an authorised CBAM declarant introduces goods into the customs territory of the Union
+without complying with the obligations under this Regulation, that person shall be held liable for the payment of a
+penalty. Such a penalty shall be effective, proportionate and dissuasive and shall, depending in particular on the duration,
+gravity, scope, intentional nature and repetition of such non-compliance and the level of cooperation of the person with
+the competent authority, be an amount from three to five times the penalty referred to in paragraph 1, applicable in the
+year of introduction of the goods, for each CBAM certificate that the person has not surrendered.
+3. The payment of the penalty shall not release the authorised CBAM declarant from the obligation to surrender the
+outstanding number of CBAM certificates in a given year.
+
+16.5.2023 EN Official Journal of the European Union L 130/81
+
+
+4. If the competent authority determines, including in light of the preliminary calculations made by the Commission in
+accordance with Article 19, that an authorised CBAM declarant has failed to comply with the obligation to surrender
+CBAM certificates as set out in paragraph 1 of this Article, or that a person has introduced goods into the customs
+territory of the Union without complying with the obligations under this Regulation as set out in paragraph 2 of this
+Article, the competent authority shall impose the penalty pursuant to paragraph 1 or 2 of this Article, as applicable. To
+that end, the competent authority shall notify the authorised CBAM declarant or, where paragraph 2 of this Article applies,
+the person:
+
+```
+(a) that the competent authority has concluded that the authorised CBAM declarant or the person referred to in paragraph
+2 of this Article failed to comply with the obligations under this Regulation;
+```
+```
+(b) of the reasons for its conclusion;
+```
+```
+(c) of the amount of the penalty imposed on the authorised CBAM declarant or on the person referred to in paragraph 2 of
+this Article;
+```
+```
+(d) of the date from which the penalty is due;
+```
+```
+(e) of the action that the authorised CBAM declarant or the person referred to in paragraph 2 of this Article is to take to
+pay the penalty; and
+```
+```
+(f) of the right of the authorised CBAM declarant or of the person referred to in paragraph 2 of this Article to appeal.
+```
+5. Where the penalty has not been paid by the due date referred to in paragraph 4, point (d), the competent authority
+shall secure payment of that penalty by all means available to it under the national law of the Member State concerned.
+6. Member States shall communicate the decisions on penalties referred to in paragraphs 1 and 2 to the Commission
+and shall register the final payment referred to in paragraph 5 in the CBAM registry.
+
+```
+Article 27
+```
+```
+Circumvention
+```
+1. The Commission shall take action in accordance with this Article, based on relevant and objective data, to address
+practices of circumvention of this Regulation.
+2. Practices of circumvention shall be defined as a change in the pattern of trade in goods, which stems from a practice,
+process or work, for which there is insufficient due cause or economic justification other than to avoid, wholly or partially,
+any of the obligations laid down in this Regulation. Such practice, process or work may consist of, but is not limited to:
+
+```
+(a) slightly modifying the goods concerned to make those goods fall under CN codes which are not listed in Annex I,
+except where the modification alters their essential characteristics;
+```
+```
+(b) artificially splitting shipments into consignments the intrinsic value of which does not exceed the threshold referred to
+in Article 2(3).
+```
+3. The Commission shall continuously monitor the situation at Union level with a view to identifying practices of
+circumvention, including by way of market surveillance or on the basis of any relevant source of information, such as
+submissions by, and reporting from, civil society organisations.
+4. A Member State or any party that has been affected by, or has benefited from, any of the situations referred to in
+paragraph 2 may notify the Commission if it is confronted with practices of circumvention. Interested parties other than
+directly affected or benefited parties, such as environmental organisations and non-governmental organisations, which
+find concrete evidence of practices of circumvention may also notify the Commission.
+
+L 130/82 EN Official Journal of the European Union 16.5.2023
+
+
+5. The notification referred to in paragraph 4 shall state the reasons on which it is based and shall include relevant data
+and statistics to support the claim of circumvention of this Regulation. The Commission shall initiate an investigation into a
+claim of circumvention either where it has been notified by a Member State, or by an affected, benefited or other interested
+party, provided that the notification meets the requirements referred to in this paragraph, or where the Commission itself
+determines that such an investigation is necessary. In carrying out the investigation, the Commission may be assisted by
+the competent authorities and customs authorities. The Commission shall conclude the investigation within nine months
+from the date of notification. Where an investigation has been initiated, the Commission shall notify all competent
+authorities.
+6. Where the Commission, taking into account the relevant data, reports and statistics, including those provided by
+customs authorities, has sufficient reasons to believe that the circumstances referred to in paragraph 2, point (a) of this
+Article, are occurring in one or more Member States by way of an established pattern, it is empowered to adopt delegated
+acts in accordance with Article 28 to amend the list of goods in Annex I by adding the relevant slightly modified products
+referred to in paragraph 2, point (a), of this Article, for anti-circumvention purposes.
+
+```
+CHAPTER VII
+```
+```
+EXERCISE OF THE DELEGATION AND COMMITTEE PROCEDURE
+```
+```
+Article 28
+```
+```
+Exercise of the delegation
+```
+1. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+2. The power to adopt delegated acts referred to in Articles 2(10), 2(11), 18(3), 20(6) and 27(6) shall be conferred on the
+Commission for a period of five years from 17 May 2023. The Commission shall draw up a report in respect of the
+delegation of power not later than nine months before the end of the five-year period. The delegation of power shall be
+tacitly extended for further periods of an identical duration, unless the European Parliament or the Council opposes such
+extension not later than three months before the end of each period.
+3. The delegation of power referred to in Articles 2(10), 2(11), 18(3), 20(6) and 27(6) may be revoked at any time by the
+European Parliament or by the Council.
+4. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the
+day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein.
+It shall not affect the validity of any delegated act already in force.
+5. Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance
+with the principles laid down in the Inter-institutional Agreement of 13 April 2016on Better Law-Making.
+6. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to
+the Council.
+7. A delegated act adopted pursuant to Articles 2(10), 2(11), 18(3), 20(6) or 27(6) shall enter into force only if no
+objection has been expressed either by the European Parliament or by the Council within a period of two months of
+notification of that act to the European Parliament and to the Council or if, before the expiry of that period, the European
+Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by
+two months at the initiative of the European Parliament or of the Council.
+
+16.5.2023 EN Official Journal of the European Union L 130/83
+
+
+```
+Article 29
+```
+```
+Committee procedure
+```
+1. The Commission shall be assisted by the CBAM Committee. That committee shall be a committee within the meaning
+of Regulation (EU) No 182/2011.
+2. Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
+
+```
+CHAPTER VIII
+```
+```
+REPORTING AND REVIEW
+```
+```
+Article 30
+```
+```
+Review and reporting by the Commission
+```
+1. The Commission, in consultation with relevant stakeholders, shall collect the information necessary with a view to
+extending the scope of this Regulation as indicated in and pursuant to paragraph 2, point (a), and to developing methods
+of calculating embedded emissions based on environmental footprint methods.
+2. Before the end of the transitional period referred to in Article 32, the Commission shall present a report to the
+European Parliament and to the Council on the application of this Regulation.
+
+```
+The report shall contain an assessment of:
+```
+```
+(a) the possibility to extend the scope to:
+```
+```
+(i) embedded indirect emissions in the goods listed in Annex II;
+```
+```
+(ii) embedded emissions in the transport of the goods listed in Annex I and transportation services;
+```
+```
+(iii)goods at risk of carbon leakage other than those listed in Annex I, and specifically organic chemicals and polymers;
+```
+```
+(iv)other input materials (precursors) for the goods listed in Annex I;
+```
+```
+(b) the criteria to be used to identify goods to be included in the list in Annex I to this Regulation based on the sectors at
+risk of carbon leakage identified pursuant to Article 10b of Directive 2003/87/EC; that assessment shall be
+accompanied by a timetable ending in 2030 for the gradual inclusion of the goods within the scope of this Regulation,
+taking into account in particular the level of risk of their respective carbon leakage;
+```
+```
+(c) the technical requirements for calculating embedded emissions for other goods to be included in the list in Annex I;
+```
+```
+(d) the progress made in international discussions regarding climate action;
+```
+```
+(e) the governance system, including the administrative costs;
+```
+```
+(f) the impact of this Regulation on goods listed in Annex I imported from developing countries with special interest to
+the least developed countries as identified by the United Nations (LDCs) and on the effects of the technical assistance
+given;
+```
+```
+(g) the methodology for the calculation of indirect emissions pursuant to Article 7(7) and point 4.3 of Annex IV.
+```
+L 130/84 EN Official Journal of the European Union 16.5.2023
+
+
+3. At least one year before the end of the transitional period, the Commission shall present a report to the European
+Parliament and to the Council that identifies products further down the value chain of the goods listed in Annex I that it
+recommends to be considered for inclusion within the scope of this Regulation. To that end, the Commission shall
+develop, in a timely manner, a methodology that should be based on relevance in terms of cumulated greenhouse gas
+emissions and risk of carbon leakage.
+4. The reports referred to in paragraphs 2 and 3 shall, where appropriate, be accompanied by a legislative proposal by
+the end of the transitional period, including a detailed impact assessment, in particular with a view to extending the scope
+of this Regulation on the basis of the conclusions drawn in those reports.
+5. Every two years from the end of the transitional period, as part of its annual report to the European Parliament and to
+the Council pursuant to Article 10(5) of Directive 2003/87/EC, the Commission shall assess the effectiveness of the CBAM
+in addressing the carbon leakage risk of goods produced in the Union for export to third countries which do not apply the
+EU ETS or a similar carbon pricing mechanism. The report shall in particular assess the development of Union exports in
+CBAM sectors and the developments as regards trade flows and the embedded emissions of those goods on the global
+market. Where the report concludes that there is a risk of carbon leakage of goods produced in the Union for export to
+such third countries which do not apply the EU ETS or a similar carbon pricing mechanism, the Commission shall, where
+appropriate, present a legislative proposal to address that risk in a manner that complies with World Trade Organization
+law and that takes into account the decarbonisation of installations in the Union.
+6. The Commission shall monitor the functioning of the CBAM with a view to evaluating the impacts and possible
+adjustments in its application.
+
+```
+Before 1 January 2028, as well as every two years thereafter, the Commission shall present a report to the European
+Parliament and to the Council on the application of this Regulation and functioning of the CBAM. The report shall contain
+at least the following:
+```
+```
+(a) an assessment of the impact of the CBAM on:
+```
+```
+(i) carbon leakage, including in relation to exports;
+```
+```
+(ii) the sectors covered;
+```
+```
+(iii) internal market, economic and territorial impact throughout the Union;
+```
+```
+(iv) inflation and the price of commodities;
+```
+```
+(v) the effect on industries using goods listed in Annex I;
+```
+```
+(vi) international trade, including resource shuffling; and
+```
+```
+(vii)LDCs;
+```
+```
+(b) an assessment of:
+```
+```
+(i) the governance system, including an assessment of the implementation and administration of the authorisation of
+CBAM declarants by Member States;
+```
+```
+(ii) the scope of this Regulation;
+```
+```
+(iii)practices of circumvention;
+```
+```
+(iv)the application of penalties in Member States;
+```
+```
+(c) results of investigations and penalties imposed;
+```
+```
+(d) aggregated information on the emission intensity for each country of origin for the different goods listed in Annex I.
+```
+16.5.2023 EN Official Journal of the European Union L 130/85
+
+
+7. Where an unforeseeable, exceptional and unprovoked event has occurred that is outside the control of one or more
+third countries subject to the CBAM, and that event has destructive consequences on the economic and industrial
+infrastructure of such country or countries concerned, the Commission shall assess the situation and submit to the
+European Parliament and to the Council a report, accompanied, where appropriate, by a legislative proposal, to amend this
+Regulation by setting out the necessary provisional measures to address those exceptional circumstances.
+8. From the end of the transitional period referred to in Article 32 of this Regulation, as part of the annual reporting
+pursuant to Article 41 of Regulation (EU) 2021/947 of the European Parliament and of the Council(^27 ), the Commission
+shall evaluate and report on how the financing under that Regulation has contributed to the decarbonisation of the
+manufacturing industry in LDCs.
+
+```
+CHAPTER IX
+```
+```
+COORDINATION WITH FREE ALLOCATION OF ALLOWANCES UNDER THE EU ETS
+```
+```
+Article 31
+```
+```
+Free allocation of allowances under the EU ETS and obligation to surrender CBAM certificates
+```
+1. The CBAM certificates to be surrendered in accordance with Article 22 of this Regulation shall be adjusted to reflect
+the extent to which EU ETS allowances are allocated free of charge in accordance with Article 10a of Directive 2003/87/EC
+to installations producing, within the Union, the goods listed in Annex I to this Regulation.
+2. The Commission is empowered to adopt implementing acts laying down detailed rules for the calculation of the
+adjustment as referred to in paragraph 1 of this Article. Such detailed rules shall be elaborated by reference to the
+principles applied in the EU ETS for the free allocation of allowances to installations producing, within the Union, the
+goods listed in Annex I, taking account of the different benchmarks used in the EU ETS for free allocation with a view to
+combining those benchmarks into corresponding values for the goods concerned, and taking into account relevant input
+materials (precursors). Those implementing acts shall be adopted in accordance with the examination procedure referred
+to in Article 29(2).
+
+```
+CHAPTER X
+```
+```
+TRANSITIONAL PROVISIONS
+```
+```
+Article 32
+```
+```
+Scope of the transitional period
+```
+```
+During the transitional period from 1 October 2023 until 31 December 2025 , the obligations of the importer under this
+Regulation shall be limited to the reporting obligations set out in Articles 33, 34 and 35 of this Regulation. Where the
+importer is established in a Member State and appoints an indirect customs representative in accordance with Article 18 of
+Regulation (EU) No 952/2013, and where the indirect customs representative so agrees, the reporting obligations shall
+apply to such indirect customs representative. Where the importer is not established in a Member State, the reporting
+obligations shall apply to the indirect customs representative.
+```
+```
+(^27 ) Regulation (EU) 2021/947 of the European Parliament and of the Council of 9 June 2021 establishing the Neighbourhood,
+Development and International Cooperation Instrument – Global Europe, amending and repealing Decision No 466/2014/EU of the
+European Parliament and of the Council and repealing Regulation (EU) 2017/1601 of the European Parliament and of the Council
+and Council Regulation (EC, Euratom) No 480/2009 (OJ L 209, 14.6.2021, p. 1).
+```
+L 130/86 EN Official Journal of the European Union 16.5.2023
+
+
+```
+Article 33
+```
+```
+Importation of goods
+```
+1. The customs authorities shall inform the importer or, in the situations covered by Article 32, the indirect customs
+representative of the reporting obligation referred to in Article 35 no later than at the moment of the release of goods for
+free circulation.
+2. The customs authorities shall periodically and automatically, in particular by means of the surveillance mechanism
+established pursuant to Article 56(5) of Regulation (EU) No 952/2013 or by electronic means of data transmission,
+communicate to the Commission information on imported goods, including processed products resulting from the
+outward processing procedure. Such information shall include the EORI number of the customs declarant and of the
+importer, the eight-digit CN code, the quantity, the country of origin, the date of the customs declaration and the customs
+procedure.
+3. The Commission shall communicate the information referred to in paragraph 2 to the competent authorities of the
+Member States where the customs declarant and, where applicable, the importer are established.
+
+```
+Article 34
+```
+```
+Reporting obligation for certain customs procedures
+```
+1. Where processed products resulting from the inward processing procedure as referred to in Article 256 of Regulation
+(EU) No 952/2013 are imported, the reporting obligation referred to in Article 35 of this Regulation shall include the
+information on the goods that were placed under the inward processing procedure and resulted in the imported processed
+products, even if the processed products are not listed in Annex I to this Regulation. This paragraph shall also apply where
+the processed products resulting from the inward processing procedure are returned goods as referred to in Article 205 of
+Regulation (EU) No 952/2013.
+2. The reporting obligation referred to in Article 35 of this Regulation shall not apply to the import of:
+
+```
+(a) processed products resulting from the outward processing procedure as referred to in Article 259 of Regulation (EU)
+No 952/2013;
+```
+```
+(b) goods qualifying as returned goods in accordance with Article 203 of Regulation (EU) No 952/2013.
+```
+```
+Article 35
+```
+```
+Reporting obligation
+```
+1. Each importer or, in the situations covered by Article 32, the indirect customs representative, having imported goods
+during a given quarter of a calendar year shall, for that quarter, submit a report (‘CBAM report’) containing information on
+the goods imported during that quarter, to the Commission, no later than one month after the end of that quarter.
+2. The CBAM report shall include the following information:
+
+```
+(a) the total quantity of each type of goods, expressed in megawatt-hours for electricity and in tonnes for other goods,
+specified for each installation producing the goods in the country of origin;
+```
+```
+(b) the actual total embedded emissions, expressed in tonnes of CO 2 e emissions per megawatt-hour of electricity or for
+other goods in tonnes of CO 2 e emissions per tonne of each type of goods, calculated in accordance with the method
+set out in Annex IV;
+```
+```
+(c) the total indirect emissions calculated in accordance with the implementing act referred to in paragraph 7;
+```
+```
+(d) the carbon price due in a country of origin for the embedded emissions in the imported goods, taking into account any
+rebate or other form of compensation available.
+```
+16.5.2023 EN Official Journal of the European Union L 130/87
+
+
+3. The Commission shall periodically communicate to the relevant competent authorities a list of those importers or
+indirect customs representatives established in the Member State, including the corresponding justifications, which it has
+reasons to believe have failed to comply with the obligation to submit a CBAM report in accordance with paragraph 1.
+4. Where the Commission considers that a CBAM report is incomplete or incorrect, it shall communicate to the
+competent authority of the Member State where the importer is established or, in the situations covered by Article 32, the
+indirect customs representative is established, the additional information it considers necessary to complete or correct that
+report. Such information shall be provided for indicative purposes and without prejudice to the definitive appreciation by
+that competent authority. That competent authority shall initiate the correction procedure and notify the importer or, in
+the situations covered by Article 32, the indirect customs representative of the additional information necessary to correct
+that report. Where appropriate, that importer or that indirect customs representative shall submit a corrected report to the
+competent authority concerned and to the Commission.
+5. Where the competent authority of the Member State referred to in paragraph 4 of this Article initiates a correction
+procedure, including in consideration of information received in accordance with paragraph 4 of this Article, and
+determines that the importer or, where applicable in accordance with Article 32, the indirect customs representative has
+not taken the necessary steps to correct the CBAM report, or where the competent authority concerned determines,
+including in consideration of information received in accordance with paragraph 3 of this Article, that the importer or,
+where applicable in accordance with Article 32, the indirect customs representative has failed to comply with the
+obligation to submit a CBAM report in accordance with paragraph 1 of this Article, that competent authority shall impose
+an effective, proportionate and dissuasive penalty on the importer or, where applicable in accordance with Article 32, the
+indirect customs representative. To that end, the competent authority shall notify the importer or, where applicable in
+accordance with Article 32, the indirect customs representative and inform the Commission, of the following:
+
+```
+(a) the conclusion, and reasons for that conclusion, that the importer or, where applicable in accordance with Article 32,
+the indirect customs representative has failed to comply with the obligation of submitting a report for a given quarter
+or to take the necessary steps to correct the report;
+```
+```
+(b) the amount of the penalty imposed on the importer or, where applicable in accordance with Article 32, the indirect
+customs representative;
+```
+```
+(c) the date from which the penalty is due;
+```
+```
+(d) the action that the importer or, where applicable in accordance with Article 32, the indirect customs representative is to
+take to pay the penalty; and
+```
+```
+(e) the right of the importer or, where applicable in accordance with Article 32, the indirect customs representative to
+appeal.
+```
+6. Where the competent authority, after receiving the information from the Commission under this Article, decides not
+to take any action, the competent authority shall inform the Commission accordingly.
+7. The Commission is empowered to adopt implementing acts concerning:
+
+```
+(a) the information to be reported, the means and format for that reporting, including detailed information per country of
+origin and type of goods to support the totals referred to in paragraph 2, points (a), (b) and (c), and examples of any
+relevant rebate or other form of compensation available as referred to in paragraph 2, point (d);
+```
+```
+(b) the indicative range of penalties to be imposed pursuant to paragraph 5 and the criteria to take into account for
+determining the actual amount, including the gravity and duration of the failure to report;
+```
+```
+(c) detailed rules on the conversion of the yearly average carbon price due referred to in paragraph 2, point (d), expressed
+in foreign currency into euro at the yearly average exchange rate;
+```
+L 130/88 EN Official Journal of the European Union 16.5.2023
+
+
+```
+(d) detailed rules on the elements of the calculation methods set out in Annex IV, including determining system boundaries
+of production processes, emission factors, installation-specific values of actual emissions and their respective
+application to individual goods as well as laying down methods to ensure the reliability of data, including the level of
+detail; and
+(e) the means and format for the reporting requirements for indirect emissions in imported goods; that format shall
+include the quantity of electricity used for the production of the goods listed in Annex I, as well as the country of
+origin, generation source and emission factors related to that electricity.
+```
+```
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 29(2) of this
+Regulation. They shall apply for goods imported during the transitional period referred to in Article 32 of this Regulation
+and shall build upon existing legislation for installations that fall within the scope of Directive 2003/87/EC.
+```
+```
+CHAPTER XI
+```
+```
+FINAL PROVISIONS
+```
+```
+Article 36
+```
+```
+Entry into force
+```
+1. This Regulation shall enter into force on the day following that of its publication in the Official Journal of the European
+Union.
+2. It shall apply from 1 October 2023. However:
+(a) Articles 5, 10, 14, 16 and 17 shall apply from 31 December 2024 ;
+(b) Article 2(2) and Articles 4, 6 to 9, 15 and 19, Article 20(1), (3), (4) and (5), Articles 21 to 27 and 31 shall apply from
+    1 January 2026.
+
+```
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+```
+```
+Done at Strasbourg, 10 May 2023.
+```
+```
+For the European Parliament
+The President
+R. METSOLA
+```
+```
+For the Council
+The President
+J. ROSWALL
+```
+16.5.2023 EN Official Journal of the European Union L 130/89
+
+
+```
+ANNEX I
+```
+```
+List of goods and greenhouse gases
+```
+1. For the purpose of the identification of goods, this Regulation shall apply to goods falling under the Combined
+    Nomenclature (‘CN’) codes set out in the following table. The CN codes shall be those under Regulation (EEC)
+    No 2658/87.
+2. For the purposes of this Regulation, the greenhouse gases relating to goods referred to in point 1, shall be those set out
+    in the following table for the goods concerned.
+
+```
+Cement
+```
+```
+CN code Greenhouse gas
+```
+```
+2507 00 80– Other kaolinic clays Carbon dioxide
+```
+```
+2523 10 00– Cement clinkers Carbon dioxide
+```
+```
+2523 21 00– White Portland cement, whether or not artificially coloured Carbon dioxide
+```
+```
+2523 29 00– Other Portland cement Carbon dioxide
+```
+```
+2523 30 00– Aluminous cement Carbon dioxide
+```
+```
+2523 90 00– Other hydraulic cements Carbon dioxide
+```
+```
+Electricity
+```
+```
+CN code Greenhouse gas
+```
+```
+2716 00 00– Electrical energy Carbon dioxide
+```
+```
+Fertilisers
+```
+```
+CN code Greenhouse gas
+```
+```
+2808 00 00– Nitric acid; sulphonitric acids Carbon dioxide and nitrous oxide
+```
+```
+2814 – Ammonia, anhydrous or in aqueous solution Carbon dioxide
+```
+```
+2834 21 00– Nitrates of potassium Carbon dioxide and nitrous oxide
+```
+```
+3102 – Mineral or chemical fertilisers, nitrogenous Carbon dioxide and nitrous oxide
+```
+```
+3105 – Mineral or chemical fertilisers containing two or three of the fertilising
+elements nitrogen, phosphorus and potassium; other fertilisers; goods of this
+chapter in tablets or similar forms or in packages of a gross weight not exceeding
+10 kg
+Except: 3105 60 00– Mineral or chemical fertilisers containing the two
+fertilising elements phosphorus and potassium
+```
+```
+Carbon dioxide and nitrous oxide
+```
+L 130/90 EN Official Journal of the European Union 16.5.2023
+
+
+```
+Iron and steel
+```
+```
+CN code Greenhouse gas
+```
+```
+72 – Iron and steel
+Except:
+7202 2 – Ferro-silicon
+7202 30 00– Ferro-silico-manganese
+7202 50 00– Ferro-silico-chromium
+7202 70 00– Ferro-molybdenum
+7202 80 00– Ferro-tungsten and ferro-silico-tungsten
+```
+```
+7202 91 00– Ferro-titanium and ferro-silico-titanium
+7202 92 00– Ferro-vanadium
+7202 93 00– Ferro-niobium
+7202 99– Other:
+7202 99 10– Ferro-phosphorus
+7202 99 30– Ferro-silico-magnesium
+7202 99 80– Other
+7204 – Ferrous waste and scrap; remelting scrap ingots and steel
+```
+```
+Carbon dioxide
+```
+```
+2601 12 00– Agglomerated iron ores and concentrates, other than roasted iron
+pyrites
+```
+```
+Carbon dioxide
+```
+```
+7301 – Sheet piling of iron or steel, whether or not drilled, punched or made
+from assembled elements; welded angles, shapes and sections, of iron or steel
+```
+```
+Carbon dioxide
+```
+```
+7302 – Railway or tramway track construction material of iron or steel, the fol-
+lowing: rails, check-rails and rack rails, switch blades, crossing frogs, point rods
+and other crossing pieces, sleepers (cross-ties), fish- plates, chairs, chair wedges,
+sole plates (base plates), rail clips, bedplates, ties and other material specialised
+for jointing or fixing rails
+```
+```
+Carbon dioxide
+```
+```
+7303 00– Tubes, pipes and hollow profiles, of cast iron Carbon dioxide
+```
+```
+7304 – Tubes, pipes and hollow profiles, seamless, of iron (other than cast iron)
+or steel
+```
+```
+Carbon dioxide
+```
+```
+7305 – Other tubes and pipes (for example, welded, riveted or similarly closed),
+having circular cross-sections, the external diameter of which exceeds 406,4
+mm, of iron or steel
+```
+```
+Carbon dioxide
+```
+```
+7306 – Other tubes, pipes and hollow profiles (for example, open seam or
+welded, riveted or similarly closed), of iron or steel
+```
+```
+Carbon dioxide
+```
+```
+7307 – Tube or pipe fittings (for example, couplings, elbows, sleeves), of iron or
+steel
+```
+```
+Carbon dioxide
+```
+```
+7308 – Structures (excluding prefabricated buildings of heading 9406 ) and parts
+of structures (for example, bridges and bridge-sections, lock- gates, towers, lat-
+tice masts, roofs, roofing frameworks, doors and windows and their frames and
+thresholds for doors, shutters, balustrades, pillars and columns), of iron or steel;
+plates, rods, angles, shapes, sections, tubes and the like, prepared for use in
+structures, of iron or steel
+```
+```
+Carbon dioxide
+```
+16.5.2023 EN Official Journal of the European Union L 130/91
+
+
+```
+CN code Greenhouse gas
+```
+```
+7309 00– Reservoirs, tanks, vats and similar containers for any material (other
+than compressed or liquefied gas), of iron or steel, of a capacity exceeding 300 l,
+whether or not lined or heat-insulated, but not fitted with mechanical or thermal
+equipment
+```
+```
+Carbon dioxide
+```
+```
+7310 – Tanks, casks, drums, cans, boxes and similar containers, for any material
+(other than compressed or liquefied gas), of iron or steel, of a capacity not
+exceeding 300 l, whether or not lined or heat-insulated, but not fitted with
+mechanical or thermal equipment
+```
+```
+Carbon dioxide
+```
+```
+7311 00– Containers for compressed or liquefied gas, of iron or steel Carbon dioxide
+```
+```
+7318 – Screws, bolts, nuts, coach screws, screw hooks, rivets, cotters, cotter
+pins, washers (including spring washers) and similar articles, of iron or steel
+```
+```
+Carbon dioxide
+```
+```
+7326 – Other articles of iron or steel Carbon dioxide
+```
+```
+Aluminium
+```
+```
+CN code Greenhouse gas
+```
+```
+7601 – Unwrought aluminium Carbon dioxide and
+perfluorocarbons
+```
+```
+7603 – Aluminium powders and flakes Carbon dioxide and
+perfluorocarbons
+```
+```
+7604 – Aluminium bars, rods and profiles Carbon dioxide and
+perfluorocarbons
+```
+```
+7605 – Aluminium wire Carbon dioxide and
+perfluorocarbons
+```
+```
+7606 – Aluminium plates, sheets and strip, of a thickness exceeding 0,2 mm Carbon dioxide and
+perfluorocarbons
+```
+```
+7607 – Aluminium foil (whether or not printed or backed with paper, paper-
+board, plastics or similar backing materials) of a thickness (excluding any back-
+ing) not exceeding 0,2 mm
+```
+```
+Carbon dioxide and
+perfluorocarbons
+```
+```
+7608 – Aluminium tubes and pipes Carbon dioxide and
+perfluorocarbons
+```
+```
+7609 00 00– Aluminium tube or pipe fittings (for example, couplings, elbows,
+sleeves)
+```
+```
+Carbon dioxide and
+perfluorocarbons
+```
+```
+7610 – Aluminium structures (excluding prefabricated buildings of heading
+9406 ) and parts of structures (for example, bridges and bridge-sections, towers,
+lattice masts, roofs, roofing frameworks, doors and windows and their frames
+and thresholds for doors, balustrades, pillars and columns); aluminium plates,
+rods, profiles, tubes and the like, prepared for use in structures
+```
+```
+Carbon dioxide and
+perfluorocarbons
+```
+```
+7611 00 00– Aluminium reservoirs, tanks, vats and similar containers, for any
+material (other than compressed or liquefied gas), of a capacity exceeding 300
+litres, whether or not lined or heat-insulated, but not fitted with mechanical or
+thermal equipment
+```
+```
+Carbon dioxide and
+perfluorocarbons
+```
+L 130/92 EN Official Journal of the European Union 16.5.2023
+
+
+```
+CN code Greenhouse gas
+```
+```
+7612 – Aluminium casks, drums, cans, boxes and similar containers (including
+rigid or collapsible tubular containers), for any material (other than compressed
+or liquefied gas), of a capacity not exceeding 300 litres, whether or not lined or
+heat-insulated, but not fitted with mechanical or thermal equipment
+```
+```
+Carbon dioxide and
+perfluorocarbons
+```
+```
+7613 00 00– Aluminium containers for compressed or liquefied gas Carbon dioxide and
+perfluorocarbons
+```
+```
+7614 – Stranded wire, cables, plaited bands and the like, of aluminium, not
+electrically insulated
+```
+```
+Carbon dioxide and
+perfluorocarbons
+```
+```
+7616 – Other articles of aluminium Carbon dioxide and
+perfluorocarbons
+```
+```
+Chemicals
+```
+```
+CN code Greenhouse gas
+```
+```
+2804 10 00– Hydrogen Carbon dioxide
+```
+16.5.2023 EN Official Journal of the European Union L 130/93
+
+
+```
+ANNEX II
+List of goods for which only direct emissions are to be taken into account, pursuant to Article 7(1)
+```
+```
+Iron and steel
+```
+```
+CN code Greenhouse gas
+```
+```
+72 – Iron and steel
+Except:
+7202 2 – Ferro-silicon
+7202 30 00– Ferro-silico-manganese
+7202 50 00– Ferro-silico-chromium
+7202 70 00– Ferro-molybdenum
+7202 80 00– Ferro-tungsten and ferro-silico-tungsten
+7202 91 00– Ferro-titanium and ferro-silico-titanium
+7202 92 00– Ferro-vanadium
+7202 93 00– Ferro-niobium
+7202 99– Other:
+7202 99 10– Ferro-phosphorus
+7202 99 30– Ferro-silico-magnesium
+7202 99 80– Other
+7204 – Ferrous waste and scrap; remelting scrap ingots and steel
+```
+```
+Carbon dioxide
+```
+```
+7301 – Sheet piling of iron or steel, whether or not drilled, punched or made from
+assembled elements; welded angles, shapes and sections, of iron or steel
+```
+```
+Carbon dioxide
+```
+```
+7302 – Railway or tramway track construction material of iron or steel, the fol-
+lowing: rails, check-rails and rack rails, switch blades, crossing frogs, point rods and
+other crossing pieces, sleepers (cross-ties), fish- plates, chairs, chair wedges, sole
+plates (base plates), rail clips, bedplates, ties and other material specialised for
+jointing or fixing rails
+```
+```
+Carbon dioxide
+```
+```
+7303 00– Tubes, pipes and hollow profiles, of cast iron Carbon dioxide
+```
+```
+7304 – Tubes, pipes and hollow profiles, seamless, of iron (other than cast iron) or
+steel
+```
+```
+Carbon dioxide
+```
+```
+7305 – Other tubes and pipes (for example, welded, riveted or similarly closed),
+having circular cross-sections, the external diameter of which exceeds 406,4 mm, of
+iron or steel
+```
+```
+Carbon dioxide
+```
+```
+7306 – Other tubes, pipes and hollow profiles (for example, open seam or welded,
+riveted or similarly closed), of iron or steel
+```
+```
+Carbon dioxide
+```
+```
+7307 – Tube or pipe fittings (for example, couplings, elbows, sleeves), of iron or
+steel
+```
+```
+Carbon dioxide
+```
+```
+7308 – Structures (excluding prefabricated buildings of heading 9406 ) and parts of
+structures (for example, bridges and bridge-sections, lock- gates, towers, lattice
+masts, roofs, roofing frameworks, doors and windows and their frames and
+thresholds for doors, shutters, balustrades, pillars and columns), of iron or steel;
+plates, rods, angles, shapes, sections, tubes and the like, prepared for use in struc-
+tures, of iron or steel
+```
+```
+Carbon dioxide
+```
+L 130/94 EN Official Journal of the European Union 16.5.2023
+
+
+```
+CN code Greenhouse gas
+```
+```
+7309 00– Reservoirs, tanks, vats and similar containers for any material (other
+than compressed or liquefied gas), of iron or steel, of a capacity exceeding 300 l,
+whether or not lined or heat-insulated, but not fitted with mechanical or thermal
+equipment
+```
+```
+Carbon dioxide
+```
+```
+7310 – Tanks, casks, drums, cans, boxes and similar containers, for any material
+(other than compressed or liquefied gas), of iron or steel, of a capacity not exceeding
+300 l, whether or not lined or heat-insulated, but not fitted with mechanical or
+thermal equipment
+```
+```
+Carbon dioxide
+```
+```
+7311 00– Containers for compressed or liquefied gas, of iron or steel Carbon dioxide
+```
+```
+7318 – Screws, bolts, nuts, coach screws, screw hooks, rivets, cotters, cotter pins,
+washers (including spring washers) and similar articles, of iron or steel
+```
+```
+Carbon dioxide
+```
+```
+7326 – Other articles of iron or steel Carbon dioxide
+```
+```
+Aluminium
+```
+```
+CN code Greenhouse gas
+```
+```
+7601 – Unwrought aluminium Carbon dioxide and perfluorocarbons
+```
+```
+7603 – Aluminium powders and flakes Carbon dioxide and perfluorocarbons
+```
+```
+7604 – Aluminium bars, rods and profiles Carbon dioxide and perfluorocarbons
+```
+```
+7605 – Aluminium wire Carbon dioxide and perfluorocarbons
+```
+```
+7606 – Aluminium plates, sheets and strip, of a thickness exceeding 0,2 mm Carbon dioxide and perfluorocarbons
+```
+```
+7607 – Aluminium foil (whether or not printed or backed with paper, paper-board,
+plastics or similar backing materials) of a thickness (excluding any backing) not
+exceeding 0,2 mm
+```
+```
+Carbon dioxide and perfluorocarbons
+```
+```
+7608 – Aluminium tubes and pipes Carbon dioxide and perfluorocarbons
+```
+```
+7609 00 00– Aluminium tube or pipe fittings (for example, couplings, elbows,
+sleeves)
+```
+```
+Carbon dioxide and perfluorocarbons
+```
+```
+7610 – Aluminium structures (excluding prefabricated buildings of heading 9406 )
+and parts of structures (for example, bridges and bridge-sections, towers, lattice
+masts, roofs, roofing frameworks, doors and windows and their frames and
+thresholds for doors, balustrades, pillars and columns); aluminium plates, rods,
+profiles, tubes and the like, prepared for use in structures
+```
+```
+Carbon dioxide and perfluorocarbons
+```
+```
+7611 00 00– Aluminium reservoirs, tanks, vats and similar containers, for any
+material (other than compressed or liquefied gas), of a capacity exceeding 300 litres,
+whether or not lined or heat-insulated, but not fitted with mechanical or thermal
+equipment
+```
+```
+Carbon dioxide and perfluorocarbons
+```
+16.5.2023 EN Official Journal of the European Union L 130/95
+
+
+```
+CN code Greenhouse gas
+```
+```
+7612 – Aluminium casks, drums, cans, boxes and similar containers (including
+rigid or collapsible tubular containers), for any material (other than compressed or
+liquefied gas), of a capacity not exceeding 300 litres, whether or not lined or heat-
+insulated, but not fitted with mechanical or thermal equipment
+```
+```
+Carbon dioxide and perfluorocarbons
+```
+```
+7613 00 00– Aluminium containers for compressed or liquefied gas Carbon dioxide and perfluorocarbons
+```
+```
+7614 – Stranded wire, cables, plaited bands and the like, of aluminium, not electri-
+cally insulated
+```
+```
+Carbon dioxide and perfluorocarbons
+```
+```
+7616 – Other articles of aluminium Carbon dioxide and perfluorocarbons
+```
+```
+Chemicals
+```
+```
+CN code Greenhouse gas
+```
+```
+2804 10 00– Hydrogen Carbon dioxide
+```
+L 130/96 EN Official Journal of the European Union 16.5.2023
+
+
+```
+ANNEX III
+```
+```
+Third countries and territories outside the scope of this Regulation for the purpose of Article 2
+```
+## 1. THIRD COUNTRIES AND TERRITORIES OUTSIDE THE SCOPE OF THIS REGULATION
+
+```
+This Regulation shall not apply to goods originating in the following countries:
+— Iceland
+— Liechtenstein
+— Norway
+— Switzerland
+This Regulation shall not apply to goods originating in the following territories:
+— Büsingen
+— Heligoland
+— Livigno
+— Ceuta
+— Melilla
+```
+## 2. THIRD COUNTRIES AND TERRITORIES OUTSIDE THE SCOPE OF THIS REGULATION WITH REGARD TO THE
+
+## IMPORTATION OF ELECTRICITY INTO THE CUSTOMS TERRITORY OF THE UNION
+
+```
+[Third countries or territories to be added or removed by the Commission pursuant to Article 2(11).]
+```
+16.5.2023 EN Official Journal of the European Union L 130/97
+
+
+```
+ANNEX IV
+```
+```
+Methods for calculating embedded emissions for the purpose of Article 7
+```
+## 1. DEFINITIONS
+
+```
+For the purposes of this Annex and of Annexes V and VI, the following definitions apply:
+```
+```
+(a) ‘simple goods’ means goods produced in a production process requiring exclusively input materials (precursors)
+and fuels having zero embedded emissions;
+```
+```
+(b) ‘complex goods’ means goods other than simple goods;
+```
+```
+(c) ‘specific embedded emissions’ means the embedded emissions of one tonne of goods, expressed as tonnes of
+CO 2 e emissions per tonne of goods;
+```
+```
+(d) ‘CO 2 emission factor’, means the weighted average of the CO 2 intensity of electricity produced from fossil fuels
+within a geographic area; the CO 2 emission factor is the result of the division of the CO 2 emission data of the
+electricity sector by the gross electricity generation based on fossil fuels in the relevant geographic area; it is
+expressed in tonnes of CO 2 per megawatt-hour;
+```
+```
+(e) ‘emission factor for electricity’ means the default value, expressed in CO 2 e, representing the emission intensity of
+electricity consumed in production of goods;
+```
+```
+(f) ‘power purchase agreement’ means a contract under which a person agrees to purchase electricity directly from
+an electricity producer;
+```
+```
+(g) ‘transmission system operator’ means an operator as defined in Article 2, point (35), of Directive (EU) 2019/944
+of the European Parliament and of the Council(^1 ).
+```
+## 2. DETERMINATION OF ACTUAL SPECIFIC EMBEDDED EMISSIONS FOR SIMPLE GOODS
+
+```
+For determining the specific actual embedded emissions of simple goods produced in a given installation, direct and,
+where applicable, indirect emissions shall be accounted for. For that purpose, the following equation is to be applied:
+```
+```
+SEEg¼
+```
+```
+AttrEmg
+ALg
+```
+```
+Where:
+```
+```
+SEEg are the specific embedded emissions of goods g, in terms of CO 2 e per tonne;
+AttrEmg are the attributed emissions of goods g, and
+```
+```
+ALg is the activity level of the goods, being the quantity of the goods produced in the reporting period
+in that installation.
+```
+```
+‘Attributed emissions’ mean the part of the installation’s emissions during the reporting period that are caused by
+the production process resulting in goods g when applying the system boundaries of the production process
+defined by the implementing acts adopted pursuant to Article 7(7). The attributed emissions shall be calculated
+using the following equation:
+```
+```
+AttrEmg¼DirEmþIndirEm
+```
+```
+Where:
+```
+```
+DirEm are the direct emissions, resulting from the production process, expressed in tonnes of CO 2 e,
+within the system boundaries referred to in the implementing act adopted pursuant to
+Article 7(7), and
+```
+```
+(^1 ) Directive (EU) 2019/944 of the European Parliament and of the Council of 5 June 2019 on common rules for the internal market for
+electricity and amending Directive 2012/27/EU (OJ L 158, 14.6.2019, p. 125).
+```
+L 130/98 EN Official Journal of the European Union 16.5.2023
+
+
+```
+IndirEm are the indirect emissions resulting from the production of electricity consumed in the production
+processes of goods, expressed in tonnes of CO 2 e, within the system boundaries referred to in the
+implementing act adopted pursuant to Article 7(7).
+```
+## 3. DETERMINATION OF ACTUAL EMBEDDED EMISSIONS FOR COMPLEX GOODS
+
+```
+For determining the specific actual embedded emissions of complex goods produced in a given installation, the
+following equation is to be applied:
+```
+```
+SEEg¼
+```
+```
+AttrEmgþEEInpMat
+ALg
+```
+```
+Where:
+```
+```
+AttrEmg are the attributed emissions of goods g;
+ALg is the activity level of the goods, being the quantity of goods produced in the reporting period in
+that installation, and
+EEInpMat are the embedded emissions of the input materials (precursors) consumed in the production
+process. Only input materials (precursors) listed as relevant to the system boundaries of the
+production process as specified in the implementing act adopted pursuant to Article 7(7) are to
+be considered. The relevant EEInpMat are calculated as follows:
+```
+# EEImpMat¼∑
+
+```
+n
+```
+```
+i¼ 1
+```
+```
+Mi·SEEi
+```
+```
+Where:
+```
+```
+Mi is the mass of input material (precursor) i used in the production process, and
+SEEi are the specific embedded emissions for the input material (precursor) i. For SEEi the operator of
+the installation shall use the value of emissions resulting from the installation where the input
+material (precursor) was produced, provided that that installation’s data can be adequately
+measured.
+```
+## 4. DETERMINATION OF DEFAULT VALUES REFERRED TO IN ARTICLE 7(2) AND (3)
+
+```
+For the purpose of determining default values, only actual values shall be used for the determination of embedded
+emissions. In the absence of actual data, literature values may be used. The Commission shall publish guidance for
+the approach taken to correct for waste gases or greenhouse gases used as process input, before collecting the data
+required to determine the relevant default values for each type of goods listed in Annex I. Default values shall be
+determined based on the best available data. Best available data shall be based on reliable and publicly available
+information. Default values shall be revised periodically through the implementing acts adopted pursuant to
+Article 7(7) based on the most up-to-date and reliable information, including on the basis of information provided
+by a third country or group of third countries.
+```
+```
+4.1. Default values referred to in Article 7(2)
+```
+```
+When actual emissions cannot be adequately determined by the authorised CBAM declarant, default values shall be
+used. Those values shall be set at the average emission intensity of each exporting country and for each of the goods
+listed in Annex I other than electricity, increased by a proportionately designed mark-up. This mark-up shall be
+determined in the implementing acts adopted pursuant to Article 7(7) and shall be set at an appropriate level to
+ensure the environmental integrity of the CBAM, building on the most up-to-date and reliable information,
+including on the basis of information gathered during the transitional period. When reliable data for the exporting
+country cannot be applied for a type of goods, the default values shall be based on the average emission intensity of
+the X % worst performing EU ETS installations for that type of goods. The value of X shall be determined in the
+implementing acts adopted pursuant to Article 7(7) and shall be set at an appropriate level to ensure the
+environmental integrity of the CBAM, building on the most up-to-date and reliable information, including on the
+basis of information gathered during the transitional period.
+```
+16.5.2023 EN Official Journal of the European Union L 130/99
+
+
+```
+4.2. Default values for imported electricity referred to in Article 7(3)
+```
+```
+Default values for imported electricity shall be determined for a third country, group of third countries or region
+within a third country based on either specific default values, in accordance with point 4.2.1, or, if those values are
+not available, on alternative default values, in accordance with point 4.2.2.
+```
+```
+Where the electricity is produced in a third country, group of third countries or region within a third country, and
+transits through third countries, groups of third countries, regions within a third country or Member States with
+the purpose of being imported into the Union, the default values to be used are those from the third country, group
+of third countries or region within a third country where the electricity was produced.
+```
+```
+4.2.1.Specific default values for a third country, group of third countries or region within a third country
+```
+```
+Specific default values shall be set at the CO 2 emission factor in the third country, group of third countries or region
+within a third country, based on the best data available to the Commission.
+```
+```
+4.2.2.Alternative default values
+```
+```
+Where a specific default value is not available for a third country, a group of third countries, or a region within a
+third country, the alternative default value for electricity shall be set at the CO 2 emission factor in the Union.
+```
+```
+Where it can be demonstrated, on the basis of reliable data, that the CO 2 emission factor in a third country, a group
+of third countries or a region within a third country is lower than the specific default value determined by the
+Commission or lower than the CO 2 emission factor in the Union, an alternative default value based on that CO 2
+emission factor may be used for that third country, group of third countries or region within a third country.
+```
+```
+4.3 Default values for embedded indirect emissions
+```
+```
+Default values for the indirect emissions embedded in a good produced in a third country shall be determined on a
+default value calculated on the average, of either the emission factor of the Union electricity grid, the emission factor
+of the country of origin electricity grid or the CO 2 emission factor of price-setting sources in the country of origin,
+of the electricity used for the production of that good.
+```
+```
+Where a third country, or a group of third countries, demonstrates to the Commission, on the basis of reliable data,
+that the average electricity mix emission factor or CO 2 emission factor of price-setting sources in the third country
+or group of third countries is lower than the default value for indirect emissions, an alternative default value based
+on that average CO 2 emission factor shall be established for this country or group of countries.
+```
+```
+The Commission shall adopt, no later than 30 June 2025, an implementing act pursuant to Article 7(7) to further
+specify which of the calculation methods determined in accordance with the first subparagraph shall apply to the
+calculation of default values. For that purpose, the Commission shall base itself on the most up-to-date and reliable
+data, including on data gathered during the transitional period, as regards the quantity of electricity used for the
+production of the goods listed in Annex I, as well as the country of origin, generation source and emission factors
+related to that electricity. The specific calculation method shall be determined on the basis of the most appropriate
+way to achieve both of the following criteria:
+```
+```
+— the prevention of carbon leakage;
+```
+```
+— ensuring the environmental integrity of the CBAM.
+```
+## 5. CONDITIONS FOR APPLYING ACTUAL EMBEDDED EMISSIONS IN IMPORTED ELECTRICITY
+
+```
+An authorised CBAM declarant may apply actual embedded emissions instead of default values for the calculation
+referred to in Article 7(3) if the following cumulative criteria are met:
+```
+L 130/100 EN Official Journal of the European Union 16.5.2023
+
+
+```
+(a) the amount of electricity for which the use of actual embedded emissions is claimed is covered by a power
+purchase agreement between the authorised CBAM declarant and a producer of electricity located in a third
+country;
+(b) the installation producing electricity is either directly connected to the Union transmission system or it can be
+demonstrated that at the time of export there was no physical network congestion at any point in the network
+between the installation and the Union transmission system;
+(c) the installation producing electricity does not emit more than 550 grammes of CO 2 of fossil fuel origin per
+kilowatt-hour of electricity;
+(d) the amount of electricity for which the use of actual embedded emissions is claimed has been firmly nominated
+to the allocated interconnection capacity by all responsible transmission system operators in the country of
+origin, the country of destination and, if relevant, each country of transit, and the nominated capacity and the
+production of electricity by the installation refer to the same period of time, which shall not be longer than one
+hour;
+(e) the fulfilment of the above criteria is certified by an accredited verifier, who shall receive at least monthly
+interim reports demonstrating how those criteria are fulfilled.
+The accumulated amount of electricity under the power purchase agreement and its corresponding actual embedded
+emissions shall be excluded from the calculation of the country emission factor or the CO 2 emission factor used for
+the purpose of the calculation of indirect electricity embedded emissions in goods in accordance with point 4.3,
+respectively.
+```
+## 6. CONDITIONS TO APPLYING ACTUAL EMBEDDED EMISSIONS FOR INDIRECT EMISSIONS
+
+```
+An authorised CBAM declarant may apply actual embedded emissions instead of default values for the calculation
+referred to in Article 7(4) if it can demonstrate a direct technical link between the installation in which the
+imported good is produced and the electricity generation source or if the operator of that installation has
+concluded a power purchase agreement with a producer of electricity located in a third country for an amount of
+electricity that is equivalent to the amount for which the use of a specific value is claimed.
+```
+## 7. ADAPTATION OF DEFAULT VALUES REFERRED TO IN ARTICLE 7(2) BASED ON REGION-SPECIFIC FEATURES
+
+```
+Default values can be adapted to particular areas and regions within third countries where specific characteristics
+prevail in terms of objective emission factors. When data adapted to those specific local characteristics are available
+and more targeted default values can be determined, the latter may be used.
+Where declarants for goods originating in a third country, a group of third countries or a region within a third
+country can demonstrate, on the basis of reliable data, that alternative region-specific adaptations of default values
+are lower than the default values determined by the Commission, such region-specific adaptations can be used.
+```
+16.5.2023 EN Official Journal of the European Union L 130/101
+
+
+```
+ANNEX V
+```
+```
+Bookkeeping requirements for information used for the calculation of embedded emissions for the
+purpose of Article 7(5)
+```
+## 1. MINIMUM DATA TO BE KEPT BY AN AUTHORISED CBAM DECLARANT FOR IMPORTED GOODS:
+
+1. Data identifying the authorised CBAM declarant:
+    (a) name;
+    (b)CBAM account number.
+2. Data on imported goods:
+    (a) type and quantity of each type of goods;
+    (b)country of origin;
+    (c) actual emissions or default values.
+
+## 2. MINIMUM DATA TO BE KEPT BY AN AUTHORISED CBAM DECLARANT FOR EMBEDDED EMISSIONS IN
+
+## IMPORTED GOODS THAT ARE DETERMINED BASED ON ACTUAL EMISSIONS
+
+```
+For each type of imported goods where embedded emissions are determined based on actual emissions, the following
+additional data shall be kept:
+(a) identification of the installation where the goods were produced;
+(b)contact information of the operator of the installation where the goods were produced;
+(c) the verification reports as set out in Annex VI;
+(d)the specific embedded emissions of the goods.
+```
+L 130/102 EN Official Journal of the European Union 16.5.2023
+
+
+```
+ANNEX VI
+```
+```
+Verification principles and content of verification reports for the purpose of Article 8
+```
+## 1. PRINCIPLES OF VERIFICATION
+
+```
+The following principles shall apply:
+```
+```
+(a) verifiers shall carry out verifications with an attitude of professional scepticism;
+```
+```
+(b)the total embedded emissions to be declared in the CBAM declaration shall be considered as verified only if the
+verifier finds with reasonable assurance that the verification report is free of material misstatements and of material
+non-conformities regarding the calculation of embedded emissions in accordance with the rules of Annex IV;
+```
+```
+(c) installation visits by the verifier shall be mandatory except where specific criteria for waiving the installation visit
+are met;
+```
+```
+(d)for deciding whether misstatements or non-conformities are material, the verifier shall use thresholds given by the
+implementing acts adopted in accordance with Article 8(3).
+```
+```
+For parameters for which no such thresholds are determined, the verifier shall use expert judgement as to whether
+misstatements or non-conformities, individually or when aggregated with other misstatements or non-
+conformities, justified by their size and nature, are to be considered material.
+```
+## 2. CONTENT OF A VERIFICATION REPORT
+
+```
+The verifier shall prepare a verification report establishing the embedded emissions of the goods and specifying all
+issues relevant to the work carried out and including, at least, the following information:
+```
+```
+(a) identification of the installations where the goods were produced;
+```
+```
+(b) contact information of the operator of the installations where the goods were produced;
+```
+```
+(c) the applicable reporting period;
+```
+```
+(d) name and contact information of the verifier;
+```
+```
+(e) accreditation number of the verifier, and name of the accreditation body;
+```
+```
+(f) the date of the installations visits, if applicable, or the reasons for not carrying out an installation visit;
+```
+```
+(g) quantities of each type of declared goods produced in the reporting period;
+```
+```
+(h) quantification of direct emissions of the installation during the reporting period;
+```
+```
+(i) a description on how the installation’s emissions are attributed to different types of goods;
+```
+```
+(j) quantitative information on the goods, emissions and energy flows not associated with those goods;
+```
+```
+(k) in case of complex goods:
+```
+```
+(i) quantities of each input material (precursor) used;
+```
+```
+(ii) the specific embedded emissions associated with each of the input materials (precursors) used;
+```
+```
+(iii) if actual emissions are used: the identification of the installations where the input material (precursor) has been
+produced and the actual emissions from the production of that material;
+```
+16.5.2023 EN Official Journal of the European Union L 130/103
+
+
+```
+(l) the verifier’s statement confirming that he or she finds with reasonable assurance that the report is free of material
+misstatements and of material non-conformities regarding the calculation rules of Annex IV;
+(m)information on material misstatements found and corrected;
+(n) information of material non-conformities with calculation rules set out in Annex IV found and corrected.
+```
+L 130/104 EN Official Journal of the European Union 16.5.2023
+
+

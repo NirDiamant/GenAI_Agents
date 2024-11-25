@@ -1,0 +1,358 @@
+```
+COMMISSION DELEGATED REGULATION (EU) No 666/
+```
+```
+of 12 March 2014
+establishing substantive requirements for a Union inventory system and taking into account
+changes in the global warming potentials and internationally agreed inventory guidelines pursuant
+to Regulation (EU) No 525/2013 of the European Parliament and of the Council
+```
+```
+(Text with EEA relevance)
+```
+```
+THE EUROPEAN COMMISSION,
+```
+```
+Having regard to the Treaty on the Functioning of the European Union,
+```
+```
+Having regard to Regulation (EU) No 525/2013 of the European Parliament and of the Council of 21 May 2013 on a
+mechanism for monitoring and reporting greenhouse gas emissions and for reporting other information at national and
+Union level relevant to climate change and repealing Decision No 280/2004/EC (^1 ), and in particular Article 6(2) and
+Article 7(6)(b) thereof,
+```
+```
+Whereas:
+```
+```
+(1) The mechanism for monitoring and reporting greenhouse gas emissions is necessary to enable the assessment of
+the actual progress towards meeting the Union's and the Member States' commitments relating to the limitation
+or reduction of all greenhouse gas emissions under the United Nations Framework Convention on Climate
+Change (UNFCCC) approved by Council Decision 94/69/EC (^2 ), its Kyoto Protocol approved by Council Decision
+2002/358/EC (^3 ) and the set of Union legal acts, adopted in 2009, collectively referred to as the ‘Climate and
+Energy Package’.
+```
+```
+(2) Decision 19/CMP.1 of the Conference of the Parties to the UNFCCC serving as the meeting of the Parties to the
+Kyoto Protocol lays down the guidelines for national systems the Parties should apply. The rules on the Union
+inventory system should therefore be specified in order to fulfil the obligations pursuant to that Decision,
+ensuring the timeliness, transparency, accuracy, consistency, comparability and completeness of reporting of
+greenhouse gas emissions to the UNFCCC Secretariat.
+```
+```
+(3) To ensure the quality of the Union inventory system, it is necessary to establish further rules on the Union green­
+house gas inventory quality assurance and quality control programme.
+```
+```
+(4) In order to ensure completeness of the Union's inventory in accordance with the guidelines for preparing the
+national greenhouse gas inventories it is necessary to provide for the methodologies and the data to be used by
+the Commission when, in consultation and close cooperation with the Member State concerned, preparing esti­
+mates for data missing from a Member State inventory pursuant to Article 9(2) of Regulation (EU) No 525/2013.
+```
+```
+(5) In order to ensure the timely and effective implementation of Union's obligations under the Kyoto Protocol of the
+UNFCCC it is necessary to set the timescales for cooperation and coordination during the annual reporting
+process and the UNFCCC review between Member States and the Union.
+```
+```
+(6) Account should be taken of changes in the global warming potential values and internationally agreed guidelines
+for national inventories of anthropogenic emissions by sources and removals by sinks in accordance with relevant
+decisions adopted by the bodies of the UNFCCC and the Kyoto Protocol.
+```
+```
+(7) In order to ensure consistency with the implementation of monitoring and reporting requirements under the
+UNFCCC and the Kyoto Protocol, this Regulation should apply from 1 January 2015,
+```
+L 179/26 EN Official Journal of the European Union 19.6.
+
+```
+(^1 ) OJ L 165, 18.6.2013, p. 13.
+(^2 ) Council Decision 94/69/EC of 15 December 1993 concerning the conclusion of the United Nations Framework Convention on Climate
+Change (OJ L 33, 7.2.1994, p. 11).
+(^3 ) Council Decision 2002/358/EC of 25 April 2002 concerning the approval, on behalf of the European Community, of the Kyoto Protocol
+to the United Nations Framework Convention on Climate Change and the joint fulfilment of commitments thereunder (OJ L 130,
+15.5.2002, p. 1).
+```
+
+```
+HAS ADOPTED THIS REGULATION:
+```
+```
+Article 1
+```
+```
+Subject matter
+```
+1. The Union greenhouse gas inventory is the sum of Member States' greenhouse gas emissions from sources and
+removals by sinks for the territory of the European Union in accordance with Article 52 of the Treaty on European
+Union and is established on the basis of the Member States' greenhouse gas inventories, as reported pursuant to Article 7
+of Regulation (EU) No 525/2013, for the complete time series of inventory years.
+2. This Regulation lays down rules on the requirements for a Union inventory system, further specifying rules on the
+preparation and administration of the Union greenhouse gas inventory including rules on cooperation with the Member
+States during the annual reporting process and the United Nations Framework Convention on Climate Change
+(UNFCCC) inventory review.
+3. This Regulation also lays down rules with regard to the global warming potential values and the internationally
+agreed inventory guidelines to be used by the Member States and the Commission in the determination and reporting of
+the greenhouse gas inventory.
+
+```
+Article 2
+```
+```
+Union greenhouse gas inventory
+```
+1. In preparing and administering the Union greenhouse gas inventory, the Commission shall strive to ensure:
+
+```
+(a) the completeness of the Union greenhouse gas inventory by applying the procedure set out in Article 9(2) of Regu­
+lation (EU) No 525/2013;
+```
+```
+(b) that the Union greenhouse gas inventory provides a transparent aggregation of Member States' greenhouse gas emis­
+sions and removals by sinks and reflects in a transparent manner the contribution of Member States' emissions and
+removals by sinks to the Union greenhouse gas inventory;
+```
+```
+(c) that the total of the Union's greenhouse gas emissions and removals by sinks for a reporting year is equal to the
+sum of Member States' greenhouse gas emissions and removals by sinks reported pursuant to paragraphs 1 to 5 of
+Article 7 of Regulation (EU) No 525/2013 for that same year;
+```
+```
+(d) that the Union greenhouse gas inventory includes a consistent time series of emissions and removals by sinks for all
+reported years.
+```
+2. The Commission and the Member States shall strive to increase the comparability of Member States' greenhouse
+gas inventories.
+
+```
+Article 3
+```
+```
+Union greenhouse gas inventory quality assurance and quality control programme
+```
+1. The Union quality assurance and quality control programme referred to in Article 6(1)(a) of Regulation (EU)
+No 525/2013 shall complement the quality assurance and quality control programmes implemented by the Member
+States.
+2. Member States shall ensure the quality of activity data, emission factors and other parameters used for their
+national greenhouse gas inventory including by applying Articles 6 and 7.
+3. Member States shall provide to the Commission and to the European Environment Agency all relevant information
+from their archives set up and managed in accordance with paragraph 16(a) of Annex to Decision 19/CMP.1 of the
+Conference of the Parties to the UNFCCC serving as the meeting of the Parties to the Kyoto Protocol, if required during
+the UNFCCC review of the Union greenhouse gas inventory.
+
+19.6.2014 EN Official Journal of the European Union L 179/
+
+
+```
+Article 4
+```
+```
+Gap filling
+```
+1. The Commission estimates for data missing from a Member State's greenhouse gas inventory as referred to in
+Article 9(2) of Regulation (EU) No 525/2013 shall be based on the following methodologies and data:
+
+```
+(a) where a Member State has submitted in the previous reporting year a consistent time series of estimates for the rele­
+vant source category that has not been subject to adjustments under Article 5(2) of the Kyoto Protocol and any of
+the following occurs:
+```
+```
+(i) that Member State has submitted an approximated greenhouse gas inventory for the year X – 1 pursuant to
+Article 8(1) of Regulation (EU) No 525/2013 that includes the missing estimate, on the data from that approxi­
+mated greenhouse gas inventory;
+```
+```
+(ii) that Member State has not submitted an approximated greenhouse gas inventory for the year X – 1 under
+Article 8(1) of Regulation (EU) No 525/2013, but the Union has estimated approximated greenhouse gas emis­
+sions for the year X – 1 for the Member States in accordance with Article 8(1) of Regulation (EU)
+No 525/2013, on the data from that Union approximated greenhouse gas inventory;
+```
+```
+(iii) the use of the data from the approximated greenhouse gas inventory is not possible or may lead to a highly
+inaccurate estimation, for missing estimates in the energy sector, on the data obtained in accordance with Regu­
+lation (EC) No 1099/2008 of the European Parliament and of the Council (^1 );
+```
+```
+(iv) the use of the data from the approximated greenhouse gas inventory is not possible or may lead to a highly
+inaccurate estimation, for missing estimates in non-energy sectors, on estimation based on the technical
+guidance on methodologies for adjustments under Article 5(2) of the Kyoto Protocol without application of the
+conservativeness factor defined in that guidance.
+```
+```
+(b) where an estimate for the relevant source category was subject to adjustments under Article 5(2) of the Kyoto
+Protocol in previous years and the Member State concerned has not submitted a revised estimate, on the basic adjust­
+ment method used by the expert review team as set out in the technical guidance on methodologies for adjustments
+under Article 5(2) of the Kyoto Protocol without application of the conservativeness factor defined in that guidance;
+```
+```
+(c) where an estimate for the relevant category was subject to technical corrections under point (c) of Article 19(3) of
+Regulation (EU) No 525/2013 in previous years and the Member State concerned has not submitted a revised esti­
+mate, on the method used by the technical expert review team to calculate the technical correction;
+```
+```
+(d) where a consistent time series of reported estimates for the relevant source category is not available and the estimate
+of the source category has not been subject to adjustments under Article 5(2) of the Kyoto Protocol, on the technical
+guidance for adjustments, without application of the conservativeness factor defined in that guidance.
+```
+2. The Commission shall prepare the estimates referred to in paragraph 1 by 31 March of the reporting year in
+consultation with the Member State concerned.
+3. The Member State concerned shall use the estimates referred to in paragraph 1 for its national submission to the
+UNFCCC Secretariat of 15 April to ensure consistency between the Union greenhouse gas inventory and the Member
+States' greenhouse gas inventories.
+
+```
+Article 5
+```
+```
+Timescales for cooperation and coordination during the annual reporting process and the UNFCCC review
+```
+1. When a Member State intends to re-submit its inventory to the UNFCCC Secretariat by 27 May, that Member State
+shall report the same inventory in advance to the Commission by 8 May. The information as reported to the Commis­
+sion shall not differ from the submission to the UNFCCC Secretariat.
+
+L 179/28 EN Official Journal of the European Union 19.6.
+
+```
+(^1 ) Regulation (EC) No 1099/2008 of the European Parliament and of the Council of 22 October 2008 on energy statistics (OJ L 304,
+14.11.2008, p. 1).
+```
+
+2. When a Member State intends to make any other re-submission of its inventory to the UNFCCC Secretariat after
+27 May that contains information different from that already reported to the Commission, that Member State shall
+report such information to the Commission no later than within one week of re-submitting it to the UNFCCC Secre­
+tariat.
+3. A Member State shall report the following information to the Commission:
+
+```
+(a) indications from an expert review team of any potential problem with the Member State's greenhouse gas inventory
+related to requirements of a mandatory nature and which could lead to an adjustment or a potential question of
+implementation (the ‘Saturday paper’), within one week of receiving the information from the UNFCCC Secretariat;
+```
+```
+(b) corrections to the estimates of greenhouse gas emissions applied in agreement between the Member State and the
+expert review team to the greenhouse gas inventory submission concerned during the review process as contained in
+the response to the indications referred to under point (a), within one week of submitting it to the UNFCCC Secre­
+tariat;
+```
+```
+(c) the draft individual inventory review report that contains the adjusted estimates of greenhouse gas emissions or a
+question of implementation where the Member State has not resolved the problem raised by the expert review team,
+within one week of receiving that report from the UNFCCC Secretariat;
+```
+```
+(d) the response by the Member State to the draft individual inventory review report in case where a proposed adjust­
+ment is not accepted accompanied by a summary in which the Member State indicates whether it accepts or rejects
+any of the proposed adjustments, within one week of submitting the response to the UNFCCC Secretariat;
+```
+```
+(e) the final individual inventory review report, within one week of receiving it from the UNFCCC Secretariat;
+```
+```
+(f) any question of implementation that has been submitted to the Compliance Committee of the Kyoto Protocol, the
+notification by the Compliance Committee to proceed with a question of implementation, and all preliminary find­
+ings and decisions of the Compliance Committee and its branches concerning the Member State, within one week of
+receiving it from the UNFCCC Secretariat.
+```
+4. The services of the Commission shall provide a summary of the information referred to in paragraph 3 to all
+Member States.
+5. The services of the Commission shall provide the Member States with the information referred to in paragraph 3
+applying that paragraph _mutatis mutandis_ to the Union greenhouse gas inventory.
+6. Any corrections referred to in point (b) of paragraph 3 as regards the Union greenhouse gas inventory submission
+shall be made in cooperation with the relevant Member State.
+7. Where adjustments are applied to a Member State's greenhouse gas inventory under the compliance mechanism of
+the Kyoto Protocol, that Member State shall coordinate with the Commission its response to the review process in rela­
+tion to obligations under Regulation (EU) No 525/2013 within the following timeframes:
+
+```
+(a) within the timeframes provided under the Kyoto Protocol, if the adjusted estimates in a single year or the cumulative
+adjustments in subsequent years of the commitment period for one or more Member States would imply adjust­
+ments to the Union greenhouse gas inventory in a quantity leading to a failure to meet the methodological and
+reporting requirements under Article 7(1) of the Kyoto Protocol for the purpose of the eligibility requirements as set
+out in the guidelines adopted under Article 7 of the Kyoto Protocol;
+```
+```
+(b) within two weeks prior to the submission of:
+```
+```
+(i) a request for reinstatement of eligibility to the relevant bodies under the Kyoto Protocol;
+```
+```
+(ii) a response to a decision to proceed with a question of implementation or to preliminary findings of the Compli­
+ance Committee.
+```
+8. During the UNFCCC review week of the Union inventory, Member States shall provide as soon as possible answers
+relating to the issues under their responsibility pursuant to Article 4(2) and (3) of this Regulation to the questions raised
+by the UNFCCC reviewers.
+
+19.6.2014 EN Official Journal of the European Union L 179/
+
+
+```
+Article 6
+```
+```
+Greenhouse Gas Inventory Guidelines
+```
+```
+Member States and the Commission shall determine greenhouse gas inventories referred to in paragraphs 1 to 5 of
+Article 7 of Regulation (EU) No 525/2013 in accordance with:
+```
+```
+(a) the 2006 Intergovernmental Panel on Climate Change (IPCC) Guidelines for National Greenhouse Gas Inventories;
+```
+```
+(b) the IPCC 2013 Revised Supplementary Methods and Good Practice Guidance Arising from the Kyoto Protocol;
+```
+```
+(c) the 2013 Supplement to the 2006 IPCC Guidelines for National Greenhouse Gas inventories: Wetlands for wetland
+drainage and rewetting listed in Article 7(1)(d) of Regulation (EU) No 525/2013;
+```
+```
+(d) the UNFCCC guidelines for the preparation of national communications by Parties included in Annex I to the
+Convention, part I: UNFCCC reporting guidelines on annual inventories as set out in Decision 24/CP.19 of the
+Conference of the Parties to the UNFCCC;
+```
+```
+(e) the guidelines for the preparation of the information required under Article 7 of the Kyoto Protocol as adopted by
+Conference of the Parties to the UNFCCC serving as the meeting of the Parties to the Kyoto Protocol.
+```
+```
+Article 7
+```
+```
+Global Warming Potentials
+```
+```
+Member States and the Commission shall use the global warming potentials listed in Annex III to Decision 24/CP.19 of
+the Conference of the Parties to the UNFCCC for the purpose of determining and reporting greenhouse gas inventories
+pursuant to paragraphs 1 to 5 of Article 7 of Regulation (EU) No 525/2013 and the Union greenhouse gas inventory.
+```
+```
+Article 8
+```
+```
+Entry into force and application
+```
+```
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the
+European Union.
+```
+```
+It shall apply from 1 January 2015.
+```
+```
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+```
+```
+Done at Brussels, 12 March 2014.
+```
+```
+For the Commission,
+The President
+José Manuel BARROSO
+```
+L 179/30 EN Official Journal of the European Union 19.6.
+
+

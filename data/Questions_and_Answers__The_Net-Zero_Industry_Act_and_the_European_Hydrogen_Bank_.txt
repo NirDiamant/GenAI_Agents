@@ -1,0 +1,366 @@
+## European Commission - Questions and answers
+
+# Questions and Answers: The Net-Zero Industry Act and the European
+
+# Hydrogen Bank*
+
+## Brussels, 16 March 2023
+
+**1. What is the Net-Zero Industry Act and how does it relate to the EU's energy and climate
+goals?**
+
+The EU has committed to achieve climate neutrality, including net-zero greenhouse gas emissions,
+by 2050. This objective is at the heart of the European Green Deal and in line with the EU's
+commitment to global climate action under the Paris Agreement. The Net-Zero Industry Act (NZIA)
+aims to **scale up the manufacturing of technologies which are key to achieve climate-
+neutrality such as solar panels, batteries and electrolysers** , among others, or key components
+of such technologies, such as photovoltaic cells or the blades on wind turbines. The Act will simplify
+the regulatory framework for the manufacturing of these technologies and therefore help increase the
+competitiveness of the net-zero technology industry in Europe. It will also accelerate the capacity to
+store CO 2 emissions.
+
+The objective is to approach or reach, in aggregate, at least 40% of the annual deployment needs for
+strategic net-zero technologies manufactured in the EU by 2030. The EU is currently a net importer
+of several net-zero technologies and components. However, it has the potential and assets required
+to become an industrial leader in this market.
+
+Today's proposal for a Regulation represents one of the key initiatives announced in the Green Deal
+Industrial Plan to create a regulatory environment supporting the scale-up of the net-zero industry in
+the EU. It is accompanied by the European Critical Raw Materials Act, a Communication on the
+European Hydrogen Bank, and supported by the reform of the EU's Electricity Market Design
+proposed earlier this week.
+
+**2. What net-zero technologies does the Act address and how were they selected?**
+
+Net-zero technologies support the energy transition by guaranteeing extremely low, zero or negative
+greenhouse gas emissions while they operate. The Net-Zero Industry Act addresses the net zero
+technologies essential to our decarbonisation and competitiveness objectives. These technologies will
+have a significant contribution towards the path to net zero by 2050 and also play a key role in the
+Union's open strategic autonomy, ensuring that citizens have access to clean, affordable, secure
+energy.
+
+The Act supports in particular **8 strategic net zero technologies**. These are: i) solar photovoltaic
+and solar thermal technologies; ii) onshore wind and offshore renewable energy; iii) batteries and
+storage; iv) heat pumps and geothermal energy; v) electrolysers and fuel cells; vi)
+biogas/biomethane; vii) carbon capture and storage (CCS); and viii) grid technologies (which also
+include electric vehicles smart and fast charging).
+
+Other net zero technologies are also supported by the measures in the act, to a different degree,
+including sustainable alternative fuels technologies, advanced technologies to produce energy from
+nuclear processes with minimal waste from the fuel cycle, small modular reactors, and related best-
+in-class fuels.
+
+The **strategic net zero technologies** were selected based on the overall Net-Zero Industry Act
+objectives of scaling up the manufacturing capacity of net-zero technologies in the EU, particularly
+those that are commercially available and have a good potential for rapid scale-up.
+
+The focus on these technologies is intended to target actions to today's most strategic clean energy
+products and components for ensuring Europe's clean energy transition. These technologies will have
+a significant contribution towards the path to net zero by 2050 and also play a key role in the Union's
+open strategic autonomy, ensuring that citizens have access to clean, affordable, secure energy. The
+selection of such technologies has drawn upon three main criteria: the level of technology readiness,
+the contribution to decarbonisation and competitiveness and the security of supply risks.
+Technological readiness considers those technologies that are commercially available and have a
+
+
+good potential for rapid scale-up, using a classification developed by the International Energy
+Agency. The second criterion identifies those net-zero technologies that are projected to deliver a
+significant contribution to the EU's legal commitment to reduce net greenhouse gas emissions by at
+least 55% by 2030, relative to 1990 levels. Finally, the third criterion relates to the EU's heavy or
+growing dependence on imports as regards the manufacturing capacity of certain components or
+parts in the net-zero technology value chain, particularly in the case of dependencies on a single
+third country.
+
+**3. What are the main instruments proposed in the Net-Zero Industry Act?**
+
+The proposed regulation foresees a variety of actions and instruments to strengthen the
+competitiveness of Europe's net-zero technology manufacturing ecosystem, centred on:
+
+```
+Setting enabling conditions The Act sets up streamlined permitting processes for net-zero
+technology manufacturing projects as well as single points of contact in the Member States. It
+also introduces “Net-Zero Strategic Projects”, for the priority technologies listed in annex,
+which will benefit from even faster permitting procedures.
+Accelerating CO 2 capture and storage : The Act sets an EU objective of reaching 50 million
+tonnes of annual CO 2 storage capacity by 2030 and introduces requirements for the EU's oil
+and gas producers to contribute to this goal.
+Facilitating access to markets : The Act seeks to boost diversification for net zero
+technologies by introducing sustainability and resilience criteria in public procurement and
+auctions, as well as actions to support private demand.
+Enhancing skills : The Act will ensure the availability of skilled workforce for the clean energy
+transition by supporting the setting up of specialised European Academies. The Commission
+aims to work with Member States, industry, social partners and other stakeholders to design
+training courses to reskill and upskill workers.
+Fostering innovation : The Act proposes to set up regulatory sandboxes to test innovative
+net-zero technologies in a controlled way for a limited time period.
+Building Industrial Partnerships : To pave the way for the adoption of net-zero technologies
+globally, the Act foresees that the EU may collaborate with like-minded countries and engage
+in Net-Zero Industrial partnerships which will help to diversify trade and investments in net-
+zero technologies.
+```
+**4. How will permitting of net-zero technologies be simplified?**
+
+Currently, the unpredictability, complexity and, in certain cases, excessive length of national permit-
+granting processes undermine the planning and investment security needed for an effective
+development of net-zero technology manufacturing projects in the EU. To increase efficiency and
+transparency, the Net-Zero Industry Act will thus require Member States to set up **one-stop shops
+that act as single points of contact for project promoters**. These will facilitate and coordinate
+the entire permit-granting process and issue a comprehensive decision within the applicable time-
+limits.
+
+Crucially, the Net-Zero Industry Act introduces **time limits on the permit-granting processes for
+net-zero manufacturing projects** related to their size and status:
+
+```
+12 months for net-zero technology manufacturing projects with a yearly manufacturing
+capacity of less than 1 GW and 18 months for projects of more than 1 GW;
+9 months for net net-zero strategic projects with a yearly manufacturing capacity of less than
+1 GW and 12 months for projects of more than 1 GW.
+```
+To further reduce red tape, the Net-Zero Industry Act ensures that permitting procedures will be
+fully online and that the relevant evidence needed to complete these procedures could be exchanged
+directly between competent administrations through the technical system established in the context
+of the Single Digital Gateway.
+
+Under the proposal, the environmental assessments and authorisations required under EU law that
+are an essential safeguard against negative environmental impacts will remain an integral part of the
+permit-granting procedure for net-zero technology manufacturing projects. The Net-Zero Industry
+Act seeks to streamline procedures by requiring Member States to consider existing environmental
+studies and bundle assessments to prevent overlaps, as well as tasking project promoters and
+authorities with clarifying the scope of any environmental assessments to avoid unnecessary follow-
+up.
+
+**5. What are Net-Zero Strategic Projects and how will they be supported?**
+
+
+The Act introduces the notion of “ **Net-Zero Strategic Projects** ”, which are projects essential for
+improving/reinforcing the resilience and autonomy of the EU's net-zero industry. Such projects can
+be proposed by project promoters and will be selected by the Member State concerned based on
+their contribution to increasing the manufacturing capacity of (components of) net-zero technologies
+where the EU depends heavily on imports from a single third country, or based on their contribution
+to the competitiveness of the EU's net-zero industry supply chain.
+
+These **Net-Zero Strategic Projects** should be given ‘priority status' at national level to ensure rapid
+administrative treatment and should benefit from the fastest possible permitting processes, in line
+with national and EU laws. **Net-Zero Strategic Projects** may also be considered to be of overriding
+public interest. Promoters of net-zero strategic projects will also be able to benefit from financing
+advice stemming from the Net-Zero Europe Platform. In addition, these projects should also be
+given, if necessary, urgent treatment in all judicial and dispute resolution procedures.
+
+**6. What are Net-Zero regulatory sandboxes?**
+
+The proposal introduces Net-Zero regulatory sandboxes to test innovative net-zero technologies in a
+controlled environment for a limited amount of time. The Act provides for Member States to
+introduce such exceptional and temporary regulatory regimes allowing for the development, testing
+and validation of innovative, net-zero technologies before their placement on the market or putting
+into service. Such sandboxes can be established by the Member States at the request of any
+company developing innovative net-zero technologies, complying with a set of eligibility and
+selection criteria. When eligible, small- and medium-sized enterprises should have priority access to
+the sandboxes.
+
+The net-zero regulatory sandboxes shall be designed and implemented in a way to facilitate cross-
+border cooperation between the national competent authorities, when relevant. Member States that
+have established net-zero regulatory sandboxes shall coordinate their activities and cooperate within
+the framework of the Net-Zero Europe Platform with the objectives of sharing relevant information.
+They shall also report annually to the Commission on the results of the implementation of regulatory
+sandboxes, including good practices, lessons learnt and recommendations on their setup.
+
+The modalities and the conditions for the establishment and operation of the net-zero regulatory
+sandboxes will be clarified in secondary legislation, namely implementing acts, stemming from the
+proposed Regulation. In addition, the Commission will publish a Guidance for Sandboxes in 2023 as
+announced in the New European Innovation Agenda to support Member States in preparing the net
+zero technology sandboxes.
+
+**7. How is the Net-Zero Industry Act supporting the deployment of CO 2 storage sites?**
+
+Starting a CCUS value chain requires cross-sectoral coordination to de-risk private investments in
+capturing CO 2 emissions. The Net-Zero Industry Act establishes an EU-wide objective to achieve an
+
+annual CO 2 storage capacity of 50 million tonnes by 2030, to reassure industry investors that their
+
+captured emissions can be stored in the EU. Also, it introduces the concept of **Net-Zero Strategic
+Projects** for CO 2 storage to accelerate the development of a European net-zero CO 2 transport and
+
+storage value chain that industries can use to decarbonise their operations.
+
+Transparency is created by bringing together the most relevant assets to establish a single market
+for CO 2 storage services. This will cover information from Member States about potential CO 2 storage
+
+capacity in terms of geological suitability and existing geological data, in particular from the
+exploration of hydrocarbon production sites. Storage site investors will benefit from information
+about planned CO 2 capture projects in the coming 5 years.
+
+Furthermore, the **Net-Zero Industry Act** requires the EU's oil and gas producers to proportionally
+contribute to establishing the required CO 2 storage sites in the EU. Such sites can be recognised as
+
+Net-Zero Strategic Projects if they are located on EU territory, aim to provide operationally available
+CO 2 injection capacity by 2030 or earlier, and have applied for a permit for the safe and permanent
+
+geological storage of CO 2 , in accordance with Directive 2009/31/EU.
+
+**8. How does the Net-Zero Industry Act support skills development?**
+
+Strengthening the industrial production of key net-zero technology products in the EU will not be
+possible without a sizeable skilled workforce. The Net-Zero Industry Act introduces measures to
+boost the availability of the skills required to pursue the clean-energy transition in the EU. The
+objective is to mobilise all actors: Member States authorities (including at regional and local levels,)
+education and training providers, and industry to identify skills needs, and quickly develop and
+deploy education and training programmes at large scale.
+
+
+The Commission will support the setting up of specialised European **Net-Zero Industry Academies** ,
+each focusing on a net-zero technology. They will provide up-skilling and re-skilling programmes.
+This proposal foresees to support the Net-Zero Industry Academies with seed funding in the form of
+€3 million from the budget for the Clean Hydrogen Joint Undertaking and €2.5 million from the
+budget of the Single Market Programme, SME pillar.
+
+The Act also seeks to foster the recognition of professional qualifications and access to regulated
+professions with particular interest for the net-zero industry. By December 2024 and every two
+years, Member States will have to check if the Net-Zero Industry Academies' learning programmes
+are equivalent to regulated professions and, if so, facilitate recognition.
+
+Overall, the **Net-Zero Europe Platform** will support the establishment of the academies, the
+mobility of skilled workers and the matching of skills and jobs. Member States and the Commission
+should ensure financial support including through the European Social Fund, the Just Transition
+Fund, the European Regional Development Fund and the Single Market Programme. The Act will also
+complement other existing Commission actions with a view to meet green transition skills needs,
+such as the EU Pact for Skills, the European Skills Agenda, the industrial transition pathways, and
+the 2023 EU Year of Skills.
+
+**9. How does the Commission propose to facilitate the financing of net-zero industry?**
+
+The proposed measures aim at coordinating existing financing mechanisms. In compliance with
+competition rules, the Regulation proposes to bring Member States and the Commission together
+with relevant financial institutions in the Net-Zero Europe Platform to discuss private sources of
+financing, investment needs and existing financial instruments and EU funds. To achieve this, one of
+the proposed actions is the Commission's work with the European Investment Bank and other
+InvestEU implementing partners to seek ways to scale up support to investment in the net-zero
+industry supply chain, including via the setting up of blending operations. Private investment by
+companies and financial investors will be essential.
+
+However, where private financing alone may not be sufficient, the effective roll-out of net-zero
+industry projects may require public support, including in the form of State aid. As far as national
+resources are concerned, the State aid framework provides ample possibilities to crowd-in private
+investments and to effectively roll-out of net-zero industry projects. In addition, with the adoption of
+the Temporary Crisis and Transition Framework and the endorsement of the General Block Exemption
+Regulation, the Commission has recently adapted State aid rules to allow further flexibility for the
+Member States to grant aid to further speed up and simplify, with easier calculations, simpler
+procedures, and accelerated approval, while limiting distortions to the Single Market and preserving
+cohesion objectives.
+
+Several Union funding programmes, such as the Recovery and Resilience Facility, InvestEU, cohesion
+policy programmes or the Innovation Fund are also available to fund investments in net-zero
+technology manufacturing projects. The Innovation Fund also provides a very promising and cost-
+efficient avenue to support the scaling up of manufacturing and deployment of renewable hydrogen
+and other strategic net-zero technologies in Europe, and thus reinforcing Europe's sovereignty in the
+key technologies for climate action and energy security.
+
+A more structural answer to the investment needs will be provided by the European Sovereignty
+Fund. It will help preserving a European edge on critical and emerging technologies relevant to the
+green and digital transitions, including net-zero technologies. This structural instrument will build on
+the experience of coordinated multi-country projects under the Important Projects of Common
+European Interest and seek to enhance all Member States' access to such projects, thereby
+safeguarding cohesion and the Single Market against risks caused by unequal availability of State
+aid.
+
+**10. What is the Net-Zero Europe Platform?**
+
+The **Net-Zero Europe Platform** will bring together the Member States and the Commission to
+jointly assist ad advise each other in relation to the actions and implementation of the Net-Zero
+Industry Act, as well as facilitate the exchange of information between stakeholders. Representatives
+of the net-zero industry, organisations, or established Industrial Alliances and partnerships can be
+invited to the Platform. The Platform will also help in coordinating the Net-Zero Academies and Net-
+Zero Industrial Partnerships.
+
+**11. What is the European Hydrogen Bank?**
+
+The European Hydrogen Bank is a financing instrument that will be run internally by the
+Commission. It is not designed to be a physical institution, nor envisaged to be an EU agency. This
+facility will facilitate and support the production and uptake of renewable hydrogen within the EU as
+
+
+well as imports from international partners to European consumers. Announced by Commission
+President von der Leyen in her State of the European Union address, it will contribute to the
+objectives of the Green Deal Industrial Plan, the Net Zero Industry Act, and the EU's goal of reaching
+climate-neutrality by 2050. Under the REPowerEU plan, the EU aims for a total of 20 million tonnes of
+renewable hydrogen by 2030: 10 million tonnes domestically in the EU and another 10 million
+tonnes of imports.
+
+The main aim of the Bank is to unlock private investments in hydrogen value chains in the EU and in
+third countries by addressing the initial investment challenges and needs. It will cover and
+eventually also lower the cost gap between renewable hydrogen and fossil fuels for early projects. By
+doing so, it will support an emerging European hydrogen market and offer new growth opportunities
+and quality job creation.
+
+The Bank will play a coordination role which will increase transparency on hydrogen flows,
+transactions and prices, gather demand and supply information, provide transparent price
+information and develop price benchmarks. It will also facilitate blending with the existing financial
+instruments to support hydrogen projects. It will support infrastructure planning and provide
+visibility on hydrogen infrastructure needs.
+
+From an international perspective, it will support the coordination of cooperation and trade with third
+countries (e.g. on Renewable energy Memoranda of Understanding, renewable energy chapters in
+trade agreements etc.), and develop Team Europe Initiatives.
+
+**12**. **How will the Bank boost the uptake and production of hydrogen?**
+
+The European Hydrogen Bank is based on four pillars – intended to be operational by the end of the
+year:
+
+1. EU domestic market creation;
+2. International imports to the EU;
+3. Transparency and coordination;
+4. Streamline existing financing instruments.
+
+The Commission is currently designing the first pilot auctions on renewable hydrogen production,
+which will be the first financial tool of the Hydrogen Bank. These auctions will be launched under the
+Innovation Fund in the autumn of 2023, with a dedicated budget of €800 million. The auction will
+award a subsidy to hydrogen producers in the form of a fixed premium per kg of hydrogen produced
+for a maximum of 10 years of operation. By bridging the cost gap in the EU between renewable and
+fossil hydrogen and increasing revenue stability, it will increase the bankability of projects and bring
+overall capital costs down.
+
+The Commission also proposes to create an EU auction platform through the Hydrogen Bank, offering
+“auctions-as-a-service” for Member States, using both the Innovation Fund and Member State
+resources to fund potential renewable hydrogen projects, without prejudice to EU State aid rules.
+
+The Commission would run a centralised auction platform, where successful bidders could compete
+to access the Innovation Fund. Participating Member States would avoid the duplication of auctions
+and make best use of financial and administrative resources. This system will prevent fragmentation
+at the early stage of the European hydrogen market and save administrative costs for upcoming
+national hydrogen support schemes.
+
+On the international dimension of the Bank, the Commission is further exploring how to it can be
+designed to promote EU support for renewable hydrogen imports. It proposes to offer a green
+premium for renewable hydrogen imports via a similar auction system as used for the domestic
+market. It will explore by the end of the year possible sources of funding within the EU budget or a
+Team Europe initiative. The practices from the EU Energy Platform and the joint purchasing platform
+will also be considered to study the possibility to include a mechanism for demand aggregation and
+joint auctioning of renewable hydrogen.
+
+# For More Information
+
+Press Release
+
+Factsheet on Net-Zero Industry Act
+
+Factsheet on the European Hydrogen Bank
+
+_*Updated on 05/06/_
+
+
+```
+QANDA/23/
+```
+Press contacts:
+
+```
+Sonya GOSPODINOVA (+32 2 296 69 53)
+Tim McPHIE (+ 32 2 295 86 02)
+Federica MICCOLI (+32 2 295 83 00)
+Ana CRESPO PARRONDO (+32 2 298 13 25)
+Giulia BEDINI (+32 2 295 86 61)
+```
+General public inquiries: Europe Direct by phone 00 800 67 89 10 11 or by email
+
+
