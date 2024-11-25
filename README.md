@@ -111,7 +111,7 @@ Explore our extensive list of GenAI agent implementations, sorted by categories:
    Implements a state-managed multi-agent architecture using four specialized agents (Coordinator, Planner, Notewriter, and Advisor) working in concert through LangGraph's workflow framework. The system features sophisticated workflows for profile analysis and academic support, with continuous adaptation based on student performance and feedback.
 
     #### Additional Resources 📚
-    - **[YouTube explanation](https://www.youtube.com/watch?v=yxowMLL2dDI)** 
+    - **[YouTube Explanation](https://www.youtube.com/watch?v=yxowMLL2dDI)** 
 
 6. **[Scientific Paper Agent](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/scientific_paper_agent_langgraph.ipynb)**
    
@@ -122,8 +122,8 @@ Explore our extensive list of GenAI agent implementations, sorted by categories:
    Leverages LangGraph to create a five-node workflow system including decision making, planning, tool execution, and quality validation nodes. The system integrates the CORE API for paper access, PDFplumber for document processing, and advanced language models for analysis. Key features include a retry mechanism for robust paper downloads, structured data handling through Pydantic models, and quality-focused improvement cycles with human-in-the-loop validation options.
 
     #### Additional Resources 📚
-    - **[YouTube explanation](https://www.youtube.com/watch?v=qi35mGGkCtg)** 
-    
+    - **[YouTube Explanation](https://www.youtube.com/watch?v=qi35mGGkCtg)** 
+
 7. **[Chiron - A Feynman-Enhanced Learning Agent](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/chiron_learning_agent_langgraph.ipynb)**
    
    #### Overview 🔎
@@ -131,6 +131,9 @@ Explore our extensive list of GenAI agent implementations, sorted by categories:
 
    #### Implementation 🛠️
    Uses LangGraph to orchestrate a learning workflow that includes checkpoint definition, context building, understanding verification, and Feynman teaching nodes. The system integrates web search for dynamic content retrieval, employs semantic chunking for context processing, and manages embeddings for relevant information retrieval. Key features include a 70% understanding threshold for progression, interactive human-in-the-loop validation, and structured output through Pydantic models for consistent data handling.
+
+    #### Additional Resources 📚
+    - **[YouTube Explanation](https://www.youtube.com/watch?v=qsdiTGkB8mk)** 
 
 ### 💼 Business and Professional Agents
 
@@ -166,6 +169,9 @@ Explore our extensive list of GenAI agent implementations, sorted by categories:
     #### Implementation 🛠️
     Leverages a multi-agent architecture using LangGraph to coordinate specialized agents (Learning, Resume, Interview, Job Search) through TypedDict-based state management. The system employs sophisticated query categorization and routing while integrating with external tools like DuckDuckGo for job searches and dynamic content generation.
 
+    #### Additional Resources 📚
+    - **[YouTube Explanation](https://www.youtube.com/watch?v=IcKh0ltXO_8)** 
+    
 12. **[Project Manager Assistant Agent](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/project_manager_assistant_agent.ipynb)**
 
     #### Overview 🔎
@@ -173,6 +179,9 @@ Explore our extensive list of GenAI agent implementations, sorted by categories:
 
     #### Implementation 🛠️
     Leverages LangGraph to orchestrate a workflow of specialized nodes including task generation, dependency mapping, scheduling, allocation, and risk assessment. Each node uses GPT-4o-mini for structured outputs following Pydantic models. The system implements a feedback loop for self-improvement, where risk scores trigger reflection cycles that generate insights to optimize the project plan. Visualization tools display Gantt charts of the generated schedules across iterations.
+
+    #### Additional Resources 📚
+    - **[YouTube Explanation](https://www.youtube.com/watch?v=R7YWjzg3LpI)** 
 
 13. **[Contract Analysis Assistant (ClauseAI)](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/ClauseAI.ipynb)**
    
@@ -182,6 +191,9 @@ Explore our extensive list of GenAI agent implementations, sorted by categories:
     #### Implementation 🛠️
     Implements a sophisticated state-based workflow using LangGraph to coordinate multiple AI agents through contract analysis stages. The system features Pydantic models for data validation, vector storage with Pinecone for clause comparison, and LLM-based analysis for generating comprehensive contract reports. The implementation includes parallel processing capabilities and customizable report generation based on user requirements.
 
+    #### Additional Resources 📚
+    - **[YouTube Explanation](https://www.youtube.com/watch?v=rP8uv_tXuSI)** 
+
 14. **[E2E Testing Agent](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/e2e_testing_agent.ipynb)**
    
     #### Overview 🔎
@@ -190,6 +202,8 @@ Explore our extensive list of GenAI agent implementations, sorted by categories:
     #### Implementation 🛠️
     Implements a structured workflow using LangGraph to coordinate test generation, validation, and execution. The system features TypedDict state management, integration with Playwright for browser automation, and LLM-based code generation for converting natural language instructions into executable test scripts. The implementation includes DOM state analysis, error handling, and comprehensive test reporting.
 
+    #### Additional Resources 📚
+    - **[YouTube Explanation](https://www.youtube.com/watch?v=jPXtpzcCtyA)** 
 
 ### 🎨 Creative and Content Generation Agents
 
@@ -225,6 +239,9 @@ Explore our extensive list of GenAI agent implementations, sorted by categories:
     #### Implementation 🛠️
     Implements a sophisticated workflow using LangGraph to coordinate multiple specialized nodes (Summary, Research, Platform-Specific) through the content generation process. The system features TypedDict and Pydantic models for state management, integration with Tavily Search for research enhancement, and platform-specific content generation using GPT-4. The implementation includes parallel processing for multiple platforms and customizable content templates.
 
+    #### Additional Resources 📚
+    - **[YouTube Explanation](https://www.youtube.com/watch?v=DPMtPbKmWnU)** 
+
 19. **[Business Meme Generator Using LangGraph and Memegen.link](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/business_meme_generator.ipynb)**
    
     #### Overview 🔎
@@ -233,6 +250,9 @@ Explore our extensive list of GenAI agent implementations, sorted by categories:
     #### Implementation 🛠️
     Implements a state-managed workflow using LangGraph to coordinate website content analysis, meme concept generation, and image creation. The system features Pydantic models for data validation, asynchronous processing with aiohttp, and integration with external APIs (Groq, Memegen.link) to create a complete meme generation pipeline with customizable templates.
 
+    #### Additional Resources 📚
+    - **[YouTube Explanation](https://youtu.be/lsdDaGmkSCw?si=oF3CGfhbRqz1_Vm8)** 
+
 20. **[Murder Mystery Game with LLM Agents](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/murder_mystery_agent_langgraph.ipynb)**
 
     #### Overview 🔎  
@@ -240,6 +260,9 @@ Explore our extensive list of GenAI agent implementations, sorted by categories:
 
     #### Implementation 🛠️
     Leverages two LangGraph workflows - a main game loop for story/character generation and game progression, and a conversation sub-graph for character interactions. The system uses a combination of LLM-powered narrative generation, character AI, and structured game mechanics to create an immersive investigative experience with replayable storylines.
+
+     #### Additional Resources 📚
+    - **[YouTube Explanation](https://www.youtube.com/watch?v=_3cJYlk2EmA)**
 
 
 ### 📊 Analysis and Information Processing Agents
@@ -306,6 +329,9 @@ Explore our extensive list of GenAI agent implementations, sorted by categories:
     #### Implementation 🛠️
     Utilizes multiple components in a structured workflow: OpenAI Whisper for audio transcription, CrewAI for task automation and agent management, and LangChain for orchestrating the analysis pipeline. The system processes audio through a series of steps from transcription to detailed analysis, leveraging custom agents and tasks to generate structured JSON reports containing insights about customer sentiment, sales opportunities, and recommended improvements.
 
+    #### Additional Resources 📚
+    - **[YouTube Explanation](https://www.youtube.com/watch?v=SKAt_PvznDw)**
+
 28. **[Weather Emergency & Response System](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/Weather_Disaster_Management_AI_AGENT.ipynb)**
 
     #### Overview 🔎
@@ -314,6 +340,9 @@ Explore our extensive list of GenAI agent implementations, sorted by categories:
     #### Implementation 🛠️
     Utilizes LangGraph for orchestrating complex workflows with state management, integrating OpenWeatherMap API for real-time data, and Gemini for analysis and response generation. The system incorporates email notifications, social media monitoring simulation, and severity-based routing with configurable human verification for low/medium severity events.
 
+    #### Additional Resources 📚
+    - **[YouTube Explanation](https://www.youtube.com/watch?v=AgiOAJl_apw)**
+
 29. **[Self-Healing Codebase System](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/self_healing_code.ipynb)**
 
     #### Overview 🔎
@@ -321,6 +350,9 @@ Explore our extensive list of GenAI agent implementations, sorted by categories:
 
     #### Implementation 🛠️
     Utilizes a state-based graph workflow that processes function definitions and runtime arguments through specialized nodes for error detection, code analysis, and fix generation. Incorporates ChromaDB for vector-based storage of bug patterns and fixes, with automated search and retrieval capabilities for similar error patterns, while maintaining code execution safety through structured validation steps.
+
+    #### Additional Resources 📚
+    - **[YouTube Explanation](https://www.youtube.com/watch?v=ga7ShvIXOvE)**
 
 
 ### 📰 News and Information Agents
@@ -333,6 +365,9 @@ Explore our extensive list of GenAI agent implementations, sorted by categories:
     #### Implementation 🛠️
     Utilizes LangGraph to orchestrate a workflow combining multiple components: GPT-4o-mini for generating search terms and article summaries, NewsAPI for retrieving article metadata, BeautifulSoup for web scraping article content, and Asyncio for concurrent processing. The system follows a structured pipeline from query processing through article selection and summarization, managing the flow between components to produce relevant TL;DRs of current news articles.
 
+    #### Additional Resources 📚
+    - **[YouTube Explanation](https://www.youtube.com/watch?v=0fRxW6miybI)**
+
 31. **[AInsight: AI/ML Weekly News Reporter](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/ainsight_langgraph.ipynb)**
 
     #### Overview 🔎
@@ -340,6 +375,9 @@ Explore our extensive list of GenAI agent implementations, sorted by categories:
 
     #### Implementation 🛠️
     Implements a state-managed multi-agent system using LangGraph to coordinate the news collection (Tavily API), technical content summarization (GPT-4), and report generation processes. The system features modular architecture with TypedDict-based state management, external API integration, and markdown report generation with customizable templates.
+
+    #### Additional Resources 📚
+    - **[YouTube Explanation](https://www.youtube.com/watch?v=kH5S1is2D_0)**
 
 32. **[Journalism-Focused AI Assistant](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/journalism_focused_ai_assistant_langgraph.ipynb)**
 
@@ -349,6 +387,8 @@ Explore our extensive list of GenAI agent implementations, sorted by categories:
     #### Implementation 🛠️
     Leverages LangGraph to orchestrate a workflow of specialized components including language models for analysis and generation, web search integration via DuckDuckGo's API, document parsing tools like PyMuPDFLoader and WebBaseLoader, text splitting with RecursiveCharacterTextSplitter, and structured JSON outputs. Each component works together through a unified workflow to analyze content, verify facts, detect bias, extract quotes, and generate comprehensive reports.
 
+    #### Additional Resources 📚
+    - **[YouTube Explanation](https://www.youtube.com/watch?v=PllGovp5vWU)**
 
 33. **[Blog Writer (Open AI Swarm)](https://github.com/YourUsername/GenAI_Agents/blob/main/all_agents_tutorials/blog_writer_swarm.ipynb)**
 
@@ -380,6 +420,9 @@ Explore our extensive list of GenAI agent implementations, sorted by categories:
     #### Implementation 🛠️
     Uses LangGraph to orchestrate a workflow combining Tavily for web search, Llama-3.1-70B for structured data analysis and product comparison, and YouTube API for review video retrieval. The system processes search results through multiple nodes including schema mapping, product comparison, review identification, and email generation. Key features include structured Pydantic models for consistent data handling, retry mechanisms for robust API interactions, and email delivery through SMTP for sharing recommendations.
 
+    #### Additional Resources 📚
+    - **[YouTube Explanation](https://www.youtube.com/watch?v=Js0sK0u53dQ)**
+
 36. **[Car Buyer AI Agent](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/car_buyer_agent_langgraph.ipynb)**
 
     #### Overview 🔎
@@ -387,6 +430,9 @@ Explore our extensive list of GenAI agent implementations, sorted by categories:
 
     #### Implementation 🛠️
     Implements a state-based workflow using LangGraph to coordinate user interaction, web scraping, and decision support. The system features TypedDict state management, async web scraping with Playwright, and integrates with external APIs for comprehensive product analysis. The implementation includes a Gradio interface for real-time chat interaction and modular scraper architecture for easy extension to additional product categories.
+
+     #### Additional Resources 📚
+    - **[YouTube Explanation](https://www.youtube.com/watch?v=I61I1fp0qys)**
 
 ### 🎯 Task Management and Productivity Agents
 
@@ -398,6 +444,9 @@ Explore our extensive list of GenAI agent implementations, sorted by categories:
     #### Implementation 🛠️
     Leverages LangGraph for orchestrating a multi-step workflow including work style analysis, information gathering via Tavily API, and customized plan generation. The system maintains state through the process, integrating historical work pattern data with fresh task research to output detailed, personalized task execution plans aligned with the user's natural working style.
 
+    #### Additional Resources 📚
+    - **[YouTube Explanation](https://www.youtube.com/watch?v=1W_p_RVi9KE&t=25s)**
+    
 38. **[Grocery Management Agents System](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/grocery_management_agents_system.ipynb)**
 
     #### Overview 🔎
@@ -405,6 +454,9 @@ Explore our extensive list of GenAI agent implementations, sorted by categories:
 
     #### Implementation 🛠️
     Implements four specialized agents using CrewAI - a Receipt Interpreter that extracts item details from receipts, an Expiration Date Estimator that determines shelf life using online sources, a Grocery Tracker that maintains inventory based on consumption, and a Recipe Recommender that suggests meals using available ingredients. Each agent has specific tools and tasks orchestrated through a crew workflow.
+
+     #### Additional Resources 📚
+    - **[YouTube Explanation](https://www.youtube.com/watch?v=FlMu5pKSaHI)**
 
 ### 🔍 Quality Assurance and Testing Agents
 
@@ -416,6 +468,9 @@ Explore our extensive list of GenAI agent implementations, sorted by categories:
     #### Implementation 🛠️
     Integrates LangGraph for workflow orchestration, multiple LLM-powered testing agents, and a structured evaluation pipeline that includes static analysis, test case generation, and results verification. The system uses Pydantic for data validation, NetworkX for graph representation, and implements a modular architecture that allows for parallel test execution and comprehensive result analysis.
 
+    #### Additional Resources 📚
+    - **[YouTube Explanation](https://www.youtube.com/watch?v=fQd6lXc-Y9A)**
+
 40. **[EU Green Deal FAQ Bot](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/EU_Green_Compliance_FAQ_Bot.ipynb)**
 
     #### Overview 🔎 
@@ -424,6 +479,9 @@ Explore our extensive list of GenAI agent implementations, sorted by categories:
     #### Implementation 🛠️ 
     Implements a sophisticated RAG pipeline using FAISS vectorstore for document storage, semantic chunking for preprocessing, and multiple specialized agents (Retriever, Summarizer, Evaluator) for query processing. The system features query rephrasing for improved accuracy, cross-reference with gold Q&A datasets for answer validation, and comprehensive evaluation metrics to ensure response quality and relevance.
 
+    #### Additional Resources 📚
+    - **[YouTube Explanation](https://www.youtube.com/watch?v=Av0kBQjwU-Y)**
+
 41. **[Systematic Review Automation System](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/systematic_review_of_scientific_articles.ipynb)**
     
     #### Overview 🔎
@@ -431,6 +489,9 @@ Explore our extensive list of GenAI agent implementations, sorted by categories:
 
     #### Implementation 🛠️
     Utilizes a state-based graph workflow that handles paper search and selection (up to 3 papers), PDF processing, and generates a complete academic paper with all standard sections (abstract, introduction, methods, results, conclusions, references). The system incorporates multiple revision cycles with automated critique and improvement phases, all orchestrated through LangGraph state management.
+
+    #### Additional Resources 📚
+    - **[YouTube Explanation](https://www.youtube.com/watch?v=qi35mGGkCtg)**
 
 ### 🌟 Special Advanced Technique 🌟
 
