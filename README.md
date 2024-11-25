@@ -110,6 +110,9 @@ Explore our extensive list of GenAI agent implementations, sorted by categories:
    #### Implementation 🛠️
    Implements a state-managed multi-agent architecture using four specialized agents (Coordinator, Planner, Notewriter, and Advisor) working in concert through LangGraph's workflow framework. The system features sophisticated workflows for profile analysis and academic support, with continuous adaptation based on student performance and feedback.
 
+#### Additional Resources 📚
+- **[YouTube explanation](https://www.youtube.com/watch?v=yxowMLL2dDI)** 
+
 6. **[Scientific Paper Agent](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/scientific_paper_agent_langgraph.ipynb)**
    
    #### Overview 🔎
@@ -118,6 +121,8 @@ Explore our extensive list of GenAI agent implementations, sorted by categories:
    #### Implementation 🛠️
    Leverages LangGraph to create a five-node workflow system including decision making, planning, tool execution, and quality validation nodes. The system integrates the CORE API for paper access, PDFplumber for document processing, and advanced language models for analysis. Key features include a retry mechanism for robust paper downloads, structured data handling through Pydantic models, and quality-focused improvement cycles with human-in-the-loop validation options.
 
+#### Additional Resources 📚
+- **[YouTube explanation](https://www.youtube.com/watch?v=qi35mGGkCtg)** 
 7. **[Chiron - A Feynman-Enhanced Learning Agent](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/chiron_learning_agent_langgraph.ipynb)**
    
    #### Overview 🔎
