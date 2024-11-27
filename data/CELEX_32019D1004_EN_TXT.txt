@@ -1,0 +1,1157 @@
+# COMMISSION IMPLEMENTING DECISION (EU) 2019/1004
+
+of 7 June 2019
+
+laying down rules for the calculation, verification and reporting of data on waste in accordance with Directive 2008/98/EC of the European Parliament and of the Council and repealing Commission Implementing Decision C(2012) 2384 (notified under document C(2019) 4114) (Text with EEA relevance)
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Directive 2008/98/EC of the European Parliament and of the Council of 19 November 2008 on waste and repealing certain Directives (1), and in particular Articles 11a(9) and 37(7) thereof,
+
+# Whereas:
+
+(1) Directive 2008/98/EC provides general calculation rules for the purpose of verifying whether the preparing for re-use and recycling targets for municipal waste for 2025, 2030 and 2035 laid down in points (c), (d) and (e) of Article 11(2) and in Article 11(3) of that Directive have been attained.
+
+(2) The rules set out in Article 11a of Directive 2008/98/EC specify that, as regards recycling, waste that enters a recycling operation or waste that has achieved end of waste status is to be used for the calculation of the targets for 2025, 2030 and 2035. As a general rule, the recycled waste is to be measured at the point where the waste enters the recycling operation. However, Member States may use a derogation and measure municipal waste at the output of a sorting operation, provided that further losses due to treatment prior to the recycling operation are deducted and that the output waste is actually recycled.
+
+(3) Municipal waste entering the recycling operation may still contain a certain amount of waste materials that are not targeted by the subsequent reprocessing but could not with reasonable efforts be removed by preliminary operations prior to the recycling operation. Member States should not be required to deduct such non-targeted materials for the purposes of the calculation of recycled municipal waste, provided that the materials are tolerated in the recycling operation and do not impede high-quality recycling.
+
+(4) In order to ensure uniform application of the calculation rules by all Member States, it is moreover necessary to establish, for the most common waste types and recycling processes, which waste materials should be included in the calculation in accordance with point (c) of Article 11a(1) of Directive 2008/98/EC (calculation points) and at which stage of the waste treatment they should be measured in accordance with Article 11a(2) of that Directive (measurement points).
+
+(5) In order to ensure that the data to be reported on recycling of municipal waste are comparable, the calculation points established for the most common waste types and recycling processes should also apply to waste that has ceased to be waste as a result of a preparatory operation before being reprocessed.
+
+(6) In order to ensure comparability of data on recycling of municipal waste reported by waste facilities in different Member States, it is necessary to set out more detailed rules on how the amounts of sorted waste should be taken into account for calculating the input to the recycling operation, and how the amounts of recycled municipal waste should be calculated in cases where waste treatment results not only in recycled materials, but also in fuels or other means to generate energy or in backfilling materials.
+
+(7) With regard to the calculation of bio-waste separated and recycled at source, the actual measurement of the input to or the output of the recycling operation is not always feasible since such waste is commonly managed by individual households. Therefore, a sound common approach that ensures a high level of reliability of the reported data should be established.
+
+(1) OJ L 312, 22.11.2008, p. 3.
+---
+20.6.2019
+
+EN
+
+Official Journal of the European Union
+
+L 163/67
+
+# 20.6.2019
+
+(8) With regard to recycled metals separated after incineration of municipal waste, in order to ensure that only recycled metals are taken into account, a calculation methodology should be set out that establishes the metal content of the waste materials that are separated from the incineration bottom ash. Moreover, in order to ensure the relevance of the data, only metals originating from the incineration of municipal waste should be taken into account.
+
+(9) The data on preparing for re-use and recycling of municipal waste to be reported in accordance with Article 11a of Directive 2008/98/EC is to be underpinned by an effective system of quality control and traceability of waste material streams. Member States should therefore be required to take measures to ensure high reliability and accuracy of the data collected, in particular by collecting data directly from economic operators and by increasingly using electronic registries for recording data on waste.
+
+(10) Member States are to report data to the Commission on the implementation of Article 11(2) and Article 11(3) of Directive 2008/98/EC for each calendar year. They are also to submit to the Commission a quality check report in the format for reporting established by the Commission. That format should ensure that the reported information provides a sufficient basis for verifying and monitoring the attainment of the targets set out in Article 11(2) and Article 11(3) of Directive 2008/98/EC.
+
+(11) As regards the target laid down in point (a) of Article 11(2) of Directive 2008/98/EC, Member States have to apply the calculation rules laid down in Commission Decision 2011/753/EU (2). The calculation rules for the preparing for re-use and recycling of municipal waste laid down in Article 11a of Directive 2008/98/EC and in this Decision are consistent with those set out in Decision 2011/753/EU. In order to avoid double reporting, Member States should therefore have the possibility to use the reporting format established for the reporting of data on the targets laid down in points (c) to (e) of Article 11(2) and Article 11(3) of Directive 2008/98/EC to report data on the target laid down in point (a) of Article 11(2) of that Directive.
+
+(12) Member States are to report data on mineral and synthetic lubrication and industrial oils and on waste oils in accordance with Article 37(4) of Directive 2008/98/EC for each calendar year in the format established by the Commission. That format should ensure that the data reported provide a sufficient basis for assessing the feasibility of adopting measures for the treatment of waste oils, including quantitative targets on the regeneration of waste oils and any further measures to promote the regeneration of waste oils, in accordance with Article 21(4) of Directive 2008/98/EC.
+
+(13) For the purposes of reporting on the implementation of points (a) and (b) of Article 11(2) of Directive 2008/98/EC laying down targets for household and similar waste, and for construction and demolition waste, Member States are to use the formats established pursuant to Commission Implementing Decision C(2012) 2384 (3). The provisions of that Implementing Decision requiring Member States to submit triannual reports on the implementation of Directive 2008/98/EC have become obsolete. Therefore, Implementing Decision C(2012) 2384 should be repealed and replaced by the provisions set out in this Decision, which reflect the changes in the reporting requirements introduced in Directive 2008/98/EC by Directive (EU) 2018/851 of the European Parliament and of the Council (4). In order to ensure continuity, transitional provisions should be adopted as regards the deadline for reporting the data concerning the implementation of points (a) and (b) of Article 11(2) for the reference years from 2016 to 2019.
+
+(14) The rules for the calculation, verification and reporting of data concerning the implementation of points (c) to (e) of Article 11(2) and Article 11(3) of Directive 2008/98/EC are closely linked to the rules setting out the formats for the reporting of those data and of the data concerning the implementation of point (a) of Article 11(2) of that Directive. In order to ensure coherence between those rules and facilitate the access to them, both sets of rules should be laid down in a single Decision. Furthermore, to facilitate access to the uniform formats to report other data on waste under Directive 2008/98/EC, in particular data on construction and demolition waste and on mineral and synthetic lubrication and industrial oils and waste oils, those formats should also be included in this Decision. The methodology to establish average loss rates for the waste materials removed from sorted waste by further preliminary treatment prior to recycling will be subject to a separate Commission Delegated Decision.
+
+(15) The measures provided for in this Decision are in accordance with the opinion of the Committee established by Article 39 of Directive 2008/98/EC,
+
+(2) Commission Decision 2011/753/EU of 18 November 2011 establishing rules and calculation methods for verifying compliance with
+
+(3) Commission Implementing Decision of 18 April 2012 establishing a questionnaire for Member States reports on the implementation of the targets set in Article 11(2) of Directive 2008/98/EC of the European Parliament and of the Council (OJ L 310, 25.11.2011, p. 11).
+
+(4) Directive (EU) 2018/851 of the European Parliament and of the Council of 30 May 2018 amending Directive 2008/98/EC on waste Directive 2008/98/EC of the European Parliament and of the Council on waste (C(2012) 2384 final). (OJ L 150, 14.6.2018, p. 109).
+---
+# Official Journal of the European Union
+
+# 20.6.2019
+
+# HAS ADOPTED THIS DECISION:
+
+# Article 1
+
+# Definitions
+
+For the purposes of this Decision, the following definitions shall apply:
+
+- (a) ‘amount’ means mass measured in tonnes;
+- (b) ‘targeted materials’ means municipal waste materials that are reprocessed in a given recycling operation into products, materials or substances that are not waste;
+- (c) ‘non-targeted materials’ means waste materials that are not reprocessed in a given recycling operation into products, materials or substances that are not waste;
+- (d) ‘preliminary treatment’ means any treatment operation that municipal waste materials undergo before submission to the recycling operation whereby these materials are reprocessed into products, materials or substances that are not waste. This includes checking, sorting and other preparatory operations to remove non-targeted materials and to ensure high-quality recycling;
+- (e) ‘calculation point’ means the point where municipal waste materials enter the recycling operation whereby waste is reprocessed into products, materials or substances that are not waste or the point where waste materials cease to be waste as a result of a preparatory operation before being reprocessed;
+- (f) ‘measurement point’ means the point where the mass of waste materials is measured with a view to determining the amount of waste at the calculation point;
+- (g) ‘municipal bio-waste separated and recycled at source’ means municipal bio-waste that is recycled at the place where it is produced by the persons who produce it.
+
+# Article 2
+
+# Calculating municipal waste that is prepared for re-use pursuant to Article 11a(1) of Directive 2008/98/EC
+
+The amount of municipal waste prepared for reuse shall only include the products or the components of products that, following checking, cleaning or repairing operations, can be re-used without further sorting or pre-processing. The parts of those products or of those components of products that have been removed during repairing operations may be included in the amount of municipal waste prepared for re-use.
+
+# Article 3
+
+# Calculating recycled municipal waste pursuant to Article 11a(1), Article 11a(2) and Article 11a(5) of Directive 2008/98/EC
+
+1. The amount of recycled municipal waste shall be the amount of municipal waste at the calculation point. The amount of municipal waste entering the recycling operation shall include targeted materials. It may include non-targeted materials only to the extent that their presence is permissible for the specific recycling operation.
+2. Calculation points applicable to certain waste materials and certain recycling operations are specified in Annex I.
+3. Where municipal waste materials cease to be waste at the calculation points specified in Annex I, the amount of those materials shall be included in the amount of recycled municipal waste.
+4. Where the measurement point relates to the output of a facility that sends municipal waste for recycling without further preliminary treatment, or to the input to a facility where municipal waste enters the recycling operation without further preliminary treatment, the amount of sorted municipal waste that is rejected by the recycling facility shall not be included in the amount of recycled municipal waste.
+5. Where a facility carries out preliminary treatment prior to the calculation point in that facility, the waste removed during the preliminary treatment shall not be included in the amount of recycled municipal waste reported by that facility.
+---
+20.6.2019
+
+EN
+
+Official Journal of the European Union
+
+L 163/69
+
+# 6.
+
+Where municipal waste generated by a given Member State has been mixed with other waste or waste from another country before the measurement point or the calculation point, the proportion of municipal waste originating from a given Member State shall be identified using appropriate methods, such as electronic registries and sampling surveys. Where such waste undergoes further preliminary treatment, the amount of non-targeted materials removed by that treatment shall be deducted taking into account the proportion and, where appropriate, the quality of waste materials coming from municipal waste originating from a given Member State.
+
+# 7.
+
+Where municipal waste materials enter recovery operations whereby those materials are used principally as a fuel or other means to generate energy, the output of such operations that is subject to material recovery, such as the mineral fraction of incineration bottom ash or clinker resulting from co-incineration, shall not be included in the amount of municipal waste recycled with the exception of metals separated and recycled after incineration of municipal waste. Metals incorporated in the mineral output of the co-incineration process of municipal waste shall not be reported as recycled.
+
+# 8.
+
+Where municipal waste materials enter recovery operations whereby those materials are not principally used either as fuel or other means to generate energy, or for material recovery, but result in output that includes recycled materials, fuels or backfilling materials in significant proportions, the amount of recycled waste shall be determined by a mass balance approach which results in taking account only of waste materials that are subject to recycling.
+
+# Article 4
+
+# Calculating recycled municipal bio-waste pursuant to Article 11a(4) of Directive 2008/98/EC
+
+# 1.
+
+The amount of recycled municipal bio-waste entering aerobic or anaerobic treatment shall only include materials that actually undergo aerobic or anaerobic treatment and shall exclude all materials, including biodegradable material, which are mechanically removed during or after the recycling operation.
+
+# 2.
+
+As from 1 January 2027, Member States may count municipal bio-waste as recycled only if it is:
+
+- (a) separately collected at source;
+- (b) collected together with waste with similar biodegradability and compostability properties, in accordance with the second subparagraph of Article 22(1) of Directive 2008/98/EC; or
+- (c) separated and recycled at source.
+
+# 3.
+
+Member States shall apply the methodology laid down in Annex II to calculate the amount of municipal bio-waste separated and recycled at source.
+
+# 4.
+
+The amount of municipal bio-waste separated and recycled at source determined pursuant to paragraph 3 shall be included both in the amount of municipal waste recycled and in the total amount of municipal waste generated.
+
+# Article 5
+
+# Calculating recycled metals separated after incineration of municipal waste pursuant to Article 11a(6) of Directive 2008/98/EC
+
+# 1.
+
+The amount of recycled metals separated from incineration bottom ash shall only include metals contained in the metal concentrate that is separated from the raw incineration bottom ash originating from municipal waste, and shall not include other materials contained in the metal concentrate.
+
+# 2.
+
+Member States shall apply the methodology laid down in Annex III to calculate the amount of recycled metals separated from incineration bottom ash originating from municipal waste.
+
+# Article 6
+
+# Data collection
+
+# 1.
+
+Member States shall obtain data directly from establishments or undertakings managing waste, as appropriate.
+
+# 2.
+
+Member States shall consider the use of electronic registries to record data on municipal waste.
+---
+# Official Journal of the European Union
+
+# 20.6.2019
+
+# 3.
+
+Where data collection is based on surveys, those surveys shall fulfil the following minimum requirements:
+
+- (a) they shall be carried out at regular, specified intervals, and shall adequately meet the variation in the data to be surveyed;
+- (b) they shall be based on a representative sample of the population to which their results are applied.
+
+# Article 7
+
+# Reporting of data
+
+1. Member States shall report the data and submit the quality check report concerning the implementation of points (a) and (b) of Article 11(2) of Directive 2008/98/EC in the format laid down in Annex IV.
+2. As regards the implementation of point (a) of Article 11(2) of Directive 2008/98/EC, Member States which report the data and submit the quality check report in the format laid down in Annex V shall be deemed to comply with the first subparagraph.
+
+Member States shall report the data and submit the quality check report concerning the implementation of points (c) to (e) of Article 11(2) and Article 11(3) of Directive 2008/98/EC in the format laid down in Annex V.
+3. Member States shall report the data and submit the quality check report on mineral or synthetic lubrication or industrial oils placed on the market and waste oils separately collected and treated in the format laid down in Annex VI.
+4. The Commission shall publish the data reported by Member States unless as regards information included in the quality check reports a Member State provides a justified request to withhold the publication of certain data.
+
+# Article 8
+
+# Repeal
+
+Implementing Decision C(2012)2384 is repealed. References to the repealed Implementing Decision shall be construed as references to Article 7(1) of this Decision.
+
+# Article 9
+
+# Transitional provisions
+
+Member States shall submit data to the Commission concerning the implementation of points (a) and (b) of Article 11(2) of Directive 2008/98/EC for reference year 2016 and, where applicable, for reference year 2017 by 30 September 2019. The data for reference year 2018 and, where applicable, for reference year 2019 shall be submitted within 18 months of the end of each reference year respectively. The data referred to in this Article shall be transmitted to the Commission by means of the interchange standard referred to in Article 5(4) of Decision 2011/753/EU.
+
+# Article 10
+
+This Decision is addressed to the Member States.
+
+Done at Brussels, 7 June 2019.
+
+For the Commission
+
+Karmenu VELLA
+
+Member of the Commission
+---
+# ANNEX I
+
+# CALCULATION POINTS REFERRED TO IN ARTICLE 3(2)
+
+|Material|Calculation Point|
+|---|---|
+|Glass|Sorted glass that does not undergo further processing before entering a glass furnace or the production of filtration media, abrasive materials, glass based insulation and construction materials.|
+|Metals|Sorted metal that does not undergo further processing before entering a metal smelter or furnace.|
+|Paper/board|Sorted paper that does not undergo further processing before entering a pulping operation.|
+|Plastics|Plastic separated by polymers that does not undergo further processing before entering pelletisation, extrusion, or moulding operations. Plastic flakes that do not undergo further processing before their use in a final product.|
+|Wood|Sorted wood that does not undergo further treatment before utilisation in particleboard manufacture. Sorted wood entering a composting operation.|
+|Textiles|Sorted textile that does not undergo further processing before its utilisation for the production of textile fibres, rags or granulates.|
+|Waste items composed of multiple materials|Plastic, glass, metal, wood, textile, paper and cardboard and other individual component materials resulting from the treatment of waste items composed of multiple materials that do not undergo further processing before reaching the calculation point established for the specific material in accordance with this Annex or with 11a of Directive 2008/98/EC and Article 3 of this Decision.|
+|Waste Electric and Electronic Equipment (WEEE)|WEEE entering a recycling facility after proper treatment and completion of preliminary activities in accordance with Article 11 of Directive 2012/19/EU of the European Parliament and of the Council (1).|
+|Batteries|Input fractions entering the battery recycling process in accordance with Commission Regulation (EU) No 493/2012 (2).|
+
+(1) Directive 2012/19/EU of the European Parliament and of the Council of 4 July 2012 on waste electrical and electronic equipment (OJ L 197, 24.7.2012, p. 38).
+
+(2) Commission Regulation (EU) No 493/2012 of 11 June 2012 laying down, pursuant to Directive 2006/66/EC of the European Parliament and of the Council, detailed rules regarding the calculation of recycling efficiencies of the recycling processes of waste batteries and accumulators (OJ L 151, 12.6.2012, p. 9).
+---
+# ANNEX II
+
+# METHODOLOGY FOR CALCULATING MUNICIPAL BIO-WASTE SEPARATED AND RECYCLED AT SOURCE REFERRED TO IN ARTICLE 4(3)
+
+1. The amount of municipal bio-waste separated and recycled at source shall be calculated by using the following formula:
+
+mMBWRS = Σ nARUi × (mFi + mGi)
+
+where:
+- mMBWRS means the mass of municipal bio-waste separated and recycled at source;
+- nARUi means the number of active recycling units for the recycling of municipal bio-waste at source in subsample i;
+- mFi means the mass of food and kitchen municipal bio-waste recycled at source per active recycling unit in subsample i; and
+- mGi means the mass of garden and park municipal bio-waste recycled at source per active recycling unit in subsample i.
+2. The number of active recycling units for the recycling of municipal bio-waste at source shall include only those recycling units that are used by waste producers. That number shall be retrieved from registers of such units or shall be obtained through surveys of households.
+3. The amount of municipal bio-waste that is recycled at source per active recycling unit shall be determined through direct or indirect measurement of bio-waste entering active recycling units as specified in points 4 and 5.
+4. Direct measurement requires measuring the input to the active recycling unit or its output under the following conditions:
+- (a) the measurement shall be carried out, where feasible, by or on behalf of public authorities;
+- (b) where the measurement is carried out by the waste producers themselves, Member States shall ensure that the reported amounts are subject to plausibility checks and are adjusted to the effect that the amount of bio-waste separated and recycled at source per person in no case exceeds the average amount per capita of municipal bio-waste collected by waste operators at national, regional or local level;
+- (c) where the output of an active recycling unit is measured, a reliable coefficient shall be applied in order to calculate the amount of the input.
+5. Indirect measurement requires measuring the following amounts through composition surveys of collected municipal waste, which take account of municipal bio-waste that is separately collected and of municipal bio-waste that is not separately collected:
+- (a) the amount of bio-waste contained in collected municipal waste that is generated by households or in areas where waste is separated and recycled at source;
+- (b) the amount of bio-waste contained in collected municipal waste that is generated by households or in areas with characteristics that are similar to the characteristics of households or areas referred to in point (a), where waste is not separated and recycled at source.
+
+The amount of municipal bio-waste that is separated and recycled at source shall be determined based on the difference between the amounts specified in points (a) and (b).
+6. The methodology to determine the amount of municipal bio-waste that is separated and recycled at source per active recycling unit pursuant to points 3 to 5, in particular the sampling methods used in surveys to collect data, shall reflect at least the following factors:
+- (a) the size and type of households that use an active recycling unit in the case of food and kitchen waste;
+- (b) the size and management of gardens and parks served by an active recycling unit in the case of garden and park waste;
+---
+# Official Journal of the European Union
+
+# 20.6.2019
+
+# L 163/73
+
+(c) the available collection system, in particular the complementary use of waste collection services for bio-waste and mixed municipal waste;
+
+(d) the level and seasonality of municipal bio-waste generation.
+
+# 7.
+
+Where the share of municipal bio-waste separated and recycled at source in all municipal waste generated is less than 5 % at national level, Member States may use a simplified methodology to calculate municipal bio-waste separated and recycled at source by applying the following formula:
+
+mMBWRS = nP × mBWpp × qRS
+
+where:
+
+- mMBWRS means the mass of municipal bio-waste separated and recycled at source;
+- nP means the number of persons involved in municipal bio-waste recycling at source;
+- mBWpp means the mass of generated municipal bio-waste per capita; and
+- qRS means a coefficient representing the share of municipal bio-waste generated that is likely to be separated and recycled at source in the total amount of municipal bio-waste generated.
+
+# 8.
+
+For the purposes of applying the formula laid down in point 7 Member States shall ensure that:
+
+- mBWpp is calculated on the basis of surveys on the composition of separately collected and mixed municipal waste at national, regional or local level as appropriate;
+- qRS is determined by taking into account the factors listed in points (a) to (d) of point 6.
+
+# 9.
+
+The formulas laid down in this Annex may be applied to all municipal bio-waste separated and recycled at source or only to food and kitchen municipal bio-waste separated and recycled at source.
+
+# 10.
+
+The surveys to collect data for the purposes of applying the formulas laid down in this Annex shall be carried out for the first year of reporting on municipal bio-waste separated and recycled at source and thereafter at least every five years, and for other years whenever there are reasons to expect significant changes in the amount of municipal bio-waste separated and recycled at source.
+
+Member States may update the reported amount of municipal waste recycled at source for the years for which data is not collected by using appropriate estimates.
+
+# 11.
+
+The surveys to collect data for the purposes of applying the formulas laid down in this Annex shall be based on representative samples and appropriate sub-samples. The results of those surveys shall be statistically significant according to scientifically accepted statistical techniques.
+
+# 12.
+
+Member States shall take appropriate measures to ensure that the reported amounts of municipal bio-waste that is separated and recycled at source are not overestimated.
+---
+# ANNEX III
+
+# METHODOLOGY FOR CALCULATING RECYCLED METALS SEPARATED AFTER INCINERATION OF MUNICIPAL WASTE REFERRED TO IN ARTICLE 5(2)
+
+# 1.
+
+The following definitions shall apply in relation to the formulas set out in this Annex:
+
+- mtotal IBA metals means total mass of metals in incineration bottom ash in a given year;
+- mIBA metal concentrates means mass of metal concentrates separated from raw municipal waste incineration bottom ash in a given year;
+- cIBA metals means concentration of metals in metal concentrates;
+- mIBA metals means mass of metals in the metal concentrate in a given year;
+- mnon-metallic means mass of non-metallic material in metal concentrate in a given year;
+- mMSW means mass of municipal waste entering an incineration operation in a given year;
+- cmetals MSW means concentration of metals in municipal waste entering an incineration operation;
+- mW means mass of all waste entering an incineration operation in a given year;
+- cmetals MSWI means concentration of metals in all waste entering an incineration operation;
+- mMSW IBA metals means mass of metals originating from municipal waste in a given year.
+
+# 2.
+
+Following the separation of metal concentrate from raw incineration bottom ash, the total mass of metals in incineration bottom ash in a given year shall be calculated by applying the following formula:
+
+mtotal IBA metals = (mIBA metal concentrates × cIBA metals)
+
+# 3.
+
+Data on the mass of metal concentrates shall be obtained from facilities that separate metal concentrates from raw incineration bottom ash.
+
+# 4.
+
+The concentration of metals in metal concentrates shall be calculated by using data collected by regular surveys from facilities that treat metal concentrates and deliver their output to facilities producing metal products. Distinction shall be made between ferrous metals, non-ferrous metals and stainless steel. The following formula shall be applied in order to calculate the concentration of metals in metal concentrates:
+
+cIBA metals = mIBA metal concentrates / mIBA metals = (mIBA metal concentrates − mnon-metallic) / mIBA metal concentrates
+
+# 5.
+
+Where municipal waste is incinerated together with other waste, the concentration of metals in the incinerated waste from various sources shall be determined through a sampling survey of the waste that enters the incineration operation. This survey shall be carried out at least every five years and whenever there are reasons to expect that the composition of the waste has significantly changed. The mass of metals originating from municipal waste shall be calculated by applying the following formula:
+
+mMSW IBA metals = mMSW × cmetals MSW + mW × cmetals MSWI − mtotal IBA metals
+
+# 6.
+
+By way of derogation from point 5, where the share of municipal waste in all incinerated waste is above 75 %, the mass of metals originating from municipal waste may be calculated by applying the following formula:
+
+mMSW IBA metals = mMSW × mtotal IBA metals / mW
+---
+# 20.6.2019
+
+# ANNEX IV
+
+# DATA ON WASTE FROM HOUSEHOLDS AND SIMILAR WASTE FROM OTHER ORIGINS, AND DATA ON CONSTRUCTION AND DEMOLITION WASTE REFERRED TO IN ARTICLE 7(1)
+
+# A. FORMAT FOR THE REPORTING OF DATA ON THE IMPLEMENTATION OF POINT (A) OF ARTICLE 11(2) OF DIRECTIVE 2008/98/EC CONCERNING PREPARING FOR RE-USE AND RECYCLING OF WASTE FROM HOUSEHOLDS AND OF SIMILAR WASTE FROM OTHER ORIGINS
+
+|Calculation method (1)|Generated waste (2) (t)|Preparing for re-use and recycling (3) (t)|
+|---|---|---|
+|(1) Calculation method chosen pursuant to Decision 2011/753/EU: the number of the chosen calculation method (1 to 4) as in the second column of Annex I of that Decision shall be inserted here.|(2) Waste from households or waste from households and similar waste from other origins as required by the chosen calculation method.|(3) Prepared for re-use and recycled waste from households or waste from households and similar waste from other origins as required by the chosen calculation method.|
+
+# B. FORMAT FOR THE QUALITY CHECK REPORT ACCOMPANYING THE DATA REFERRED TO IN PART A
+
+# I. Objective of the report
+
+The objective of this report is to gather information on the data compilation methods and coverage of the submitted data. The report should allow a better understanding of the approaches taken by Member States as well as the possibilities and limits of data comparability across countries.
+
+# II. General information
+
+1. Member State:
+2. Organisation submitting the data and the description:
+3. Contact person/contact details:
+4. Reference year:
+5. Delivery date/version:
+
+# III. Information on waste from households and similar waste from other origins
+
+1. How are the generated amounts of waste established for the compliance with the waste target?
+2. Has a sorting analysis of waste from households and similar waste from other origins been carried out? Yes/No
+
+L 163/75
+---
+# 3. Where other methods have been used, please describe:
+
+# 4. How do the amounts of waste reported in part A relate to waste statistics reported on the basis of Regulation (EC) No 2150/2002 of the European Parliament and of the Council (1)?
+
+# 5. Please describe the composition and sources of waste from households and similar waste from other origins as appropriate by ticking the relevant cells in the table.
+
+|Waste materials|Waste codes (1)|Small|Restaurants, enterprises|Canteens|Public areas (please specify)|
+|---|---|---|---|---|---|
+|Paper and cardboard|20 01 01, 15 01 01| | | | |
+|Metals|20 01 40, 15 01 04| | | | |
+|Plastic|20 01 39, 15 01 02| | | | |
+|Glass|20 01 02, 15 01 07| | | | |
+|Biodegradable kitchen and canteen waste|20 01 08| | | | |
+|Including home-composting? yes/no|Including home-composting? yes/no|Including home-composting? yes/no|Including home-composting? yes/no|Including home-composting? yes/no|Including home-composting? yes/no|
+|Biodegradable garden and park waste|20 02 01| | | | |
+|Including home-composting? yes/no|Including home-composting? yes/no|Including home-composting? yes/no|Including home-composting? yes/no|Including home-composting? yes/no|Including home-composting? yes/no|
+|Non-biodegradable garden and park waste|20 02 02, 20 02 03| | | | |
+|Wood|20 01 38, 15 01 03| | | | |
+|Textiles|20 01 10, 20 01 11, 15 01 09| | | | |
+|Batteries|20 01 34, 20 01 33*| | | | |
+|Discarded equipment|20 01 21*, 20 01 23*, 20 01 35*, 20 01 36| | | | |
+
+(1) Regulation (EC) No 2150/2002 of the European Parliament and of the Council of 25 November 2002 on waste statistics (OJ L 332, 9.12.2002, p. 1).
+---
+# Waste materials
+
+# Waste codes (1)
+
+|Small Households|Restaurants, enterprises|Others canteens|Public areas (please specify)|
+|---|---|---|---|
+|Other municipal waste|20 03 01, 20 03 02, 20 03 07, 15 01 06| | |
+|Municipal waste not mentioned above (please specify)| | | |
+
+(1) In the list of waste codes established by Commission Decision 2000/532/EC of 3 May 2000 replacing Decision 94/3/EC establishing a list of wastes pursuant to Article 1(a) of Council Directive 75/442/EEC on waste and Council Decision 94/904/EC establishing a list of hazardous waste pursuant to Article 1(4) of Council Directive 91/689/EEC on hazardous waste (OJ L 226, 6.9.2000, p. 3).
+
+# 6. For calculation methods 1 and 2:
+
+Please provide in rows (a) to (c) below the respective amounts or shares and the waste codes used for calculating waste generation in line with the following rationale:
+
+- (a) % paper, metal, plastic, glass (and, for method 2, other single waste streams) in household waste (and, for method 2, in similar waste) determined by a sorting analysis
+- (b) annual amount of household waste (and, for method 2, of similar waste) generated
+- (c) separately collected paper, metal, plastic and glass (and, for method 2, other single waste streams) from households (and, for method 2, separately collected similar waste from other origins) (waste codes 15 01, 20 01)
+
+# Official Journal of the European Union
+
+(a)
+(b)
+(c)
+
+# 7. How are the data on preparing for re-use and on recycling compiled?
+
+(a) Are data based on the input to preliminary treatment facilities (e.g. sorting plant, mechanical biological treatment)? Yes/No
+
+If yes, please provide information on the recycling efficiency:
+
+(b) Are data based on the input to the final recycling process? Yes/No
+---
+# 8.
+
+Have there been problems with applying the rules on the calculation of biodegradable waste? Yes/No
+
+If yes, please describe the problem(s):
+
+# 9.
+
+Has waste been
+
+- (a) shipped to another Member State? (Yes/No)
+- (b) exported out of the Union for treatment? (Yes/No)
+
+If the answer to (a) and/or (b) is yes, how have the preparing for re-use and recycling rates for those shipped or exported amounts been derived, monitored and validated?
+
+# Official Journal of the European Union
+
+# C. FORMAT FOR REPORTING OF DATA ON THE IMPLEMENTATION OF POINT (B) OF ARTICLE 11(2) OF DIRECTIVE 2008/98/EC CONCERNING CONSTRUCTION AND DEMOLITION WASTE
+
+|Calculation method (1)|Generated waste (t)|Preparing for re-use (t)|Recycling (t)|Backfilling (t)|Other material recovery (2) (t)|Total material recovery (3) (t)|
+|---|---|---|---|---|---|---|
+| | | | | | | |
+
+(1) Calculation method chosen pursuant to Annex II of Decision 2011/753/EU.
+
+(2) This includes material recovery other than preparing for re-use, recycling and backfilling.
+
+(3) This is the sum of the amounts reported under preparing for re-use, recycling, backfilling and other material recovery.
+
+# D. FORMAT FOR THE QUALITY CHECK REPORT ACCOMPANYING THE DATA REFERRED TO IN PART C
+
+# I. Objective of the report
+
+The objective of this report is to gather information on the data compilation methods and coverage of the submitted data. The report should allow a better understanding of the approaches taken by Member States as well as the possibilities and limits of data comparability across countries.
+
+# II. General information
+
+1. Member State:
+2. Organisation submitting the data and the description:
+3. Contact person/contact details: 20.6.2019
+4. Reference year:
+5. Delivery date/version:
+---
+# III. Information on construction and demolition waste
+
+20.6.2019
+
+1. How are the amounts of generated construction and demolition waste determined? How do those amounts relate to data reported on the basis of Regulation (EC) No 2150/2002?
+2. How are the data on preparing for re-use, recycling, backfilling and other recovery compiled?
+
+Please, include description of the application of the definition of backfilling laid down in Article 3(17a) of Directive 2008/98/EC in the context of reporting on construction and demolition waste and description of the different waste treatment operations reported under the category ‘other recovery’ in the table in part C and their share (%).
+3. Are the data based on the input to preliminary treatment facilities? Yes/No
+
+If yes, please provide information on the efficiency of preliminary treatment:
+4. Are the data based on the input to the final recycling process? Yes/No
+5. Please describe the data validation process:
+6. Has waste been
+
+- (a) shipped to another Member State? Yes/No
+- (b) exported out of the Union for treatment? Yes/No
+
+If yes, how have the reuse and recycling rates and the recovery rates for those shipped or exported amounts been derived and monitored/validated?
+
+Official Journal of the European Union
+
+L 163/79
+---
+# ANNEX V
+
+# DATA ON MUNICIPAL WASTE REFERRED TO IN ARTICLE 7(2)
+
+# A. FORMAT FOR THE REPORTING OF DATA
+
+|Municipal waste|Waste generation (1) (t)|Separate collection (t)|Preparing for reuse (t)|Recycling (t)|Energy recovery (2) (t)|Other recovery (3) (t)|
+|---|---|---|---|---|---|---|
+|Total| | | | | | |
+|Metals| | | | | | |
+|Metals separated after incineration of municipal waste (4)| | | | | | |
+|Glass| | | | | | |
+|Plastic| | | | | | |
+|Paper and cardboard| | | | | | |
+|Bio-waste| | | | | | |
+|Bio-waste separated and recycled at source (5)| | | | | | |
+|Wood| | | | | | |
+|Textiles| | | | | | |
+|Electrical and electronic equipment| | | | | | |
+|Batteries| | | | | | |
+|Bulky waste (6)| | | | | | |
+|Mixed waste| | | | | | |
+
+Official Journal of the European Union
+
+20.6.2019
+---
+# 20.6.2019
+
+# Municipal waste
+
+|Waste generation (1)|Separate collection|Preparing for reuse|Recycling|Energy recovery (2)|Other recovery (3)|
+|---|---|---|---|---|---|
+|(t)|(t)|(t)|(t)|(t)|(t)|
+|Other| | | | | |
+
+Dark shaded boxes: Reporting is not applicable.
+
+Light shaded boxes: Reporting is voluntary except for metals separated and recycled after incineration of municipal waste and bio-waste separated and recycled at source where Member States take those waste streams into account for the calculation of the recycling targets.
+
+(1) The amount of generated waste per material may be based on data on separately collected waste and on estimates derived from regularly updated waste composition surveys of municipal waste. Where no such surveys are available, the category of mixed waste may be used.
+
+(2) This includes incineration with energy recovery and the reprocessing of waste to be used as fuels or other means to generate energy. The weight of waste subject to energy recovery per material may be based on estimates derived from regularly updated waste composition surveys of municipal waste. Where no such surveys are available, the category of mixed waste may be used.
+
+(3) This excludes preparing for reuse, recycling and energy recovery, and includes backfilling.
+
+(4) Metals separated after incineration of municipal waste shall be reported separately and shall not be included in the row for metals and in the total amount of waste entering energy recovery operations.
+
+(5) Bio-waste separated and recycled at source shall be reported separately and shall not be included in the row for bio-waste.
+
+(6) This includes large dimension waste items which require specific collection and treatment such as furniture and mattresses.
+
+# Official Journal of the European Union
+
+# B. FORMAT FOR THE QUALITY CHECK REPORT ACCOMPANYING THE DATA REFERRED TO IN PART A
+
+# I. Objectives of the report
+
+The objectives of the quality check report are as follows:
+
+1. Check the comprehensiveness of Member State application of the definition of municipal waste;
+2. Evaluate the quality of data collection processes, including the scope and validation of administrative data sources and the statistical validity of survey-based approaches;
+3. Understand the reasons for significant changes in reported data between reference years and ensure confidence in the accuracy of that data;
+4. Ensure the application of the rules and common methodologies to measure metals separated after the incineration of municipal waste; and
+5. Verify compliance with specific requirements established in the rules for calculating the recycling targets.
+
+# II. General information
+
+1. Member State:
+2. Organisation submitting the data and the description:
+3. Contact person/contact details:
+4. Reference year:
+5. Delivery date/version:
+6. Link to data publication by the Member State (if any):
+---
+# III. Information on municipal waste
+
+# L 163/82
+
+# 1. Description of the entities involved in the data collection
+
+|Name of institution|Description of key responsibilities|
+|---|---|
+|Add rows as appropriate|Add rows as appropriate|
+
+# 2. Shall the data on municipal waste reported in part A be used to demonstrate compliance with the target laid down in point (a) of Article 11(2) of Directive 2008/98/EC?
+
+Yes/No
+
+# 3. Description of methods used
+
+# 3.1. Municipal waste generation
+
+# 3.1.1. Methods for determining municipal waste generation (mark with a cross or specify in the last column)
+
+|Municipal waste component|Data from Administrative data|Electronic Surveys|Data from waste registry|Data from operators|Data from municipalities|Data from producer responsibility schemes|Other (specify)|
+|---|---|---|---|---|---|---|---|
+|Total| | | | | | | |
+|Metals| | | | | | | |
+|Glass| | | | | | | |
+|Plastic| | | | | | | |
+|Paper and cardboard| | | | | | | |
+|Biowaste| | | | | | | |
+|Wood| | | | | | | |
+|Textiles| | | | | | | |
+|Electrical and electronic equipment| | | | | | | |
+
+20.6.2019
+---
+# 20.6.2019
+
+# Data from
+
+# Administrative Electronic Data from waste registry
+
+# Data from operators
+
+# Data from municipalities
+
+# Producer Other (specify) responsibility schemes
+
+|Batteries| | | | | |
+|---|---|---|---|---|---|
+|Bulky waste| | | | | |
+|Mixed waste| | | | | |
+|Other (specify)| | | | | |
+
+# 3.1.2. Description of the methodology used to operationalise the definition of municipal waste in the national data collection systems, including the methodology used to collect data on the non-household fraction of municipal waste
+
+# 3.1.3. Statistical codes, use of waste codes and verification of data on municipal waste generation
+
+|Municipal waste component|Waste codes (1) used|Verification process classification|Cross-check (yes/no)|Time-series check (yes/no)|Audit (yes/no)|Description of the verification process|
+|---|---|---|---|---|---|---|
+|Metals|20 01 40, 15 01 04, 15 01 11*| | | | | |
+|Glass|20 01 02, 15 01 07| | | | | |
+|Plastic|20 01 39, 15 01 02| | | | | |
+|Paper and cardboard|20 01 01, 15 01 01| | | | | |
+|Bio-waste|20 01 08, 20 01 25, 20 02 01| | | | | |
+|Wood|20 01 37*, 20 01 38, 15 01 03| | | | | |
+|Textiles|20 01 10, 20 01 11, 15 01 09| | | | | |
+---
+# Verification process
+
+# Other
+
+|Municipal waste component|Waste codes (1)|classification|Cross-check|Time-series check|Audit|Description of the verification process|
+|---|---|---|---|---|---|---|
+|Electrical and electronic equipment|20 01 21*, 20 01 23*, 20 01 35*, 20 01 36| |EN| | | |
+|Batteries|20 01 33*, 20 01 34| | | | | |
+|Bulky waste|20 03 07| | | | | |
+|Mixed waste|20 03 01, 15 01 06| | | | | |
+|Other (specify)|20 01 13*, 20 01 14*, 20 01 15*, 20 01 17*, 20 01 19*, 20 01 26*, 20 01 27*, 20 01 28, 20 01 29*, 20 01 30, 20 01 31*, 20 01 32, 20 01 41, 20 01 99, 20 02 03, 20 03 02, 20 03 03, 20 03 99, 15 01 05, 15 01 10*| | | | | |
+
+(1) Waste codes established by Decision 2000/532/EC.
+
+# 3.1.4.
+
+Methods used to estimate the composition of mixed municipal waste generated per material
+
+# 3.1.5.
+
+Estimated share of waste generated by households in municipal waste (in %) and description how that estimate was calculated
+
+# 3.1.6.
+
+Approaches to exclude waste that is not similar in nature and composition to household waste, in particular as regards:
+
+- packaging waste and waste electric and electronic equipment from commercial and industrial sources that is not similar to waste generated by households, and
+- types of waste that are generated by households but are not part of municipal waste such as construction and demolition waste.
+
+20.6.2019
+---
+# 3.1.7. Explanation of estimates used to cover gaps in data on generated municipal waste as regards the amounts of waste generated by households (for instance, due to incomplete coverage of households by the collection systems) and of similar waste (for instance, due to incomplete coverage of similar waste by data on waste collection)
+
+# 3.1.8. Differences from data reported in previous years
+
+Explanation of any significant methodological changes in the municipal waste data collection approach applied for the current reference year in relation to the approach applied for previous reference years (in particular retrospective revisions, their nature and whether a break in the series has to be flagged for a certain year).
+
+Explanation detailing the causes of the tonnage difference for any component of municipal waste which shows more than 10 % variation from the data submitted for the previous reference year.
+
+|Municipal waste component|Variation (%)|Main reason for variation|
+|---|---|---|
+|Add rows as appropriate| | |
+
+# 3.2. Municipal waste management
+
+# 3.2.1. Classification of treatment operations
+
+Information on the classification used for treatment operations (if a standard classification is used such as the disposal operation or recovery operation codes established in Annexes I and II of Directive 2008/98/EC, refer to its name or specify and describe all the relevant categories used).
+
+# 3.2.2. Description of methods for determining the amount of municipal waste treated (mark with a cross)
+
+|Data collection methods/Municipal waste type|Administrative data|Surveys|Electronic registry|Data from waste operators|Data from municipalities|Producer responsibility schemes|Other (specify)|
+|---|---|---|---|---|---|---|---|
+|Total| | | | | | | |
+|Metals| | | | | | | |
+|Glass| | | | | | | |
+---
+# Data from Administrative
+
+# Data collection methods/Municipal waste type
+
+|Data from electronic data|Surveys|Data from waste registry|Data from operators|Data from municipalities|Producer responsibility schemes|Other (specify)|
+|---|---|---|---|---|---|---|
+|Plastic| | | | | | |
+|Paper and cardboard| | | | | | |
+|Bio-waste| | | | | | |
+|Wood| | | | | | |
+|Textiles| | | | | | |
+|Electrical and electronic equipment| | | | | | |
+|Batteries| | | | | | |
+|Bulky waste| | | | | | |
+|Mixed waste| | | | | | |
+
+# Additional information about the methodology
+
+Including the combination of methods used.
+
+# 3.2.3. Preparing for re-use
+
+Description of how the amounts recorded under preparing for reuse have been calculated.
+
+# 3.2.4. Description of applied measurement points for recycling
+
+For instance at the calculation point, at the output of a sorting operation with subtraction of non-target materials as appropriate, and of end-of-waste criteria, etc., including variation at regional and local level and for household and similar waste where relevant.
+
+# Component of municipal waste
+
+Description of measurement points usedMetalsMetals from IBA
+20.6.2019
+---
+# 20.6.2019
+
+# Component of municipal waste
+
+Description of measurement points used
+
+- Glass
+- Plastic
+- Paper and cardboard
+- Bio-waste
+- Wood
+- Textiles
+- Electrical and electronic equipment
+- Batteries
+- Bulky waste
+- Other
+
+Detailed description of the methodology used to calculate the amount of non-target materials removed between the measurement points and the calculation points, where applicable.
+
+# 3.2.5. Description of the methodology used to determine per material the amount of recycled materials contained in waste items composed of multiple materials
+
+# 3.2.6. Use of Average Loss Rates (ALRs)
+
+Description of the sorted waste to which ALRs are applied, types of sorting plants to which different ALRs apply, the methodological approach to calculating ALRs at such point(s), including the statistical accuracy of any surveys used, or the nature of any technical specifications.
+
+|Sorted waste material and sorting plant type|ALR applied (in %)|Description|
+|---|---|---|
+|Add rows as appropriate|Add rows as appropriate|Add rows as appropriate|
+
+Official Journal of the European Union
+
+L 163/87
+---
+# 3.2.7. Attribution of waste to municipal sources and non-municipal sources at the measurement point
+
+Description of the methodology used to exclude non-municipal wastes (aggregated data across facilities of a similar type is acceptable).
+
+|Waste material/Waste codes|Facility type|Share of municipal waste (%)|Description of the methodologies applied to obtain the percentage|
+|---|---|---|---|
+|Add rows as appropriate|Add rows as appropriate|Add rows as appropriate|Add rows as appropriate|
+
+# 3.2.8. Attribution of waste to different Member States at the measurement point
+
+Description of the methodology used to exclude waste originating from other Member States or third countries (aggregated data across facilities of a similar type is acceptable).
+
+|Waste material/Waste codes|Facility type|Share of waste from the Member State (%)|Description of the methodologies applied to obtain the percentage|
+|---|---|---|---|
+|Add rows as appropriate|Add rows as appropriate|Add rows as appropriate|Add rows as appropriate|
+
+# 3.2.9. Recycling of municipal bio-waste that is not separately collected or separated and recycled at source (relevant until 2026)
+
+Information about measures to ensure that the conditions specified in the first subparagraph of Article 11a(4) of Directive 2008/98/EC regarding the recycling of municipal bio-waste that is not separately collected or separated and recycled at source are met.
+
+# 3.2.10. Municipal bio-waste separated and recycled at source
+
+General description of the methodology applied, including the use of direct and indirect measurement and the application of a simplified methodology to measure municipal bio-waste separated and recycled at source.
+
+Description of the methods used to obtain the number of active recycling units or the number of persons involved in recycling of municipal bio-waste separated at source through registries or surveys and to ensure that the number of active recycling units includes only those recycling units that are actively used by waste producers.
+
+20.6.2019
+---
+# Description of the methods to establish the amounts of municipal bio-waste separated and recycled at source as required by the formulas in Annex II.
+
+20.6.2019
+
+# Detailed description of surveys, including their periodicity, subsamples, confidence levels and confidence intervals.
+
+EN
+
+# Description of measures to ensure that the reported amounts of municipal bio-waste that is separated and recycled at source are not overestimated (including the application of a coefficient related to moisture loss).
+
+# Description of measures to ensure that the treatment of municipal bio-waste that is separated and recycled at source is properly carried out and that the recycled output is used and results in benefits to agriculture or ecological improvement.
+
+# 3.2.11. Calculation of recycled metals separated after incineration of municipal waste
+
+# Detailed description of the method to collect data in order to calculate the amount of metals separated from incineration bottom ash.
+
+# Description of the approach taken to measure the total amount of metal concentrate extracted from the incinerator bottom ash.
+
+# Description of the method to estimate the average level of metallic content in the total amount of metal concentrate, including the reliability of any surveys undertaken.
+
+# Description of the method to estimate the proportion of municipal waste entering incineration plants, including the reliability of any surveys undertaken.
+
+L 163/89
+---
+# 3.2.12. Other recovery of waste
+
+Description of the different waste treatment operations reported under the category ‘other recovery’ in the table in part A and their share (%).
+
+# 3.2.13. Information on the relevance of temporary storage of waste to amounts of treated waste in a given year and any estimates of waste recycled in the current reference year
+
+following temporary storage in a previous reference year(s), and waste going to temporary storage in the current reference year
+
+# 3.2.14. Differences from the data reported for the previous reference years
+
+Significant methodological changes in the calculation method used for the current reference year in relation to the calculation method used for previous reference years, if any Official Journal of the European Union (in particular retrospective revisions, their nature and whether a break in the series has to be flagged for a certain year).
+
+Explanation detailing the causes of the tonnage difference (which waste streams, sectors or estimates have caused the difference, and what the underlying cause is) for any component of municipal waste recycled which shows greater than a 10 % variation from the data submitted for the previous reference year.
+
+|Municipal waste component|Variation (%)|Main reason for variation|
+|---|---|---|
+|Add rows as appropriate| | |
+
+# 3.2.15. Verification of data on recycling of municipal waste
+
+|Component of municipal waste|Cross-check (yes/no)|Time-series check (yes/no)|Audit (yes/no)|Description of the verification process|
+|---|---|---|---|---|
+|Metals| | | | |
+|Metals from IBA| | | |20.6.2019|
+|Glass| | | | |
+|Plastic| | | | |
+---
+# 20.6.2019
+
+# Verification Process
+
+|Component of municipal waste|Cross-check (yes/no)|Time-series check (yes/no)|Audit (yes/no)|Description of the verification process|
+|---|---|---|---|---|
+|Paper and cardboard| | | | |
+|Bio-waste| | | | |
+|Wood| | | | |
+|Textiles| | | | |
+|Electrical and electronic equipment| | | | |
+|Batteries| | | | |
+|Bulky waste| | | | |
+|Mixed waste| | | | |
+|Other| | | | |
+
+# 4. Accuracy of the data
+
+# 4.1.1. Description of main issues affecting the accuracy of data on the generation and treatment of municipal waste, including errors related to sampling, coverage, measurement, processing and non-response
+
+# 4.1.2. Explanation of the scope and validity of surveys to collect data on the generation and treatment of municipal waste
+
+# 4.1.3. Statistical surveys used regarding municipal waste generation and treatment
+
+|Component of Municipal Waste|Year|Percentage of population surveyed|Data (tonnes)|Confidence level|Error margin|Adjustments from the survey year to the current year|Other details|
+|---|---|---|---|---|---|---|---|
+| | | | | | | | |
+|Add rows as appropriate| | | | | | | |
+---
+# IV. Confidentiality
+
+Justification to withhold the publication of specific parts of this quality check report where that is requested.
+
+# V. Main national websites, reference documents and publications
+
+# C. FORMAT FOR THE REPORT ON THE MEASURES TAKEN PURSUANT TO ARTICLE 11A(3) AND ARTICLE 11A(8) OF DIRECTIVE 2008/98/EC
+
+1. Detailed description of the system for quality control and traceability of municipal waste referred to in Article 11a(3) and Article 11a(8) of Directive 2008/98/EC
+2. Quality control and traceability of municipal waste treated outside the Member State
+
+|Component of municipal waste|Subject to final treatment in the Member State (yes/no)|Shipped to another EU Member State (yes/no)|Exported outside the EU (yes/no)|Description of specific measures for quality control and traceability of municipal waste, in particularly as regards collection, monitoring and validation of data|
+|---|---|---|---|---|
+|Metals| | | | |
+|Metals from IBA| | | | |
+|Glass| | | | |
+|Plastic| | | | |
+|Paper and cardboard| | | | |
+|Bio-waste| | | | |
+|Wood| | | | |
+|Textiles| | | | |
+|Electrical and electronic equipment| | | | |
+
+20.6.2019
+---
+# 20.6.2019
+
+# Subject to final treatment
+
+|Component of municipal waste|Shipped to another EU Member State (yes/no)|Exported outside the EU (yes/no)|Description of specific measures for quality control and traceability of municipal waste, in particularly as regards collection, monitoring and validation of data|
+|---|---|---|---|
+|Batteries| | | |
+|Bulky waste| | | |
+|Mixed waste| | | |
+|Other| | | |
+
+# 3. Detailed description of measures to ensure that the exporter can prove that the shipment of waste complies with the requirements of Regulation (EC) No 1013/2006 of the European Parliament and of the Council (1) and that the treatment of waste outside the Union took place under conditions that are broadly equivalent to the requirements laid down in relevant Union environmental law.
+
+Official Journal of the European Union L 163/93
+
+(1) Regulation (EC) No 1013/2006 of the European Parliament and of the Council of 14 June 2006 on shipments of waste (OJ L 190, 12.7.2006, p. 1).
+---
+# ANNEX VI
+
+# DATA ON MINERAL AND SYNTHETIC LUBRICATION AND INDUSTRIAL OILS AND WASTE OILS REFERRED TO IN ARTICLE 7(3)
+
+# A. FORMAT FOR THE REPORTING OF DATA
+
+**Table 1: Reporting on data on the placing on the market of mineral and synthetic lubrication and industrial oils and on the treatment of waste oils**
+|1|2|3|4|5|6|7|8|9|
+|---|---|---|---|---|---|---|---|---|
+|Oils placed on the market (t)|Waste oil (dry oil) generated (t)|Separately collected (t)|Exported (8) waste oils (t)|Imported (9) waste oils (t)|Regeneration (10) (t)|Other recycling (11) (t)|Energy recovery (12) (R1) (t)|Disposal (13) (t)|
+|Incl. water|Incl. dry oil (14)|Incl. water|Incl. dry oil (14)|Incl. water|Incl. dry oil (14)|Incl. water|Incl. dry oil|Incl. water|
+
+Official Journal of the European Union
+
+Engine and gear box oils (1)
+
+Industrial oils (2)
+
+Industrial oils (emulsions only) (3)
+
+Oil and concentrates from separation (4)
+
+Dark shaded boxes: reporting is not applicable.
+
+(1) Including engine oils and gear oils (automotive, aviation, marine, industrial and other sectors); excluding greases and bilge oils.
+
+(2) Including machine oils, hydraulic oils, oils for turbines, transformer oils, heat transmission oils, compressor oils, base oils; excluding greases and oils used for emulsions.
+
+(3) Including metal working oils; in case national reporting does not distinguish industrial oils used in emulsions or otherwise, aggregated data on industrial oils may be provided and shall be specified in row ‘industrial oils’.
+
+(4) Only waste oils under code 190207* of Decision 2000/532/EC.
+
+(5) Oils placed on the market in a Member State taking into account export losses (e.g. export of passenger cars) and import gains (e.g. imports of passenger cars).
+
+(6) Amount of waste oils taking into account handling losses and losses during use. Amounts of waste oil generated may be calculated based on national statistics or by using the reference values listed in Table 4.
+
+(7) Waste oils separately collected. In case collected waste oils are quantified by volume, the corresponding mass is determined by applying a conversion factor of 0,9 tonnes/m3.
+
+(8) Waste oil exported to another country (considering the waste categories set out in Regulation (EC) No 1013/2006).
+
+(9) Waste oil generated in another country and imported from that country (considering the waste categories set out in Regulation (EC) No 1013/2006).
+
+(10-13) Amounts reported shall relate to the waste oil separately collected. The sum of the values for dry oil in columns 6 to 9 should be equal to the sum of the values for dry oil in column 3 adjusted for exported and imported waste oils (column 3 – column 4 + column 5 = column 6 + column 7 + column 8 + column 9).
+
+In accordance with the definition of regeneration of waste oils in Article 3(18) of Directive 2008/98/EC and excluding regenerated oils used for energy recovery or as fuels.
+
+(11) Recycling other than regeneration, e.g. as flux oil.
+
+(12) Including use of recovered oils as fuel, in accordance with the definition of recovery in Article 3(15) of Directive 2008/98/EC.
+
+(13) Disposal operation D10 Incineration on land as laid down in Annex I of Directive 2008/98/EC.
+
+(14) Waste oil excluding water content. The dry oil content is determined by measuring the water content. For waste oils other than emulsions, the dry content may alternatively be determined on the basis of a water content of 8 %. For dry oil in emulsions of industrial oils the dry content may alternatively be determined on the basis of a water content of 90 %.
+
+20.6.2019
+---
+# Table 2
+
+20.6.2019
+
+# Reporting on data on the treatment of waste oils
+
+|Type of output from recovery|Regeneration (1)|Other recycling|Energy recovery or reprocessing into materials that are to be used as fuels (including regenerated oils used as fuel)|Disposal (D10)|
+|---|---|---|---|---|
+|Regenerated base oil – group I (2) (3)| | | | |
+|Regenerated base oil – group II (4)| | | | |
+|Regenerated base oil – group III (5)| | | | |
+|Regenerated base oil – group IV (6)| | | | |
+|Recycled products (7) (specify)| | | | |
+|Fuel products for off-site energy recovery – Light fuel oil| | | | |
+|Fuel products for off-site energy recovery – Distillate fuel oil| | | | |
+|Fuel products for off-site energy recovery – Heavy fuel oil| | | | |
+|Fuel products for off-site energy recovery – Recovered fuel oil| | | | |
+|Fuel products for off-site energy recovery – Processed fuel oil| | | | |
+|On-site energy recovery (8)| | | | |
+|Other (specify and add rows as needed)| | | | |
+
+Dark shaded boxes: Reporting is not applicable.
+
+1. Amount of regenerated oils. The sum of the entries in Column 2 of table 2 divided by the sum of the entries in column 6 of Table 1 corresponds to the conversion efficiency of oil regeneration.
+2. Base oil group I contains less than 90 % saturates and/or more than 0,03 % sulphur and has a viscosity index greater than or equal to 80 and less than 120.
+3. In case national reporting does not distinguish groups I-IV, aggregated data on regenerated base oils may be provided and shall be specified in row ‘Other’.
+4. Base oil group II contains more than or equal to 90 % saturates and less than or equal to 0,03 % sulphur and has a viscosity index greater than or equal to 80 and less than 120.
+5. Base oil group III contains more than or equal to 90 % saturates and less than or equal to 0,03 % sulphur and has a viscosity index greater than or equal to 120.
+6. Base oil group IV are polyalphaolefins. Base oil not included in groups I-IV shall be specified in row ‘Other’.
+7. Includes recycled products from other recycling of waste oils reported under column 7 of Table 1.
+8. On-site energy recovery means recovery of waste oils through internal energy consumption e.g. in a refinery.
+
+Official Journal of the European Union L 163/95
+---
+# Table 3
+
+Reporting on data on the placing on the market of mineral and synthetic lubrication and industrial oils and treatment of waste oils other than those listed in Table 1
+
+|Collected (1) Waste Oils (t)|Exported (2) Waste Oils (t)|Imported (3) Waste Oils (t)|Disposal (4) (D10) (t)|Regeneration (t) (5)|Other recycling (6) (t)|Energy recovery (t) (7)|
+|---|---|---|---|---|---|---|
+|Incl. Dry oil water|Incl. Dry oil water|Incl. Dry oil water|Incl. Dry oil water|Incl. Dry oil water|Incl. Dry oil water|Incl. Dry oil water|
+
+Process oils
+
+Industrial oils not lubricating
+
+Greases
+
+Extracts from lubricant refining
+
+Bilge oils
+
+Light shaded boxes: Reporting is voluntary.
+
+(1–7) See columns 3 to 9 in Table 1, and the corresponding Notes, for explanations of the terms used.
+
+# Table 4
+
+Reference values for the calculation of generated waste oil
+
+| |Fraction of oils placed on market (%)| |
+|---|---|---|
+|Engine and gear box oils| | |
+|Engine oils|52| |
+|Gear box oils|76| |
+|Industrial oils| |20.6.2019|
+|Machine oils|50| |
+---
+# 20.6.2019
+
+# 1
+
+# Fraction of oils placed on market (%)
+
+|Hydraulic oils|75|
+|---|---|
+|Turbine oils|70|
+|Transformer oils|90|
+|Heat transmission oils|90|
+|Compressor oils|50|
+|Base oils|50|
+|Metal working oils used in emulsions|49|
+
+Official Journal of the European Union
+
+# B. FORMAT FOR THE QUALITY CHECK REPORT ACCOMPANYING THE DATA REFERRED TO IN PART A
+
+# I. General information
+
+1. Member State:
+2. Organisation submitting the data and the description:
+3. Contact person/contact details:
+4. Reference year:
+5. Delivery date/version:
+6. Link to data publication by the Member State (if any):
+
+# II. Information on oils placed on the market and waste oils
+
+1. Data collection methods (the relevant column should be marked with a cross, the last column should be filled-in)
+
+|Data collection methods/Data set|Administrative data|Surveys|Electronic registry|Data from waste operators|extended producer responsibility|Other (specify)|description of the methodology|
+|---|---|---|---|---|---|---|---|
+|Oils placed on the market| | | | | | | |
+|Collected waste oils| | | | | | | |
+---
+# Data from Detailed
+
+|Data collection methods/Data set|Administrative data|Surveys|Electronic registry|Data from waste operators|extended producer responsibility|Other (specify)|description of the methodology|
+|---|---|---|---|---|---|---|---|
+|Regeneration of waste oils| | | | | | | |
+|Other recycling of waste oils| | | | | | | |
+|Energy recovery of waste oils| | | | | | | |
+|Disposal of waste oils| | | | | | | |
+
+# 2. Description of the methodology used to determine the amount of waste oil generated
+
+# 3. Description of the method used to determine the dry oil content of the waste oil
+
+(e.g. chemical analysis of the water content, expert knowledge, etc.)
+
+# 4. Description of the outputs of treated waste oils reported under the category ‘other recycling’ and an indication of their amounts
+
+# 5. Description of the method used to determine the amount of base oils used as fuel
+
+# 6. Data on waste oil treatment outside the Member State
+
+# 7. Detailed description of the specific measures for quality control and traceability of waste oils, in particular, as regards monitoring and validation of data
+
+Official Journal of the European Union
+
+20.6.2019
+---
+# 8. Description of the data sources for treatment of waste oils in another Member State or outside the Union (e.g. Regulation (EC) No 1013/2006 or primary data from the treatment operator) and the quality of the data
+
+20.6.2019
+
+# 9. Description of any difficulties in collecting data from treatment operators located in another Member State or outside the Union
+
+EN
+
+# 10. Description of measures to ensure that the exporter of waste oils outside the Union can prove that the shipment of waste complies with the requirements of Regulation (EC) No 1013/2006 and that the treatment of waste outside the Union took place in conditions that are broadly equivalent to the requirements of the relevant Union environmental law
+
+Official Journal of the European Union
+
+# 11. Accuracy of the data
+
+# 11.1. Description of main issues affecting the quality and accuracy of data on the generation, collection and treatment of waste oils, including errors related to sampling, coverage, measurement, processing and non-response
+
+# 11.2. Completeness of the data collection on mineral and synthetic lubrication and industrial oils and waste oils
+
+Detailed information on how the sources of data cover all the amounts of mineral and synthetic lubrication and industrial oils placed on the market and waste oils collected and treated, and on any amounts added by using estimates, including how the estimates are determined and what share of the total amount of the respective data set they account for.
+
+# 11.3. Differences from previous reference year's data
+
+Significant methodological changes in the calculation method for the current reference year in relation to the calculation method applied for previous year(s).
+
+L 163/99
+---
+# Explanation detailing the causes of the tonnage difference
+
+(which waste oils, sectors or estimates have caused the difference, and what the underlying cause is) for any category of waste oils treated which shows a greater than 10 % variation from the data submitted for the previous reference year.
+
+|Waste oil category and treatment|Variation (%)|Main reason for variation|
+|---|---|---|
+|Add rows as appropriate|Add rows as appropriate|Add rows as appropriate|
+
+# III. Confidentiality
+
+Justification to withhold the publication of specific parts of this report where that is requested.
+
+# IV. Main national websites, reference documents and publications
+
+This includes reports addressing aspects of the data quality, coverage or other aspects of enforcement such as reports on best practice on waste oil collection and treatment, and reports on import, export or losses of oil.
+
+20.6.2019

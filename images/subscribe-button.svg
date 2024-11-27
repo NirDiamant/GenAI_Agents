@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="60" viewBox="0 0 320 60">
+  <!-- Button Shadow -->
+  <rect x="5" y="5" width="290" height="45" rx="22.5" fill="#2468d2" filter="url(#shadow)"/>
+  
+  <!-- Button Background -->
+  <rect x="0" y="0" width="290" height="45" rx="22.5" fill="url(#gradient)"/>
+  
+  <!-- Arrow Icon -->
+  <path d="M250,22 l6,0 l-3,6 z" fill="white"/>
+  
+  <!-- Text -->
+  <text x="130" y="28" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white" text-anchor="middle" dominant-baseline="middle">
+    Subscribe to Newsletter
+  </text>
+  
+  <!-- Definitions -->
+  <defs>
+    <!-- Gradient -->
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#4285F4"/>
+      <stop offset="100%" style="stop-color:#3574db"/>
+    </linearGradient>
+    
+    <!-- Enhanced Shadow for 3D effect -->
+    <filter id="shadow" x="-5%" y="-5%" width="110%" height="110%">
+      <feDropShadow dx="0" dy="3" stdDeviation="3" flood-color="#000000" flood-opacity="0.3"/>
+    </filter>
+  </defs>
+</svg>

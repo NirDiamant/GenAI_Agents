@@ -1,0 +1,729 @@
+## REGULATION (EU) 2023/957 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+
+```
+of 10 May 2023
+```
+```
+amending Regulation (EU) 2015/757 in order to provide for the inclusion of maritime transport
+activities in the EU Emissions Trading System and for the monitoring, reporting and verification of
+emissions of additional greenhouse gases and emissions from additional ship types
+```
+```
+(Text with EEA relevance)
+```
+```
+THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
+```
+```
+Having regard to the Treaty on the Functioning of the European Union, and in particular Article 192(1) thereof,
+```
+```
+Having regard to the proposal from the European Commission,
+```
+```
+After transmission of the draft legislative act to the national parliaments,
+```
+```
+Having regard to the opinion of the European Economic and Social Committee(^1 ),
+```
+```
+Having regard to the opinion of the Committee of the Regions(^2 ),
+```
+```
+Acting in accordance with the ordinary legislative procedure(^3 ),
+```
+```
+Whereas:
+```
+```
+(1) The Paris Agreement(^4 ), adopted on 12 December 2015 under the United Nations Framework Convention on
+Climate Change (UNFCCC) (the ‘Paris Agreement’), entered into force on 4 November 2016. The Parties to the Paris
+Agreement have agreed to hold the increase in the global average temperature well below 2 °C above pre-industrial
+levels and to pursue efforts to limit the temperature increase to 1,5 °C above pre-industrial levels. That commitment
+has been reinforced with the adoption under the UNFCCC of the Glasgow Climate Pact on 13 November 2021 , in
+which the Conference of the Parties to the UNFCCC, serving as the meeting of the Parties to the Paris Agreement,
+recognises that the impacts of climate change will be much lower at a temperature increase of 1,5 °C, compared
+with 2 °C, and resolves to pursue efforts to limit the temperature increase to 1,5 °C.
+```
+```
+(2) The urgency of the need to keep the Paris Agreement goal of 1,5 °C alive has become more significant following the
+findings of the Intergovernmental Panel on Climate Change in its Sixth Assessment Report that global warming can
+only be limited to 1,5 °C if strong and sustained reductions in global greenhouse gas emissions within this decade are
+immediately undertaken.
+```
+```
+(3) Tackling climate- and environmental-related challenges and reaching the objectives of the Paris Agreement are at the
+core of the communication of the Commission of 11 December 2019 on ‘The European Green Deal’ (the ‘European
+Green Deal’).
+```
+```
+(4) The European Green Deal combines a comprehensive set of mutually reinforcing measures and initiatives aimed at
+achieving climate neutrality in the Union by 2050, and sets out a new growth strategy that aims to transform the
+Union into a fair and prosperous society, with a modern, resource-efficient and competitive economy where
+economic growth is decoupled from resource use. It also aims to protect, conserve and enhance the Union’s natural
+capital, and protect the health and well-being of citizens from environment-related risks and impacts. This transition
+```
+```
+(^1 ) OJ C 152, 6.4.2022, p. 175.
+(^2 ) OJ C 301, 5.8.2022, p. 116.
+(^3 ) Position of the European Parliament of 18 April 2023 (not yet published in the Official Journal) and decision of the Council of
+25 April 2023.
+(^4 ) OJ L 282, 19.10.2016, p. 4.
+```
+16.5.2023 EN Official Journal of the European Union L 130/
+
+
+```
+affects workers from various sectors differently. At the same time, that transition has gender equality aspects as well
+as a particular impact on some disadvantaged and vulnerable groups, such as older people, persons with disabilities,
+persons with a minority racial or ethnic background and low and lower-middle income individuals and households.
+It also imposes greater challenges on certain regions, in particular structurally disadvantaged and peripheral regions,
+as well as on islands. It must therefore be ensured that the transition is just and inclusive, leaving no one behind.
+```
+```
+(5) The necessity and the value of delivering on the European Green Deal have only grown in light of the very severe
+effects of the COVID-19 pandemic on the health, the living and working conditions and the well-being of the
+Union’s citizens. Those effects have shown that our society and our economy need to improve their resilience in
+relation to external shocks and act early to prevent or mitigate the effects of external shocks in a manner that is just
+and results in no one being left behind, including those at risk of energy poverty. European citizens continue to
+express strong views that this applies in particular to climate change.
+```
+```
+(6) The Union committed to reducing the Union’s economy-wide net greenhouse gas emissions by at least 55 %
+compared to 1990 levels by 2030 in the updated nationally determined contribution submitted to the UNFCCC
+Secretariat on 17 December 2020.
+```
+```
+(7) Through the adoption of Regulation (EU) 2021/1119 of the European Parliament and of the Council(^5 ), the Union
+has enshrined in legislation the objective of economy-wide climate neutrality by 2050 at the latest and the aim of
+achieving negative emissions thereafter. That Regulation also establishes a binding Union domestic reduction target
+for net greenhouse gas emissions (emissions after deduction of removals) of at least 55 % compared to 1990 levels
+by 2030, and provides that the Commission is to endeavour to align all future draft measures or legislative
+proposals, including budgetary proposals, with the objectives of that Regulation and, in any case of non-alignment,
+provide the reasons for such non-alignment as part of the impact assessment accompanying those proposals.
+```
+```
+(8) All sectors of the economy need to contribute to achieving the emission reductions established by Regulation
+(EU) 2021/1119. Directive 2003/87/EC of the European Parliament and of the Council(^6 )is therefore being
+amended to include maritime transport activities in the EU Emissions Trading System (EU ETS) in order to ensure
+that those activities contribute their fair share to the increased climate objectives of the Union as well as to the
+objectives of the Paris Agreement. It is therefore also necessary to amend Regulation (EU) 2015/757 of the
+European Parliament and of the Council(^7 )to take into account the inclusion of maritime transport activities in the
+EU ETS.
+```
+```
+(9) Furthermore, to take into account the increased climate objectives of the Union as well as the objectives of the Paris
+Agreement, the scope of Regulation (EU) 2015/757 should be amended. A robust monitoring, reporting and
+verification system is a prerequisite for any market-based measure, efficiency standard or other relevant measure,
+whether applied at Union level or globally. While carbon dioxide (CO 2 ) emissions represent the large majority of
+greenhouse gas emissions from maritime transport, methane (CH 4 ) and nitrous oxide (N 2 O) emissions represent a
+relevant share of such emissions. The inclusion of CH 4 and N 2 O emissions in Regulation (EU) 2015/757 would be
+beneficial for environmental integrity and incentivising good practices, and should apply from 2024. General cargo
+ships below 5 000gross tonnage but not below 400 gross tonnage represent a significant share of greenhouse gas
+emissions of all general cargo ships. To increase the environmental effectiveness of the monitoring, reporting and
+```
+```
+(^5 ) Regulation (EU) 2021/1119 of the European Parliament and of the Council of 30 June 2021 establishing the framework for achieving
+climate neutrality and amending Regulations (EC) No 401/2009 and (EU) No 2018/1999 (‘European Climate Law’) (OJ L 243,
+9.7.2021, p. 1).
+(^6 ) Directive 2003/87/EC of the European Parliament and of the Council of 13 October 2003 establishing a system for greenhouse gas
+emission allowance trading within the Union and amending Council Directive 96/61/EC (OJ L 275, 25.10.2003, p. 32).
+(^7 ) Regulation (EU) 2015/757 of the European Parliament and of the Council of 29 April 2015 on the monitoring, reporting and
+verification of carbon dioxide emissions from maritime transport, and amending Directive 2009/16/EC (OJ L 123, 19.5.2015, p. 55).
+```
+L 130/106 EN Official Journal of the European Union 16.5.
+
+
+```
+verification system, ensure a level-playing field and reduce the risk of circumvention, general cargo ships below
+5 000gross tonnage but not below 400 gross tonnage should be included in Regulation (EU) 2015/757 from 2025.
+Offshore ships emit a relevant share of greenhouse gas emissions. Therefore, that Regulation should also apply to
+offshore ships of 400 gross tonnage and above from 2025. The Commission should assess before 31 December
+2024 whether additional ship types below 5 000gross tonnage but not below 400 gross tonnage should be
+included in Regulation (EU) 2015/757.
+```
+```
+(10) Regulation (EU) 2015/757 should be amended to oblige companies to report aggregated emissions data at company
+level and submit such data to the administering authority responsible and to submit for approval to that authority
+their verified monitoring plans. When performing verification at company level, the verifier should not verify the
+emissions reports at ship level or the reports at ship level to be submitted where there is a change of company, as
+those reports at ship level will have been already verified. To ensure coherence in administration and enforcement,
+the entity responsible for compliance with Regulation (EU) 2015/757 should be the same as the entity responsible
+for compliance with Directive 2003/87/EC.
+```
+```
+(11) In order to ensure the effective functioning of the EU ETS at administrative level and to take into account the
+inclusion of CH 4 and N 2 O emissions, as well as the inclusion of greenhouse gas emissions from offshore ships,
+within the scope of Regulation (EU) 2015/757, the power to adopt acts in accordance with Article 290 of the
+Treaty on the Functioning of the European Union should be delegated to the Commission in respect of the
+monitoring methods and rules and the reporting rules for emissions covered by Regulation (EU) 2015/757, as well
+as for any other relevant information set out in that Regulation, the rules for the approval of monitoring plans, and
+changes thereto, by the administering authorities responsible, the rules for the monitoring, reporting and submission
+of aggregated emissions data at company level and the rules for verification of aggregated emissions data at company
+level and for the issuance of verification reports in respect of aggregated emissions data at company level. It is of
+particular importance that the Commission carry out appropriate consultations during its preparatory work,
+including at expert level, and that those consultations be conducted in accordance with the principles laid down in
+the Interinstitutional Agreement of 13 April 2016 on Better Law-Making(^8 ). In particular, to ensure equal
+participation in the preparation of delegated acts, the European Parliament and the Council receive all documents at
+the same time as Member States’ experts, and their experts systematically have access to meetings of Commission
+expert groups dealing with the preparation of delegated acts.
+```
+```
+(12) Since the objectives of this Regulation, namely to provide for monitoring, reporting and verification rules that are
+necessary for an extension of the EU ETS to maritime transport activities and to provide for the monitoring,
+reporting and verification of emissions of additional greenhouse gases and emissions from additional ship types,
+cannot be sufficiently achieved by the Member States but can rather, by reason of its scale and effects, be better
+achieved at Union level, the Union may adopt measures, in accordance with the principle of subsidiarity as set out
+in Article 5 of the Treaty on European Union. In accordance with the principle of proportionality as set out in that
+Article, this Regulation does not go beyond what is necessary in order to achieve those objectives.
+```
+```
+(13) Regulation (EU) 2015/757 should therefore be amended accordingly,
+```
+```
+HAVE ADOPTED THIS REGULATION:
+```
+```
+Article 1
+```
+```
+Amendments to Regulation (EU) 2015/
+```
+```
+Regulation (EU) 2015/757 is amended as follows:
+```
+```
+(1) the title is replaced by the following:
+```
+```
+‘Regulation (EU) 2015/757 of the European Parliament and of the Council of 29 April 2015 on the monitoring,
+reporting and verification of greenhouse gas emissions from maritime transport, and amending
+Directive 2009/16/EC’;
+```
+```
+(^8 ) OJ L 123, 12.5.2016, p. 1.
+```
+16.5.2023 EN Official Journal of the European Union L 130/
+
+
+```
+(2) throughout the Regulation, except in Article 2, Article 5(2) and Article 21(5) and Annexes I and II, the term ‘CO 2 ’ is
+replaced by ‘greenhouse gas’ and any necessary grammatical changes are made;
+```
+```
+(3) Article 1 is replaced by the following:
+```
+```
+‘Article 1
+```
+```
+Subject matter
+```
+```
+This Regulation lays down rules for the accurate monitoring, reporting and verification of greenhouse gas emissions
+and of other relevant information from ships arriving at, within or departing from ports under the jurisdiction of a
+Member State, in order to promote the reduction of greenhouse gas emissions from maritime transport in a cost
+effective manner.’;
+```
+```
+(4) in Article 2, paragraph 1 is replaced by the following:
+```
+```
+‘1. This Regulation applies to ships of 5 000gross tonnage and above in respect of the greenhouse gas emissions
+released during their voyages for transporting for commercial purposes cargo or passengers from such ships’ last
+port of call to a port of call under the jurisdiction of a Member State and from a port of call under the jurisdiction of
+a Member State to their next port of call, as well as within ports of call under the jurisdiction of a Member State.
+```
+```
+1a. From 1 January 2025, this Regulation shall also apply to general cargo ships below 5 000gross tonnage but
+not below 400 gross tonnage in respect of the greenhouse gas emissions released during their voyages for
+transporting cargo for commercial purposes from their last port of call to a port of call under the jurisdiction of a
+Member State and from a port of call under the jurisdiction of a Member State to their next port of call, as well as
+within ports of call under the jurisdiction of a Member State, and to offshore ships below 5 000gross tonnage but
+not below 400 gross tonnage in respect of the greenhouse gas emissions released during their voyages from their last
+port of call to a port of call under the jurisdiction of a Member State and from a port of call under the jurisdiction of a
+Member State to their next port of call, as well as within ports of call under the jurisdiction of a Member State.
+```
+```
+1b. From 1 January 2025 , this Regulation shall apply to offshore ships of 5 000gross tonnage and above in
+respect of the greenhouse gas emissions released during their voyages from their last port of call to a port of call
+under the jurisdiction of a Member State and from a port of call under the jurisdiction of a Member State to their
+next port of call, as well as within ports of call under the jurisdiction of a Member State.
+```
+```
+1c. The greenhouse gases covered by this Regulation are:
+```
+```
+(a) carbon dioxide (CO 2 );
+```
+```
+(b)with regard to emissions released from 2024 onwards, methane (CH 4 ); and
+```
+```
+(c) with regard to emissions released from 2024 onwards, nitrous oxide (N 2 O).
+```
+```
+Where this Regulation refers to total aggregated emissions of greenhouse gases or total aggregated greenhouse gas
+emitted, it shall be understood as referring to the total aggregated amounts of each gas separately.’;
+```
+```
+(5) Article 3 is amended as follows:
+```
+```
+(a) points (a) to (d) are replaced by the following:
+```
+```
+‘(a) “greenhouse gas emissions” means the release of the greenhouse gases covered by this Regulation in
+accordance with Article 2(1c), first subparagraph, by ships;
+```
+```
+(b) “port of call” means a port of call as defined in Article 3, point (z), of Directive 2003/87/EC of the European
+Parliament and of the Council (*);
+```
+L 130/108 EN Official Journal of the European Union 16.5.
+
+
+```
+(c) “voyage” means any movement of a ship that originates from or terminates in a port of call;
+```
+```
+(d) “company” means the shipping company as defined in Article 3, point (w), of Directive 2003/87/EC;
+```
+```
+_____________
+(*) Directive 2003/87/EC of the European Parliament and of the Council of 13 October 2003 establishing a
+system for greenhouse gas emission allowance trading within the Union and amending Council
+Directive 96/61/EC (OJ L 275, 25.10.2003, p. 32).’;
+```
+```
+(b)point (m) is replaced by the following:
+```
+```
+‘(m) “reporting period” means the period from 1 January until 31 December of any given year; for voyages
+starting and ending in two different years, the respective data shall be accounted under the year concerned;’;
+```
+```
+(c) the following points are added:
+```
+```
+‘(p) “administering authority responsible” means the administering authority in respect of a shipping company
+referred to in Article 3gf of Directive 2003/87/EC;
+```
+```
+(q) “aggregated emissions data at company level” means the sum of emissions of the greenhouse gases covered
+by Directive 2003/87/EC in relation to maritime transport activities in accordance with Annex I to that
+Directive and to be reported by a company under that Directive, in respect of all ships under its
+responsibility during the reporting period.’;
+```
+```
+(6) in Article 4, the following paragraph is added:
+```
+```
+‘8. Companies shall report the aggregated emissions data at company level of the ships under their responsibility
+during a reporting period pursuant to Article 11a.’;
+```
+```
+(7) in Article 5, paragraph 2 is replaced by the following:
+```
+```
+‘2. The Commission is empowered to adopt delegated acts in accordance with Article 23 of this Regulation to
+amend Annexes I and II to this Regulation, in order to take into account the inclusion of CH 4 and N 2 O emissions, as
+well as the inclusion of greenhouse gas emissions from offshore ships, within the scope of this Regulation, and
+amendments to Directive 2003/87/EC, as well as to align those Annexes with the implementing acts adopted under
+Article 14(1) of that Directive, with relevant international rules and with international and European standards. The
+Commission is also empowered to adopt delegated acts in accordance with Article 23 of this Regulation to amend
+Annexes I and II to this Regulation in order to refine the elements of the monitoring methods set out therein, in the
+light of technological and scientific developments and in order to ensure the effective operation of the EU Emissions
+Trading System (EU ETS) established pursuant to Directive 2003/87/EC.
+```
+```
+By 1 October 2023 , the Commission shall adopt the delegated acts to take into account the inclusion of CH 4 and N 2 O
+emissions, as well as the inclusion of greenhouse gas emissions from offshore ships, within the scope of this
+Regulation, as referred to in the first subparagraph of this paragraph. The methods for monitoring CH 4 and N 2 O
+emissions shall be based on the same principles as the methods for monitoring CO 2 emissions as set out in Annex I
+to this Regulation, with any adjustments necessary to reflect the nature of the relevant greenhouse gas. The methods
+set out in Annex I to this Regulation and the rules set out in Annex II to this Regulation shall, where appropriate, be
+aligned with the methods and rules set out in a Regulation of the European Parliament and of the Council on the use
+of renewable and low-carbon fuels in maritime transport and amending Directive 2009/16/EC.’;
+```
+```
+(8) Article 6 is amended as follows:
+```
+```
+(a) in paragraph 3, point (b) is replaced by the following:
+```
+```
+‘(b) the name of the company and the address, telephone and email details of a contact person and the IMO
+unique company and registered owner identification number;’;
+```
+16.5.2023 EN Official Journal of the European Union L 130/
+
+
+```
+(b)paragraph 5 is replaced by the following:
+```
+```
+‘5. Companies shall use standardised monitoring plans based on templates, and they shall submit those plans
+using automated systems and data exchange formats. Those templates, including the technical rules for their
+uniform application, and the technical rules for their automatic submission, shall be determined by the
+Commission by means of implementing acts. Those implementing acts shall be adopted in accordance with the
+examination procedure referred to in Article 24(2).’;
+```
+```
+(c) the following paragraphs are added:
+```
+```
+‘6. By 1 April 2024, companies shall, for each of their ships falling within the scope of this Regulation, submit
+to the administering authority responsible a monitoring plan that has been assessed as being in conformity with
+this Regulation by the verifier and that reflects the inclusion of CH 4 and N 2 O emissions within the scope of this
+Regulation.
+```
+7. Notwithstanding paragraph 6, for ships falling within the scope of this Regulation for the first time after
+1 January 2024 , companies shall submit a monitoring plan in conformity with the requirements of this
+Regulation to the administering authority responsible without undue delay and no later than three months after
+each ship’s first call in a port under the jurisdiction of a Member State.
+8. By 6 June 2025 , the administering authorities responsible shall approve the monitoring plans submitted by
+companies in accordance with the rules laid down in the delegated acts adopted by the Commission pursuant to
+the third subparagraph of this paragraph. For ships falling within the scope of Directive 2003/87/EC for the first
+time after 1 January 2024, the administering authority responsible shall approve the submitted monitoring plan
+within four months of the ship’s first call in a port under the jurisdiction of a Member State, in accordance with
+the rules laid down in the delegated acts adopted by the Commission pursuant to the third subparagraph of this
+paragraph.
+
+```
+By 1 October 2023 , the Commission shall adopt delegated acts in accordance with Article 23 to amend Articles 6
+to 10 as regards the rules contained in those Articles for monitoring plans, to take into account the inclusion of
+CH 4 and N 2 O emissions, as well as the inclusion of greenhouse gas emissions from offshore ships, within the
+scope of this Regulation.
+```
+```
+The Commission is empowered to adopt delegated acts in accordance with Article 23 to supplement this
+Regulation concerning rules for the approval of monitoring plans by the administering authorities responsible.’;
+```
+```
+(9) Article 7 is amended as follows:
+```
+```
+(a) paragraph 4 is replaced by the following:
+```
+```
+‘4. Modifications of the monitoring plan under paragraph 2, points (b), (c) and (d), of this Article shall be
+subject to assessment by the verifier in accordance with Article 13(1). Following the assessment, the verifier shall
+notify the company as to whether those modifications are in conformity. The company shall submit its modified
+monitoring plan to the administering authority responsible once it has received a notification from the verifier
+that the monitoring plan is in conformity.’;
+```
+```
+(b)the following paragraph is added:
+```
+```
+‘5. The administering authority responsible shall approve modifications of the monitoring plan under
+paragraph 2, points (a) to (d), in accordance with the rules laid down in the delegated acts adopted by the
+Commission pursuant to the second subparagraph of this paragraph.
+```
+```
+The Commission is empowered to adopt delegated acts in accordance with Article 23 to supplement this
+Regulation concerning rules for the approval of changes in the monitoring plans by the administering authorities
+responsible.’;
+```
+L 130/110 EN Official Journal of the European Union 16.5.
+
+
+```
+(10) in Article 10, first paragraph, the following point is added:
+```
+```
+‘(k) total aggregated emissions of greenhouse gases covered by Directive 2003/87/EC in relation to maritime
+transport activities in accordance with Annex I to that Directive and to be reported under that Directive,
+together with the necessary information to justify the application of any relevant derogation from Article 12(3)
+of that Directive provided for in Article 12(3-e) to (3-b) thereof.’;
+```
+```
+(11) Article 11 is amended as follows:
+```
+```
+(a) in paragraph 1, the following subparagraph is added:
+```
+```
+‘From 2025, by 31 March of each year, companies shall, for each ship under their responsibility, submit to the
+administering authority responsible, to the authorities of the f lag States concerned for ships f lying the f lag of a
+Member State and to the Commission an emissions report for the entire reporting period of the previous year,
+which has been verified as satisfactory by a verifier in accordance with Article 13. The administering authority
+responsible may require companies to submit their emissions reports by a date earlier than 31 March, but not earlier
+than by 28 February.’;
+```
+```
+(b)paragraph 2 is replaced by the following:
+```
+```
+‘2. Where there is a change of company, the previous company shall submit to the administering authority
+responsible, to the authorities of the f lag States concerned for ships f lying the f lag of a Member State, to the new
+company and to the Commission, as close as practicable to the day of the completion of the change and no later
+than three months thereafter, a verified report covering the same elements as the emissions report referred to in
+paragraph 1, but limited to the period corresponding to the activities carried out under its responsibility.’;
+```
+```
+(c) the following paragraph is added:
+```
+```
+‘4. By 1 October 2023 , the Commission shall adopt delegated acts in accordance with Article 23 to amend
+Articles 11, 11a and 12 concerning the rules for reporting to take into account the inclusion of CH 4 and N 2 O
+emissions, as well as the inclusion of greenhouse gas emissions from offshore ships, within the scope of this
+Regulation.’;
+```
+```
+(12) the following article is inserted:
+```
+```
+‘Article 11a
+```
+```
+Reporting and submission of the aggregated emissions data at company level
+```
+1. Companies shall determine the aggregated emissions data at company level during a reporting period, based on
+the data of the emissions report and the report referred to in Article 11(2) for each ship that was under their
+responsibility during the reporting period, in accordance with the rules laid down in the delegated acts adopted
+pursuant to paragraph 4 of this Article.
+2. From 2025, companies shall submit to the administering authority responsible by 31 March of each year the
+aggregated emissions data at company level that cover the emissions in the reporting period of the previous year to
+be reported under Directive 2003/87/EC in relation to maritime transport activities, in accordance with the rules laid
+down in the delegated acts adopted pursuant to paragraph 4 of this Article, and that have been verified in accordance
+with Chapter III of this Regulation.
+3. The administering authority responsible may require companies to submit the verified aggregated emissions
+data at company level referred to in paragraph 2 by a date earlier than 31 March, but not earlier than by 28 February.
+4. The Commission is empowered to adopt delegated acts in accordance with Article 23 to supplement this
+Regulation with the rules for the monitoring and reporting of the aggregated emissions data at company level and
+the submission of the aggregated emissions data at company level to the administering authority responsible.’;
+
+16.5.2023 EN Official Journal of the European Union L 130/
+
+
+```
+(13) Article 12 is amended as follows:
+```
+```
+(a) the title is replaced by the following:
+```
+```
+‘Format of the emissions report and reporting of aggregated emissions data at company level’;
+```
+```
+(b)paragraph 1 is replaced by the following:
+```
+```
+‘1. The emissions report and the reporting of aggregated emissions data at company level shall be submitted
+using automated systems and data exchange formats, including electronic templates.’;
+```
+```
+(14) Article 13 is amended as follows:
+```
+```
+(a) paragraph 2 is replaced by the following:
+```
+```
+‘2. The verifier shall assess the conformity of the emissions report and the report referred to in Article 11(2)
+with the requirements laid down in Articles 8 to 12 and Annexes I and II.’;
+```
+```
+(b)the following paragraphs are added:
+```
+```
+‘5. The verifier shall assess the conformity of the aggregated emissions data at company level with the
+requirements laid down in the delegated acts adopted pursuant to paragraph 6.
+```
+```
+Where the verifier concludes, with reasonable assurance, that the aggregated emissions data at company level are
+free from material misstatements, the verifier shall issue a verification report stating that the aggregated emissions
+data at company level have been verified as satisfactory in accordance with the rules laid down in the delegated
+acts adopted pursuant to paragraph 6.
+```
+6. The Commission is empowered to adopt delegated acts in accordance with Article 23 to supplement this
+Regulation with the rules for the verification of the aggregated emissions data at company level, including the
+verification methods and verification procedure, and the issuance of a verification report.’;
+
+```
+(15) Article 14 is amended as follows:
+```
+```
+(a) in paragraph 2, point (d) is replaced by the following:
+```
+```
+‘(d) the calculations leading to the determination of the overall greenhouse gas emissions and of the total
+aggregated emissions of greenhouse gases covered by Directive 2003/87/EC in relation to maritime
+transport activities in accordance with Annex I to that Directive and to be reported under that Directive;’;
+```
+```
+(b)the following paragraph is added:
+```
+```
+‘4. When considering the verification of the aggregated emissions data at company level, the verifier shall
+assess the completeness of the reported data and the consistency of those reported data with the information
+provided by the company, including its verified emissions reports and reports referred to in Article 11(2).’;
+```
+```
+(16) in Article 15, the following paragraph is added:
+```
+```
+‘6. In respect of the verification of aggregated emissions data at company level, the verifier and the company shall
+comply with the verification rules laid down in the delegated acts adopted pursuant to Article 13(6). The verifier shall
+not verify the emissions report and the report referred to in Article 11(2) of each ship under the responsibility of the
+company.’;
+```
+```
+(17) in Article 16, paragraph 1 is replaced by the following:
+```
+```
+‘1. Verifiers that assess the monitoring plans, the emissions reports, the reports referred to in Article 11(2) of this
+Regulation and the aggregated emissions data at company level, and issue the verification reports referred to in
+Article 13(3) and (5) of this Regulation and documents of compliance referred to in Article 17(1) of this Regulation
+shall be accredited for activities within the scope of this Regulation by a national accreditation body pursuant to
+Regulation (EC) No 765/2008.’;
+```
+L 130/112 EN Official Journal of the European Union 16.5.
+
+
+```
+(18) Article 20 is amended as follows:
+```
+```
+(a) paragraph 3 is replaced by the following:
+```
+```
+‘3. In the case of a ship that has failed to comply with the monitoring and reporting obligations for two or
+more consecutive reporting periods, and where other enforcement measures have failed to ensure compliance,
+the competent authority of the Member State of the port of entry may, after giving the opportunity to the
+company concerned to submit its observations, issue an expulsion order, which shall be notified to the
+Commission, the European Maritime Safety Agency (EMSA), the other Member States and the f lag State
+concerned. As a result of the issuing of such an expulsion order, every Member State, with the exception of the
+Member State whose f lag the ship is flying, shall refuse entry of the ship concerned into any of its ports until the
+company fulfils its monitoring and reporting obligations in accordance with Articles 11 and 18. Where such a
+ship f lies the f lag of a Member State and enters or is found in one of its ports, the Member State concerned shall,
+after giving the opportunity to the company concerned to submit its observations, detain the ship until the
+company fulfils its monitoring and reporting obligations.
+```
+```
+Where a ship as referred to in the first subparagraph is found in one of the ports of the Member State whose flag
+the ship is f lying, the Member State concerned may, after giving the opportunity to the company concerned to
+submit its observations, issue a f lag State detention order until the company fulfils its monitoring and reporting
+obligations. It shall inform the Commission, EMSA and the other Member States thereof.
+```
+```
+The fulfilment of those monitoring and reporting obligations shall be confirmed by the notification of a valid
+document of compliance to the competent national authority which issued the expulsion order. This paragraph
+shall be without prejudice to international maritime rules applicable in the case of ships in distress.’;
+```
+```
+(b)in paragraph 5, the following subparagraph is added:
+```
+```
+‘The possibility of derogating under the first subparagraph shall not apply to a Member State whose authority is the
+administering authority responsible.’;
+```
+```
+(19) Article 21 is amended as follows:
+```
+```
+(a) in paragraph 2, point (a) is replaced by the following:
+```
+```
+‘(a) the identity of the ship (name, company, IMO identification number and port of registry or home port);’;
+```
+```
+(b)paragraph 5 is replaced by the following:
+```
+```
+‘5. The Commission shall every two years assess the overall impact of maritime transport activities on the
+global climate, including through emissions or effects of greenhouse gases other than CO 2 and of particles with a
+global warming potential not covered by this Regulation.’;
+```
+```
+(20) the following article is inserted:
+```
+```
+‘Article 22a
+```
+```
+Review
+```
+```
+The Commission shall, no later than 31 December 2024 , review this Regulation, in particular taking into account
+further experience gained in its implementation, inter alia, for the purpose of including ships below 5 000gross
+tonnage but not below 400 gross tonnage within the scope of this Regulation with a view to a possible subsequent
+inclusion of such ships within the scope of Directive 2003/87/EC or to proposing other measures to reduce
+greenhouse gas emissions from such ships. That review shall, where appropriate, be accompanied by a legislative
+proposal to amend this Regulation.’;
+```
+```
+(21) Article 23 is amended as follows:
+```
+```
+(a) paragraphs 2 and 3 are replaced by the following:
+```
+```
+‘2. The power to adopt delegated acts referred to in Article 5(2), Article 15(5) and Article 16(3) shall be
+conferred on the Commission for a period of five years from 1 July 2015.
+```
+16.5.2023 EN Official Journal of the European Union L 130/
+
+
+```
+The power to adopt delegated acts referred to in Article 6(8), Article 7(5), Article 11(4), Article 11a(4) and
+Article 13(6) shall be conferred on the Commission for a period of five years from 5 June 2023.
+```
+```
+The Commission shall draw up a report in respect of the delegation of power not later than nine months before
+the end of the respective five-year period. The delegation of power shall be tacitly extended for periods of an
+identical duration, unless the European Parliament or the Council opposes such extension not later than three
+months before the end of each period.
+```
+3. The delegation of power referred to in Article 5(2), Article 6(8), Article 7(5), Article 11(4), Article 11a(4),
+Article 13(6), Article 15(5) and Article 16(3) may be revoked at any time by the European Parliament or by the
+Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall
+take effect the day following the publication of the decision in the Official Journal of the European Union or at a
+later date specified therein. It shall not affect the validity of any delegated acts already in force.’;
+(b)paragraph 5 is replaced by the following:
+‘5. A delegated act adopted pursuant to Article 5(2), Article 6(8), Article 7(5), Article 11(4), Article 11a(4),
+Article 13(6), Article 15(5) or Article 16(3) shall enter into force only if no objection has been expressed either
+by the European Parliament or by the Council within a period of two months of notification of that act to the
+European Parliament and the Council or if, before the expiry of that period, the European Parliament and the
+Council have both informed the Commission that they will not object. That period shall be extended by two
+months at the initiative of the European Parliament or of the Council.
+
+```
+However, the first subparagraph, last sentence, of this paragraph shall not apply to delegated acts adopted by
+1 October 2023 pursuant to Article 5(2), second subparagraph, Article 6(8), second subparagraph, or
+Article 11(4).’.
+```
+```
+Article 2
+```
+```
+Entry into force and application
+```
+```
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the
+European Union.
+```
+```
+It shall apply from 5 June 2023. However, Article 1, point (5)(a) and point (5)(b), of this Regulation, as regards Article 3,
+points (b), (d) and (m), of Regulation (EU) 2015/757, shall apply from 1 January 2024.
+```
+```
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+```
+```
+Done at Strasbourg, 10 May 2023.
+```
+```
+For the European Parliament
+The President
+R. METSOLA
+```
+```
+For the Council
+The President
+J. ROSWALL
+```
+L 130/114 EN Official Journal of the European Union 16.5.
+
+
