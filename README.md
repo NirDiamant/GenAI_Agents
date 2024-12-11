@@ -68,7 +68,10 @@ Explore our extensive list of GenAI agent implementations, sorted by categories:
 
 ### 🌱 Beginner-Friendly Agents
 
-1. **[Simple Conversational Agent](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/simple_conversational_agent.ipynb)**
+1. **Simple Conversational Agent**
+
+   - **[LangChain](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/simple_conversational_agent.ipynb)**
+   - **[PydanticAI](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/simple_conversational_agent-pydanticai.ipynb)**
    
     #### Overview 🔎
     A context-aware conversational AI maintains information across interactions, enabling more natural dialogues.
