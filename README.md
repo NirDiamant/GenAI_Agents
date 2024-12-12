@@ -126,6 +126,7 @@ Explore our extensive list of GenAI agent implementations, sorted by categories:
 
     #### Additional Resources 📚
     - **[YouTube Explanation](https://youtu.be/Bc4YtpHY6Ws)** 
+    - **[Blog Post](https://open.substack.com/pub/diamantai/p/nexus-ai-the-revolutionary-research?r=336pe4&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)**
 
 7. **[Chiron - A Feynman-Enhanced Learning Agent](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/chiron_learning_agent_langgraph.ipynb)**
    
@@ -479,6 +480,7 @@ Explore our extensive list of GenAI agent implementations, sorted by categories:
 
     #### Additional Resources 📚
     - **[YouTube Explanation](https://www.youtube.com/watch?v=fQd6lXc-Y9A)**
+    - **[Blog Post](https://open.substack.com/pub/diamantai/p/langgraph-systems-inspector-an-ai?r=336pe4&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)**
 
 41. **[EU Green Deal FAQ Bot](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/EU_Green_Compliance_FAQ_Bot.ipynb)**
 
