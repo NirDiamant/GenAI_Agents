@@ -115,6 +115,7 @@ Explore our extensive list of GenAI agent implementations, sorted by categories:
 
     #### Additional Resources 📚
     - **[YouTube Explanation](https://www.youtube.com/watch?v=yxowMLL2dDI)** 
+    - **[Blog Post](https://open.substack.com/pub/diamantai/p/atlas-when-artificial-intelligence?r=336pe4&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)**
 
 6. **[Scientific Paper Agent - Literature Review](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/scientific_paper_agent_langgraph.ipynb)**
    
