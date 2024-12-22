@@ -86,8 +86,11 @@ Explore our extensive list of GenAI agent implementations, sorted by categories:
    #### Implementation 🛠️
    Combines OpenAI's GPT model, a prompt template, and an LLMChain to process user questions and generate AI-driven responses in a streamlined manner.
 
-3. **[Simple Data Analysis Agent](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/simple_data_analysis_agent_notebook.ipynb)**
-   
+3. **Simple Data Analysis Agent**
+
+   - **[LangChain](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/simple_data_analysis_agent_notebook.ipynb)**
+   - **[PydanticAI](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/simple_data_analysis_agent_notebook-pydanticai.ipynb)**
+
    #### Overview 🔎
    An AI-powered data analysis agent interprets and answers questions about datasets using natural language, combining language models with data manipulation tools for intuitive data exploration.
    #### Implementation 🛠️
