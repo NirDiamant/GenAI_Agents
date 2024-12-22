@@ -380,6 +380,7 @@ Explore our extensive list of GenAI agent implementations, sorted by categories:
 
     #### Additional Resources 📚
     - **[YouTube Explanation](https://www.youtube.com/watch?v=0fRxW6miybI)**
+    - **[Blog Post](https://open.substack.com/pub/diamantai/p/stop-reading-start-understanding?r=336pe4&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)**
 
 32. **[AInsight: AI/ML Weekly News Reporter](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/ainsight_langgraph.ipynb)**
 
