@@ -17,7 +17,7 @@ Welcome to one of the most extensive and dynamic collections of Generative AI (G
 <tr>
 <td align="center">🚀<br><b>Cutting-edge<br>Updates</b></td>
 <td align="center">💡<br><b>Expert<br>Insights</b></td>
-<td align="center">🎯<br><b>Top 1%<br>Content</b></td>
+<td align="center">🎯<br><b>Top 0.1%<br>Content</b></td>
 </tr>
 </table>
 
