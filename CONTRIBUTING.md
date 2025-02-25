@@ -127,6 +127,33 @@ To ensure the highest quality and readability of our code:
 
 Clear documentation is crucial. Whether you're improving existing docs or adding new ones, follow the same process: fork, change, test, and submit a pull request.
 
+## Adding the Clone Notebook
+
+When adding the `clone` notebook to the repository, please follow these additional steps:
+
+1. Create your notebook in the `all_agents_tutorials` folder.
+2. Update the README.md file:
+   - Add your new `clone` notebook to the list of implementations in the README.
+   - Place it in the appropriate category based on complexity and type.
+   - Use the following format for the link:
+     ```
+     ### [Number]. [Clone Repository 🏷️](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/clone.ipynb)
+     ```
+   - Replace `[Number]` with the appropriate number, `[Clone Repository]` with your notebook's name, and `clone.ipynb` with the actual name of your notebook file.
+   - Choose an appropriate emoji that represents your notebook.
+   - After inserting your new notebook, make sure to update the numbers of all subsequent notebooks to maintain the correct order.
+
+For example:
+```
+### 🌱 Beginner-Friendly Agents
+
+1. [Simple Conversational Agent 💬](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/simple_conversational_agent.ipynb)
+2. [Clone Repository 🏷️](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/clone.ipynb)
+3. [Next Agent 🔜](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/next_agent.ipynb)
+```
+
+Remember to increment the numbers of all agents that come after your newly inserted implementation.
+
 ## Final Notes
 
 We're grateful for all our contributors and excited to see how you'll help expand the world's most comprehensive GenAI agent resource. Don't hesitate to ask questions in our Discord community if you're unsure about anything.
