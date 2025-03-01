@@ -408,7 +408,7 @@ Explore our extensive list of GenAI agent implementations, sorted by categories:
     Leverages LangGraph to orchestrate a workflow of specialized components including language models for analysis and generation, web search integration via DuckDuckGo's API, document parsing tools like PyMuPDFLoader and WebBaseLoader, text splitting with RecursiveCharacterTextSplitter, and structured JSON outputs. Each component works together through a unified workflow to analyze content, verify facts, detect bias, extract quotes, and generate comprehensive reports.
 
 
-34. **[Blog Writer (Open AI Swarm)](https://github.com/YourUsername/GenAI_Agents/blob/main/all_agents_tutorials/blog_writer_swarm.ipynb)**
+34. **[Blog Writer (Open AI Swarm)](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/blog_writer_swarm.ipynb)**
 
     #### Overview 🔎
     A multi-agent system for collaborative blog post creation using OpenAI's Swarm package. It leverages specialized agents to perform research, planning, writing, and editing tasks efficiently.
