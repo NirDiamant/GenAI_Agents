@@ -381,6 +381,8 @@ Explore our extensive list of GenAI agent implementations, sorted by categories:
     #### Implementation 🛠️
     Leverages LangGraph for workflow orchestration and LangMem for sophisticated memory management across multiple memory types. The system implements a triage workflow with memory-enhanced decision making, specialized tools for email composition and calendar management, and a self-improvement mechanism that updates its own prompts based on feedback and past performance.
 
+    #### Additional Resources 📚
+    - **[Blog Post](https://open.substack.com/pub/diamantai/p/building-an-ai-agent-with-memory?r=336pe4&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)
 
 ### 📰 News and Information Agents
 
