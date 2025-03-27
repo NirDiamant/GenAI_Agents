@@ -33,6 +33,20 @@ Welcome to one of the most extensive and dynamic collections of Generative AI (G
 
 Generative AI agents are at the forefront of artificial intelligence, revolutionizing the way we interact with and leverage AI technologies. This repository is designed to guide you through the development journey, from basic agent implementations to advanced, cutting-edge systems.
 
+<div align="center">
+<table>
+<tr>
+<td>
+<h3>📚 Learn to Build Your First AI Agent</h3>
+<p><strong><a href="https://diamantai.substack.com/p/your-first-ai-agent-simpler-than">Your First AI Agent: Simpler Than You Think</a></strong></p>
+<p>This detailed blog post complements the repository by providing a complete A-Z walkthrough with in-depth explanations of core concepts, step-by-step implementation, and the theory behind AI agents. It's designed to be incredibly simple to follow while covering everything you need to know to build your first working agent from scratch.</p>
+<p><em>💡 Plus: Subscribe to the newsletter for exclusive early access to tutorials and special discounts on upcoming courses and books!</em></p>
+</td>
+</tr>
+</table>
+</div>
+
+
 Our goal is to provide a valuable resource for everyone - from beginners taking their first steps in AI to seasoned practitioners pushing the boundaries of what's possible. By offering a range of examples from foundational to complex, we aim to facilitate learning, experimentation, and innovation in the rapidly evolving field of GenAI agents.
 
 Furthermore, this repository serves as a platform for showcasing innovative agent creations. Whether you've developed a novel agent architecture or found an innovative application for existing techniques, we encourage you to share your work with the community.
