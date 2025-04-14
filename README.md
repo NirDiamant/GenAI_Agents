@@ -78,6 +78,56 @@ Whether you're a novice eager to learn or an expert ready to share your knowledg
 
 ## GenAI Agent Implementations
 
+Below is a comprehensive overview of our GenAI agent implementations, organized by category and functionality. Each implementation is designed to showcase different aspects of AI agent development, from basic conversational agents to complex multi-agent systems.
+
+| #  | Category          | Agent Name                    | Framework         | Key Features                                                                 |
+|----|-------------------|-------------------------------|-------------------|------------------------------------------------------------------------------|
+| 1  | 🌱 **Beginner**   | Simple Conversational Agent   | LangChain/PydanticAI | Context-aware conversations, history management                              |
+| 2  | 🌱 **Beginner**   | Simple Question Answering     | LangChain         | Query understanding, concise answers                                         |
+| 3  | 🌱 **Beginner**   | Simple Data Analysis          | LangChain/PydanticAI | Dataset interpretation, natural language queries                            |
+| 4  | 🔧 **Framework**  | Introduction to LangGraph     | LangGraph         | Modular AI workflows, state management                                       |
+| 5  | 🔧 **Framework**  | Model Context Protocol (MCP)  | MCP              | AI-external resource integration                                             |
+| 6  | 🎓 **Educational**| ATLAS: Academic Task System   | LangGraph         | Multi-agent academic planning, note-taking                                   |
+| 7  | 🎓 **Educational**| Scientific Paper Agent        | LangGraph         | Literature review automation                                                 |
+| 8  | 🎓 **Educational**| Chiron - Feynman Learning     | LangGraph         | Adaptive learning, checkpoint system                                         |
+| 9  | 💼 **Business**   | Customer Support Agent        | LangGraph         | Query categorization, sentiment analysis                                     |
+| 10 | 💼 **Business**   | Essay Grading Agent           | LangGraph         | Automated grading, multiple criteria                                         |
+| 11 | 💼 **Business**   | Travel Planning Agent         | LangGraph         | Personalized itineraries                                                     |
+| 12 | 💼 **Business**   | GenAI Career Assistant        | LangGraph         | Career guidance, learning paths                                              |
+| 13 | 💼 **Business**   | Project Manager Assistant     | LangGraph         | Task generation, risk assessment                                             |
+| 14 | 💼 **Business**   | Contract Analysis Assistant   | LangGraph         | Clause analysis, compliance checking                                         |
+| 15 | 💼 **Business**   | E2E Testing Agent             | LangGraph         | Test automation, browser control                                             |
+| 16 | 🎨 **Creative**   | GIF Animation Generator       | LangGraph         | Text-to-animation pipeline                                                   |
+| 17 | 🎨 **Creative**   | TTS Poem Generator            | LangGraph         | Text classification, speech synthesis                                        |
+| 18 | 🎨 **Creative**   | Music Compositor              | LangGraph         | AI music composition                                                         |
+| 19 | 🎨 **Creative**   | Content Intelligence          | LangGraph         | Multi-platform content generation                                            |
+| 20 | 🎨 **Creative**   | Business Meme Generator       | LangGraph         | Brand-aligned meme creation                                                  |
+| 21 | 🎨 **Creative**   | Murder Mystery Game           | LangGraph         | Procedural story generation                                                  |
+| 22 | 📊 **Analysis**   | Memory-Enhanced Conversational| LangChain         | Short/long-term memory integration                                           |
+| 23 | 📊 **Analysis**   | Multi-Agent Collaboration     | LangChain         | Historical research, data analysis                                           |
+| 24 | 📊 **Analysis**   | Self-Improving Agent          | LangChain         | Learning from interactions                                                   |
+| 25 | 📊 **Analysis**   | Task-Oriented Agent           | LangChain         | Text summarization, translation                                              |
+| 26 | 📊 **Analysis**   | Internet Search Agent         | LangChain         | Web research, summarization                                                  |
+| 27 | 📊 **Analysis**   | Research Team - Autogen       | AutoGen           | Multi-agent research collaboration                                           |
+| 28 | 📊 **Analysis**   | Sales Call Analyzer           | LangGraph         | Audio transcription, NLP analysis                                            |
+| 29 | 📊 **Analysis**   | Weather Emergency System      | LangGraph         | Real-time data processing                                                    |
+| 30 | 📊 **Analysis**   | Self-Healing Codebase         | LangGraph         | Error detection, automated fixes                                             |
+| 31 | 📊 **Analysis**   | DataScribe                    | LangGraph         | Database exploration, query planning                                         |
+| 32 | 📊 **Analysis**   | Memory-Enhanced Email         | LangGraph         | Email triage, response generation                                            |
+| 33 | 📰 **News**       | News TL;DR                    | LangGraph         | News summarization, API integration                                          |
+| 34 | 📰 **News**       | AInsight                      | LangGraph         | AI/ML news aggregation                                                       |
+| 35 | 📰 **News**       | Journalism Assistant          | LangGraph         | Fact-checking, bias detection                                                |
+| 36 | 📰 **News**       | Blog Writer                   | OpenAI Swarm      | Collaborative content creation                                               |
+| 37 | 📰 **News**       | Podcast Generator             | LangGraph         | Content search, audio generation                                             |
+| 38 | 🛍️ **Shopping**  | ShopGenie                     | LangGraph         | Product comparison, recommendations                                          |
+| 39 | 🛍️ **Shopping**  | Car Buyer Agent               | LangGraph         | Web scraping, decision support                                               |
+| 40 | 🎯 **Task Management** | Taskifier                | LangGraph         | Work style analysis, task breakdown                                          |
+| 41 | 🎯 **Task Management** | Grocery Management        | CrewAI            | Inventory tracking, recipe suggestions                                       |
+| 42 | 🔍 **QA**         | LangGraph Inspector           | LangGraph         | System testing, vulnerability detection                                      |
+| 43 | 🔍 **QA**         | EU Green Deal Bot             | LangGraph         | Regulatory compliance, FAQ system                                            |
+| 44 | 🔍 **QA**         | Systematic Review             | LangGraph         | Academic paper processing, draft generation                                  |
+| 45 | 🌟 **Advanced**   | Controllable RAG Agent        | Custom            | Complex question answering, deterministic graph                              |
+
 Explore our extensive list of GenAI agent implementations, sorted by categories:
 
 ### 🌱 Beginner-Friendly Agents
