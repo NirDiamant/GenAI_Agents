@@ -56,7 +56,7 @@ When adding a new GenAI agent to the repository, please follow these additional 
 3. Update the table in the README.md:
    - Add a new row to the table with your agent's information
    - Follow the existing table format with columns for:
-     - # (number)
+     - (number)
      - Category
      - Agent Name
      - Framework
