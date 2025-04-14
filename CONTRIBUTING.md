@@ -53,17 +53,28 @@ When adding a new GenAI agent to the repository, please follow these additional 
    - Replace `[Number]` with the appropriate number, `[Your Agent Name]` with your agent's name, and `your_file_name.ipynb` with the actual name of your notebook file.
    - Choose an appropriate emoji that represents your agent.
    - After inserting your new agent, make sure to update the numbers of all subsequent agents to maintain the correct order.
+3. Update the table in the README.md:
+   - Add a new row to the table with your agent's information
+   - Follow the existing table format with columns for:
+     - # (number)
+     - Category
+     - Agent Name
+     - Framework
+     - Key Features
+   - Use the same category emojis and formatting as existing entries
+   - Place your agent in the appropriate category
+   - Increment the numbers of all subsequent agents in the table
 
 For example:
 ```
-### 🌱 Beginner-Friendly Agents
-
-1. [Simple Conversational Agent 💬](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/simple_conversational_agent.ipynb)
-2. [Your New Agent 🆕](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/your_new_agent.ipynb)
-3. [Next Agent 🔜](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/next_agent.ipynb)
+| #  | Category          | Agent Name                    | Framework         | Key Features                                                                 |
+|----|-------------------|-------------------------------|-------------------|------------------------------------------------------------------------------|
+| 1  | 🌱 **Beginner**   | [Simple Conversational Agent](all_agents_tutorials/simple_conversational_agent.ipynb)   | LangChain/PydanticAI | Context-aware conversations, history management                              |
+| 2  | 🌱 **Beginner**   | [Your New Agent](all_agents_tutorials/your_new_agent.ipynb)     | LangGraph         | Feature 1, Feature 2                                                         |
+| 3  | 🌱 **Beginner**   | [Next Agent](all_agents_tutorials/next_agent.ipynb)          | LangChain         | Feature 1, Feature 2                                                         |
 ```
 
-Remember to increment the numbers of all agents that come after your newly inserted implementation.
+Remember to increment the numbers of all agents that come after your newly inserted implementation in both the list and the table.
 
 ## Notebook Structure
 
