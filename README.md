@@ -132,6 +132,7 @@ Explore our extensive list of GenAI agent implementations, sorted by categories:
    Provides a hands-on guide to implementing MCP servers and clients, demonstrating how to connect language models with external tools and data sources. The tutorial covers server setup, tool definition, and integration with AI clients, with practical examples of building useful agent capabilities through the protocol.
 
    #### Additional Resources 📚
+   - **[Blog Post](https://open.substack.com/pub/diamantai/p/model-context-protocol-mcp-explained?r=336pe4&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)**
    - **[Official MCP Documentation](https://modelcontextprotocol.io/introduction)**
    - **[MCP GitHub Repository](https://github.com/modelcontextprotocol)**
 
