@@ -53,6 +53,8 @@ Furthermore, this repository serves as a platform for showcasing innovative agen
 
 ## Related Projects
 
+🚀 Level up with my **[Agents Towards Production](https://github.com/NirDiamant/agents-towards-production)** repository. It delivers horizontal, code-first tutorials that cover every tool and step in the lifecycle of building production-grade GenAI agents, guiding you from spark to scale with proven patterns and reusable blueprints for real-world launches, making it the smartest place to start if you're serious about shipping agents to production.
+
 📚 Dive into my **[comprehensive guide on RAG techniques](https://github.com/NirDiamant/RAG_Techniques)** to learn about integrating external knowledge into AI systems, enhancing their capabilities with up-to-date and relevant information retrieval.
 
 🖋️ Explore my **[Prompt Engineering Techniques guide](https://github.com/NirDiamant/Prompt_Engineering)** for an extensive collection of prompting strategies, from fundamental concepts to advanced methods, improving your ability to communicate effectively with AI language models.
