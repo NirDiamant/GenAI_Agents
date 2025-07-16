@@ -3,7 +3,7 @@
 [![Reddit](https://img.shields.io/badge/Reddit-Join%20our%20subreddit-FF4500?style=flat-square&logo=reddit&logoColor=white)](https://www.reddit.com/r/EducationalAI/)
 [![Twitter](https://img.shields.io/twitter/follow/NirDiamantAI?label=Follow%20@NirDiamantAI&style=social)](https://twitter.com/NirDiamantAI)
 [![Discord](https://img.shields.io/badge/Discord-Join%20our%20community-7289da?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/cA6Aa4uyDX)
-
+[![Visualise&nbsp;Repo](https://img.shields.io/badge/Visualise%20Repo-blue?style=flat-square)](https://repomapr.com/nirdiamant/genai_agents)
 
 > 🌟 **Support This Project:** Your sponsorship fuels innovation in GenAI agent development. **[Become a sponsor](https://github.com/sponsors/NirDiamant)** to help maintain and expand this valuable resource!
 
