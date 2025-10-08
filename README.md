@@ -15,7 +15,7 @@ Welcome to one of the most extensive and dynamic collections of Generative AI (G
 
 <div align="center">
 
-[![CodeRabbit](images/coderabbit_Light_Type_Mark_Orange.png)](https://coderabbit.link/nir)
+<a href="https://coderabbit.link/nir"><img src="images/coderabbit_Light_Type_Mark_Orange.png" width="20%" height="20%" alt="CodeRabbit" /></a>
 
 </div>
 
