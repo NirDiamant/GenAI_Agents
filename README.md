@@ -16,10 +16,6 @@ Welcome to one of the most extensive and dynamic collections of Generative AI (G
 <div align="center">
 
 <a href="https://coderabbit.link/nir"><img src="images/coderabbit_Light_Type_Mark_Orange.png" height="80" alt="CodeRabbit" /></a>
-<br><br>
-<a href="https://www.igpt.ai/?utm_source=nir_diamant"><img src="images/iGPT-logo-Black.png" height="80" alt="iGPT" /></a>
-<br>
-<small><em>iGPT is onboarding in batches — click the logo to join the waitlist.</em></small>
 
 </div>
 
