@@ -660,3 +660,5 @@ This project is licensed under a custom non-commercial license - see the [LICENS
 ⭐️ If you find this repository helpful, please consider giving it a star!
 
 Keywords: GenAI, Generative AI, Agents, NLP, AI, Machine Learning, Natural Language Processing, LLM, Conversational AI, Task-Oriented AI
+
+- [ODEI](https://api.odei.ai) - Constitutional world model for AI agents. Neo4j knowledge graph (91 nodes, 6 domains), 7-layer safety guardrails (APPROVED/REJECTED/ESCALATE), smart contract audit. Production since Jan 2026. [GitHub](https://github.com/odei-ai/web)
