@@ -88,6 +88,7 @@ Whether you're a novice eager to learn or an expert ready to share your knowledg
 - 🛠️ Practical, ready-to-use agent implementations
 - 🌟 Regular updates with the latest advancements in GenAI
 - 🤝 Share your own agent creations with the community
+- 🔌 Multi-provider LLM support — switch between OpenAI, [MiniMax](https://www.minimaxi.com/), and other OpenAI-compatible providers via `utils/llm_provider.py`
 
 ## GenAI Agent Implementations
 
@@ -140,6 +141,7 @@ Below is a comprehensive overview of our GenAI agent implementations, organized 
 | 43 | 🔍 **QA**         | [EU Green Deal Bot](all_agents_tutorials/EU_Green_Compliance_FAQ_Bot.ipynb)             | LangGraph         | Regulatory compliance, FAQ system                                            |
 | 44 | 🔍 **QA**         | [Systematic Review](all_agents_tutorials/systematic_review_of_scientific_articles.ipynb)             | LangGraph         | Academic paper processing, draft generation                                  |
 | 45 | 🌟 **Advanced**   | [Controllable RAG Agent](https://github.com/NirDiamant/Controllable-RAG-Agent)        | Custom            | Complex question answering, deterministic graph                              |
+| 46 | 🔧 **Framework**  | [Multi-Provider Agent (MiniMax)](all_agents_tutorials/multi_provider_conversational_agent.ipynb) | LangChain | Multi-provider LLM support, OpenAI/MiniMax switching, env-based config       |
 
 Explore our extensive list of GenAI agent implementations, sorted by categories:
 
@@ -198,6 +200,14 @@ Explore our extensive list of GenAI agent implementations, sorted by categories:
    - **[Blog Post](https://open.substack.com/pub/diamantai/p/model-context-protocol-mcp-explained?r=336pe4&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)**
    - **[Official MCP Documentation](https://modelcontextprotocol.io/introduction)**
    - **[MCP GitHub Repository](https://github.com/modelcontextprotocol)**
+
+6. **[Multi-Provider Conversational Agent with MiniMax Support](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/multi_provider_conversational_agent.ipynb)**
+
+   #### Overview 🔎
+   Demonstrates how to build a conversational agent that works with **multiple LLM providers** through a unified interface. Shows how to use [MiniMax](https://www.minimaxi.com/) M2.5 (204K context window, OpenAI-compatible API) alongside OpenAI, switching providers with a single parameter change.
+
+   #### Implementation 🛠️
+   Introduces a shared `utils/llm_provider.py` module with a provider registry and `get_llm()` helper. Any tutorial notebook can import it to switch between OpenAI and MiniMax without changing agent logic. Includes environment-driven provider selection for production use.
 
 ### 🎓 Educational and Research Agents
 
