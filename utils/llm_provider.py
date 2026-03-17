@@ -7,14 +7,14 @@ the same interface.
 
 Supported providers
 -------------------
-- **openai** – OpenAI GPT models (default)
-- **minimax** – MiniMax M2.5 / M2.5-highspeed (204K context, OpenAI-compatible)
+- **openai** - OpenAI GPT models (default)
+- **minimax** - MiniMax M2.5 / M2.5-highspeed (204K context, OpenAI-compatible)
 
 Usage::
 
     from utils.llm_provider import get_llm
 
-    # Default – OpenAI
+    # Default - OpenAI
     llm = get_llm()
 
     # MiniMax M2.5
@@ -27,8 +27,8 @@ Environment variables
 ---------------------
 Set the API key for the provider you want to use:
 
-- ``OPENAI_API_KEY`` – for OpenAI
-- ``MINIMAX_API_KEY`` – for MiniMax (obtain at https://www.minimaxi.com/)
+- ``OPENAI_API_KEY`` - for OpenAI
+- ``MINIMAX_API_KEY`` - for MiniMax (obtain at https://www.minimaxi.com/)
 """
 
 from __future__ import annotations
