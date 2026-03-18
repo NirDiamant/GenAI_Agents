@@ -45,6 +45,11 @@ class TestMiniMaxIntegration(unittest.TestCase):
         resp = llm.invoke("Reply with the word 'ok'.")
         self.assertIn("ok", resp.content.lower())
 
+    def test_m27_model(self):
+        llm = self._get_llm(model="MiniMax-M2.7", temperature=0.1)
+        resp = llm.invoke("Reply with the word 'ok'.")
+        self.assertIn("ok", resp.content.lower())
+
     def test_highspeed_model(self):
         llm = self._get_llm(model="MiniMax-M2.5-highspeed", temperature=0.1)
         resp = llm.invoke("Reply with the word 'ok'.")

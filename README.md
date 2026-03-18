@@ -204,7 +204,7 @@ Explore our extensive list of GenAI agent implementations, sorted by categories:
 6. **[Multi-Provider Conversational Agent with MiniMax Support](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/multi_provider_conversational_agent.ipynb)**
 
    #### Overview 🔎
-   Demonstrates how to build a conversational agent that works with **multiple LLM providers** through a unified interface. Shows how to use [MiniMax](https://www.minimaxi.com/) M2.5 (204K context window, OpenAI-compatible API) alongside OpenAI, switching providers with a single parameter change.
+   Demonstrates how to build a conversational agent that works with **multiple LLM providers** through a unified interface. Shows how to use [MiniMax](https://www.minimaxi.com/) M2.7 (204K context window, OpenAI-compatible API) alongside OpenAI, switching providers with a single parameter change.
 
    #### Implementation 🛠️
    Introduces a shared `utils/llm_provider.py` module with a provider registry and `get_llm()` helper. Any tutorial notebook can import it to switch between OpenAI and MiniMax without changing agent logic. Includes environment-driven provider selection for production use.
