@@ -624,7 +624,7 @@ Explore our extensive list of GenAI agent implementations, sorted by categories:
 
 ## 🛡️ Governance & Safety Resources
 
-As GenAI agents move from demos to production, enforcing behavioral constraints becomes critical. The following open-source tools help you govern what your agents are allowed to do:
+As GenAI agents move from demos to production, enforcing behavioral constraints becomes critical. The following open-source tool helps you govern what your agents are allowed to do:
 
 | Tool | Description | Links |
 |------|-------------|-------|
