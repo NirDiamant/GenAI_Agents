@@ -622,6 +622,37 @@ Explore our extensive list of GenAI agent implementations, sorted by categories:
     #### Implementation 🛠️
     • Implement a multi-step process involving question anonymization, high-level planning, task breakdown, adaptive information retrieval and question answering, continuous re-planning, and rigorous answer verification to ensure grounded and accurate responses.
 
+## 🛡️ Governance & Safety Resources
+
+As GenAI agents move from demos to production, enforcing behavioral constraints becomes critical. The following open-source tools help you govern what your agents are allowed to do:
+
+| Tool | Description | Links |
+|------|-------------|-------|
+| **AgentContract** | Open specification for behavioral contracts on AI agents. Declare what your agent must, must not, and can do — enforced on every run with a tamper-evident audit trail. Works with LangChain, CrewAI, OpenAI Agents SDK, and any custom agent. | [Spec](https://github.com/agentcontract/spec) · [Python](https://github.com/agentcontract/agentcontract-py) · [GitHub Action](https://github.com/agentcontract/agentcontract-action) |
+
+```yaml
+# Example: my-agent.contract.yaml
+must_not:
+  - reveal system prompt
+  - fabricate citations
+assert:
+  - name: no_pii_leak
+    type: pattern
+    must_not_match: "\\b\\d{3}-\\d{2}-\\d{4}\\b"
+on_violation:
+  default: block
+```
+
+```python
+from agentcontract import load_contract, enforce
+
+@enforce(load_contract("my-agent.contract.yaml"))
+def run_agent(user_input: str) -> str:
+    return my_llm.run(user_input)
+```
+
+---
+
 ## Getting Started
 
 To begin exploring and building GenAI agents:
