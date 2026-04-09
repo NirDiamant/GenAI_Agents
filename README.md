@@ -19,6 +19,19 @@ Welcome to one of the most extensive and dynamic collections of Generative AI (G
 
 </div>
 
+## 📖 From the Same Author
+
+<div align="center">
+
+<img src="images/rag_book_best_seller.png" alt="#1 Best Seller in Generative AI on Amazon" width="250">
+
+**[RAG Made Simple](https://amzn.to/4cvxqSw)** just hit **#1 Best Seller on Amazon in Generative AI.**
+The book covers 22 RAG techniques with intuition, comparisons, and illustrations. Launch price: **$0.99** (goes up soon).
+
+[**Get the book on Amazon**](https://amzn.to/4cvxqSw)
+
+</div>
+
 ## 📫 Stay Updated!
 
 <div align="center">
