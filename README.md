@@ -636,6 +636,11 @@ Explore our extensive list of GenAI agent implementations, sorted by categories:
     #### Implementation 🛠️
     • Implement a multi-step process involving question anonymization, high-level planning, task breakdown, adaptive information retrieval and question answering, continuous re-planning, and rigorous answer verification to ensure grounded and accurate responses.
 
+## Prerequisites
+- Python 3.9+
+- Docker installed and running (required for some agents and setup)
+
+
 ## Getting Started
 
 To begin exploring and building GenAI agents:
