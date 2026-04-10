@@ -15,7 +15,7 @@ Welcome to one of the most extensive and dynamic collections of Generative AI (G
 
 ## 📖 From the Same Author
 
-<img src="images/rag_book_best_seller.png" alt="#1 Best Seller in Generative AI on Amazon" width="500">
+<a href="https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=genai-agents--readme&click=book-buy-amazon-image&target=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D76734SZ%3Ftag%3Ddiamantai-genai-20&text=Best%20Seller%20Image"><img src="images/rag_book_best_seller.png" alt="#1 Best Seller in Generative AI on Amazon - Click to buy" width="500"></a>
 
 **[RAG Made Simple](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=genai-agents--readme&click=book-buy-amazon-title&target=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D76734SZ%3Ftag%3Ddiamantai-genai-20&text=RAG%20Made%20Simple)** — **#1 Best Seller on Amazon in Generative AI.**
 22 RAG techniques with intuition, comparisons, and illustrations. **Free with Kindle Unlimited** or **$0.99** launch price (goes up soon).
