@@ -626,6 +626,49 @@ Explore our extensive list of GenAI agent implementations, sorted by categories:
     #### Additional Resources 📚
     - **[YouTube Explanation](https://www.youtube.com/watch?v=qi35mGGkCtg)**
 
+
+46. **[HR AI Assistant](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/HR_AI-Assistant.ipynb)**
+
+    #### Overview 🔎
+    An AI-powered recruitment assistant using LangGraph-based workflow for requirements gathering, job description generation, LinkedIn candidate search, and CV analysis.
+
+    #### Implementation 🛠️
+    Leverages LangChain and LangGraph to orchestrate a multi-step recruitment pipeline with structured state management, OpenAI for language generation, and automated candidate evaluation workflows.
+
+47. **[AI-Driven ML and Data Science Assistant](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/ai_driven_ml_and_datascience_assistant.ipynb)**
+
+    #### Overview 🔎
+    A comprehensive ML assistant using LangGraph + OpenAI that loads datasets, performs preprocessing, feature engineering, model training, evaluation, and visualization through an agentic workflow.
+
+    #### Implementation 🛠️
+    Utilizes LangGraph for orchestrating ML pipeline tools including data preprocessing, model selection, hyperparameter tuning, and results visualization. Demonstrates end-to-end agentic ML workflows with Kaggle dataset integration.
+
+48. **[Art Tourguide with LightRAG](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/art_agent.ipynb)**
+
+    #### Overview 🔎
+    An interactive art tour guide using LightRAG (knowledge-graph RAG) and LangGraph for conversational exploration of art collections with structured data retrieval.
+
+    #### Implementation 🛠️
+    Combines LightRAG for knowledge-graph-based retrieval with LangGraph agent chains, interactive widget UI, and custom art data preparation. Demonstrates a novel application of graph-based RAG in a creative domain.
+
+49. **[Project Gutenberg Conversational Helper](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/Gutenbergs_Sage.ipynb)**
+
+    #### Overview 🔎
+    A conversational agent for exploring Project Gutenberg texts using local LLMs via Ollama, with vector store RAG through Chroma/Pinecone and named entity recognition with spaCy.
+
+    #### Implementation 🛠️
+    Leverges LangGraph + Ollama for fully local LLM inference, multi-user support with session management, NER-enhanced retrieval, and dual vector store integration (Chroma for local, Pinecone for cloud).
+
+50. **[Contextual Quoting Agentic System](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/contextual_quoting_agentic_system.ipynb)**
+
+    #### Overview 🔎
+    A sophisticated multi-agent system for insurance/business quoting using LangGraph with RAG, specialized agents for retrieval, reasoning, classification, and quote generation.
+
+    #### Implementation 🛠️
+    Features ChromaDB for RAG, SQLite for structured data, Pydantic schemas for validation, and a coordinated workflow of specialized agents (retriever, reasoning, classification, quote generation) using OpenAI + Groq. One of the most production-relevant multi-agent implementations in this collection.
+
+> 📖 **Want to understand the RAG techniques powering these agents?** [RAG Made Simple](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=genai-agents--readme-book-cta&click=book-buy-amazon-readme-cta&target=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D76734SZ%3Ftag%3Ddiamantai-genai-20&text=RAG%20Made%20Simple) covers 22 RAG techniques visually. Free with Kindle Unlimited.
+
 ### 🌟 Special Advanced Technique 🌟
 
 45. **[Sophisticated Controllable Agent for Complex RAG Tasks 🤖](https://github.com/NirDiamant/Controllable-RAG-Agent)**
