@@ -11,6 +11,19 @@
 
 Welcome to one of the most extensive and dynamic collections of Generative AI (GenAI) agent tutorials and implementations available today. This repository serves as a comprehensive resource for learning, building, and sharing GenAI agents, ranging from simple conversational bots to complex, multi-agent systems.
 
+<div align="center">
+
+## 📖 From the Same Author
+
+<a href="https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=genai-agents--readme&click=book-buy-amazon-image&target=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D76734SZ%3Ftag%3Ddiamantai-genai-20&text=Best%20Seller%20Image"><img src="images/rag_book_best_seller.png" alt="#1 Best Seller in Generative AI on Amazon - Click to buy" width="500"></a>
+
+**[RAG Made Simple](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=genai-agents--readme&click=book-buy-amazon-title&target=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D76734SZ%3Ftag%3Ddiamantai-genai-20&text=RAG%20Made%20Simple)** — **#1 Best Seller on Amazon in Generative AI.**
+22 RAG techniques with intuition, comparisons, and illustrations. **Free with Kindle Unlimited** or **$0.99** launch price (goes up soon).
+
+### 👉 [**Get the book on Amazon**](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=genai-agents--readme&click=book-buy-amazon-cta&target=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D76734SZ%3Ftag%3Ddiamantai-genai-20&text=Get%20the%20book%20on%20Amazon)
+
+</div>
+
 ## 🏆 Sponsors
 
 <div align="center">
@@ -18,6 +31,10 @@ Welcome to one of the most extensive and dynamic collections of Generative AI (G
 <a href="https://coderabbit.link/nir"><img src="images/coderabbit_Light_Type_Mark_Orange.png" height="80" alt="CodeRabbit" /></a>
 
 </div>
+
+
+
+> **Recently added:** HR AI Assistant, Art Tourguide with LightRAG, Contextual Quoting System, ML/DS Assistant, Gutenberg Sage | **52 tutorials** and growing
 
 ## 📫 Stay Updated!
 
@@ -612,6 +629,49 @@ Explore our extensive list of GenAI agent implementations, sorted by categories:
     #### Additional Resources 📚
     - **[YouTube Explanation](https://www.youtube.com/watch?v=qi35mGGkCtg)**
 
+
+46. **[HR AI Assistant](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/HR_AI-Assistant.ipynb)**
+
+    #### Overview 🔎
+    An AI-powered recruitment assistant using LangGraph-based workflow for requirements gathering, job description generation, LinkedIn candidate search, and CV analysis.
+
+    #### Implementation 🛠️
+    Leverages LangChain and LangGraph to orchestrate a multi-step recruitment pipeline with structured state management, OpenAI for language generation, and automated candidate evaluation workflows.
+
+47. **[AI-Driven ML and Data Science Assistant](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/ai_driven_ml_and_datascience_assistant.ipynb)**
+
+    #### Overview 🔎
+    A comprehensive ML assistant using LangGraph + OpenAI that loads datasets, performs preprocessing, feature engineering, model training, evaluation, and visualization through an agentic workflow.
+
+    #### Implementation 🛠️
+    Utilizes LangGraph for orchestrating ML pipeline tools including data preprocessing, model selection, hyperparameter tuning, and results visualization. Demonstrates end-to-end agentic ML workflows with Kaggle dataset integration.
+
+48. **[Art Tourguide with LightRAG](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/art_agent.ipynb)**
+
+    #### Overview 🔎
+    An interactive art tour guide using LightRAG (knowledge-graph RAG) and LangGraph for conversational exploration of art collections with structured data retrieval.
+
+    #### Implementation 🛠️
+    Combines LightRAG for knowledge-graph-based retrieval with LangGraph agent chains, interactive widget UI, and custom art data preparation. Demonstrates a novel application of graph-based RAG in a creative domain.
+
+49. **[Project Gutenberg Conversational Helper](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/Gutenbergs_Sage.ipynb)**
+
+    #### Overview 🔎
+    A conversational agent for exploring Project Gutenberg texts using local LLMs via Ollama, with vector store RAG through Chroma/Pinecone and named entity recognition with spaCy.
+
+    #### Implementation 🛠️
+    Leverges LangGraph + Ollama for fully local LLM inference, multi-user support with session management, NER-enhanced retrieval, and dual vector store integration (Chroma for local, Pinecone for cloud).
+
+50. **[Contextual Quoting Agentic System](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/contextual_quoting_agentic_system.ipynb)**
+
+    #### Overview 🔎
+    A sophisticated multi-agent system for insurance/business quoting using LangGraph with RAG, specialized agents for retrieval, reasoning, classification, and quote generation.
+
+    #### Implementation 🛠️
+    Features ChromaDB for RAG, SQLite for structured data, Pydantic schemas for validation, and a coordinated workflow of specialized agents (retriever, reasoning, classification, quote generation) using OpenAI + Groq. One of the most production-relevant multi-agent implementations in this collection.
+
+> 📖 **Want to understand the RAG techniques powering these agents?** [RAG Made Simple](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=genai-agents--readme-book-cta&click=book-buy-amazon-readme-cta&target=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D76734SZ%3Ftag%3Ddiamantai-genai-20&text=RAG%20Made%20Simple) covers 22 RAG techniques visually. Free with Kindle Unlimited.
+
 ### 🌟 Special Advanced Technique 🌟
 
 45. **[Sophisticated Controllable Agent for Complex RAG Tasks 🤖](https://github.com/NirDiamant/Controllable-RAG-Agent)**
@@ -652,6 +712,10 @@ def run_agent(user_input: str) -> str:
 ```
 
 ---
+## Prerequisites
+- Python 3.9+
+- Docker installed and running (required for some agents and setup)
+
 
 ## Getting Started
 
@@ -666,6 +730,16 @@ To begin exploring and building GenAI agents:
    cd all_agents_tutorials/technique-name
    ```
 3. Follow the detailed implementation guide in each technique's notebook.
+
+## 📚 Recommended reading
+
+*This list contains Amazon affiliate links. As an Amazon Associate I earn from qualifying purchases. Every book below is one I've read and genuinely recommend to engineers working in this space. The companion book to this repo is featured separately at the top of this README.*
+
+- [Build a Large Language Model (From Scratch)](https://www.amazon.com/dp/1633437167?tag=diamantai-genai-20) by Sebastian Raschka. Build a GPT-style model end to end in PyTorch.
+- [AI Engineering: Building Applications with Foundation Models](https://www.amazon.com/dp/1098166302?tag=diamantai-genai-20) by Chip Huyen. Canonical reference for productionizing foundation-model apps.
+- [Hands-On Large Language Models](https://www.amazon.com/dp/1098150961?tag=diamantai-genai-20) by Jay Alammar and Maarten Grootendorst. Visual, practical LLM walkthroughs.
+- [Natural Language Processing with Transformers](https://www.amazon.com/dp/1098136799?tag=diamantai-genai-20) by Lewis Tunstall, Leandro von Werra, and Thomas Wolf. From the Hugging Face team.
+- [Designing Machine Learning Systems](https://www.amazon.com/dp/1098107969?tag=diamantai-genai-20) by Chip Huyen. ML systems in production, still the standard reference.
 
 ## Contributing
 
