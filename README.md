@@ -55,6 +55,22 @@ Welcome to one of the most extensive and dynamic collections of Generative AI (G
 [![DiamantAI's newsletter](images/substack_image.png)](https://diamantai.substack.com/?r=336pe4&utm_campaign=pub-share-checklist)
 
 
+<div align="center">
+
+---
+
+## 💼 AI Engineering Roles via the DiamantAI Collective
+
+**I'm partnered with AI-first companies looking for serious engineers.**
+
+*Voice AI · AI agents · Applied LLM · AI fintech · Founding-eng seats*
+
+[![See open roles and apply](https://img.shields.io/badge/%E2%9E%A1%EF%B8%8F%20%20See%20open%20roles%20and%20apply-7c3aed?style=for-the-badge)](https://europe-west1-genai-agents-views-tracker.cloudfunctions.net/genai-agents-tracker?notebook=main-readme--jobs-panel&click=jobs-panel-see-all-roles&target=https%3A%2F%2Fdiamant-ai.com%2Fjobs&text=See%20open%20roles%20and%20apply)
+
+---
+
+</div>
+
 ## Introduction
 
 Generative AI agents are at the forefront of artificial intelligence, revolutionizing the way we interact with and leverage AI technologies. This repository is designed to guide you through the development journey, from basic agent implementations to advanced, cutting-edge systems.
