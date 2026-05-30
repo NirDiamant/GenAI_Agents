@@ -104,6 +104,18 @@ Our goal is to provide a valuable resource for everyone - from beginners taking 
 
 Furthermore, this repository serves as a platform for showcasing innovative agent creations. Whether you've developed a novel agent architecture or found an innovative application for existing techniques, we encourage you to share your work with the community.
 
+## 📑 Full write-ups & guides
+
+Free companion explainers on DiamantAI walk through these agents end to end:
+
+- [Build a simple conversational agent with memory](https://diamant-ai.com/tutorials/genai-agents-simple-conversational-agent)
+- [Introduction to LangGraph](https://diamant-ai.com/tutorials/genai-agents-introduction-to-langgraph)
+- [A question-answering agent with LangChain](https://diamant-ai.com/tutorials/genai-agents-simple-question-answering)
+- [A data-analysis agent](https://diamant-ai.com/tutorials/genai-agents-simple-data-analysis)
+- [**Browse all 89 agent tutorials →**](https://diamant-ai.com/tutorials)
+
+Related deep dives: [Your first AI agent](https://diamant-ai.com/blog/your-first-ai-agent-simpler-than-you-think) · [How to choose your AI agent framework](https://diamant-ai.com/blog/how-to-choose-your-ai-agent-framework) · [Memory optimization in AI agents](https://diamant-ai.com/blog/memory-optimization-strategies-in-ai-agents)
+
 ## Related Projects
 
 🚀 Level up with my **[Agents Towards Production](https://github.com/NirDiamant/agents-towards-production)** repository. It delivers horizontal, code-first tutorials that cover every tool and step in the lifecycle of building production-grade GenAI agents, guiding you from spark to scale with proven patterns and reusable blueprints for real-world launches, making it the smartest place to start if you're serious about shipping agents to production.
