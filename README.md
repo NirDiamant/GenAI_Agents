@@ -40,6 +40,8 @@ Welcome to one of the most extensive and dynamic collections of Generative AI (G
 
 <img src="images/collective-banner.png" alt="DiamantAI Collective - AI engineering jobs" width="600">
 
+</div>
+
 ## 🏆 Sponsors
 
 <div align="center">
@@ -738,8 +740,6 @@ To begin exploring and building GenAI agents:
 [![See open jobs and apply](https://img.shields.io/badge/%E2%9E%A1%EF%B8%8F%20%20See%20open%20jobs%20and%20apply-7c3aed?style=for-the-badge)](https://europe-west1-genai-agents-views-tracker.cloudfunctions.net/genai-agents-tracker?notebook=main-readme--jobs-panel&click=jobs-panel-see-all-roles&target=https%3A%2F%2Fdiamant-ai.com%2Fjobs&text=See%20open%20jobs%20and%20apply)
 
 ---
-
-</div>
 
 ## Contributing
 
