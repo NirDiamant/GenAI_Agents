@@ -40,16 +40,6 @@ Welcome to one of the most extensive and dynamic collections of Generative AI (G
 
 <img src="images/collective-banner.png" alt="DiamantAI Collective - AI engineering jobs" width="600">
 
-## 💼 Apply for open AI engineering jobs
-
-**AI-first companies are hiring through the DiamantAI Collective.**
-
-[![See open jobs and apply](https://img.shields.io/badge/%E2%9E%A1%EF%B8%8F%20%20See%20open%20jobs%20and%20apply-7c3aed?style=for-the-badge)](https://europe-west1-genai-agents-views-tracker.cloudfunctions.net/genai-agents-tracker?notebook=main-readme--jobs-panel&click=jobs-panel-see-all-roles&target=https%3A%2F%2Fdiamant-ai.com%2Fjobs&text=See%20open%20jobs%20and%20apply)
-
----
-
-</div>
-
 ## 🏆 Sponsors
 
 <div align="center">
@@ -103,18 +93,6 @@ Generative AI agents are at the forefront of artificial intelligence, revolution
 Our goal is to provide a valuable resource for everyone - from beginners taking their first steps in AI to seasoned practitioners pushing the boundaries of what's possible. By offering a range of examples from foundational to complex, we aim to facilitate learning, experimentation, and innovation in the rapidly evolving field of GenAI agents.
 
 Furthermore, this repository serves as a platform for showcasing innovative agent creations. Whether you've developed a novel agent architecture or found an innovative application for existing techniques, we encourage you to share your work with the community.
-
-## 📑 Full write-ups & guides
-
-Free companion explainers on DiamantAI walk through these agents end to end:
-
-- [Build a simple conversational agent with memory](https://diamant-ai.com/tutorials/genai-agents-simple-conversational-agent)
-- [Introduction to LangGraph](https://diamant-ai.com/tutorials/genai-agents-introduction-to-langgraph)
-- [A question-answering agent with LangChain](https://diamant-ai.com/tutorials/genai-agents-simple-question-answering)
-- [A data-analysis agent](https://diamant-ai.com/tutorials/genai-agents-simple-data-analysis)
-- [**Browse all 89 agent tutorials →**](https://diamant-ai.com/tutorials)
-
-Related deep dives: [Your first AI agent](https://diamant-ai.com/blog/your-first-ai-agent-simpler-than-you-think) · [How to choose your AI agent framework](https://diamant-ai.com/blog/how-to-choose-your-ai-agent-framework) · [Memory optimization in AI agents](https://diamant-ai.com/blog/memory-optimization-strategies-in-ai-agents)
 
 ## Related Projects
 
@@ -752,6 +730,16 @@ To begin exploring and building GenAI agents:
 - [Hands-On Large Language Models](https://www.amazon.com/dp/1098150961?tag=diamantai-genai-20) by Jay Alammar and Maarten Grootendorst. Visual, practical LLM walkthroughs.
 - [Natural Language Processing with Transformers](https://www.amazon.com/dp/1098136799?tag=diamantai-genai-20) by Lewis Tunstall, Leandro von Werra, and Thomas Wolf. From the Hugging Face team.
 - [Designing Machine Learning Systems](https://www.amazon.com/dp/1098107969?tag=diamantai-genai-20) by Chip Huyen. ML systems in production, still the standard reference.
+
+## 💼 Apply for open AI engineering jobs
+
+**AI-first companies are hiring through the DiamantAI Collective.**
+
+[![See open jobs and apply](https://img.shields.io/badge/%E2%9E%A1%EF%B8%8F%20%20See%20open%20jobs%20and%20apply-7c3aed?style=for-the-badge)](https://europe-west1-genai-agents-views-tracker.cloudfunctions.net/genai-agents-tracker?notebook=main-readme--jobs-panel&click=jobs-panel-see-all-roles&target=https%3A%2F%2Fdiamant-ai.com%2Fjobs&text=See%20open%20jobs%20and%20apply)
+
+---
+
+</div>
 
 ## Contributing
 
