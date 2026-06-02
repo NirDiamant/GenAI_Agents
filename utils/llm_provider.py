@@ -8,7 +8,7 @@ the same interface.
 Supported providers
 -------------------
 - **openai** - OpenAI GPT models (default)
-- **minimax** - MiniMax M2.7 / M2.5 / M2.5-highspeed (204K context, OpenAI-compatible)
+- **minimax** - MiniMax M3 / M2.7 / M2.7-highspeed (512K context, OpenAI-compatible)
 
 Usage::
 
@@ -17,14 +17,14 @@ Usage::
     # Default - OpenAI
     llm = get_llm()
 
-    # MiniMax M2.7 (default MiniMax model)
+    # MiniMax M3 (default MiniMax model)
     llm = get_llm(provider="minimax")
 
-    # MiniMax M2.5
-    llm = get_llm(provider="minimax", model="MiniMax-M2.5")
+    # MiniMax M2.7
+    llm = get_llm(provider="minimax", model="MiniMax-M2.7")
 
     # MiniMax high-speed variant
-    llm = get_llm(provider="minimax", model="MiniMax-M2.5-highspeed")
+    llm = get_llm(provider="minimax", model="MiniMax-M2.7-highspeed")
 
 Environment variables
 ---------------------
@@ -55,7 +55,7 @@ PROVIDERS: dict[str, dict[str, Any]] = {
     "minimax": {
         "base_url": "https://api.minimax.io/v1",
         "api_key_env": "MINIMAX_API_KEY",
-        "default_model": "MiniMax-M2.7",
+        "default_model": "MiniMax-M3",
     },
 }
 

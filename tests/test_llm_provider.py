@@ -47,7 +47,7 @@ class TestGetProviderInfo(unittest.TestCase):
         info = get_provider_info("minimax")
         self.assertEqual(info["base_url"], "https://api.minimax.io/v1")
         self.assertEqual(info["api_key_env"], "MINIMAX_API_KEY")
-        self.assertEqual(info["default_model"], "MiniMax-M2.7")
+        self.assertEqual(info["default_model"], "MiniMax-M3")
 
     def test_unknown_provider_raises(self):
         with self.assertRaises(ValueError) as ctx:
@@ -84,7 +84,7 @@ class TestGetLlm(unittest.TestCase):
         llm = get_llm(provider="minimax")
         mock_cls.assert_called_once()
         call_kwargs = mock_cls.call_args[1]
-        self.assertEqual(call_kwargs["model"], "MiniMax-M2.7")
+        self.assertEqual(call_kwargs["model"], "MiniMax-M3")
         self.assertEqual(call_kwargs["api_key"], "test-minimax-key")
         self.assertEqual(call_kwargs["base_url"], "https://api.minimax.io/v1")
 
@@ -92,9 +92,9 @@ class TestGetLlm(unittest.TestCase):
     @patch("utils.llm_provider.ChatOpenAI")
     def test_minimax_custom_model(self, mock_cls):
         mock_cls.return_value = MagicMock()
-        get_llm(provider="minimax", model="MiniMax-M2.5-highspeed")
+        get_llm(provider="minimax", model="MiniMax-M2.7-highspeed")
         call_kwargs = mock_cls.call_args[1]
-        self.assertEqual(call_kwargs["model"], "MiniMax-M2.5-highspeed")
+        self.assertEqual(call_kwargs["model"], "MiniMax-M2.7-highspeed")
 
     @patch.dict(os.environ, {"MINIMAX_API_KEY": "test-minimax-key"})
     @patch("utils.llm_provider.ChatOpenAI")
