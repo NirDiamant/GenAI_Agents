@@ -19,7 +19,7 @@ Welcome to one of the most extensive and dynamic collections of Generative AI (G
 **[RAG Made Simple](https://diamant-ai.com/rag-made-simple?code=RAGKING)** - the production reference for RAG systems
 22 techniques explained with intuition, comparisons, and diagrams. Essential reading for agent builders whose agents need to retrieve and ground responses on real data.
 *1,500+ copies sold · Hit #1 in Generative AI on Amazon at launch · ⭐ 4.6 stars*
-**PDF + EPUB · GitHub community offer: 33% off with code RAGKING**
+**PDF + EPUB · GitHub community price: 33% off with code RAGKING**
 
 👉 [**Get RAG Made Simple (33% off with code RAGKING)**](https://diamant-ai.com/rag-made-simple?code=RAGKING)
 
