@@ -4,37 +4,23 @@
 [![Twitter](https://img.shields.io/twitter/follow/NirDiamantAI?label=Follow%20@NirDiamantAI&style=social)](https://twitter.com/NirDiamantAI)
 [![Discord](https://img.shields.io/badge/Discord-Join%20our%20community-7289da?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/cA6Aa4uyDX)
 
-> 🌟 **Support This Project:** Your sponsorship fuels innovation in GenAI agent development. **[Become a sponsor](https://github.com/sponsors/NirDiamant)** to help maintain and expand this valuable resource!
-
 # GenAI Agents: Comprehensive Repository for Development and Implementation 🚀
 
 Welcome to one of the most extensive and dynamic collections of Generative AI (GenAI) agent tutorials and implementations available today. This repository serves as a comprehensive resource for learning, building, and sharing GenAI agents, ranging from simple conversational bots to complex, multi-agent systems.
 
+## 📖 Go deeper on RAG
+
 <div align="center">
 
-## 📖 Books in the DiamantAI Series
+<a href="https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=genai-agents--readme&amp;click=book-buy-gumroad-rag-image&amp;target=https%3A%2F%2Fdiamant-ai.com%2Frag-made-simple%3Fcode%3DRAGKING&amp;retarget=0&amp;text=book-buy-gumroad-rag-image"><img src="images/rag_book_best_seller.png" alt="RAG Made Simple" width="360"></a>
 
-<a href="https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=genai-agents--readme&amp;click=book-buy-gumroad-rag-image&amp;target=https%3A%2F%2Fdiamant-ai.com%2Frag-made-simple%3Fcode%3DRAGKING&amp;retarget=0&amp;text=image%20rag%20book"><img src="images/rag_book_best_seller.png" alt="RAG Made Simple - Amazon bestseller in Generative AI" width="500"></a>
+**[RAG Made Simple](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=genai-agents--readme&click=book-buy-gumroad-rag-cta&target=https%3A%2F%2Fdiamant-ai.com%2Frag-made-simple%3Fcode%3DRAGKING&retarget=0&text=book-buy-gumroad-rag-cta)** - the 400-page visual guide to RAG, by the author of this repo.
+Amazon Bestseller in Generative AI · 1,500+ readers · ⭐ 4.6
 
-**[RAG Made Simple](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=genai-agents--readme&click=book-buy-gumroad-rag-name&target=https%3A%2F%2Fdiamant-ai.com%2Frag-made-simple%3Fcode%3DRAGKING&retarget=0&text=name%20rag%20book)** - the production reference for RAG systems
-22 techniques explained with intuition, comparisons, and diagrams. Essential reading for agent builders whose agents need to retrieve and ground responses on real data.
-*1,500+ copies sold · Hit #1 in Generative AI on Amazon at launch · ⭐ 4.6 stars*
-**PDF + EPUB · GitHub community price: 33% off with code RAGKING**
-
-👉 [**Get RAG Made Simple (33% off with code RAGKING)**](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=genai-agents--readme&click=book-buy-gumroad-rag-cta&target=https%3A%2F%2Fdiamant-ai.com%2Frag-made-simple%3Fcode%3DRAGKING&retarget=0&text=cta%20rag%20book)
-
-📖 *Not ready to buy? [**Read Chapter 1 free**](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=genai-agents--readme&click=free-chapter&target=https%3A%2F%2Fdiamant-ai.com%2Frag-made-simple%2Fchapter-1&retarget=0&text=read%20chapter%201%20free) - the full first chapter, no signup.*
-
-📣 *Teach, write, or run a dev community? Earn 25% recommending RAG Made Simple to your audience: [become an affiliate](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=genai-agents--readme&click=affiliate-signup&target=https%3A%2F%2Fnirdiamant.gumroad.com%2Faffiliates&retarget=0&text=become%20an%20affiliate).*
-
----
-
-**[Prompt Engineering: Master the Art of AI Interaction](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=genai-agents--readme&click=book-buy-pe&target=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0DZ85RPB5%3Ftag%3Ddiamantai-genai-20&text=Prompt%20Engineering)** - the prompting foundation
-22 hands-on prompting techniques. The companion to RAG Made Simple. The prompting layer that determines how well your agents behave.
-
-👉 [**See Prompt Engineering on Amazon**](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=genai-agents--readme&click=book-buy-pe-cta&target=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0DZ85RPB5%3Ftag%3Ddiamantai-genai-20&text=See%20Prompt%20Engineering)
+**[Get it - 33% off with code RAGKING →](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=genai-agents--readme&click=book-buy-gumroad-rag-cta&target=https%3A%2F%2Fdiamant-ai.com%2Frag-made-simple%3Fcode%3DRAGKING&retarget=0&text=book-buy-gumroad-rag-cta)** · [Read Chapter 1 free](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=genai-agents--readme&click=free-chapter&target=https%3A%2F%2Fdiamant-ai.com%2Frag-made-simple%2Fchapter-1&retarget=0&text=free-chapter)
 
 </div>
+
 
 ## 🏆 Sponsors
 
@@ -87,25 +73,19 @@ Furthermore, this repository serves as a platform for showcasing innovative agen
 
 ## Related Projects
 
-🚀 Level up with my **[Agents Towards Production](https://github.com/NirDiamant/agents-towards-production)** repository. It delivers horizontal, code-first tutorials that cover every tool and step in the lifecycle of building production-grade GenAI agents, guiding you from spark to scale with proven patterns and reusable blueprints for real-world launches, making it the smartest place to start if you're serious about shipping agents to production.
+🔍 **[RAG Techniques](https://github.com/NirDiamant/RAG_Techniques)** - 40+ notebooks on retrieval-augmented generation.
 
-📚 Dive into my **[comprehensive guide on RAG techniques](https://github.com/NirDiamant/RAG_Techniques)** to learn about integrating external knowledge into AI systems, enhancing their capabilities with up-to-date and relevant information retrieval.
+🚀 **[Agents Towards Production](https://github.com/NirDiamant/agents-towards-production)** - code-first tutorials for shipping production-grade agents.
 
-🖋️ Explore my **[Prompt Engineering Techniques guide](https://github.com/NirDiamant/Prompt_Engineering)** for an extensive collection of prompting strategies, from fundamental concepts to advanced methods, improving your ability to communicate effectively with AI language models.
+🖋️ **[Prompt Engineering Techniques](https://github.com/NirDiamant/Prompt_Engineering)** - prompting strategies from basics to advanced.
 
-🧠 Give your agents memory with **[Agent Memory Techniques](https://github.com/NirDiamant/Agent_Memory_Techniques)** — 30 runnable notebooks on conversation buffers, vector stores, knowledge graphs, episodic and semantic memory, plus Mem0, MemGPT/Letta, Zep, and Graphiti.
+🧠 **[Agent Memory Techniques](https://github.com/NirDiamant/Agent_Memory_Techniques)** - 30 notebooks on agent memory: vector stores, graphs, Mem0, Zep.
 
-## A Community-Driven Knowledge Hub
+## Join the community
 
-**This repository grows stronger with your contributions!** Join our vibrant communities - the central hubs for shaping and advancing this project together 🤝
+Contributions make this better - propose ideas, share techniques, or give feedback via **[CONTRIBUTING.md](https://github.com/NirDiamant/GenAI_Agents/blob/main/CONTRIBUTING.md)**.
 
-**[Educational AI Subreddit](https://www.reddit.com/r/EducationalAI/)**
-
-**[GenAI Agents Discord Community](https://discord.gg/cA6Aa4uyDX)**
-
-Whether you're a novice eager to learn or an expert ready to share your knowledge, your insights can shape the future of GenAI agents. Join us to propose ideas, get feedback, and collaborate on innovative implementations. For contribution guidelines, please refer to our **[CONTRIBUTING.md](https://github.com/NirDiamant/GenAI_Agents/blob/main/CONTRIBUTING.md)** file. Let's advance GenAI agent technology together!
-
-🔗 For discussions on GenAI, agents, or to explore knowledge-sharing opportunities, feel free to **[connect on LinkedIn](https://www.linkedin.com/in/nir-diamant-759323134/)**.
+**[r/EducationalAI](https://www.reddit.com/r/EducationalAI/)** · **[Discord](https://discord.gg/cA6Aa4uyDX)** · **[LinkedIn](https://www.linkedin.com/in/nir-diamant-759323134/)**
 
 ## Key Features
 
@@ -674,8 +654,6 @@ Explore our extensive list of GenAI agent implementations, sorted by categories:
     #### Implementation 🛠️
     Features ChromaDB for RAG, SQLite for structured data, Pydantic schemas for validation, and a coordinated workflow of specialized agents (retriever, reasoning, classification, quote generation) using OpenAI + Groq. One of the most production-relevant multi-agent implementations in this collection.
 
-> 📖 **Want to understand the RAG techniques powering these agents?** [RAG Made Simple](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=genai-agents--readme&click=book-buy-gumroad-rag-inline&target=https%3A%2F%2Fdiamant-ai.com%2Frag-made-simple%3Fcode%3DRAGKING&retarget=0&text=inline%20rag%20book) covers 22 RAG techniques visually. Now 33% off for the GitHub community with code RAGKING.
-
 ### 🌟 Special Advanced Technique 🌟
 
 45. **[Sophisticated Controllable Agent for Complex RAG Tasks 🤖](https://github.com/NirDiamant/Controllable-RAG-Agent)**
@@ -715,6 +693,12 @@ To begin exploring and building GenAI agents:
 - [Designing Machine Learning Systems](https://www.amazon.com/dp/1098107969?tag=diamantai-genai-20) by Chip Huyen. ML systems in production, still the standard reference.
 
 ---
+
+## 📚 More from the same author
+
+**[Prompt Engineering: Master the Art of AI Interaction](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=genai-agents--readme&click=book-buy-pe&target=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0DZ85RPB5%3Ftag%3Ddiamantai-genai-20&retarget=0&text=book-buy-pe)** - the prompting foundation, 22 hands-on techniques.
+
+*Run a course, newsletter, or dev community? You can [earn 25% recommending RAG Made Simple](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=genai-agents--readme&click=affiliate-signup&target=https%3A%2F%2Fnirdiamant.gumroad.com%2Faffiliates&retarget=0&text=affiliate-signup) to your audience.*
 
 ## Contributing
 
