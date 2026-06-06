@@ -14,14 +14,14 @@ Welcome to one of the most extensive and dynamic collections of Generative AI (G
 
 ## 📖 Books in the DiamantAI Series
 
-<a href="https://diamant-ai.com/rag-made-simple?code=RAGKING"><img src="images/rag_book_best_seller.png" alt="RAG Made Simple - Amazon bestseller in Generative AI" width="500"></a>
+<a href="https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=genai-agents--readme&amp;click=book-buy-gumroad-rag-image&amp;target=https%3A%2F%2Fdiamant-ai.com%2Frag-made-simple%3Fcode%3DRAGKING&amp;retarget=0&amp;text=image%20rag%20book"><img src="images/rag_book_best_seller.png" alt="RAG Made Simple - Amazon bestseller in Generative AI" width="500"></a>
 
-**[RAG Made Simple](https://diamant-ai.com/rag-made-simple?code=RAGKING)** - the production reference for RAG systems
+**[RAG Made Simple](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=genai-agents--readme&click=book-buy-gumroad-rag-name&target=https%3A%2F%2Fdiamant-ai.com%2Frag-made-simple%3Fcode%3DRAGKING&retarget=0&text=name%20rag%20book)** - the production reference for RAG systems
 22 techniques explained with intuition, comparisons, and diagrams. Essential reading for agent builders whose agents need to retrieve and ground responses on real data.
 *1,500+ copies sold · Hit #1 in Generative AI on Amazon at launch · ⭐ 4.6 stars*
 **PDF + EPUB · GitHub community price: 33% off with code RAGKING**
 
-👉 [**Get RAG Made Simple (33% off with code RAGKING)**](https://diamant-ai.com/rag-made-simple?code=RAGKING)
+👉 [**Get RAG Made Simple (33% off with code RAGKING)**](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=genai-agents--readme&click=book-buy-gumroad-rag-cta&target=https%3A%2F%2Fdiamant-ai.com%2Frag-made-simple%3Fcode%3DRAGKING&retarget=0&text=cta%20rag%20book)
 
 📖 *Not ready to buy? [**Read Chapter 1 free**](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=genai-agents--readme&click=free-chapter&target=https%3A%2F%2Fdiamant-ai.com%2Frag-made-simple%2Fchapter-1&retarget=0&text=read%20chapter%201%20free) - the full first chapter, no signup.*
 
@@ -674,7 +674,7 @@ Explore our extensive list of GenAI agent implementations, sorted by categories:
     #### Implementation 🛠️
     Features ChromaDB for RAG, SQLite for structured data, Pydantic schemas for validation, and a coordinated workflow of specialized agents (retriever, reasoning, classification, quote generation) using OpenAI + Groq. One of the most production-relevant multi-agent implementations in this collection.
 
-> 📖 **Want to understand the RAG techniques powering these agents?** [RAG Made Simple](https://diamant-ai.com/rag-made-simple?code=RAGKING) covers 22 RAG techniques visually. Now 33% off for the GitHub community with code RAGKING.
+> 📖 **Want to understand the RAG techniques powering these agents?** [RAG Made Simple](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=genai-agents--readme&click=book-buy-gumroad-rag-inline&target=https%3A%2F%2Fdiamant-ai.com%2Frag-made-simple%3Fcode%3DRAGKING&retarget=0&text=inline%20rag%20book) covers 22 RAG techniques visually. Now 33% off for the GitHub community with code RAGKING.
 
 ### 🌟 Special Advanced Technique 🌟
 
