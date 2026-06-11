@@ -8,16 +8,13 @@
 
 Welcome to one of the most extensive and dynamic collections of Generative AI (GenAI) agent tutorials and implementations available today. This repository serves as a comprehensive resource for learning, building, and sharing GenAI agents, ranging from simple conversational bots to complex, multi-agent systems.
 
-## 📖 Go deeper on RAG
+## 🎓 From demo agent to deployed product
 
 <div align="center">
 
-<a href="https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=genai-agents--readme&amp;click=book-buy-gumroad-rag-image&amp;target=https%3A%2F%2Fdiamant-ai.com%2Frag-made-simple%3Fcode%3DRAGKING&amp;retarget=0&amp;text=book-buy-gumroad-rag-image"><img src="images/rag_book_best_seller.png" alt="RAG Made Simple" width="360"></a>
+**[Prompt to Production](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=genai-agents--readme&click=course-waitlist-cta&target=https%3A%2F%2Fdiamant-ai.com%2Fcourse-waitlist%3Futm_source%3Dgithub%26utm_medium%3Dreadme%26utm_campaign%3Dgenai-agents&retarget=0&text=course-waitlist-cta)** - my upcoming course on the full method behind repos like this one: taking AI-assisted software from prototype to a tested, secured, deployed product. Specs, context engineering, review loops, security, deployment, end to end.
 
-**[RAG Made Simple](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=genai-agents--readme&click=book-buy-gumroad-rag-cta&target=https%3A%2F%2Fdiamant-ai.com%2Frag-made-simple%3Fcode%3DRAGKING&retarget=0&text=book-buy-gumroad-rag-cta)** - the 400-page visual guide to RAG, by the author of this repo.
-Amazon Bestseller in Generative AI · 1,500+ readers · ⭐ 4.6
-
-**[Get it - 33% off with code RAGKING →](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=genai-agents--readme&click=book-buy-gumroad-rag-cta&target=https%3A%2F%2Fdiamant-ai.com%2Frag-made-simple%3Fcode%3DRAGKING&retarget=0&text=book-buy-gumroad-rag-cta)** · [Read Chapter 1 free](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=genai-agents--readme&click=free-chapter&target=https%3A%2F%2Fdiamant-ai.com%2Frag-made-simple%2Fchapter-1&retarget=0&text=free-chapter)
+**[Join the waiting list →](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=genai-agents--readme&click=course-waitlist-cta&target=https%3A%2F%2Fdiamant-ai.com%2Fcourse-waitlist%3Futm_source%3Dgithub%26utm_medium%3Dreadme%26utm_campaign%3Dgenai-agents&retarget=0&text=course-waitlist-cta)** · founding members pay less than the public launch price
 
 </div>
 
@@ -719,6 +716,8 @@ We welcome contributions from the community! If you have a new technique or impr
 This project is licensed under a custom non-commercial license - see the [LICENSE](LICENSE) file for details.
 
 ---
+
+📖 *Go deeper on RAG: **[RAG Made Simple](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=genai-agents--readme&click=book-buy-gumroad-rag-cta&target=https%3A%2F%2Fdiamant-ai.com%2Frag-made-simple%3Fcode%3DRAGKING&retarget=0&text=book-buy-gumroad-rag-cta)** by the author of this repo (Amazon bestseller, ⭐ 4.6) · [read Chapter 1 free](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=genai-agents--readme&click=free-chapter&target=https%3A%2F%2Fdiamant-ai.com%2Frag-made-simple%2Fchapter-1&retarget=0&text=free-chapter).*
 
 ⭐️ If you find this repository helpful, please consider giving it a star!
 
