@@ -12,9 +12,9 @@ Welcome to one of the most extensive and dynamic collections of Generative AI (G
 
 <div align="center">
 
-**[Prompt to Production](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=genai-agents--readme&click=course-waitlist-cta&target=https%3A%2F%2Fdiamant-ai.com%2Fcourse-waitlist%3Futm_source%3Dgithub%26utm_medium%3Dreadme%26utm_campaign%3Dgenai-agents&retarget=0&text=course-waitlist-cta)** - my full course on building software with AI the way professionals do: the methods and paradigms behind reliable, efficient, modular production systems, taught systematically. 16 lectures, each with a hands-on lab, from your first structured prompt to a working production system.
+**[Prompt to Production](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=genai-agents--readme&click=course-waitlist-cta&target=https%3A%2F%2Fdiamant-ai.com%2Fcourses%3Futm_source%3Dgithub%26utm_medium%3Dreadme%26utm_campaign%3Dgenai-agents&retarget=0&text=course-waitlist-cta)** - my full course on building software with AI the way professionals do: the methods and paradigms behind reliable, efficient, modular production systems, taught systematically. 16 lectures, each with a hands-on lab, from your first structured prompt to a working production system.
 
-**[Join the waiting list →](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=genai-agents--readme&click=course-waitlist-cta&target=https%3A%2F%2Fdiamant-ai.com%2Fcourse-waitlist%3Futm_source%3Dgithub%26utm_medium%3Dreadme%26utm_campaign%3Dgenai-agents&retarget=0&text=course-waitlist-cta)** · everyone on the list locks in the founding price, lower than public launch
+**[Join the waiting list →](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=genai-agents--readme&click=course-waitlist-cta&target=https%3A%2F%2Fdiamant-ai.com%2Fcourses%3Futm_source%3Dgithub%26utm_medium%3Dreadme%26utm_campaign%3Dgenai-agents&retarget=0&text=course-waitlist-cta)** · everyone on the list locks in the founding price, lower than public launch
 
 </div>
 
