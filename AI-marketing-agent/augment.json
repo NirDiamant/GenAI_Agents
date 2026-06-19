@@ -1,0 +1,36 @@
+{
+    "searches": [
+        {
+            "prefix": "Find popular tools for",
+            "suffix": "and their main features"
+        },
+        {
+            "prefix": "List common complaints about",
+            "suffix": "tools and software"
+        },
+        {
+            "prefix": "Identify market leaders in",
+            "suffix": "tools and their advantages"
+        },
+        {
+            "prefix": "Find current trends in",
+            "suffix": "tools and technologies"
+        },
+        {
+            "prefix": "What are users wishing for in",
+            "suffix": "tools and features"
+        },
+        {
+            "prefix": "Compare different",
+            "suffix": "tools pricing and features"
+        },
+        {
+            "prefix": "Find pain points with existing",
+            "suffix": "tools and solutions"
+        },
+        {
+            "prefix": "Discover emerging alternatives to",
+            "suffix": "tools in the market"
+        }
+    ]
+}
