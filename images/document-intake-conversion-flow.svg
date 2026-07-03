@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="430" viewBox="0 0 920 430" font-family="Helvetica, Arial, sans-serif">
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#64748b"/>
+    </marker>
+  </defs>
+  <rect width="920" height="430" fill="#ffffff"/>
+  <text x="460" y="28" text-anchor="middle" font-size="16" font-weight="bold" fill="#0f172a">The conversion flow: submit, upload, poll, download</text>
+
+  <!-- Lane headers -->
+  <rect x="40" y="52" width="220" height="44" rx="8" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1.5"/>
+  <text x="150" y="79" text-anchor="middle" font-size="14" font-weight="bold" fill="#0f172a">Your code</text>
+  <rect x="350" y="52" width="220" height="44" rx="8" fill="#e0f2fe" stroke="#0284c7" stroke-width="1.5"/>
+  <text x="460" y="79" text-anchor="middle" font-size="14" font-weight="bold" fill="#0c4a6e">hushvert API</text>
+  <rect x="660" y="52" width="220" height="44" rx="8" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1.5"/>
+  <text x="770" y="79" text-anchor="middle" font-size="14" font-weight="bold" fill="#0f172a">Object storage</text>
+
+  <!-- Lifelines -->
+  <line x1="150" y1="96" x2="150" y2="400" stroke="#cbd5e1" stroke-width="1.5" stroke-dasharray="4,4"/>
+  <line x1="460" y1="96" x2="460" y2="400" stroke="#cbd5e1" stroke-width="1.5" stroke-dasharray="4,4"/>
+  <line x1="770" y1="96" x2="770" y2="400" stroke="#cbd5e1" stroke-width="1.5" stroke-dasharray="4,4"/>
+
+  <!-- 1. submit -->
+  <line x1="150" y1="130" x2="456" y2="130" stroke="#64748b" stroke-width="1.5" marker-end="url(#arr)"/>
+  <text x="303" y="122" text-anchor="middle" font-size="12" fill="#334155">1. POST /v1/conversions  {pair, bytes}</text>
+  <line x1="460" y1="158" x2="154" y2="158" stroke="#64748b" stroke-width="1.5" marker-end="url(#arr)"/>
+  <text x="307" y="150" text-anchor="middle" font-size="12" fill="#334155">jobId + presigned uploadUrl</text>
+
+  <!-- 2. upload -->
+  <line x1="150" y1="204" x2="766" y2="204" stroke="#059669" stroke-width="1.8" marker-end="url(#arr)"/>
+  <text x="458" y="196" text-anchor="middle" font-size="12" font-weight="bold" fill="#065f46">2. PUT file bytes (straight to storage, not through the API host)</text>
+
+  <!-- 3. poll -->
+  <line x1="150" y1="250" x2="456" y2="250" stroke="#64748b" stroke-width="1.5" marker-end="url(#arr)"/>
+  <text x="303" y="242" text-anchor="middle" font-size="12" fill="#334155">3. GET /v1/conversions/{id}  (repeat)</text>
+  <line x1="460" y1="278" x2="154" y2="278" stroke="#64748b" stroke-width="1.5" marker-end="url(#arr)"/>
+  <text x="307" y="270" text-anchor="middle" font-size="12" fill="#334155">status: queued, processing, done, failed</text>
+
+  <!-- 4. download -->
+  <line x1="150" y1="324" x2="766" y2="324" stroke="#059669" stroke-width="1.8" marker-end="url(#arr)"/>
+  <text x="458" y="316" text-anchor="middle" font-size="12" font-weight="bold" fill="#065f46">4. GET presigned downloadUrl</text>
+  <line x1="770" y1="352" x2="154" y2="352" stroke="#64748b" stroke-width="1.5" marker-end="url(#arr)"/>
+  <text x="462" y="344" text-anchor="middle" font-size="12" fill="#334155">converted file</text>
+
+  <!-- Retention note -->
+  <rect x="560" y="374" width="330" height="40" rx="8" fill="#fef9c3" stroke="#ca8a04" stroke-width="1.2"/>
+  <text x="725" y="391" text-anchor="middle" font-size="11.5" fill="#713f12">inputs deleted the moment the job finishes;</text>
+  <text x="725" y="406" text-anchor="middle" font-size="11.5" fill="#713f12">outputs expire after about an hour</text>
+</svg>

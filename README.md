@@ -27,7 +27,7 @@ Welcome to one of the most extensive and dynamic collections of Generative AI (G
 
 </div>
 
-> **Recently added:** HR AI Assistant, Art Tourguide with LightRAG, Contextual Quoting System, ML/DS Assistant, Gutenberg Sage | **52 tutorials** and growing
+> **Recently added:** Document Intake Agent, HR AI Assistant, Art Tourguide with LightRAG, Contextual Quoting System, ML/DS Assistant | **53 tutorials** and growing
 
 ## 📫 Stay Updated!
 
@@ -97,6 +97,16 @@ Contributions make this better - propose ideas, share techniques, or give feedba
 
 Below is a comprehensive overview of our GenAI agent implementations, organized by category and functionality. Each implementation is designed to showcase different aspects of AI agent development, from basic conversational agents to complex multi-agent systems.
 
+<table width="100%">
+  <tr style="background-color:#FBF3DB">
+    <td width="4%" align="center">⭐</td>
+    <td width="14%"><img src="https://img.shields.io/badge/⭐_FEATURED-D9B44A" height="20" alt="Featured tutorial"></td>
+    <td width="27%"><b><a href="all_agents_tutorials/document_intake_agent_langgraph.ipynb">Document Intake Agent</a></b></td>
+    <td width="15%">LangGraph</td>
+    <td width="40%">Office docs to LLM-ready markdown, conversion as a tool call, grounded answers</td>
+  </tr>
+</table>
+
 | #  | Category          | Agent Name                    | Framework         | Key Features                                                                 |
 |----|-------------------|-------------------------------|-------------------|------------------------------------------------------------------------------|
 | 1  | 🌱 **Beginner**   | [Simple Conversational Agent](all_agents_tutorials/simple_conversational_agent.ipynb)   | LangChain/PydanticAI | Context-aware conversations, history management                              |
@@ -144,6 +154,12 @@ Below is a comprehensive overview of our GenAI agent implementations, organized 
 | 43 | 🔍 **QA**         | [EU Green Deal Bot](all_agents_tutorials/EU_Green_Compliance_FAQ_Bot.ipynb)             | LangGraph         | Regulatory compliance, FAQ system                                            |
 | 44 | 🔍 **QA**         | [Systematic Review](all_agents_tutorials/systematic_review_of_scientific_articles.ipynb)             | LangGraph         | Academic paper processing, draft generation                                  |
 | 45 | 🌟 **Advanced**   | [Controllable RAG Agent](https://github.com/NirDiamant/Controllable-RAG-Agent)        | Custom            | Complex question answering, deterministic graph                              |
+| 46 | 💼 **Business**   | [HR AI Assistant](all_agents_tutorials/HR_AI-Assistant.ipynb)               | LangGraph         | Recruitment pipeline, JD generation, CV analysis                             |
+| 47 | 📊 **Analysis**   | [ML and Data Science Assistant](all_agents_tutorials/ai_driven_ml_and_datascience_assistant.ipynb) | LangGraph | Agentic ML pipeline, preprocessing to evaluation                             |
+| 48 | 🎨 **Creative**   | [Art Tourguide with LightRAG](all_agents_tutorials/art_agent.ipynb)         | LightRAG + LangGraph | Knowledge-graph RAG, interactive art exploration                          |
+| 49 | 🎓 **Educational** | [Gutenberg Sage](all_agents_tutorials/Gutenbergs_Sage.ipynb)               | LangGraph + Ollama | Local LLM RAG, NER-enhanced retrieval                                       |
+| 50 | 💼 **Business**   | [Contextual Quoting System](all_agents_tutorials/contextual_quoting_agentic_system.ipynb) | LangGraph  | Multi-agent quoting, RAG + structured data                                   |
+| 51 | 📊 **Analysis**   | [Document Intake Agent](all_agents_tutorials/document_intake_agent_langgraph.ipynb) | LangGraph  | Office docs to LLM-ready markdown, conversion as a tool call                 |
 
 Explore our extensive list of GenAI agent implementations, sorted by categories:
 
@@ -650,6 +666,14 @@ Explore our extensive list of GenAI agent implementations, sorted by categories:
 
     #### Implementation 🛠️
     Features ChromaDB for RAG, SQLite for structured data, Pydantic schemas for validation, and a coordinated workflow of specialized agents (retriever, reasoning, classification, quote generation) using OpenAI + Groq. One of the most production-relevant multi-agent implementations in this collection.
+
+51. **[Document Intake Agent: LLM-Ready Markdown from Any Office Document](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/document_intake_agent_langgraph.ipynb)**
+
+    #### Overview 🔎
+    A LangGraph agent that accepts arbitrary incoming files (docx, pptx, xlsx, pdf and more), routes them against a live formats list, converts them to faithful LLM-ready markdown through a hosted conversion API, and answers questions grounded in the converted document instead of a lossy text scrape.
+
+    #### Implementation 🛠️
+    Uses a deterministic conditional edge for format routing (a lookup, not an LLM call), a submit-upload-poll-download client as the conversion tool, and gpt-4o-mini as a grounded analyst. Includes a naive-extraction comparison showing why tables and reading order survive conversion but not scraping, plus a one-block MCP config that gives Claude Code and Cursor the same capability.
 
 ### 🌟 Special Advanced Technique 🌟
 
