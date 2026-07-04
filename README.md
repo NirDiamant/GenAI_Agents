@@ -40,12 +40,12 @@ Welcome to one of the most extensive and dynamic collections of Generative AI (G
 </tr>
 </table>
 
-[![Subscribe to DiamantAI Newsletter](images/subscribe-button.svg)](https://diamantai.substack.com/?r=336pe4&utm_campaign=pub-share-checklist)
+[![Subscribe to DiamantAI Newsletter](images/subscribe-button.svg)](https://newsletter.diamant-ai.com/?r=336pe4&utm_campaign=pub-share-checklist)
 
 *Join over 50,000 AI enthusiasts getting unique cutting-edge insights and free tutorials!* ***Plus, subscribers get exclusive early access and special 33% discounts to my book and the upcoming RAG Techniques course!***
 </div>
 
-[![DiamantAI's newsletter](images/substack_image.png)](https://diamantai.substack.com/?r=336pe4&utm_campaign=pub-share-checklist)
+[![DiamantAI's newsletter](images/substack_image.png)](https://newsletter.diamant-ai.com/?r=336pe4&utm_campaign=pub-share-checklist)
 
 ## Introduction
 
@@ -56,7 +56,7 @@ Generative AI agents are at the forefront of artificial intelligence, revolution
 <tr>
 <td>
 <h3>📚 Learn to Build Your First AI Agent</h3>
-<p><strong><a href="https://diamantai.substack.com/p/your-first-ai-agent-simpler-than">Your First AI Agent: Simpler Than You Think</a></strong></p>
+<p><strong><a href="https://newsletter.diamant-ai.com/p/your-first-ai-agent-simpler-than">Your First AI Agent: Simpler Than You Think</a></strong></p>
 <p>This detailed blog post complements the repository by providing a complete A-Z walkthrough with in-depth explanations of core concepts, step-by-step implementation, and the theory behind AI agents. It's designed to be incredibly simple to follow while covering everything you need to know to build your first working agent from scratch.</p>
 <p><em>💡 Plus: Subscribe to the newsletter for exclusive early access to tutorials and special discounts on upcoming courses and books!</em></p>
 </td>
@@ -204,7 +204,7 @@ Explore our extensive list of GenAI agent implementations, sorted by categories:
    Step-by-step guide on using LangGraph to create a StateGraph workflow. The tutorial covers key concepts such as state management, node creation, and graph compilation. It demonstrates these principles by constructing a simple text analysis pipeline, serving as a foundation for more advanced agent architectures.
  
    #### Additional Resources 📚
-   - **[Blog Post](https://open.substack.com/pub/diamantai/p/your-first-ai-agent-simpler-than?r=336pe4&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)**
+   - **[Blog Post](https://newsletter.diamant-ai.com/p/your-first-ai-agent-simpler-than?r=336pe4&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)**
 
 5. **[Model Context Protocol (MCP):  Seamless Integration of AI and External Resources](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/mcp-tutorial.ipynb)**
    
@@ -215,7 +215,7 @@ Explore our extensive list of GenAI agent implementations, sorted by categories:
    Provides a hands-on guide to implementing MCP servers and clients, demonstrating how to connect language models with external tools and data sources. The tutorial covers server setup, tool definition, and integration with AI clients, with practical examples of building useful agent capabilities through the protocol.
 
    #### Additional Resources 📚
-   - **[Blog Post](https://open.substack.com/pub/diamantai/p/model-context-protocol-mcp-explained?r=336pe4&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)**
+   - **[Blog Post](https://newsletter.diamant-ai.com/p/model-context-protocol-mcp-explained?r=336pe4&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)**
    - **[Official MCP Documentation](https://modelcontextprotocol.io/introduction)**
    - **[MCP GitHub Repository](https://github.com/modelcontextprotocol)**
 
@@ -231,7 +231,7 @@ Explore our extensive list of GenAI agent implementations, sorted by categories:
 
     #### Additional Resources 📚
     - **[YouTube Explanation](https://www.youtube.com/watch?v=yxowMLL2dDI)** 
-    - **[Blog Post](https://open.substack.com/pub/diamantai/p/atlas-when-artificial-intelligence?r=336pe4&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)**
+    - **[Blog Post](https://newsletter.diamant-ai.com/p/atlas-when-artificial-intelligence?r=336pe4&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)**
 
 7. **[Scientific Paper Agent - Literature Review](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/scientific_paper_agent_langgraph.ipynb)**
    
@@ -243,7 +243,7 @@ Explore our extensive list of GenAI agent implementations, sorted by categories:
 
     #### Additional Resources 📚
     - **[YouTube Explanation](https://youtu.be/Bc4YtpHY6Ws)** 
-    - **[Blog Post](https://open.substack.com/pub/diamantai/p/nexus-ai-the-revolutionary-research?r=336pe4&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)**
+    - **[Blog Post](https://newsletter.diamant-ai.com/p/nexus-ai-the-revolutionary-research?r=336pe4&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)**
 
 8. **[Chiron - A Feynman-Enhanced Learning Agent](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/chiron_learning_agent_langgraph.ipynb)**
    
@@ -489,7 +489,7 @@ Explore our extensive list of GenAI agent implementations, sorted by categories:
     Leverages LangGraph for workflow orchestration and LangMem for sophisticated memory management across multiple memory types. The system implements a triage workflow with memory-enhanced decision making, specialized tools for email composition and calendar management, and a self-improvement mechanism that updates its own prompts based on feedback and past performance.
 
     #### Additional Resources 📚
-    - **[Blog Post](https://open.substack.com/pub/diamantai/p/building-an-ai-agent-with-memory?r=336pe4&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)
+    - **[Blog Post](https://newsletter.diamant-ai.com/p/building-an-ai-agent-with-memory?r=336pe4&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)
 
 ### 📰 News and Information Agents
 
@@ -503,7 +503,7 @@ Explore our extensive list of GenAI agent implementations, sorted by categories:
 
     #### Additional Resources 📚
     - **[YouTube Explanation](https://www.youtube.com/watch?v=0fRxW6miybI)**
-    - **[Blog Post](https://open.substack.com/pub/diamantai/p/stop-reading-start-understanding?r=336pe4&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)**
+    - **[Blog Post](https://newsletter.diamant-ai.com/p/stop-reading-start-understanding?r=336pe4&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)**
 
 34. **[AInsight: AI/ML Weekly News Reporter](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/ainsight_langgraph.ipynb)**
 
@@ -603,7 +603,7 @@ Explore our extensive list of GenAI agent implementations, sorted by categories:
 
     #### Additional Resources 📚
     - **[YouTube Explanation](https://www.youtube.com/watch?v=fQd6lXc-Y9A)**
-    - **[Blog Post](https://open.substack.com/pub/diamantai/p/langgraph-systems-inspector-an-ai?r=336pe4&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)**
+    - **[Blog Post](https://newsletter.diamant-ai.com/p/langgraph-systems-inspector-an-ai?r=336pe4&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)**
 
 43. **[EU Green Deal FAQ Bot](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/EU_Green_Compliance_FAQ_Bot.ipynb)**
 
