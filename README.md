@@ -746,3 +746,5 @@ This project is licensed under a custom non-commercial license - see the [LICENS
 ⭐️ If you find this repository helpful, please consider giving it a star!
 
 Keywords: GenAI, Generative AI, Agents, NLP, AI, Machine Learning, Natural Language Processing, LLM, Conversational AI, Task-Oriented AI
+
+![](https://europe-west1-genai-agents-views-tracker.cloudfunctions.net/genai-agents-tracker?notebook=main-readme)
