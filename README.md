@@ -27,7 +27,7 @@ Welcome to one of the most extensive and dynamic collections of Generative AI (G
 
 </div>
 
-> **Recently added:** Document Intake Agent, HR AI Assistant, Art Tourguide with LightRAG, Contextual Quoting System, ML/DS Assistant | **53 tutorials** and growing
+> **Recently added:** Document Intake Agent, HR AI Assistant, Art Tourguide with LightRAG, Contextual Quoting System, ML/DS Assistant, Self-Healing Code Executor | **53 tutorials** and growing
 
 ## 📫 Stay Updated!
 
@@ -138,28 +138,28 @@ Below is a comprehensive overview of our GenAI agent implementations, organized 
 | 27 | 📊 **Analysis**   | [Research Team - Autogen](all_agents_tutorials/research_team_autogen.ipynb)       | AutoGen           | Multi-agent research collaboration                                           |
 | 28 | 📊 **Analysis**   | [Sales Call Analyzer](all_agents_tutorials/sales_call_analyzer_agent.ipynb)           | LangGraph         | Audio transcription, NLP analysis                                            |
 | 29 | 📊 **Analysis**   | [Weather Emergency System](all_agents_tutorials/Weather_Disaster_Management_AI_AGENT.ipynb)      | LangGraph         | Real-time data processing                                                    |
-| 30 | 📊 **Analysis**   | [Self-Healing Codebase](all_agents_tutorials/self_healing_code.ipynb)         | LangGraph         | Error detection, automated fixes                                             |
-| 31 | 📊 **Analysis**   | [DataScribe](all_agents_tutorials/database_discovery_fleet.ipynb)                    | LangGraph         | Database exploration, query planning                                         |
-| 32 | 📊 **Analysis**   | [Memory-Enhanced Email](all_agents_tutorials/memory-agent-tutorial.ipynb)         | LangGraph         | Email triage, response generation                                            |
-| 33 | 📰 **News**       | [News TL;DR](all_agents_tutorials/news_tldr_langgraph.ipynb)                    | LangGraph         | News summarization, API integration                                          |
-| 34 | 📰 **News**       | [AInsight](all_agents_tutorials/ainsight_langgraph.ipynb)                      | LangGraph         | AI/ML news aggregation                                                       |
-| 35 | 📰 **News**       | [Journalism Assistant](all_agents_tutorials/journalism_focused_ai_assistant_langgraph.ipynb)          | LangGraph         | Fact-checking, bias detection                                                |
-| 36 | 📰 **News**       | [Blog Writer](all_agents_tutorials/blog_writer_swarm.ipynb)                   | OpenAI Swarm      | Collaborative content creation                                               |
-| 37 | 📰 **News**       | [Podcast Generator](all_agents_tutorials/generate_podcast_agent_langgraph.ipynb)             | LangGraph         | Content search, audio generation                                             |
-| 38 | 🛍️ **Shopping**  | [ShopGenie](all_agents_tutorials/ShopGenie.ipynb)                     | LangGraph         | Product comparison, recommendations                                          |
-| 39 | 🛍️ **Shopping**  | [Car Buyer Agent](all_agents_tutorials/car_buyer_agent_langgraph.ipynb)               | LangGraph         | Web scraping, decision support                                               |
-| 40 | 🎯 **Task Management** | [Taskifier](all_agents_tutorials/taskifier.ipynb)                | LangGraph         | Work style analysis, task breakdown                                          |
-| 41 | 🎯 **Task Management** | [Grocery Management](all_agents_tutorials/grocery_management_agents_system.ipynb)        | CrewAI            | Inventory tracking, recipe suggestions                                       |
-| 42 | 🔍 **QA**         | [LangGraph Inspector](all_agents_tutorials/graph_inspector_system_langgraph.ipynb)           | LangGraph         | System testing, vulnerability detection                                      |
-| 43 | 🔍 **QA**         | [EU Green Deal Bot](all_agents_tutorials/EU_Green_Compliance_FAQ_Bot.ipynb)             | LangGraph         | Regulatory compliance, FAQ system                                            |
-| 44 | 🔍 **QA**         | [Systematic Review](all_agents_tutorials/systematic_review_of_scientific_articles.ipynb)             | LangGraph         | Academic paper processing, draft generation                                  |
-| 45 | 🌟 **Advanced**   | [Controllable RAG Agent](https://github.com/NirDiamant/Controllable-RAG-Agent)        | Custom            | Complex question answering, deterministic graph                              |
-| 46 | 💼 **Business**   | [HR AI Assistant](all_agents_tutorials/HR_AI-Assistant.ipynb)               | LangGraph         | Recruitment pipeline, JD generation, CV analysis                             |
-| 47 | 📊 **Analysis**   | [ML and Data Science Assistant](all_agents_tutorials/ai_driven_ml_and_datascience_assistant.ipynb) | LangGraph | Agentic ML pipeline, preprocessing to evaluation                             |
-| 48 | 🎨 **Creative**   | [Art Tourguide with LightRAG](all_agents_tutorials/art_agent.ipynb)         | LightRAG + LangGraph | Knowledge-graph RAG, interactive art exploration                          |
-| 49 | 🎓 **Educational** | [Gutenberg Sage](all_agents_tutorials/Gutenbergs_Sage.ipynb)               | LangGraph + Ollama | Local LLM RAG, NER-enhanced retrieval                                       |
-| 50 | 💼 **Business**   | [Contextual Quoting System](all_agents_tutorials/contextual_quoting_agentic_system.ipynb) | LangGraph  | Multi-agent quoting, RAG + structured data                                   |
-| 51 | 📊 **Analysis**   | [Document Intake Agent](all_agents_tutorials/document_intake_agent_langgraph.ipynb) | LangGraph  | Office docs to LLM-ready markdown, conversion as a tool call                 |
+| 30 | 📊 **Analysis**   | [DataScribe](all_agents_tutorials/database_discovery_fleet.ipynb)                    | LangGraph         | Database exploration, query planning                                         |
+| 31 | 📊 **Analysis**   | [Memory-Enhanced Email](all_agents_tutorials/memory-agent-tutorial.ipynb)         | LangGraph         | Email triage, response generation                                            |
+| 32 | 📰 **News**       | [News TL;DR](all_agents_tutorials/news_tldr_langgraph.ipynb)                    | LangGraph         | News summarization, API integration                                          |
+| 33 | 📰 **News**       | [AInsight](all_agents_tutorials/ainsight_langgraph.ipynb)                      | LangGraph         | AI/ML news aggregation                                                       |
+| 34 | 📰 **News**       | [Journalism Assistant](all_agents_tutorials/journalism_focused_ai_assistant_langgraph.ipynb)          | LangGraph         | Fact-checking, bias detection                                                |
+| 35 | 📰 **News**       | [Blog Writer](all_agents_tutorials/blog_writer_swarm.ipynb)                   | OpenAI Swarm      | Collaborative content creation                                               |
+| 36 | 📰 **News**       | [Podcast Generator](all_agents_tutorials/generate_podcast_agent_langgraph.ipynb)             | LangGraph         | Content search, audio generation                                             |
+| 37 | 🛍️ **Shopping**  | [ShopGenie](all_agents_tutorials/ShopGenie.ipynb)                     | LangGraph         | Product comparison, recommendations                                          |
+| 38 | 🛍️ **Shopping**  | [Car Buyer Agent](all_agents_tutorials/car_buyer_agent_langgraph.ipynb)               | LangGraph         | Web scraping, decision support                                               |
+| 39 | 🎯 **Task Management** | [Taskifier](all_agents_tutorials/taskifier.ipynb)                | LangGraph         | Work style analysis, task breakdown                                          |
+| 40 | 🎯 **Task Management** | [Grocery Management](all_agents_tutorials/grocery_management_agents_system.ipynb)        | CrewAI            | Inventory tracking, recipe suggestions                                       |
+| 41 | 🔍 **QA**         | [LangGraph Inspector](all_agents_tutorials/graph_inspector_system_langgraph.ipynb)           | LangGraph         | System testing, vulnerability detection                                      |
+| 42 | 🔍 **QA**         | [EU Green Deal Bot](all_agents_tutorials/EU_Green_Compliance_FAQ_Bot.ipynb)             | LangGraph         | Regulatory compliance, FAQ system                                            |
+| 43 | 🔍 **QA**         | [Systematic Review](all_agents_tutorials/systematic_review_of_scientific_articles.ipynb)             | LangGraph         | Academic paper processing, draft generation                                  |
+| 44 | 🌟 **Advanced**   | [Controllable RAG Agent](https://github.com/NirDiamant/Controllable-RAG-Agent)        | Custom            | Complex question answering, deterministic graph                              |
+| 45 | 💼 **Business**   | [HR AI Assistant](all_agents_tutorials/HR_AI-Assistant.ipynb)               | LangGraph         | Recruitment pipeline, JD generation, CV analysis                             |
+| 46 | 📊 **Analysis**   | [ML and Data Science Assistant](all_agents_tutorials/ai_driven_ml_and_datascience_assistant.ipynb) | LangGraph | Agentic ML pipeline, preprocessing to evaluation                             |
+| 47 | 🎨 **Creative**   | [Art Tourguide with LightRAG](all_agents_tutorials/art_agent.ipynb)         | LightRAG + LangGraph | Knowledge-graph RAG, interactive art exploration                          |
+| 48 | 🎓 **Educational** | [Gutenberg Sage](all_agents_tutorials/Gutenbergs_Sage.ipynb)               | LangGraph + Ollama | Local LLM RAG, NER-enhanced retrieval                                       |
+| 49 | 💼 **Business**   | [Contextual Quoting System](all_agents_tutorials/contextual_quoting_agentic_system.ipynb) | LangGraph  | Multi-agent quoting, RAG + structured data                                   |
+| 50 | 📊 **Analysis**   | [Document Intake Agent](all_agents_tutorials/document_intake_agent_langgraph.ipynb) | LangGraph  | Office docs to LLM-ready markdown, conversion as a tool call                 |
+| 51 | ⚖️ **Other**   | [Self-Healing Code Executor](all_agents_tutorials/self_healing_code_executor.ipynb) | LangGraph  | Multi-persona review, sandboxed execution, automatic code healing |
 
 Explore our extensive list of GenAI agent implementations, sorted by categories:
 
@@ -461,18 +461,7 @@ Explore our extensive list of GenAI agent implementations, sorted by categories:
     #### Additional Resources 📚
     - **[YouTube Explanation](https://www.youtube.com/watch?v=AgiOAJl_apw)**
 
-30. **[Self-Healing Codebase System](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/self_healing_code.ipynb)**
-
-    #### Overview 🔎
-    An intelligent system that automatically detects, diagnoses, and fixes runtime code errors using LangGraph workflow orchestration and ChromaDB vector storage. The system maintains a memory of encountered bugs and their fixes through vector embeddings, enabling pattern recognition for similar errors across the codebase.
-
-    #### Implementation 🛠️
-    Utilizes a state-based graph workflow that processes function definitions and runtime arguments through specialized nodes for error detection, code analysis, and fix generation. Incorporates ChromaDB for vector-based storage of bug patterns and fixes, with automated search and retrieval capabilities for similar error patterns, while maintaining code execution safety through structured validation steps.
-
-    #### Additional Resources 📚
-    - **[YouTube Explanation](https://www.youtube.com/watch?v=ga7ShvIXOvE)**
-
-31. **[DataScribe: AI-Powered Schema Explorer](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/database_discovery_fleet.ipynb)**
+30. **[DataScribe: AI-Powered Schema Explorer](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/database_discovery_fleet.ipynb)**
     
     #### Overview 🔎
     An intelligent agent system that enables intuitive exploration and querying of relational databases through natural language interactions. The system utilizes a fleet of specialized agents, coordinated by a stateful Supervisor, to handle schema discovery, query planning, and data analysis tasks while maintaining contextual understanding through vector-based relationship graphs.
@@ -480,7 +469,7 @@ Explore our extensive list of GenAI agent implementations, sorted by categories:
     #### Implementation 🛠️
     Leverages LangGraph for orchestrating a multi-agent workflow including discovery, inference, and planning agents, with NetworkX for relationship graph visualization and management. The system incorporates dynamic state management through TypedDict classes, maintains database context between sessions using a db_graph attribute, and includes safety measures to prevent unauthorized database modifications.
 
-32. **[Memory-Enhanced Email Agent (LangGraph & LangMem)](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/memory-agent-tutorial.ipynb)**
+31. **[Memory-Enhanced Email Agent (LangGraph & LangMem)](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/memory-agent-tutorial.ipynb)**
     
     #### Overview 🔎
     An intelligent email assistant that combines three types of memory (semantic, episodic, and procedural) to create a system that improves over time. The agent can triage incoming emails, draft contextually appropriate responses using stored knowledge, and enhance its performance based on user feedback.
@@ -493,7 +482,7 @@ Explore our extensive list of GenAI agent implementations, sorted by categories:
 
 ### 📰 News and Information Agents
 
-33. **[News TL;DR using LangGraph](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/news_tldr_langgraph.ipynb)**
+32. **[News TL;DR using LangGraph](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/news_tldr_langgraph.ipynb)**
     
     #### Overview 🔎
     A news summarization system that generates concise TL;DR summaries of current events based on user queries. The system leverages large language models for decision making and summarization while integrating with news APIs to access up-to-date content, allowing users to quickly catch up on topics of interest through generated bullet-point summaries.
@@ -505,7 +494,7 @@ Explore our extensive list of GenAI agent implementations, sorted by categories:
     - **[YouTube Explanation](https://www.youtube.com/watch?v=0fRxW6miybI)**
     - **[Blog Post](https://newsletter.diamant-ai.com/p/stop-reading-start-understanding?r=336pe4&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)**
 
-34. **[AInsight: AI/ML Weekly News Reporter](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/ainsight_langgraph.ipynb)**
+33. **[AInsight: AI/ML Weekly News Reporter](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/ainsight_langgraph.ipynb)**
 
     #### Overview 🔎
     AInsight demonstrates how to build an intelligent news aggregation and summarization system using a multi-agent architecture. The system employs three specialized agents (NewsSearcher, Summarizer, Publisher) to automatically collect, process and summarize AI/ML news for general audiences through LangGraph-based workflow orchestration.
@@ -516,7 +505,7 @@ Explore our extensive list of GenAI agent implementations, sorted by categories:
     #### Additional Resources 📚
     - **[YouTube Explanation](https://www.youtube.com/watch?v=kH5S1is2D_0)**
 
-35. **[Journalism-Focused AI Assistant](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/journalism_focused_ai_assistant_langgraph.ipynb)**
+34. **[Journalism-Focused AI Assistant](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/journalism_focused_ai_assistant_langgraph.ipynb)**
 
     #### Overview 🔎
     A specialized AI assistant that helps journalists tackle modern journalistic challenges like misinformation, bias, and information overload. The system integrates fact-checking, tone analysis, summarization, and grammar review tools to enhance the accuracy and efficiency of journalistic work while maintaining ethical reporting standards.
@@ -524,7 +513,7 @@ Explore our extensive list of GenAI agent implementations, sorted by categories:
     #### Implementation 🛠️
     Leverages LangGraph to orchestrate a workflow of specialized components including language models for analysis and generation, web search integration via DuckDuckGo's API, document parsing tools like PyMuPDFLoader and WebBaseLoader, text splitting with RecursiveCharacterTextSplitter, and structured JSON outputs. Each component works together through a unified workflow to analyze content, verify facts, detect bias, extract quotes, and generate comprehensive reports.
 
-36. **[Blog Writer (Open AI Swarm)](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/blog_writer_swarm.ipynb)**
+35. **[Blog Writer (Open AI Swarm)](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/blog_writer_swarm.ipynb)**
 
     #### Overview 🔎
     A multi-agent system for collaborative blog post creation using OpenAI's Swarm package. It leverages specialized agents to perform research, planning, writing, and editing tasks efficiently.
@@ -535,7 +524,7 @@ Explore our extensive list of GenAI agent implementations, sorted by categories:
     #### Additional Resources 📚
     - **[Swarm Repo](https://github.com/openai/swarm)**
 
-37. **[Podcast Internet Search and Generate Agent 🎙️](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/generate_podcast_agent_langgraph.ipynb)**
+36. **[Podcast Internet Search and Generate Agent 🎙️](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/generate_podcast_agent_langgraph.ipynb)**
 
     #### Overview 🔎
     A two step agent that first searches the internet for a given topic and then generates a podcast on the topic found. The search step uses a search agent and search function to find the most relevant information. The second step uses a podcast generation agent and generation function to create a podcast on the topic found.
@@ -545,7 +534,7 @@ Explore our extensive list of GenAI agent implementations, sorted by categories:
 
 ### 🛍️ Shopping and Product Analysis Agents
 
-38. **[ShopGenie - Redefining Online Shopping Customer Experience](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/ShopGenie.ipynb)**
+37. **[ShopGenie - Redefining Online Shopping Customer Experience](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/ShopGenie.ipynb)**
 
     #### Overview 🔎
     An AI-powered shopping assistant that helps customers make informed purchasing decisions even without domain expertise. The system analyzes product information from multiple sources, compares specifications and reviews, identifies the best option based on user needs, and delivers recommendations through email with supporting video reviews, creating a comprehensive shopping experience.
@@ -556,7 +545,7 @@ Explore our extensive list of GenAI agent implementations, sorted by categories:
     #### Additional Resources 📚
     - **[YouTube Explanation](https://www.youtube.com/watch?v=Js0sK0u53dQ)**
 
-39. **[Car Buyer AI Agent](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/car_buyer_agent_langgraph.ipynb)**
+38. **[Car Buyer AI Agent](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/car_buyer_agent_langgraph.ipynb)**
 
     #### Overview 🔎
     The Smart Product Buyer AI Agent demonstrates how to build an intelligent system that assists users in making informed purchasing decisions. Using LangGraph and LLM-based intelligence, the system processes user requirements, scrapes product listings from websites like AutoTrader, and provides detailed analysis and recommendations for car purchases.
@@ -569,7 +558,7 @@ Explore our extensive list of GenAI agent implementations, sorted by categories:
 
 ### 🎯 Task Management and Productivity Agents
 
-40. **[Taskifier - Intelligent Task Allocation & Management](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/taskifier.ipynb)**
+39. **[Taskifier - Intelligent Task Allocation & Management](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/taskifier.ipynb)**
 
     #### Overview 🔎
     An intelligent task management system that analyzes user work styles and creates personalized task breakdown strategies, born from the observation that procrastination often stems from task ambiguity among students and early-career professionals. The system evaluates historical work patterns, gathers relevant task information through web search, and generates customized step-by-step approaches to optimize productivity and reduce workflow paralysis.
@@ -580,7 +569,7 @@ Explore our extensive list of GenAI agent implementations, sorted by categories:
     #### Additional Resources 📚
     - **[YouTube Explanation](https://www.youtube.com/watch?v=1W_p_RVi9KE&t=25s)**
     
-41. **[Grocery Management Agents System](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/grocery_management_agents_system.ipynb)**
+40. **[Grocery Management Agents System](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/grocery_management_agents_system.ipynb)**
 
     #### Overview 🔎
     A multi-agent system built with CrewAI that automates grocery management tasks including receipt interpretation, expiration date tracking, inventory management, and recipe recommendations. The system uses specialized agents to extract data from receipts, estimate product shelf life, track consumption, and suggest recipes to minimize food waste.
@@ -593,7 +582,7 @@ Explore our extensive list of GenAI agent implementations, sorted by categories:
 
 ### 🔍 Quality Assurance and Testing Agents
 
-42. **[LangGraph-Based Systems Inspector](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/graph_inspector_system_langgraph.ipynb)**
+41. **[LangGraph-Based Systems Inspector](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/graph_inspector_system_langgraph.ipynb)**
     
     #### Overview 🔎
     A comprehensive testing and validation tool for LangGraph-based applications that automatically analyzes system architecture, generates test cases, and identifies potential vulnerabilities through multi-agent inspection. The inspector employs specialized AI testers to evaluate different aspects of the system, from basic functionality to security concerns and edge cases.
@@ -605,7 +594,7 @@ Explore our extensive list of GenAI agent implementations, sorted by categories:
     - **[YouTube Explanation](https://www.youtube.com/watch?v=fQd6lXc-Y9A)**
     - **[Blog Post](https://newsletter.diamant-ai.com/p/langgraph-systems-inspector-an-ai?r=336pe4&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)**
 
-43. **[EU Green Deal FAQ Bot](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/EU_Green_Compliance_FAQ_Bot.ipynb)**
+42. **[EU Green Deal FAQ Bot](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/EU_Green_Compliance_FAQ_Bot.ipynb)**
 
     #### Overview 🔎 
     The EU Green Deal FAQ Bot demonstrates how to build a RAG-based AI agent that helps businesses understand EU green deal policies. The system processes complex regulatory documents into manageable chunks and provides instant, accurate answers to common questions about environmental compliance, emissions reporting, and waste management requirements.
@@ -616,7 +605,7 @@ Explore our extensive list of GenAI agent implementations, sorted by categories:
     #### Additional Resources 📚
     - **[YouTube Explanation](https://www.youtube.com/watch?v=Av0kBQjwU-Y)**
 
-44. **[Systematic Review Automation System + Paper Draft Creation](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/systematic_review_of_scientific_articles.ipynb)**
+43. **[Systematic Review Automation System + Paper Draft Creation](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/systematic_review_of_scientific_articles.ipynb)**
     
     #### Overview 🔎
     A comprehensive system for automating academic systematic reviews using a directed graph architecture and LangChain components. The system generates complete, publication-ready systematic review papers, automatically processing everything from literature search through final draft generation with multiple revision cycles.
@@ -627,7 +616,7 @@ Explore our extensive list of GenAI agent implementations, sorted by categories:
     #### Additional Resources 📚
     - **[YouTube Explanation](https://www.youtube.com/watch?v=qi35mGGkCtg)**
 
-46. **[HR AI Assistant](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/HR_AI-Assistant.ipynb)**
+44. **[HR AI Assistant](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/HR_AI-Assistant.ipynb)**
 
     #### Overview 🔎
     An AI-powered recruitment assistant using LangGraph-based workflow for requirements gathering, job description generation, LinkedIn candidate search, and CV analysis.
@@ -635,7 +624,7 @@ Explore our extensive list of GenAI agent implementations, sorted by categories:
     #### Implementation 🛠️
     Leverages LangChain and LangGraph to orchestrate a multi-step recruitment pipeline with structured state management, OpenAI for language generation, and automated candidate evaluation workflows.
 
-47. **[AI-Driven ML and Data Science Assistant](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/ai_driven_ml_and_datascience_assistant.ipynb)**
+45. **[AI-Driven ML and Data Science Assistant](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/ai_driven_ml_and_datascience_assistant.ipynb)**
 
     #### Overview 🔎
     A comprehensive ML assistant using LangGraph + OpenAI that loads datasets, performs preprocessing, feature engineering, model training, evaluation, and visualization through an agentic workflow.
@@ -643,7 +632,7 @@ Explore our extensive list of GenAI agent implementations, sorted by categories:
     #### Implementation 🛠️
     Utilizes LangGraph for orchestrating ML pipeline tools including data preprocessing, model selection, hyperparameter tuning, and results visualization. Demonstrates end-to-end agentic ML workflows with Kaggle dataset integration.
 
-48. **[Art Tourguide with LightRAG](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/art_agent.ipynb)**
+46. **[Art Tourguide with LightRAG](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/art_agent.ipynb)**
 
     #### Overview 🔎
     An interactive art tour guide using LightRAG (knowledge-graph RAG) and LangGraph for conversational exploration of art collections with structured data retrieval.
@@ -651,7 +640,7 @@ Explore our extensive list of GenAI agent implementations, sorted by categories:
     #### Implementation 🛠️
     Combines LightRAG for knowledge-graph-based retrieval with LangGraph agent chains, interactive widget UI, and custom art data preparation. Demonstrates a novel application of graph-based RAG in a creative domain.
 
-49. **[Project Gutenberg Conversational Helper](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/Gutenbergs_Sage.ipynb)**
+47. **[Project Gutenberg Conversational Helper](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/Gutenbergs_Sage.ipynb)**
 
     #### Overview 🔎
     A conversational agent for exploring Project Gutenberg texts using local LLMs via Ollama, with vector store RAG through Chroma/Pinecone and named entity recognition with spaCy.
@@ -659,7 +648,7 @@ Explore our extensive list of GenAI agent implementations, sorted by categories:
     #### Implementation 🛠️
     Leverges LangGraph + Ollama for fully local LLM inference, multi-user support with session management, NER-enhanced retrieval, and dual vector store integration (Chroma for local, Pinecone for cloud).
 
-50. **[Contextual Quoting Agentic System](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/contextual_quoting_agentic_system.ipynb)**
+48. **[Contextual Quoting Agentic System](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/contextual_quoting_agentic_system.ipynb)**
 
     #### Overview 🔎
     A sophisticated multi-agent system for insurance/business quoting using LangGraph with RAG, specialized agents for retrieval, reasoning, classification, and quote generation.
@@ -667,13 +656,21 @@ Explore our extensive list of GenAI agent implementations, sorted by categories:
     #### Implementation 🛠️
     Features ChromaDB for RAG, SQLite for structured data, Pydantic schemas for validation, and a coordinated workflow of specialized agents (retriever, reasoning, classification, quote generation) using OpenAI + Groq. One of the most production-relevant multi-agent implementations in this collection.
 
-51. **[Document Intake Agent: LLM-Ready Markdown from Any Office Document](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/document_intake_agent_langgraph.ipynb)**
+49. **[Document Intake Agent: LLM-Ready Markdown from Any Office Document](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/document_intake_agent_langgraph.ipynb)**
 
     #### Overview 🔎
     A LangGraph agent that accepts arbitrary incoming files (docx, pptx, xlsx, pdf and more), routes them against a live formats list, converts them to faithful LLM-ready markdown through a hosted conversion API, and answers questions grounded in the converted document instead of a lossy text scrape.
 
     #### Implementation 🛠️
     Uses a deterministic conditional edge for format routing (a lookup, not an LLM call), a submit-upload-poll-download client as the conversion tool, and gpt-4o-mini as a grounded analyst. Includes a naive-extraction comparison showing why tables and reading order survive conversion but not scraping, plus a one-block MCP config that gives Claude Code and Cursor the same capability.
+
+50. **[Self-Healing Code Executor with Multi-Persona Review 🛠️](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/self_healing_code_executor.ipynb)**
+
+    #### Overview 🔎
+    An intelligent LangGraph agent that generates code, executes it in a sandboxed environment, detects errors through four specialized reviewers (syntax, logic, security, performance), and iteratively fixes issues until producing production-ready code with documentation, tests, and usage examples.
+
+    #### Implementation 🛠️
+    Implements a cyclic graph with 10 nodes orchestrated through LangGraph state management: code generator, sandboxed executor, output validator, four multi-persona reviewers (syntax, logic, security, performance), review aggregator, code refiner with web search integration, and finalizer. Features error-driven iterative loops with conditional routing (validate → review → refine → re-execute), DuckDuckGo-based error lookup for best practices, and sandboxed subprocess execution with timeout. Built with LangGraph + Groq (llama-3.1-8b-instant) for fast inference.
 
 ### 🌟 Special Advanced Technique 🌟
 
