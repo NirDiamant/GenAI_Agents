@@ -12,9 +12,21 @@ Welcome to one of the most extensive and dynamic collections of Generative AI (G
 
 <div align="center">
 
-**[Prompt to Production](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=genai-agents--readme&click=course-waitlist-cta&target=https%3A%2F%2Fdiamant-ai.com%2Fcourses%3Futm_source%3Dgithub%26utm_medium%3Dreadme%26utm_campaign%3Dgenai-agents&retarget=0&text=course-waitlist-cta)** - my full course on building software with AI the way professionals do: the methods and paradigms behind reliable, efficient, modular production systems, taught systematically. 16 lectures, each with a hands-on lab, from your first structured prompt to a working production system.
+**[Prompt to Production](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=genai-agents--readme&click=course-free-module-cta&target=https%3A%2F%2Fwww.diamant-ai.com%2Fcourses%3Futm_source%3Dgithub%26utm_medium%3Dreadme%26utm_campaign%3Dgenai-agents&retarget=0&text=course-free-module-cta)** - my full course on building software with AI the way professionals do: the methods and paradigms behind reliable, efficient, modular production systems, taught systematically. 17 modules, each pairing a video lecture with a hands-on lab, from your first structured prompt to a working production system.
 
-**[Join the waiting list →](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=genai-agents--readme&click=course-waitlist-cta&target=https%3A%2F%2Fdiamant-ai.com%2Fcourses%3Futm_source%3Dgithub%26utm_medium%3Dreadme%26utm_campaign%3Dgenai-agents&retarget=0&text=course-waitlist-cta)** · everyone on the list locks in the founding price, lower than public launch
+### 🎁 Try a full module, free
+
+<table>
+<tr>
+<td align="center">🎬<br><b>7-minute<br>video lecture</b></td>
+<td align="center">🛠️<br><b>Hands-on<br>tutorial</b></td>
+<td align="center">🤖<br><b>AI assistant<br>inside Claude Code</b></td>
+</tr>
+</table>
+
+One `npm install` adds the module's AI assistant to your Claude Code, and it guides you through the tutorial as you build.
+
+<a href="https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=genai-agents--readme&click=course-free-module-cta&target=https%3A%2F%2Fwww.diamant-ai.com%2Fcourses%3Futm_source%3Dgithub%26utm_medium%3Dreadme%26utm_campaign%3Dgenai-agents&retarget=0&text=course-free-module-cta"><img src="https://img.shields.io/badge/FREE_MODULE-Get_yours_now_%E2%86%92-2ea44f?style=for-the-badge&labelColor=555" alt="Get your free module"></a>
 
 </div>
 
