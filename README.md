@@ -8,7 +8,7 @@
 
 Welcome to one of the most extensive and dynamic collections of Generative AI (GenAI) agent tutorials and implementations available today. This repository serves as a comprehensive resource for learning, building, and sharing GenAI agents, ranging from simple conversational bots to complex, multi-agent systems.
 
-## 🎓 From demo agent to deployed product
+<h2 align="center">🎓 From demo agent to deployed product</h2>
 
 <div align="center">
 
@@ -26,7 +26,7 @@ Welcome to one of the most extensive and dynamic collections of Generative AI (G
 
 One `npm install` adds the module's AI assistant to your Claude Code, and it guides you through the tutorial as you build.
 
-<a href="https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=genai-agents--readme&click=course-free-module-cta&target=https%3A%2F%2Fwww.diamant-ai.com%2Fcourses%3Futm_source%3Dgithub%26utm_medium%3Dreadme%26utm_campaign%3Dgenai-agents&retarget=0&text=course-free-module-cta"><img src="https://img.shields.io/badge/FREE_MODULE-Get_yours_now_%E2%86%92-2ea44f?style=for-the-badge&labelColor=555" alt="Get your free module"></a>
+<a href="https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=genai-agents--readme&click=course-free-module-cta&target=https%3A%2F%2Fwww.diamant-ai.com%2Fcourses%3Futm_source%3Dgithub%26utm_medium%3Dreadme%26utm_campaign%3Dgenai-agents&retarget=0&text=course-free-module-cta"><img src="images/free-module-button.svg" alt="Claim your free module" width="420"></a>
 
 </div>
 
