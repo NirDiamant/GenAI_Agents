@@ -39,7 +39,7 @@ One `npm install` adds the module's AI assistant to your Claude Code, and it gui
 
 </div>
 
-> **Recently added:** Document Intake Agent, HR AI Assistant, Art Tourguide with LightRAG, Contextual Quoting System, ML/DS Assistant | **53 tutorials** and growing
+> **Recently added:** Document Intake Agent, HR AI Assistant, Art Tourguide with LightRAG, Contextual Quoting System, ML/DS Assistant, Adversarial Multi-Agent Debate System | **54 tutorials** and growing
 
 ## 📫 Stay Updated!
 
@@ -172,6 +172,7 @@ Below is a comprehensive overview of our GenAI agent implementations, organized 
 | 49 | 🎓 **Educational** | [Gutenberg Sage](all_agents_tutorials/Gutenbergs_Sage.ipynb)               | LangGraph + Ollama | Local LLM RAG, NER-enhanced retrieval                                       |
 | 50 | 💼 **Business**   | [Contextual Quoting System](all_agents_tutorials/contextual_quoting_agentic_system.ipynb) | LangGraph  | Multi-agent quoting, RAG + structured data                                   |
 | 51 | 📊 **Analysis**   | [Document Intake Agent](all_agents_tutorials/document_intake_agent_langgraph.ipynb) | LangGraph  | Office docs to LLM-ready markdown, conversion as a tool call                 |
+| 52 | ⚖️ **Other**   | [Adversarial Multi-Agent Debate System](all_agents_tutorials/adversarial_debate_agent.ipynb) | LangGraph  | Multi-perspective debate with iterative refinement and convergence |
 
 Explore our extensive list of GenAI agent implementations, sorted by categories:
 
@@ -686,6 +687,14 @@ Explore our extensive list of GenAI agent implementations, sorted by categories:
 
     #### Implementation 🛠️
     Uses a deterministic conditional edge for format routing (a lookup, not an LLM call), a submit-upload-poll-download client as the conversion tool, and gpt-4o-mini as a grounded analyst. Includes a naive-extraction comparison showing why tables and reading order survive conversion but not scraping, plus a one-block MCP config that gives Claude Code and Cursor the same capability.
+
+52. **[Adversarial Multi-Agent Debate System ⚖️](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/adversarial_debate_agent.ipynb)**
+
+    #### Overview 🔎
+    A LangGraph-based multi-agent system where AI personas with opposing viewpoints debate controversial topics, critique each other's arguments, and converge on balanced conclusions through iterative refinement cycles with human-in-the-loop oversight.
+
+    #### Implementation 🛠️
+    Implements a cyclic graph with six specialized agents (Moderator, Proponent, Opponent, Critic, Human-in-the-Loop, Synthesis) orchestrated through LangGraph state management. Features quality-based iteration (auto-loops until quality threshold met), DuckDuckGo and Wikipedia tools for evidence-backed arguments, and interactive human review before final synthesis. Built with LangGraph + Groq (llama-3.1-8b-instant) for fast inference.
 
 ### 🌟 Special Advanced Technique 🌟
 
