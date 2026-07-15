@@ -160,6 +160,7 @@ Below is a comprehensive overview of our GenAI agent implementations, organized 
 | 49 | 🎓 **Educational** | [Gutenberg Sage](all_agents_tutorials/Gutenbergs_Sage.ipynb)               | LangGraph + Ollama | Local LLM RAG, NER-enhanced retrieval                                       |
 | 50 | 💼 **Business**   | [Contextual Quoting System](all_agents_tutorials/contextual_quoting_agentic_system.ipynb) | LangGraph  | Multi-agent quoting, RAG + structured data                                   |
 | 51 | 📊 **Analysis**   | [Document Intake Agent](all_agents_tutorials/document_intake_agent_langgraph.ipynb) | LangGraph  | Office docs to LLM-ready markdown, conversion as a tool call                 |
+| 52 | 🎯 **Task Management** | [Task Decomposition Parallel Agent](all_agents_tutorials/task_decomposition_parallel_agent.ipynb) | LangGraph  | Dynamic decomposition, parallel Send() API, quality-gated re-decomposition |
 
 Explore our extensive list of GenAI agent implementations, sorted by categories:
 
@@ -674,6 +675,16 @@ Explore our extensive list of GenAI agent implementations, sorted by categories:
 
     #### Implementation 🛠️
     Uses a deterministic conditional edge for format routing (a lookup, not an LLM call), a submit-upload-poll-download client as the conversion tool, and gpt-4o-mini as a grounded analyst. Includes a naive-extraction comparison showing why tables and reading order survive conversion but not scraping, plus a one-block MCP config that gives Claude Code and Cursor the same capability.
+
+52. **[Task Decomposition Parallel Agent 🧩](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/task_decomposition_parallel_agent.ipynb)**
+
+    ![Task Decomposition Parallel Agent Architecture](images/task_decomposition_parallel_agent.svg)
+
+    #### Overview 🔎
+    A hierarchical LangGraph agent that decomposes complex tasks into parallelizable subtasks, dynamically spawns sub-agents via the Send() API, validates completeness, and re-decomposes weak sections — producing comprehensive, high-quality output through parallel execution.
+
+    #### Implementation 🛠️
+    Implements a 6-node cyclic graph: decomposer (splits tasks with an LLM), worker router (LangGraph Send() API for dynamic fan-out with an instance counter), parallel workers (research/analysis/writing agents running concurrently), completeness validator (maps results to subtasks with quality scoring), quality gate (conditional edge: synthesize vs. re-decompose based on completion ≥ 80% and quality ≥ 5.5), re-decomposer (splits weak tasks into finer subtasks with a hard ceiling of 15), synthesis agent (combines all results with narrative flow), and quality checker (scores final output 0–10). Includes exponential backoff with dual-provider fallback (Groq → Gemini) to handle rate limits. Built with LangGraph + Groq/Gemini.
 
 ### 🌟 Special Advanced Technique 🌟
 

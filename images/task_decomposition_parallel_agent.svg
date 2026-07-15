@@ -1,0 +1,131 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 750" style="background:#f8f9fa;font-family:'Segoe UI',Arial,sans-serif">
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#555"/></marker>
+    <marker id="arrow-blue" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#2979ff"/></marker>
+    <marker id="arrow-green" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#2e7d32"/></marker>
+    <marker id="arrow-orange" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#e65100"/></marker>
+    <filter id="shadow"><feDropShadow dx="1" dy="2" stdDeviation="2" flood-opacity="0.15"/></filter>
+    <linearGradient id="startGrad" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#e8f5e9"/><stop offset="100%" stop-color="#c8e6c9"/></linearGradient>
+    <linearGradient id="nodeGrad" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#e8eaf6"/><stop offset="100%" stop-color="#c5cae9"/></linearGradient>
+    <linearGradient id="workerGrad" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#e3f2fd"/><stop offset="100%" stop-color="#bbdefb"/></linearGradient>
+    <linearGradient id="gateGrad" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#fff3e0"/><stop offset="100%" stop-color="#ffe0b2"/></linearGradient>
+    <linearGradient id="endGrad" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#fce4ec"/><stop offset="100%" stop-color="#f8bbd0"/></linearGradient>
+  </defs>
+
+  <!-- Title -->
+  <text x="450" y="32" text-anchor="middle" font-size="16" font-weight="bold" fill="#333">Task Decomposition Parallel Agent — LangGraph Architecture</text>
+
+  <!-- START node -->
+  <ellipse cx="450" cy="65" rx="40" ry="20" fill="url(#startGrad)" stroke="#43a047" stroke-width="1.5" filter="url(#shadow)"/>
+  <text x="450" y="69" text-anchor="middle" font-size="12" font-weight="bold" fill="#2e7d32">START</text>
+
+  <!-- Arrow: START → Decomposer -->
+  <line x1="450" y1="85" x2="450" y2="115" stroke="#555" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+  <!-- Decomposer -->
+  <rect x="320" y="118" width="260" height="44" rx="8" fill="url(#nodeGrad)" stroke="#5c6bc0" stroke-width="1.5" filter="url(#shadow)"/>
+  <text x="450" y="136" text-anchor="middle" font-size="13" font-weight="bold" fill="#283593">Decomposer</text>
+  <text x="450" y="152" text-anchor="middle" font-size="10" fill="#5c6bc0">Decomposes task into subtasks</text>
+
+  <!-- Arrow: Decomposer → Worker Router -->
+  <line x1="450" y1="162" x2="450" y2="192" stroke="#555" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+  <!-- Worker Router -->
+  <rect x="310" y="195" width="280" height="36" rx="6" fill="url(#gateGrad)" stroke="#ef6c00" stroke-width="1.5" filter="url(#shadow)"/>
+  <text x="450" y="209" text-anchor="middle" font-size="12" font-weight="bold" fill="#e65100">Worker Router (Send API)</text>
+  <text x="450" y="222" text-anchor="middle" font-size="10" fill="#ef6c00">Spawns N parallel workers dynamically</text>
+
+  <!-- Arrow splits into 3 parallel workers -->
+  <line x1="450" y1="231" x2="450" y2="260" stroke="#2979ff" stroke-width="1.5"/>
+  <line x1="180" y1="260" x2="720" y2="260" stroke="#2979ff" stroke-width="1.5"/>
+  <line x1="180" y1="260" x2="180" y2="290" stroke="#2979ff" stroke-width="1.5" marker-end="url(#arrow-blue)"/>
+  <line x1="450" y1="260" x2="450" y2="290" stroke="#2979ff" stroke-width="1.5" marker-end="url(#arrow-blue)"/>
+  <line x1="720" y1="260" x2="720" y2="290" stroke="#2979ff" stroke-width="1.5" marker-end="url(#arrow-blue)"/>
+
+  <text x="180" y="254" text-anchor="middle" font-size="9" fill="#2979ff">x N</text>
+  <text x="450" y="254" text-anchor="middle" font-size="9" fill="#2979ff">x N</text>
+  <text x="720" y="254" text-anchor="middle" font-size="9" fill="#2979ff">x N</text>
+
+  <!-- Parallel Workers -->
+  <rect x="85" y="293" width="190" height="44" rx="8" fill="url(#workerGrad)" stroke="#1565c0" stroke-width="1.5" filter="url(#shadow)"/>
+  <text x="180" y="311" text-anchor="middle" font-size="12" font-weight="bold" fill="#1565c0">Parallel Worker 1</text>
+  <text x="180" y="327" text-anchor="middle" font-size="10" fill="#1976d2">research_agent</text>
+
+  <rect x="355" y="293" width="190" height="44" rx="8" fill="url(#workerGrad)" stroke="#1565c0" stroke-width="1.5" filter="url(#shadow)"/>
+  <text x="450" y="311" text-anchor="middle" font-size="12" font-weight="bold" fill="#1565c0">Parallel Worker 2</text>
+  <text x="450" y="327" text-anchor="middle" font-size="10" fill="#1976d2">analysis_agent</text>
+
+  <rect x="625" y="293" width="190" height="44" rx="8" fill="url(#workerGrad)" stroke="#1565c0" stroke-width="1.5" filter="url(#shadow)"/>
+  <text x="720" y="311" text-anchor="middle" font-size="12" font-weight="bold" fill="#1565c0">Parallel Worker N</text>
+  <text x="720" y="327" text-anchor="middle" font-size="10" fill="#1976d2">writing_agent</text>
+
+  <!-- Arrows from workers to merge point then to Validator -->
+  <line x1="180" y1="337" x2="180" y2="365" stroke="#555" stroke-width="1.5"/>
+  <line x1="450" y1="337" x2="450" y2="365" stroke="#555" stroke-width="1.5"/>
+  <line x1="720" y1="337" x2="720" y2="365" stroke="#555" stroke-width="1.5"/>
+  <line x1="180" y1="365" x2="720" y2="365" stroke="#555" stroke-width="1.5"/>
+  <line x1="450" y1="365" x2="450" y2="395" stroke="#555" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+  <!-- Validator -->
+  <rect x="320" y="398" width="260" height="44" rx="8" fill="url(#nodeGrad)" stroke="#5c6bc0" stroke-width="1.5" filter="url(#shadow)"/>
+  <text x="450" y="416" text-anchor="middle" font-size="13" font-weight="bold" fill="#283593">Completeness Validator</text>
+  <text x="450" y="432" text-anchor="middle" font-size="10" fill="#5c6bc0">Maps results → subtasks, computes quality</text>
+
+  <!-- Arrow: Validator → Quality Gate -->
+  <line x1="450" y1="442" x2="450" y2="480" stroke="#555" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+  <!-- Quality Gate -->
+  <rect x="310" y="483" width="280" height="36" rx="6" fill="url(#gateGrad)" stroke="#ef6c00" stroke-width="1.5" filter="url(#shadow)"/>
+  <text x="450" y="497" text-anchor="middle" font-size="12" font-weight="bold" fill="#e65100">Quality Gate</text>
+  <text x="450" y="510" text-anchor="middle" font-size="10" fill="#ef6c00">completion ≥ 80% &amp; quality ≥ 5.5?</text>
+
+  <!-- Arrow: Synthesize path (left) -->
+  <line x1="340" y1="519" x2="200" y2="555" stroke="#2e7d32" stroke-width="1.5" marker-end="url(#arrow-green)"/>
+  <text x="265" y="538" text-anchor="middle" font-size="10" font-weight="bold" fill="#2e7d32">synthesize</text>
+
+  <!-- Arrow: Re-decompose path (right) -->
+  <line x1="560" y1="519" x2="700" y2="555" stroke="#e65100" stroke-width="1.5" marker-end="url(#arrow-orange)"/>
+  <rect x="580" y="524" width="72" height="16" rx="3" fill="#fff3e0" stroke="#e65100" stroke-width=".8"/>
+  <text x="616" y="535" text-anchor="middle" font-size="9" fill="#e65100">re_decompose</text>
+
+  <!-- Synthesis -->
+  <rect x="80" y="558" width="240" height="44" rx="8" fill="url(#nodeGrad)" stroke="#5c6bc0" stroke-width="1.5" filter="url(#shadow)"/>
+  <text x="200" y="576" text-anchor="middle" font-size="13" font-weight="bold" fill="#283593">Synthesis Agent</text>
+  <text x="200" y="592" text-anchor="middle" font-size="10" fill="#5c6bc0">Combines all results into final output</text>
+
+  <!-- Re-decomposer -->
+  <rect x="580" y="558" width="240" height="44" rx="8" fill="url(#nodeGrad)" stroke="#5c6bc0" stroke-width="1.5" filter="url(#shadow)"/>
+  <text x="700" y="576" text-anchor="middle" font-size="13" font-weight="bold" fill="#283593">Re-Decomposer</text>
+  <text x="700" y="592" text-anchor="middle" font-size="10" fill="#5c6bc0">Splits weak tasks into finer subtasks</text>
+
+  <!-- Arrow: Synthesis → Quality Checker -->
+  <line x1="200" y1="602" x2="200" y2="635" stroke="#555" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+  <!-- Arrow: Re-decomposer loops back to Worker Router -->
+  <path d="M820,580 L860,580 L860,213 L590,213" fill="none" stroke="#e65100" stroke-width="1.5" stroke-dasharray="5,3" marker-end="url(#arrow-orange)"/>
+  <text x="850" y="400" text-anchor="middle" font-size="9" fill="#e65100" transform="rotate(-90,850,400)">loop back via Send()</text>
+
+  <!-- Quality Checker -->
+  <rect x="80" y="638" width="240" height="44" rx="8" fill="url(#endGrad)" stroke="#c62828" stroke-width="1.5" filter="url(#shadow)"/>
+  <text x="200" y="656" text-anchor="middle" font-size="13" font-weight="bold" fill="#c62828">Quality Checker</text>
+  <text x="200" y="672" text-anchor="middle" font-size="10" fill="#d32f2f">Scores final output 0–10</text>
+
+  <!-- Arrow: Quality Checker → END -->
+  <line x1="200" y1="682" x2="200" y2="710" stroke="#555" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+  <!-- END node -->
+  <ellipse cx="200" cy="735" rx="35" ry="18" fill="url(#endGrad)" stroke="#c62828" stroke-width="1.5" filter="url(#shadow)"/>
+  <text x="200" y="739" text-anchor="middle" font-size="12" font-weight="bold" fill="#c62828">END</text>
+
+  <!-- Legend -->
+  <rect x="20" y="15" width="220" height="105" rx="6" fill="white" stroke="#ccc" stroke-width="1" opacity="0.9"/>
+  <text x="30" y="32" font-size="10" font-weight="bold" fill="#555">Legend</text>
+  <rect x="30" y="40" width="12" height="10" rx="2" fill="url(#nodeGrad)" stroke="#5c6bc0" stroke-width=".8"/>
+  <text x="48" y="48" font-size="9" fill="#555">LLM-powered Agent Node</text>
+  <rect x="30" y="56" width="12" height="10" rx="2" fill="url(#gateGrad)" stroke="#ef6c00" stroke-width=".8"/>
+  <text x="48" y="64" font-size="9" fill="#555">Router / Gate Node</text>
+  <rect x="30" y="72" width="12" height="10" rx="2" fill="url(#workerGrad)" stroke="#1565c0" stroke-width=".8"/>
+  <text x="48" y="80" font-size="9" fill="#555">Parallel Sub-Agent</text>
+  <line x1="30" y1="94" x2="42" y2="94" stroke="#e65100" stroke-width="1.5" stroke-dasharray="3,2"/>
+  <text x="48" y="97" font-size="9" fill="#555">Loop / Re-decompose Path</text>
+</svg>
