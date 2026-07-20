@@ -691,10 +691,10 @@ Explore our extensive list of GenAI agent implementations, sorted by categories:
 52. **[Social Media Publishing Agent (Publora + LangGraph)](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/social_media_publishing_agent_publora_langgraph.ipynb)**
 
     #### Overview 🔎
-    An agent that turns one idea into publish-ready posts for several social platforms and actually ships them. It tailors a variant to each platform's length and voice, runs a self-review loop to enforce platform rules, then schedules the approved drafts through the Publora API.
+    An agent that turns one idea into publish-ready posts for several social platforms and can publish them. It tailors a variant to each platform's length and voice, runs a self-review loop to enforce platform rules, then schedules the approved drafts through the Publora API. Live publishing is opt-in: the notebook defaults to a dry-run and needs a Publora API key with dry-run disabled to actually go live.
 
     #### Implementation 🛠️
-    A LangGraph workflow (fetch_connections → generate → review → publish) with a bounded revise loop: a deterministic length check plus an LLM critic send failing drafts back to the generator with targeted feedback. Publishing goes through Publora's REST API (one create-post call per platform, idempotent), with a dry-run mode that creates drafts so nothing goes live while experimenting.
+    A LangGraph workflow (fetch_connections → generate → review → publish) with a bounded revise loop: a deterministic length check plus an LLM critic send failing drafts back to the generator with targeted feedback. Publishing goes through Publora's REST API (one create-post call per platform, each with an idempotency key so a call's network retry is safe), with a dry-run mode that creates drafts so nothing goes live while experimenting.
 
 ### 🌟 Special Advanced Technique 🌟
 
