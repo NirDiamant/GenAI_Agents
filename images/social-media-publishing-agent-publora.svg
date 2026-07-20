@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="620" viewBox="0 0 560 620" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L8,3 L0,6 z" fill="#475569"/>
+    </marker>
+    <marker id="arrowLoop" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L8,3 L0,6 z" fill="#c026d3"/>
+    </marker>
+  </defs>
+
+  <rect x="0" y="0" width="560" height="620" fill="#ffffff"/>
+  <text x="280" y="34" text-anchor="middle" font-size="19" font-weight="700" fill="#0f172a">Social Media Publishing Agent</text>
+  <text x="280" y="55" text-anchor="middle" font-size="13" fill="#64748b">LangGraph orchestration · Publora publishing</text>
+
+  <!-- Input -->
+  <rect x="160" y="78" width="240" height="52" rx="10" fill="#eef2ff" stroke="#6366f1" stroke-width="1.5"/>
+  <text x="280" y="100" text-anchor="middle" font-size="13.5" font-weight="600" fill="#312e81">User idea</text>
+  <text x="280" y="118" text-anchor="middle" font-size="12" fill="#4338ca">+ target platforms</text>
+
+  <!-- fetch_connections -->
+  <rect x="150" y="162" width="260" height="58" rx="10" fill="#f1f5f9" stroke="#475569" stroke-width="1.5"/>
+  <text x="280" y="185" text-anchor="middle" font-size="13.5" font-weight="600" fill="#0f172a">fetch_connections</text>
+  <text x="280" y="204" text-anchor="middle" font-size="11.5" fill="#475569" font-family="monospace">GET /platform-connections</text>
+
+  <!-- generate -->
+  <rect x="150" y="252" width="260" height="58" rx="10" fill="#f1f5f9" stroke="#475569" stroke-width="1.5"/>
+  <text x="280" y="275" text-anchor="middle" font-size="13.5" font-weight="600" fill="#0f172a">generate</text>
+  <text x="280" y="294" text-anchor="middle" font-size="11.5" fill="#475569">per-platform drafts (LLM)</text>
+
+  <!-- review -->
+  <rect x="150" y="342" width="260" height="58" rx="10" fill="#fdf4ff" stroke="#c026d3" stroke-width="1.5"/>
+  <text x="280" y="365" text-anchor="middle" font-size="13.5" font-weight="600" fill="#701a75">review</text>
+  <text x="280" y="384" text-anchor="middle" font-size="11.5" fill="#a21caf">length check + LLM critic</text>
+
+  <!-- publish -->
+  <rect x="150" y="452" width="260" height="58" rx="10" fill="#ecfdf5" stroke="#059669" stroke-width="1.5"/>
+  <text x="280" y="475" text-anchor="middle" font-size="13.5" font-weight="600" fill="#064e3b">publish</text>
+  <text x="280" y="494" text-anchor="middle" font-size="11.5" fill="#047857" font-family="monospace">POST /create-post · per platform</text>
+
+  <!-- results -->
+  <rect x="160" y="542" width="240" height="52" rx="10" fill="#eef2ff" stroke="#6366f1" stroke-width="1.5"/>
+  <text x="280" y="564" text-anchor="middle" font-size="13.5" font-weight="600" fill="#312e81">Results</text>
+  <text x="280" y="582" text-anchor="middle" font-size="12" fill="#4338ca">postGroupIds + status</text>
+
+  <!-- straight arrows -->
+  <g stroke="#475569" stroke-width="1.8" fill="none" marker-end="url(#arrow)">
+    <line x1="280" y1="130" x2="280" y2="160"/>
+    <line x1="280" y1="220" x2="280" y2="250"/>
+    <line x1="280" y1="310" x2="280" y2="340"/>
+    <line x1="280" y1="400" x2="280" y2="450"/>
+    <line x1="280" y1="510" x2="280" y2="540"/>
+  </g>
+
+  <!-- approved label on review->publish -->
+  <text x="294" y="428" text-anchor="start" font-size="11" font-weight="600" fill="#059669">approved / max reached</text>
+
+  <!-- feedback loop: review -> generate -->
+  <path d="M150,371 C70,371 70,281 148,281" stroke="#c026d3" stroke-width="1.8" fill="none" marker-end="url(#arrowLoop)"/>
+  <text x="60" y="326" text-anchor="middle" font-size="11" font-weight="600" fill="#c026d3" transform="rotate(-90 60 326)">feedback · iteration &lt; max</text>
+</svg>

@@ -172,6 +172,7 @@ Below is a comprehensive overview of our GenAI agent implementations, organized 
 | 49 | 🎓 **Educational** | [Gutenberg Sage](all_agents_tutorials/Gutenbergs_Sage.ipynb)               | LangGraph + Ollama | Local LLM RAG, NER-enhanced retrieval                                       |
 | 50 | 💼 **Business**   | [Contextual Quoting System](all_agents_tutorials/contextual_quoting_agentic_system.ipynb) | LangGraph  | Multi-agent quoting, RAG + structured data                                   |
 | 51 | 📊 **Analysis**   | [Document Intake Agent](all_agents_tutorials/document_intake_agent_langgraph.ipynb) | LangGraph  | Office docs to LLM-ready markdown, conversion as a tool call                 |
+| 52 | 🎨 **Creative**   | [Social Media Publishing Agent](all_agents_tutorials/social_media_publishing_agent_publora_langgraph.ipynb) | LangGraph  | Per-platform generation, self-review loop, publishing via Publora API        |
 
 Explore our extensive list of GenAI agent implementations, sorted by categories:
 
@@ -686,6 +687,14 @@ Explore our extensive list of GenAI agent implementations, sorted by categories:
 
     #### Implementation 🛠️
     Uses a deterministic conditional edge for format routing (a lookup, not an LLM call), a submit-upload-poll-download client as the conversion tool, and gpt-4o-mini as a grounded analyst. Includes a naive-extraction comparison showing why tables and reading order survive conversion but not scraping, plus a one-block MCP config that gives Claude Code and Cursor the same capability.
+
+52. **[Social Media Publishing Agent (Publora + LangGraph)](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/social_media_publishing_agent_publora_langgraph.ipynb)**
+
+    #### Overview 🔎
+    An agent that turns one idea into publish-ready posts for several social platforms and can publish them. It tailors a variant to each platform's length and voice, runs a self-review loop to enforce platform rules, then schedules the approved drafts through the Publora API. Live publishing is opt-in: the notebook defaults to a dry-run and needs a Publora API key with dry-run disabled to actually go live.
+
+    #### Implementation 🛠️
+    A LangGraph workflow (fetch_connections → generate → review → publish) with a bounded revise loop: a deterministic length check plus an LLM critic send failing drafts back to the generator with targeted feedback. Publishing goes through Publora's REST API (one create-post call per platform, each with an idempotency key so a call's network retry is safe), with a dry-run mode that creates drafts so nothing goes live while experimenting.
 
 ### 🌟 Special Advanced Technique 🌟
 
