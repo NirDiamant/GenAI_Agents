@@ -209,6 +209,7 @@ Below is a comprehensive overview of our GenAI agent implementations, organized 
 | 50 | 💼 **Business**   | [Contextual Quoting System](all_agents_tutorials/contextual_quoting_agentic_system.ipynb) | LangGraph  | Multi-agent quoting, RAG + structured data                                   |
 | 51 | 📊 **Analysis**   | [Document Intake Agent](all_agents_tutorials/document_intake_agent_langgraph.ipynb) | LangGraph  | Office docs to LLM-ready markdown, conversion as a tool call                 |
 | 52 | 🎨 **Creative**   | [Social Media Publishing Agent](all_agents_tutorials/social_media_publishing_agent_publora_langgraph.ipynb) | LangGraph  | Per-platform generation, self-review loop, publishing via Publora API        |
+| 53 | 📊 **Analysis**   | [Temporal Memory Agent](all_agents_tutorials/temporal_memory_agent.ipynb) | Lians SDK | Current vs point-in-time recall, durable corrections, verifiable receipts    |
 
 Explore our extensive list of GenAI agent implementations, sorted by categories:
 
@@ -731,6 +732,14 @@ Explore our extensive list of GenAI agent implementations, sorted by categories:
 
     #### Implementation 🛠️
     A LangGraph workflow (fetch_connections → generate → review → publish) with a bounded revise loop: a deterministic length check plus an LLM critic send failing drafts back to the generator with targeted feedback. Publishing goes through Publora's REST API (one create-post call per platform, each with an idempotency key so a call's network retry is safe), with a dry-run mode that creates drafts so nothing goes live while experimenting.
+
+53. **[Temporal Memory Agent with Local Point-in-Time Recall](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/temporal_memory_agent.ipynb)**
+
+    #### Overview 🔎
+    A provider-neutral memory tool that lets an AI agent answer both what is true now and what was known at a historical cutoff. The tutorial runs locally with SQLite and no API key, then demonstrates a shipping-estimate correction without leaking future information into the historical answer.
+
+    #### Implementation 🛠️
+    Uses the Lians local Python SDK to store event-time facts with stable entity and field metadata. A small framework-neutral agent wrapper performs current or point-in-time recall, while executable assertions verify correction semantics and independently recompute each retrieval receipt's SHA-256 digest.
 
 ### 🌟 Special Advanced Technique 🌟
 
