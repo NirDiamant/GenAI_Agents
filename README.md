@@ -39,7 +39,7 @@ One `npm install` adds the module's AI assistant to your Claude Code, and it gui
 
 </div>
 
-> **Recently added:** Document Intake Agent, HR AI Assistant, Art Tourguide with LightRAG, Contextual Quoting System, ML/DS Assistant | **53 tutorials** and growing
+> **Recently added:** Human-in-the-Loop Approval Agent, Document Intake Agent, HR AI Assistant, Art Tourguide with LightRAG, Contextual Quoting System | **54 tutorials** and growing
 
 ## 📫 Stay Updated!
 
@@ -209,6 +209,7 @@ Below is a comprehensive overview of our GenAI agent implementations, organized 
 | 50 | 💼 **Business**   | [Contextual Quoting System](all_agents_tutorials/contextual_quoting_agentic_system.ipynb) | LangGraph  | Multi-agent quoting, RAG + structured data                                   |
 | 51 | 📊 **Analysis**   | [Document Intake Agent](all_agents_tutorials/document_intake_agent_langgraph.ipynb) | LangGraph  | Office docs to LLM-ready markdown, conversion as a tool call                 |
 | 52 | 🎨 **Creative**   | [Social Media Publishing Agent](all_agents_tutorials/social_media_publishing_agent_publora_langgraph.ipynb) | LangGraph  | Per-platform generation, self-review loop, publishing via Publora API        |
+| 53 | 🔍 **QA**         | [Human-in-the-Loop Approval Agent](all_agents_tutorials/human_in_the_loop_approval_agent.ipynb) | LangGraph | Risk-based approval, durable interrupts, auditable tool execution            |
 
 Explore our extensive list of GenAI agent implementations, sorted by categories:
 
@@ -731,6 +732,14 @@ Explore our extensive list of GenAI agent implementations, sorted by categories:
 
     #### Implementation 🛠️
     A LangGraph workflow (fetch_connections → generate → review → publish) with a bounded revise loop: a deterministic length check plus an LLM critic send failing drafts back to the generator with targeted feedback. Publishing goes through Publora's REST API (one create-post call per platform, each with an idempotency key so a call's network retry is safe), with a dry-run mode that creates drafts so nothing goes live while experimenting.
+
+53. **[Human-in-the-Loop Approval Agent with LangGraph](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/human_in_the_loop_approval_agent.ipynb)**
+
+    #### Overview 🔎
+    A safe tool-using agent that executes low-risk reads automatically but pauses consequential writes before any side effect. Reviewers can approve, reject, or replace arguments, with every transition recorded for audit.
+
+    #### Implementation 🛠️
+    Combines deterministic risk and argument policies with LangGraph interrupts and checkpointed resume. The tutorial runs without an API key, uses simulated order tools, verifies that paused and rejected actions never execute, and demonstrates revalidation of reviewer-edited arguments.
 
 ### 🌟 Special Advanced Technique 🌟
 
