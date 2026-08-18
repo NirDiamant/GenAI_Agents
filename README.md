@@ -735,10 +735,10 @@ Explore our extensive list of GenAI agent implementations, sorted by categories:
 
 53. **[Trace-Based Agent Evaluation without an LLM Judge](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/trace_based_agent_evaluation.ipynb)**
 
-    #### Overview 🔎
+    #### Trace-Based Evaluation Overview 🔎
     An offline evaluation harness that scores what an agent actually did: tool choice, arguments, evidence use, errors, and latency. It produces reproducible case diagnostics without paying for or calibrating a second model as judge.
 
-    #### Implementation 🛠️
+    #### Trace-Based Evaluation Implementation 🛠️
     Defines framework-neutral trace and test-case contracts, explicit weighted checks, suite metrics, and a CI-friendly quality gate. A deterministic baseline demonstrates routing and argument regressions, while an improved agent passes the same frozen cases and thresholds.
 
 ### 🌟 Special Advanced Technique 🌟
