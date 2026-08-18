@@ -1,4 +1,5 @@
 import json
+import os
 import subprocess
 import sys
 import tempfile
@@ -110,12 +111,39 @@ class NotebookValidatorTests(unittest.TestCase):
         self.assertIn("NB003", result.stdout)
         self.assertIn("cell 6", result.stdout)
 
+    def test_reports_code_cell_after_prose_without_a_title(self):
+        notebook = valid_notebook()
+        notebook["cells"].insert(4, markdown("This paragraph does not title the code."))
+        notebook["cells"].insert(5, code("print('undocumented')"))
+
+        with tempfile.TemporaryDirectory() as temp:
+            path = self.write_notebook(Path(temp), notebook)
+            result = self.run_validator(path)
+
+        self.assertEqual(result.returncode, 1)
+        self.assertIn("NB003", result.stdout)
+        self.assertIn("cell 6", result.stdout)
+
     def test_reports_missing_template_section(self):
         notebook = valid_notebook()
         notebook["cells"] = [
             cell for cell in notebook["cells"]
             if "## Comparison" not in "".join(cell.get("source", []))
         ]
+
+        with tempfile.TemporaryDirectory() as temp:
+            path = self.write_notebook(Path(temp), notebook)
+            result = self.run_validator(path)
+
+        self.assertEqual(result.returncode, 1)
+        self.assertIn("NB004", result.stdout)
+        self.assertIn("Comparison", result.stdout)
+
+    def test_near_match_does_not_satisfy_required_section(self):
+        notebook = valid_notebook()
+        for cell in notebook["cells"]:
+            if "## Comparison" in "".join(cell.get("source", [])):
+                cell["source"] = ["## Comparison Notes\nCompare approaches."]
 
         with tempfile.TemporaryDirectory() as temp:
             path = self.write_notebook(Path(temp), notebook)
@@ -152,6 +180,56 @@ class NotebookValidatorTests(unittest.TestCase):
         self.assertEqual(result.returncode, 1)
         self.assertIn("NB005", result.stdout)
         self.assertIn("missing.png", result.stdout)
+
+    def test_protocol_relative_image_is_treated_as_remote(self):
+        notebook = valid_notebook()
+        notebook["cells"][1]["source"] = [
+            "## Detailed Explanation\n\n![Architecture](//cdn.example.com/diagram.svg)"
+        ]
+
+        with tempfile.TemporaryDirectory() as temp:
+            path = self.write_notebook(Path(temp), notebook)
+            result = self.run_validator(path)
+
+        self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
+
+    def test_malformed_image_target_reports_finding_and_continues(self):
+        malformed_data = valid_notebook()
+        malformed_data["cells"][1]["source"] = [
+            "## Detailed Explanation\n\n![Architecture](http://[)"
+        ]
+        with tempfile.TemporaryDirectory() as temp:
+            directory = Path(temp)
+            malformed = self.write_notebook(directory, malformed_data, "malformed.ipynb")
+            good = self.write_notebook(directory, valid_notebook(), "good.ipynb")
+            result = self.run_validator(malformed, good)
+
+        self.assertEqual(result.returncode, 1)
+        self.assertNotIn("Traceback", result.stderr)
+        self.assertIn("NB005", result.stdout)
+        self.assertIn(f"PASS {good}", result.stdout)
+
+    def test_local_image_cannot_escape_repository_root(self):
+        notebook = valid_notebook()
+        with tempfile.NamedTemporaryFile(
+            dir=REPO_ROOT.parent, suffix=".svg", mode="w", encoding="utf-8"
+        ) as outside:
+            outside.write("<svg/>")
+            outside.flush()
+            with tempfile.TemporaryDirectory(dir=REPO_ROOT) as temp:
+                directory = Path(temp)
+                relative_target = Path(
+                    os.path.relpath(outside.name, directory)
+                ).as_posix()
+                notebook["cells"][1]["source"] = [
+                    f"## Detailed Explanation\n\n![Architecture]({relative_target})"
+                ]
+                path = self.write_notebook(directory, notebook)
+                result = self.run_validator(path)
+
+        self.assertEqual(result.returncode, 1)
+        self.assertIn("NB005", result.stdout)
+        self.assertIn("outside repository root", result.stdout)
 
     def test_malformed_root_reports_nb001_and_does_not_abort_later_files(self):
         with tempfile.TemporaryDirectory() as temp:

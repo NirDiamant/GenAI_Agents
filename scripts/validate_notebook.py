@@ -24,6 +24,7 @@ REQUIRED_SECTIONS = (
 )
 HEADING_RE = re.compile(r"^#{1,6}\s+(.+?)\s*$", re.MULTILINE)
 IMAGE_RE = re.compile(r"!\[[^\]]*\]\(([^)]+)\)")
+REPO_ROOT = Path(__file__).resolve().parents[1]
 
 
 @dataclass(frozen=True)
@@ -97,7 +98,7 @@ def validate_notebook(path: Path) -> List[Finding]:
         previous = cells[index - 2] if index > 1 else {}
         if (
             previous.get("cell_type") != "markdown"
-            or not source_text(previous).strip()
+            or HEADING_RE.search(source_text(previous)) is None
         ):
             findings.append(
                 Finding("NB003", f"cell {index} needs a preceding markdown description")
@@ -109,17 +110,29 @@ def validate_notebook(path: Path) -> List[Finding]:
     headings = {normalize_heading(match) for match in HEADING_RE.findall(markdown_text)}
     for section in REQUIRED_SECTIONS:
         normalized = normalize_heading(section)
-        if not any(normalized in heading for heading in headings):
+        if normalized not in headings:
             findings.append(Finding("NB004", f"missing required section: {section}"))
 
     html_parser = ImageSourceParser()
     html_parser.feed(markdown_text)
     image_targets = [*IMAGE_RE.findall(markdown_text), *html_parser.sources]
     for target in image_targets:
-        parsed = urlparse(target.split(maxsplit=1)[0])
-        if parsed.scheme or target.startswith(("#", "data:")):
+        candidate = target.split(maxsplit=1)[0]
+        try:
+            parsed = urlparse(candidate)
+        except ValueError as exc:
+            findings.append(Finding("NB005", f"invalid image target: {target} ({exc})"))
+            continue
+        if parsed.scheme or parsed.netloc or candidate.startswith(("#", "data:")):
             continue
         resolved = (path.parent / unquote(parsed.path)).resolve()
+        try:
+            resolved.relative_to(REPO_ROOT.resolve())
+        except ValueError:
+            findings.append(
+                Finding("NB005", f"local image is outside repository root: {target}")
+            )
+            continue
         if not resolved.is_file():
             findings.append(Finding("NB005", f"local image does not exist: {target}"))
 
