@@ -16,7 +16,7 @@
   <rect class="box" x="555" y="70" width="220" height="110" fill="#dcfce7" stroke="#16a34a"/>
   <text x="665" y="112" text-anchor="middle" class="label">Low risk</text><text x="665" y="142" text-anchor="middle" class="small">continue automatically</text>
   <rect class="box" x="555" y="310" width="220" height="130" fill="#fef3c7" stroke="#d97706"/>
-  <text x="665" y="350" text-anchor="middle" class="label">Human review</text><text x="665" y="380" text-anchor="middle" class="small">approve · reject · modify</text><text x="665" y="408" text-anchor="middle" class="small">durable interrupt</text>
+  <text x="665" y="350" text-anchor="middle" class="label">Human review</text><text x="665" y="380" text-anchor="middle" class="small">approve · reject · modify</text><text x="665" y="408" text-anchor="middle" class="small">in-process checkpoint</text>
   <rect class="box" x="850" y="185" width="205" height="110" fill="#cffafe" stroke="#0891b2"/>
   <text x="952" y="225" text-anchor="middle" class="label">Simulated tool</text><text x="952" y="255" text-anchor="middle" class="small">side effect + receipt</text>
   <path class="edge" d="M235 240 H295"/><path class="edge" d="M485 220 C520 190 520 125 555 125"/><path class="edge" d="M775 125 C825 125 810 220 850 230"/>

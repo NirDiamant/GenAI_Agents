@@ -8,15 +8,16 @@ from pathlib import Path
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
 NOTEBOOK = REPO_ROOT / "all_agents_tutorials" / "human_in_the_loop_approval_agent.ipynb"
+TUTORIAL_LANGGRAPH_VERSION = "0.2.76"
 
 
 def has_compatible_langgraph() -> bool:
-    """Require the interrupt API version pinned by the tutorial notebook."""
+    """Run integration tests only with the version pinned by the notebook."""
     try:
-        release = tuple(int(part) for part in version("langgraph").split(".")[:3])
-    except (PackageNotFoundError, ValueError):
+        installed_version = version("langgraph")
+    except PackageNotFoundError:
         return False
-    return release >= (0, 2, 76)
+    return installed_version == TUTORIAL_LANGGRAPH_VERSION
 
 
 def load_notebook_namespace(include_langgraph: bool = False) -> dict:
@@ -75,6 +76,14 @@ class HumanApprovalAgentTests(unittest.TestCase):
 
         self.assertEqual(state["status"], "awaiting_approval")
         self.assertNotIn("tool_result", state)
+
+    def test_planned_refund_cannot_call_tool_dispatcher_directly(self):
+        planned = self.ns["new_request"](
+            "issue_refund", {"order_id": "A-100", "amount": 80}
+        )
+
+        with self.assertRaises(PermissionError):
+            self.ns["execute_tool"](planned)
 
     def test_approve_resumes_and_executes_the_original_action(self):
         paused = self.ns["run_until_pause"](
@@ -149,6 +158,40 @@ class HumanApprovalAgentTests(unittest.TestCase):
                 ),
             )
 
+    def test_unexpected_tool_arguments_are_rejected(self):
+        actions = [
+            ("lookup_order", {"order_id": "A-100", "debug": True}),
+            (
+                "issue_refund",
+                {"order_id": "A-100", "amount": 80, "currency": "USD"},
+            ),
+        ]
+        for tool, args in actions:
+            with self.subTest(tool=tool):
+                with self.assertRaisesRegex(ValueError, "unexpected arguments"):
+                    self.ns["new_request"](tool, args)
+
+    def test_unexpected_modified_arguments_are_blocked(self):
+        paused = self.ns["run_until_pause"](
+            self.ns["new_request"](
+                "issue_refund", {"order_id": "A-100", "amount": 240}
+            )
+        )
+
+        with self.assertRaisesRegex(ValueError, "unexpected arguments"):
+            self.ns["resume_with_decision"](
+                paused,
+                self.ns["ApprovalDecision"](
+                    "modify",
+                    reviewer="ops@example.com",
+                    modified_args={
+                        "order_id": "A-100",
+                        "amount": 80,
+                        "currency": "USD",
+                    },
+                ),
+            )
+
     def test_boolean_and_non_finite_refund_amounts_are_rejected(self):
         for amount in (True, float("nan"), float("inf")):
             with self.subTest(amount=amount):
@@ -160,7 +203,7 @@ class HumanApprovalAgentTests(unittest.TestCase):
 
 @unittest.skipUnless(
     has_compatible_langgraph(),
-    "requires langgraph>=0.2.76 for interrupt/resume integration tests",
+    "requires the notebook-pinned langgraph==0.2.76; other versions skip explicitly",
 )
 class LangGraphApprovalTests(unittest.TestCase):
     @classmethod
@@ -185,6 +228,9 @@ class LangGraphApprovalTests(unittest.TestCase):
         snapshot = self.ns["approval_graph"].get_state(config).values
 
         self.assertEqual(interrupt.value["action"]["tool"], "issue_refund")
+        self.assertEqual(snapshot["status"], "awaiting_approval")
+        self.assertEqual(snapshot["approval_request"], interrupt.value)
+        self.assertEqual(snapshot["audit_log"][-1]["event"], "approval_requested")
         self.assertNotIn("tool_result", snapshot)
 
     def test_graph_resumes_approve_reject_and_modify_decisions(self):
