@@ -114,6 +114,7 @@ class TraceEvaluationTests(unittest.TestCase):
         failed = next(run for run in report["runs"] if run["score"].case_id == "weather-tokyo")
         self.assertEqual(failed["score"].total, 0.0)
         self.assertEqual(failed["trace"].error, "TimeoutError: provider timed out")
+        self.assertGreaterEqual(failed["trace"].latency_ms, 1)
 
     def test_empty_suite_is_rejected_with_clear_error(self):
         with self.assertRaisesRegex(ValueError, "at least one evaluation case"):
