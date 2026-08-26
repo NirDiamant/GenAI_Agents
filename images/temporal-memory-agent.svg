@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="460" viewBox="0 0 1200 460" role="img" aria-labelledby="title desc">
+  <title id="title">Temporal memory agent architecture</title>
+  <desc id="desc">An agent sends facts and questions to Lians local memory, which stores a timeline in SQLite and returns current or point-in-time recall with a verifiable receipt.</desc>
+  <defs>
+    <linearGradient id="memory" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#6d5dfc"/>
+      <stop offset="1" stop-color="#3b82f6"/>
+    </linearGradient>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L9,3 z" fill="#64748b"/>
+    </marker>
+    <style>
+      .label { font: 600 22px Inter, ui-sans-serif, system-ui, sans-serif; fill: #0f172a; }
+      .detail { font: 16px Inter, ui-sans-serif, system-ui, sans-serif; fill: #475569; }
+      .inverse { fill: #ffffff; }
+      .line { stroke: #64748b; stroke-width: 3; fill: none; marker-end: url(#arrow); }
+    </style>
+  </defs>
+  <rect width="1200" height="460" rx="28" fill="#f8fafc"/>
+  <text x="600" y="48" text-anchor="middle" class="label">One memory timeline, two honest answers</text>
+
+  <rect x="55" y="150" width="220" height="145" rx="22" fill="#ffffff" stroke="#cbd5e1" stroke-width="2"/>
+  <text x="165" y="205" text-anchor="middle" class="label">AI agent</text>
+  <text x="165" y="238" text-anchor="middle" class="detail">facts + questions</text>
+  <text x="165" y="265" text-anchor="middle" class="detail">any model or framework</text>
+
+  <path class="line" d="M275 222 H385"/>
+
+  <rect x="395" y="115" width="285" height="215" rx="30" fill="url(#memory)"/>
+  <g transform="translate(537 172)" fill="none" stroke="#ffffff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M0 36 C-8 18 -26 13 -37 16 C-35 38 -18 52 0 55 C18 52 35 38 37 16 C26 13 8 18 0 36Z"/>
+    <path d="M0 36 C-3 18 4 5 15 -3 C26 12 24 31 0 55 C-24 31 -26 12 -15 -3 C-4 5 3 18 0 36Z"/>
+    <path d="M-37 39 C-53 38 -64 45 -70 55 C-51 68 -24 67 0 55 C24 67 51 68 70 55 C64 45 53 38 37 39"/>
+  </g>
+  <text x="537" y="257" text-anchor="middle" class="label inverse">Lians memory</text>
+  <text x="537" y="286" text-anchor="middle" class="detail inverse">local SDK / MCP</text>
+  <text x="537" y="312" text-anchor="middle" class="detail inverse">event-time semantics</text>
+
+  <path class="line" d="M680 222 H770"/>
+
+  <rect x="780" y="78" width="360" height="104" rx="20" fill="#ffffff" stroke="#cbd5e1" stroke-width="2"/>
+  <text x="960" y="121" text-anchor="middle" class="label">SQLite timeline</text>
+  <text x="960" y="152" text-anchor="middle" class="detail">Friday estimate → Monday correction</text>
+
+  <path class="line" d="M850 182 C825 215 825 248 850 278"/>
+  <path class="line" d="M1070 182 C1095 215 1095 248 1070 278"/>
+
+  <rect x="735" y="288" width="205" height="108" rx="20" fill="#ecfdf5" stroke="#86efac" stroke-width="2"/>
+  <text x="838" y="328" text-anchor="middle" class="label">Current</text>
+  <text x="838" y="358" text-anchor="middle" class="detail">Monday</text>
+  <text x="838" y="383" text-anchor="middle" class="detail">+ receipt</text>
+
+  <rect x="980" y="288" width="205" height="108" rx="20" fill="#eff6ff" stroke="#93c5fd" stroke-width="2"/>
+  <text x="1083" y="328" text-anchor="middle" class="label">As of Sunday</text>
+  <text x="1083" y="358" text-anchor="middle" class="detail">Friday</text>
+  <text x="1083" y="383" text-anchor="middle" class="detail">+ receipt</text>
+</svg>
