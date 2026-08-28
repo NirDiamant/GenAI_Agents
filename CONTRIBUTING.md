@@ -125,6 +125,16 @@ To ensure consistency and readability across all notebooks:
 
 3. **Consistent Formatting:** Maintain consistent formatting throughout the notebook, including regular use of markdown headers, code comments, and proper indentation.
 
+Before opening a pull request, validate only the notebooks you changed:
+
+```bash
+python scripts/validate_notebook.py all_agents_tutorials/your_file_name.ipynb
+```
+
+The validator uses only the Python standard library. It checks notebook JSON,
+cleared outputs, code-cell descriptions, required tutorial sections, and local
+image references without forcing older notebooks into the latest template.
+
 ## Code Quality and Readability
 
 To ensure the highest quality and readability of our code:
