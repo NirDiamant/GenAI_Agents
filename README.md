@@ -36,10 +36,12 @@ One `npm install` adds the module's AI assistant to your Claude Code, and it gui
 <div align="center">
 
 <a href="https://coderabbit.link/nir"><img src="images/coderabbit_Light_Type_Mark_Orange.png" height="80" alt="CodeRabbit" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.qodo.ai/?utm_source=diamantai&utm_medium=github&utm_campaign=genai-agents&utm_content=readme-sponsor"><img src="images/qodo-logo.svg" height="80" alt="Qodo" /></a>
 
 </div>
 
-> **Recently added:** Document Intake Agent, HR AI Assistant, Art Tourguide with LightRAG, Contextual Quoting System, ML/DS Assistant | **53 tutorials** and growing
+> **Recently added:** Trace-Based Agent Evaluation, Human-in-the-Loop Approval Agent, Document Intake Agent, HR AI Assistant, Art Tourguide with LightRAG | **55 tutorials** and growing
 
 ## 📫 Stay Updated!
 
@@ -209,6 +211,8 @@ Below is a comprehensive overview of our GenAI agent implementations, organized 
 | 50 | 💼 **Business**   | [Contextual Quoting System](all_agents_tutorials/contextual_quoting_agentic_system.ipynb) | LangGraph  | Multi-agent quoting, RAG + structured data                                   |
 | 51 | 📊 **Analysis**   | [Document Intake Agent](all_agents_tutorials/document_intake_agent_langgraph.ipynb) | LangGraph  | Office docs to LLM-ready markdown, conversion as a tool call                 |
 | 52 | 🎨 **Creative**   | [Social Media Publishing Agent](all_agents_tutorials/social_media_publishing_agent_publora_langgraph.ipynb) | LangGraph  | Per-platform generation, self-review loop, publishing via Publora API        |
+| 53 | 🔍 **QA**         | [Human-in-the-Loop Approval Agent](all_agents_tutorials/human_in_the_loop_approval_agent.ipynb) | LangGraph | Risk-based approval, in-process checkpoints, auditable tool execution        |
+| 54 | 🔍 **QA**         | [Trace-Based Agent Evaluation](all_agents_tutorials/trace_based_agent_evaluation.ipynb) | Python | Deterministic trace scoring, case diagnostics, regression quality gates     |
 
 Explore our extensive list of GenAI agent implementations, sorted by categories:
 
@@ -731,6 +735,22 @@ Explore our extensive list of GenAI agent implementations, sorted by categories:
 
     #### Implementation 🛠️
     A LangGraph workflow (fetch_connections → generate → review → publish) with a bounded revise loop: a deterministic length check plus an LLM critic send failing drafts back to the generator with targeted feedback. Publishing goes through Publora's REST API (one create-post call per platform, each with an idempotency key so a call's network retry is safe), with a dry-run mode that creates drafts so nothing goes live while experimenting.
+
+53. **[Human-in-the-Loop Approval Agent with LangGraph](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/human_in_the_loop_approval_agent.ipynb)**
+
+    #### Overview 🔎
+    A safe tool-using agent that executes low-risk reads automatically but pauses consequential writes before any side effect. Reviewers can approve, reject, or replace arguments, with every transition recorded for audit.
+
+    #### Implementation 🛠️
+    Combines deterministic risk and argument policies with LangGraph interrupts and a notebook-local LangGraph 0.2.76 dependency. Its `InMemorySaver` supports resume only during the Python process lifetime; production restart recovery requires a persistent checkpointer. The tutorial verifies that paused and rejected actions never execute and that reviewer-edited arguments are revalidated.
+
+54. **[Trace-Based Agent Evaluation without an LLM Judge](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/trace_based_agent_evaluation.ipynb)**
+
+    #### Trace-Based Evaluation Overview 🔎
+    An offline evaluation harness that scores what an agent actually did: tool choice, arguments, evidence use, errors, and latency. It produces reproducible case diagnostics without paying for or calibrating a second model as judge.
+
+    #### Trace-Based Evaluation Implementation 🛠️
+    Defines framework-neutral trace and test-case contracts, explicit weighted checks, suite metrics, and a CI-friendly quality gate. A deterministic baseline demonstrates routing and argument regressions, while an improved agent passes the same frozen cases and thresholds.
 
 ### 🌟 Special Advanced Technique 🌟
 

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="520" viewBox="0 0 1100 520" role="img" aria-labelledby="title desc">
+  <title id="title">Trace-based agent evaluation architecture</title>
+  <desc id="desc">Evaluation cases run through an agent adapter. Recorded answers, structured claims, tool calls, evidence, latency, and errors are scored and aggregated into a regression gate.</desc>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#475569"/></marker>
+    <style>.box{rx:16;stroke-width:2}.title{font:600 20px system-ui,sans-serif;fill:#0f172a}.text{font:15px system-ui,sans-serif;fill:#334155}.edge{stroke:#475569;stroke-width:3;fill:none;marker-end:url(#arrow)}</style>
+  </defs>
+  <rect width="1100" height="520" rx="28" fill="#f8fafc"/>
+  <text x="550" y="48" text-anchor="middle" class="title" font-size="27">Deterministic Trace Evaluation Pipeline</text>
+  <rect class="box" x="45" y="180" width="185" height="125" fill="#dbeafe" stroke="#2563eb"/>
+  <text x="138" y="220" text-anchor="middle" class="title">Eval cases</text><text x="138" y="251" text-anchor="middle" class="text">tool contract</text><text x="138" y="277" text-anchor="middle" class="text">evidence + budget</text>
+  <rect class="box" x="285" y="180" width="185" height="125" fill="#ede9fe" stroke="#7c3aed"/>
+  <text x="378" y="220" text-anchor="middle" class="title">Agent adapter</text><text x="378" y="251" text-anchor="middle" class="text">any framework</text><text x="378" y="277" text-anchor="middle" class="text">same trace contract</text>
+  <rect class="box" x="525" y="90" width="215" height="305" fill="#ecfeff" stroke="#0891b2"/>
+  <text x="633" y="130" text-anchor="middle" class="title">Recorded trace</text>
+  <rect x="555" y="155" width="155" height="38" rx="8" fill="#cffafe"/><text x="633" y="180" text-anchor="middle" class="text">final answer</text>
+  <rect x="555" y="207" width="155" height="38" rx="8" fill="#cffafe"/><text x="633" y="232" text-anchor="middle" class="text">tool + arguments</text>
+  <rect x="555" y="259" width="155" height="38" rx="8" fill="#cffafe"/><text x="633" y="284" text-anchor="middle" class="text">evidence + claims</text>
+  <rect x="555" y="311" width="155" height="38" rx="8" fill="#cffafe"/><text x="633" y="336" text-anchor="middle" class="text">latency + error</text>
+  <rect class="box" x="795" y="105" width="250" height="180" fill="#fef3c7" stroke="#d97706"/>
+  <text x="920" y="145" text-anchor="middle" class="title">Per-case checks</text><text x="920" y="178" text-anchor="middle" class="text">tool · arguments</text><text x="920" y="207" text-anchor="middle" class="text">evidence · latency</text><text x="920" y="245" text-anchor="middle" class="text">explicit weighted score</text>
+  <rect class="box" x="795" y="330" width="250" height="115" fill="#dcfce7" stroke="#16a34a"/>
+  <text x="920" y="370" text-anchor="middle" class="title">Suite quality gate</text><text x="920" y="401" text-anchor="middle" class="text">metrics + all regressions</text>
+  <path class="edge" d="M230 243 H285"/><path class="edge" d="M470 243 H525"/><path class="edge" d="M740 205 H795"/><path class="edge" d="M920 285 V330"/>
+  <text x="550" y="485" text-anchor="middle" class="text">No judge model: the same trace and thresholds always produce the same result</text>
+</svg>
