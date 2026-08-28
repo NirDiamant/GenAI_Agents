@@ -45,7 +45,7 @@ matplotlib-inline==0.1.7
 multidict==6.0.5
 mypy-extensions==1.0.0
 nest-asyncio==1.6.0
-nltk==3.9.1
+nltk==3.10.0
 numpy==1.26.4
 openai==1.43.0
 orjson==3.10.7
