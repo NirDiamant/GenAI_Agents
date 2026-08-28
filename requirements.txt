@@ -67,7 +67,7 @@ pytz==2024.1
 PyYAML==6.0.2
 pyzmq==26.2.0
 pywin32==306; platform_system == "Windows"
-regex==2024.7.24
+regex==2026.7.19
 requests==2.32.3
 beautifulsoup4==4.12.3
 six==1.16.0
