@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="500" viewBox="0 0 1100 500" role="img" aria-labelledby="title desc">
+  <title id="title">Human-in-the-loop approval agent architecture</title>
+  <desc id="desc">A proposed tool call passes through validation and risk policy. Low-risk calls execute, while high-risk calls pause for approval, rejection, or modified arguments.</desc>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#475569"/></marker>
+    <style>
+      .box{rx:18;stroke-width:2}.label{font:600 20px system-ui,sans-serif;fill:#0f172a}.small{font:15px system-ui,sans-serif;fill:#334155}.edge{stroke:#475569;stroke-width:3;fill:none;marker-end:url(#arrow)}
+    </style>
+  </defs>
+  <rect width="1100" height="500" rx="28" fill="#f8fafc"/>
+  <text x="550" y="50" text-anchor="middle" class="label" font-size="26">Human-in-the-Loop Approval Boundary</text>
+  <rect class="box" x="45" y="185" width="190" height="110" fill="#dbeafe" stroke="#2563eb"/>
+  <text x="140" y="225" text-anchor="middle" class="label">Proposed action</text><text x="140" y="255" text-anchor="middle" class="small">tool + arguments</text>
+  <rect class="box" x="295" y="185" width="190" height="110" fill="#ede9fe" stroke="#7c3aed"/>
+  <text x="390" y="225" text-anchor="middle" class="label">Policy gate</text><text x="390" y="255" text-anchor="middle" class="small">validate + classify</text>
+  <rect class="box" x="555" y="70" width="220" height="110" fill="#dcfce7" stroke="#16a34a"/>
+  <text x="665" y="112" text-anchor="middle" class="label">Low risk</text><text x="665" y="142" text-anchor="middle" class="small">continue automatically</text>
+  <rect class="box" x="555" y="310" width="220" height="130" fill="#fef3c7" stroke="#d97706"/>
+  <text x="665" y="350" text-anchor="middle" class="label">Human review</text><text x="665" y="380" text-anchor="middle" class="small">approve · reject · modify</text><text x="665" y="408" text-anchor="middle" class="small">in-process checkpoint</text>
+  <rect class="box" x="850" y="185" width="205" height="110" fill="#cffafe" stroke="#0891b2"/>
+  <text x="952" y="225" text-anchor="middle" class="label">Simulated tool</text><text x="952" y="255" text-anchor="middle" class="small">side effect + receipt</text>
+  <path class="edge" d="M235 240 H295"/><path class="edge" d="M485 220 C520 190 520 125 555 125"/><path class="edge" d="M775 125 C825 125 810 220 850 230"/>
+  <path class="edge" d="M485 260 C520 290 520 375 555 375"/><path class="edge" d="M775 375 C825 375 810 270 850 250"/>
+  <text x="510" y="145" class="small">low</text><text x="505" y="346" class="small">high</text>
+  <path d="M775 405 H835" stroke="#dc2626" stroke-width="3"/><text x="805" y="430" text-anchor="middle" class="small" fill="#dc2626">reject → stop</text>
+  <rect x="300" y="462" width="500" height="25" rx="12" fill="#e2e8f0"/><text x="550" y="480" text-anchor="middle" class="small">Every proposal, decision, edit, and execution is appended to the audit log</text>
+</svg>
