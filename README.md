@@ -128,6 +128,8 @@ Furthermore, this repository serves as a platform for showcasing innovative agen
 
 🧠 **[Agent Memory Techniques](https://github.com/NirDiamant/Agent_Memory_Techniques)** - 30 notebooks on agent memory: vector stores, graphs, Mem0, Zep.
 
+⚡ **[Hybrid RAG Issue & PR Assistant](https://github.com/Cagrik34/Hybrid-RAG-Issue-PR-Assistant)** - Zero-cloud GitHub Action combining SQLite FTS5 (Okapi BM25) lexical search with dense vector embeddings fused via Reciprocal Rank Fusion (k=60) for automated issue and PR triage with AST-grounded line citations.
+
 ## Join the community
 
 Contributions make this better - propose ideas, share techniques, or give feedback via **[CONTRIBUTING.md](https://github.com/NirDiamant/GenAI_Agents/blob/main/CONTRIBUTING.md)**.
