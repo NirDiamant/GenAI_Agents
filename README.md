@@ -67,6 +67,14 @@ One `npm install` adds the module's AI assistant to your Claude Code, and it gui
 
 *I break these ideas down into short, one-idea-per-episode explainers on YouTube.*
 
+<p align="center">
+  <a href="https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=genai-agents--readme&amp;click=youtube-readme-loop&amp;target=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DFN1n_NVD9KM%26list%3DPLBrpE2PttR2k&amp;retarget=0&amp;text=youtube-readme-loop">
+    <img src="https://img.youtube.com/vi/FN1n_NVD9KM/maxresdefault.jpg" width="60%" alt="">
+    <br><b>🆕 AI Agents Are Just While Loops. That's the Scary Part.</b>
+  </a><br>
+  <sub>the smallest real agent, the trap it builds for itself, and where a rule has to live — <a href="all_agents_tutorials/agent_while_loop_from_scratch.ipynb">run the agent from the video</a></sub>
+</p>
+
 <table>
 <tr>
 <td width="33%" align="center" valign="top">
