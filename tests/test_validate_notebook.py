@@ -167,6 +167,61 @@ class NotebookValidatorTests(unittest.TestCase):
         self.assertIn("NB005", result.stdout)
         self.assertIn("missing.svg", result.stdout)
 
+    def test_accepts_complex_markdown_and_html_image_targets(self):
+        markdown_notebook = valid_notebook()
+        html_notebook = valid_notebook()
+        with tempfile.TemporaryDirectory(dir=REPO_ROOT) as temp:
+            directory = Path(temp)
+            markdown_notebook["cells"][1]["source"] = [
+                '## Detailed Explanation\n\n'
+                '![Quoted](  <quoted diagram).svg> "System ) diagram"  )\n\n'
+                '![Parenthesized](<parenthesized diagram.svg> (System diagram))'
+            ]
+            html_notebook["cells"][1]["source"] = [
+                '## Detailed Explanation\n\n'
+                '<img src="html diagram.svg" alt="HTML diagram">'
+            ]
+            markdown_path = self.write_notebook(
+                directory, markdown_notebook, "markdown.ipynb"
+            )
+            html_path = self.write_notebook(directory, html_notebook, "html.ipynb")
+            missing_markdown = self.run_validator(markdown_path)
+            missing_html = self.run_validator(html_path)
+
+            for image in (
+                "quoted diagram).svg",
+                "parenthesized diagram.svg",
+                "html diagram.svg",
+            ):
+                (directory / image).write_text("<svg/>", encoding="utf-8")
+
+            valid_markdown = self.run_validator(markdown_path)
+            valid_html = self.run_validator(html_path)
+
+        self.assertEqual(
+            missing_markdown.returncode,
+            1,
+            missing_markdown.stdout + missing_markdown.stderr,
+        )
+        self.assertEqual(missing_markdown.stdout.count("NB005"), 2)
+        self.assertIn("quoted diagram).svg", missing_markdown.stdout)
+        self.assertIn("parenthesized diagram.svg", missing_markdown.stdout)
+        self.assertEqual(
+            missing_html.returncode,
+            1,
+            missing_html.stdout + missing_html.stderr,
+        )
+        self.assertIn("NB005", missing_html.stdout)
+        self.assertIn("html diagram.svg", missing_html.stdout)
+        self.assertEqual(
+            valid_markdown.returncode,
+            0,
+            valid_markdown.stdout + valid_markdown.stderr,
+        )
+        self.assertEqual(
+            valid_html.returncode, 0, valid_html.stdout + valid_html.stderr
+        )
+
     def test_reports_missing_local_html_image(self):
         notebook = valid_notebook()
         notebook["cells"][1]["source"] = [
