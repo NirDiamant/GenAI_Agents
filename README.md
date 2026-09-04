@@ -12,7 +12,9 @@ Welcome to one of the most extensive and dynamic collections of Generative AI (G
 
 <div align="center">
 
-**[Prompt to Production](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=genai-agents--readme&click=course-free-module-cta&target=https%3A%2F%2Fwww.diamant-ai.com%2Fcourses%3Futm_source%3Dgithub%26utm_medium%3Dreadme%26utm_campaign%3Dgenai-agents&retarget=0&text=course-free-module-cta)** - my full course on building software with AI the way professionals do: the methods and paradigms behind reliable, efficient, modular production systems, taught systematically. 17 modules, each pairing a video lecture with a hands-on lab, from your first structured prompt to a working production system.
+**[Prompt to Production](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=genai-agents--readme&click=course-free-module-cta&target=https%3A%2F%2Fwww.diamant-ai.com%2Fcourses%3Futm_source%3Dgithub%26utm_medium%3Dreadme%26utm_campaign%3Dgenai-agents&retarget=0&text=course-free-module-cta)** - my full course on building software with AI the way professionals do: the methods and paradigms behind reliable, efficient, modular production systems, taught systematically. 20 modules, each pairing a video lecture with a hands-on lab, from your first structured prompt to a working production system.
+
+**The course is live.** Every module is out, lecture and lab.
 
 ### 🎁 Try a full module, free
 
@@ -27,6 +29,8 @@ Welcome to one of the most extensive and dynamic collections of Generative AI (G
 One `npm install` adds the module's AI assistant to your Claude Code, and it guides you through the tutorial as you build.
 
 <a href="https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=genai-agents--readme&click=course-free-module-cta&target=https%3A%2F%2Fwww.diamant-ai.com%2Fcourses%3Futm_source%3Dgithub%26utm_medium%3Dreadme%26utm_campaign%3Dgenai-agents&retarget=0&text=course-free-module-cta"><img src="images/free-module-button.svg" alt="Claim your free module" width="420"></a>
+
+### 👉 [**Get the full course**](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=genai-agents--readme&click=course-full-cta&target=https%3A%2F%2Fwww.diamant-ai.com%2Fcourses%3Futm_source%3Dgithub%26utm_medium%3Dreadme%26utm_campaign%3Dgenai-agents&retarget=0&text=course-full-cta)
 
 </div>
 
