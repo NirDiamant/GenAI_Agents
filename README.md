@@ -781,6 +781,8 @@ As GenAI agents move from demos to production, enforcing behavioral constraints 
 | Tool | Description | Links |
 |------|-------------|-------|
 | **AgentContract** | Open specification for behavioral contracts on AI agents. Declare what your agent must, must not, and can do — enforced on every run with a tamper-evident audit trail. Works with LangChain, CrewAI, OpenAI Agents SDK, and any custom agent. | [Spec](https://github.com/agentcontract/spec) · [Python](https://github.com/agentcontract/agentcontract-py) · [GitHub Action](https://github.com/agentcontract/agentcontract-action) |
+| **Anchor** | Crash-proof AI agent runtime. Sub-second OOM/crash recovery from exact failing step. 0 duplicate API calls/Double charges. |[Anchor](https://anchor-runtime.xyz) · [Github](https://github.com/n43ms/Anchor) · [Demos](https://anchor-runtime.xyz/demo)|
+
 
 ```yaml
 # Example: my-agent.contract.yaml
