@@ -23,7 +23,19 @@ REQUIRED_SECTIONS = (
     "References",
 )
 HEADING_RE = re.compile(r"^#{1,6}\s+(.+?)\s*$", re.MULTILINE)
-IMAGE_RE = re.compile(r"!\[[^\]]*\]\(([^)]+)\)")
+MARKDOWN_TITLE = r'''"(?:\\.|[^"\\])*"|'(?:\\.|[^'\\])*'|\((?:\\.|[^)\\])*\)'''
+IMAGE_RE = re.compile(
+    rf"""!\[[^\]]*\]\(\s*
+        (?:
+            (?P<angle><[^<>\r\n]*>(?:\s+(?:{MARKDOWN_TITLE}))?)
+            |(?P<plain>[^)]+)
+        )
+    \s*\)""",
+    re.VERBOSE,
+)
+ANGLE_BRACKET_IMAGE_RE = re.compile(
+    rf"^<([^<>\r\n]*)>(?:\s+(?:{MARKDOWN_TITLE}))?$"
+)
 REPO_ROOT = Path(__file__).resolve().parents[1]
 
 
@@ -65,6 +77,15 @@ def has_valid_source(cell: Dict[str, Any]) -> bool:
     return isinstance(source, str) or (
         isinstance(source, list) and all(isinstance(part, str) for part in source)
     )
+
+
+def image_destination(target: str) -> str:
+    """Return a Markdown image destination without its optional title."""
+    stripped = target.strip()
+    bracketed = ANGLE_BRACKET_IMAGE_RE.fullmatch(stripped)
+    if bracketed:
+        return bracketed.group(1)
+    return stripped.split(maxsplit=1)[0]
 
 
 def validate_notebook(path: Path) -> List[Finding]:
@@ -115,9 +136,15 @@ def validate_notebook(path: Path) -> List[Finding]:
 
     html_parser = ImageSourceParser()
     html_parser.feed(markdown_text)
-    image_targets = [*IMAGE_RE.findall(markdown_text), *html_parser.sources]
-    for target in image_targets:
-        candidate = target.split(maxsplit=1)[0]
+    markdown_targets = [
+        match.group("angle") or match.group("plain")
+        for match in IMAGE_RE.finditer(markdown_text)
+    ]
+    image_targets = [
+        (target, image_destination(target)) for target in markdown_targets
+    ]
+    image_targets.extend((source, source) for source in html_parser.sources)
+    for target, candidate in image_targets:
         try:
             parsed = urlparse(candidate)
         except ValueError as exc:
