@@ -225,6 +225,7 @@ Below is a comprehensive overview of our GenAI agent implementations, organized 
 | 52 | 🎨 **Creative**   | [Social Media Publishing Agent](all_agents_tutorials/social_media_publishing_agent_publora_langgraph.ipynb) | LangGraph  | Per-platform generation, self-review loop, publishing via Publora API        |
 | 53 | 🔍 **QA**         | [Human-in-the-Loop Approval Agent](all_agents_tutorials/human_in_the_loop_approval_agent.ipynb) | LangGraph | Risk-based approval, in-process checkpoints, auditable tool execution        |
 | 54 | 🔍 **QA**         | [Trace-Based Agent Evaluation](all_agents_tutorials/trace_based_agent_evaluation.ipynb) | Python | Deterministic trace scoring, case diagnostics, regression quality gates     |
+| 55 | 🌱 **Beginner**   | [Agent From Scratch: The While Loop](all_agents_tutorials/agent_while_loop_from_scratch.ipynb) | Pure Python | The minimal agent loop, tool calls, the retry trap, where a rule must live   |
 
 Explore our extensive list of GenAI agent implementations, sorted by categories:
 
@@ -763,6 +764,17 @@ Explore our extensive list of GenAI agent implementations, sorted by categories:
 
     #### Trace-Based Evaluation Implementation 🛠️
     Defines framework-neutral trace and test-case contracts, explicit weighted checks, suite metrics, and a CI-friendly quality gate. A deterministic baseline demonstrates routing and argument regressions, while an improved agent passes the same frozen cases and thresholds.
+
+55. **[Agent From Scratch: The While Loop](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/agent_while_loop_from_scratch.ipynb)**
+
+   #### Overview 🔎
+   The smallest real agent — one model, three tools, and a single `while` loop — built with no framework at all, then pushed until it breaks. Shows what every agent framework is wrapping, why the transcript *is* the agent's entire memory, and the retry trap a failing tool builds for itself.
+
+   #### Implementation 🛠️
+   Pure Python against a chat-completions API: three small tools the loop promises to execute, a conversation re-sent in full on every turn, and a frozen run where each file read returns "temporarily unavailable". The same one-sentence fix is then placed twice — once in the system prompt, once inside the loop — to show why only one of the two placements actually holds.
+
+    #### Additional Resources 📚
+    - **[YouTube Explanation](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=genai-agents--readme&click=youtube-while-loop-table&target=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DFN1n_NVD9KM%26list%3DPLBrpE2PttR2k&retarget=0&text=youtube-while-loop-table)**
 
 ### 🌟 Special Advanced Technique 🌟
 
