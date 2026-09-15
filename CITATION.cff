@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+title: "GenAI Agents: Tutorials and Implementations for Generative AI Agent Techniques"
+version: "1.0.0"
+date-released: "2024-09-09"
+authors:
+  - family-names: "Diamant"
+    given-names: "Nir"
+repository-code: "https://github.com/NirDiamant/GenAI_Agents"
+url: "https://github.com/NirDiamant/GenAI_Agents"
+abstract: >-
+  A community-driven collection of 59 runnable Jupyter notebooks
+  implementing Generative AI agents, from a single conversational bot to
+  multi-agent systems, self-improving agents and complete applications.
+  Covers LangGraph, AutoGen and PydanticAI orchestration, memory,
+  tool use over MCP, evaluation and human-in-the-loop control.
+keywords:
+  - ai-agents
+  - generative-ai
+  - langgraph
+  - autogen
+  - multi-agent-systems
+  - llm
+  - mcp
+  - agentic-ai
+  - tutorials
+license: LicenseRef-Custom-NonCommercial

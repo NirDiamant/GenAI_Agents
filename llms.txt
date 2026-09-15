@@ -1,0 +1,102 @@
+# GenAI Agents
+
+> A community-driven collection of 59 runnable Jupyter notebooks implementing Generative AI agents, from a single conversational bot to multi-agent systems, self-improving agents and complete applications. Each notebook is a self-contained tutorial covering the problem, the agent design, the implementation and a working run. Frameworks include LangGraph, AutoGen, PydanticAI and from-scratch agent loops. This is a teaching repository rather than a framework, so there is no package to install. Authored by Nir Diamant. Licensed under a custom non-commercial license.
+
+## Core Documents
+
+- [README](https://github.com/NirDiamant/GenAI_Agents/blob/main/README.md): Overview, the full tutorial index and quick start.
+- [CONTRIBUTING](https://github.com/NirDiamant/GenAI_Agents/blob/main/CONTRIBUTING.md): How to add an agent tutorial and the pull request checklist.
+- [AGENTS](https://github.com/NirDiamant/GenAI_Agents/blob/main/AGENTS.md): Repository conventions for AI coding agents.
+- [Tutorials index](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/README.md): Index of the notebooks.
+- [LICENSE](https://github.com/NirDiamant/GenAI_Agents/blob/main/LICENSE): Custom non-commercial license. Read before any commercial reuse.
+
+## Start Here: Agent Fundamentals
+
+- [Simple Conversational Agent](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/simple_conversational_agent.ipynb): A chat agent with memory. The smallest useful starting point.
+- [Simple Conversational Agent with PydanticAI](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/simple_conversational_agent-pydanticai.ipynb): The same agent built on PydanticAI.
+- [Simple Question Answering Agent](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/simple_question_answering_agent.ipynb): Single-turn question answering.
+- [Agent While Loop From Scratch](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/agent_while_loop_from_scratch.ipynb): The agent loop with no framework, so the mechanics are visible.
+- [Task-Oriented Agent](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/task_oriented_agent.ipynb): An agent that pursues a goal rather than answering turn by turn.
+- [LangGraph Tutorial](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/langgraph-tutorial.ipynb): Graph-based agent orchestration with LangGraph.
+- [MCP Tutorial](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/mcp-tutorial.ipynb): Connecting an agent to tools over the Model Context Protocol.
+
+## Memory and State
+
+- [Memory-Enhanced Conversational Agent](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/memory_enhanced_conversational_agent.ipynb): Short-term and long-term memory in one agent.
+- [Memory Agent Tutorial](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/memory-agent-tutorial.ipynb): Memory patterns applied to an agent.
+
+## Multi-Agent Systems
+
+- [Multi-Agent Collaboration System](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/multi_agent_collaboration_system.ipynb): Multiple specialized agents coordinating on one task.
+- [Research Team with AutoGen](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/research_team_autogen.ipynb): A research team built with AutoGen.
+- [Blog Writer Swarm](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/blog_writer_swarm.ipynb): A swarm that plans, drafts and edits long-form writing.
+- [Database Discovery Fleet](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/database_discovery_fleet.ipynb): A fleet of agents exploring and documenting a database.
+- [Grocery Management Agents System](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/grocery_management_agents_system.ipynb): Cooperating agents over a household domain.
+
+## Self-Improvement and Evaluation
+
+- [Self-Improving Agent](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/self_improving_agent.ipynb): An agent that learns from its own past runs.
+- [Self-Healing Code](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/self_healing_code.ipynb): Detect a failure, diagnose it and repair the code.
+- [Trace-Based Agent Evaluation](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/trace_based_agent_evaluation.ipynb): Evaluate an agent from its execution traces.
+- [End-to-End Testing Agent](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/e2e_testing_agent.ipynb): An agent that writes and runs end-to-end tests.
+- [Human-in-the-Loop Approval Agent](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/human_in_the_loop_approval_agent.ipynb): Pausing for human approval before consequential actions.
+- [Graph Inspector System](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/graph_inspector_system_langgraph.ipynb): Inspecting and debugging a LangGraph agent graph.
+
+## Research and Analysis Agents
+
+- [Scientific Paper Agent](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/scientific_paper_agent_langgraph.ipynb): Find, read and summarize scientific papers.
+- [Systematic Review of Scientific Articles](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/systematic_review_of_scientific_articles.ipynb): Automating a systematic literature review.
+- [Search the Internet and Summarize](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/search_the_internet_and_summarize.ipynb): Web search plus synthesis.
+- [News TL;DR](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/news_tldr_langgraph.ipynb): Condensing a news feed into a briefing.
+- [AInsight](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/ainsight_langgraph.ipynb): An insight-generation pipeline.
+- [Content Intelligence](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/ContentIntelligence.ipynb): Content analysis and classification.
+- [Contextual Quoting Agentic System](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/contextual_quoting_agentic_system.ipynb): Quoting sources with the context that justifies them.
+- [Simple Data Analysis Agent](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/simple_data_analysis_agent_notebook.ipynb): An agent that analyzes a dataset and reports findings.
+- [Simple Data Analysis Agent with PydanticAI](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/simple_data_analysis_agent_notebook-pydanticai.ipynb): The same agent on PydanticAI.
+- [AI-Driven ML and Data Science Assistant](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/ai_driven_ml_and_datascience_assistant.ipynb): An assistant for modelling workflows.
+
+## Business and Productivity Agents
+
+- [Customer Support Agent](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/customer_support_agent_langgraph.ipynb): Routing, resolving and escalating support requests.
+- [Sales Call Analyzer](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/sales_call_analyzer_agent.ipynb): Analyzing sales conversations.
+- [Project Manager Assistant](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/project_manager_assistant_agent.ipynb): Planning and tracking project work.
+- [HR AI Agent](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/Hr_AI_Agent.ipynb): An agent over HR processes.
+- [HR AI Assistant](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/HR_AI-Assistant.ipynb): A second take on the HR assistant.
+- [Document Intake Agent](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/document_intake_agent_langgraph.ipynb): Ingesting, classifying and routing documents.
+- [ClauseAI](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/ClauseAI.ipynb): Contract clause analysis.
+- [EU Green Compliance FAQ Bot](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/EU_Green_Compliance_FAQ_Bot.ipynb): A compliance question-answering agent.
+- [Taskifier](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/taskifier.ipynb): Turning free text into structured tasks.
+- [Car Buyer Agent](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/car_buyer_agent_langgraph.ipynb): An agent that researches and compares purchases.
+- [ShopGenie](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/ShopGenie.ipynb): A shopping research and recommendation agent.
+- [Weather Disaster Management Agent](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/Weather_Disaster_Management_AI_AGENT.ipynb): Decision support over weather and disaster data.
+- [Social Media Publishing Agent](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/social_media_publishing_agent_publora_langgraph.ipynb): Drafting and scheduling social posts.
+- [GenAI Career Assistant](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/agent_hackathon_genAI_career_assistant.ipynb): Career guidance built at a hackathon.
+
+## Education Agents
+
+- [Academic Task Learning Agent](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/Academic_Task_Learning_Agent_LangGraph.ipynb): An agent that learns and teaches academic tasks.
+- [Chiron Learning Agent](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/chiron_learning_agent_langgraph.ipynb): A tutoring agent.
+- [Essay Grading System](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/essay_grading_system_langgraph.ipynb): Automated essay assessment with rubrics.
+- [Journalism-Focused AI Assistant](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/journalism_focused_ai_assistant_langgraph.ipynb): An assistant for reporting workflows.
+- [Gutenberg's Sage](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/Gutenbergs_Sage.ipynb): An agent over the Project Gutenberg corpus.
+
+## Creative Agents
+
+- [Music Compositor Agent](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/music_compositor_agent_langgraph.ipynb): Generating music from a description.
+- [Generate Podcast Agent](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/generate_podcast_agent_langgraph.ipynb): Producing a podcast episode end to end.
+- [TTS Poem Generator Agent](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/tts_poem_generator_agent_langgraph.ipynb): Writing a poem and speaking it.
+- [Art Agent](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/art_agent.ipynb): An agent that generates visual art.
+- [GIF Animation Generator](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/gif_animation_generator_langgraph.ipynb): Building an animation from a prompt.
+- [Business Meme Generator](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/business_meme_generator.ipynb): Generating on-brand memes.
+- [Murder Mystery Agent](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/murder_mystery_agent_langgraph.ipynb): An interactive narrative game agent.
+- [Simple Travel Planner](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/simple_travel_planner_langgraph.ipynb): Planning a trip with constraints.
+
+## Related work by the same author
+
+- [agents-towards-production](https://github.com/NirDiamant/agents-towards-production): Taking agents from prototype to deployed product.
+- [RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques): 41 notebooks on Retrieval-Augmented Generation.
+- [Agent_Memory_Techniques](https://github.com/NirDiamant/Agent_Memory_Techniques): 30 notebooks on memory for LLM agents.
+- [Prompt_Engineering](https://github.com/NirDiamant/Prompt_Engineering): 22 prompt engineering techniques.
+- [Course, Prompt to Production](https://diamant-ai.com/courses): Building software with AI, taught systematically.
+- [Newsletter](https://newsletter.diamant-ai.com): Weekly deep dives on GenAI engineering.
+- [Community Discord](https://discord.gg/cA6Aa4uyDX): Questions, contributions and discussion.
