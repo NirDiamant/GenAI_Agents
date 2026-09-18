@@ -17,7 +17,7 @@
   <rect class="box" x="270" y="215" width="210" height="130" fill="#dbeafe" stroke="#2563eb"/>
   <text x="375" y="252" text-anchor="middle" class="label">Supervisor</text>
   <text x="375" y="280" text-anchor="middle" class="small">task warrant: A-* orders</text>
-  <text x="375" y="302" text-anchor="middle" class="small">refund ≤ 500 · 10 min</text>
+  <text x="375" y="302" text-anchor="middle" class="small">refund ≤ 500 · 1 hour</text>
   <text x="375" y="326" text-anchor="middle" class="tiny">never shares its own warrant</text>
 
   <rect class="box" x="560" y="80" width="230" height="130" fill="#ede9fe" stroke="#7c3aed"/>

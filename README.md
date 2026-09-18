@@ -45,7 +45,7 @@ One `npm install` adds the module's AI assistant to your Claude Code, and it gui
 
 </div>
 
-> **Recently added:** Trace-Based Agent Evaluation, Human-in-the-Loop Approval Agent, Document Intake Agent, HR AI Assistant, Art Tourguide with LightRAG | **55 tutorials** and growing
+> **Recently added:** Scoped Delegation Agent, Trace-Based Agent Evaluation, Human-in-the-Loop Approval Agent, Document Intake Agent, HR AI Assistant, Art Tourguide with LightRAG | **56 tutorials** and growing
 
 ## 📫 Stay Updated!
 
