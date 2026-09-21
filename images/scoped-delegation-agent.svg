@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="560" viewBox="0 0 1100 560" role="img" aria-labelledby="title desc">
+  <title id="title">Scoped delegation agent architecture</title>
+  <desc id="desc">A root issuer mints a task warrant for the supervisor. The supervisor grants a narrower warrant to each worker. Each worker's tool node verifies chain, holder, expiry and scope before running a tool, and denies calls outside the warrant.</desc>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#475569"/></marker>
+    <marker id="arrow-red" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#dc2626"/></marker>
+    <style>
+      .box{rx:18;stroke-width:2}.label{font:600 20px system-ui,sans-serif;fill:#0f172a}.small{font:15px system-ui,sans-serif;fill:#334155}.tiny{font:13px system-ui,sans-serif;fill:#475569}.edge{stroke:#475569;stroke-width:3;fill:none;marker-end:url(#arrow)}.deny{stroke:#dc2626;stroke-width:3;fill:none;stroke-dasharray:8 6;marker-end:url(#arrow-red)}
+    </style>
+  </defs>
+  <rect width="1100" height="560" rx="28" fill="#f8fafc"/>
+  <text x="550" y="50" text-anchor="middle" class="label" font-size="26">Authority travels with delegation and shrinks at every hop</text>
+
+  <rect class="box" x="40" y="230" width="170" height="100" fill="#e2e8f0" stroke="#475569"/>
+  <text x="125" y="270" text-anchor="middle" class="label">Root issuer</text><text x="125" y="298" text-anchor="middle" class="small">trust anchor key</text>
+
+  <rect class="box" x="270" y="215" width="210" height="130" fill="#dbeafe" stroke="#2563eb"/>
+  <text x="375" y="252" text-anchor="middle" class="label">Supervisor</text>
+  <text x="375" y="280" text-anchor="middle" class="small">task warrant: A-* orders</text>
+  <text x="375" y="302" text-anchor="middle" class="small">refund ≤ 500 · 1 hour</text>
+  <text x="375" y="326" text-anchor="middle" class="tiny">never shares its own warrant</text>
+
+  <rect class="box" x="560" y="80" width="230" height="130" fill="#ede9fe" stroke="#7c3aed"/>
+  <text x="675" y="116" text-anchor="middle" class="label">Researcher worker</text>
+  <text x="675" y="144" text-anchor="middle" class="small">lookup_order A-100 only</text>
+  <text x="675" y="166" text-anchor="middle" class="small">search_knowledge_base</text>
+  <text x="675" y="192" text-anchor="middle" class="tiny">2 min · holder = researcher key</text>
+
+  <rect class="box" x="560" y="350" width="230" height="130" fill="#ede9fe" stroke="#7c3aed"/>
+  <text x="675" y="386" text-anchor="middle" class="label">Refund worker</text>
+  <text x="675" y="414" text-anchor="middle" class="small">issue_refund A-100 only</text>
+  <text x="675" y="436" text-anchor="middle" class="small">amount ≤ 100</text>
+  <text x="675" y="462" text-anchor="middle" class="tiny">2 min · holder = refunder key</text>
+
+  <rect class="box" x="860" y="80" width="200" height="130" fill="#dcfce7" stroke="#16a34a"/>
+  <text x="960" y="116" text-anchor="middle" class="label">TenuoToolNode</text>
+  <text x="960" y="144" text-anchor="middle" class="small">chain · holder · expiry</text>
+  <text x="960" y="166" text-anchor="middle" class="small">tool + args in scope</text>
+  <text x="960" y="192" text-anchor="middle" class="tiny">then run the tool</text>
+
+  <rect class="box" x="860" y="350" width="200" height="130" fill="#dcfce7" stroke="#16a34a"/>
+  <text x="960" y="386" text-anchor="middle" class="label">TenuoToolNode</text>
+  <text x="960" y="414" text-anchor="middle" class="small">chain · holder · expiry</text>
+  <text x="960" y="436" text-anchor="middle" class="small">tool + args in scope</text>
+  <text x="960" y="462" text-anchor="middle" class="tiny">then run the tool</text>
+
+  <path class="edge" d="M210 280 H270"/><text x="240" y="268" text-anchor="middle" class="tiny">mint</text>
+  <path class="edge" d="M480 255 C520 255 520 145 560 145"/><text x="548" y="128" text-anchor="end" class="tiny">grant</text>
+  <path class="edge" d="M480 305 C520 305 520 415 560 415"/><text x="548" y="442" text-anchor="end" class="tiny">grant</text>
+  <path class="edge" d="M790 145 H860"/><path class="edge" d="M790 415 H860"/>
+
+  <path class="deny" d="M675 210 V300"/>
+  <rect x="555" y="255" width="240" height="26" rx="13" fill="#fee2e2"/>
+  <text x="675" y="273" text-anchor="middle" class="tiny" fill="#b91c1c">issue_refund 5000 · send_email</text>
+  <text x="675" y="325" text-anchor="middle" class="tiny" fill="#b91c1c">denied: not in warrant</text>
+
+  <path class="deny" d="M960 480 V515"/>
+  <text x="1060" y="538" text-anchor="end" class="tiny" fill="#b91c1c">denied: amount 250 · order B-7 · wrong key · no chain · expired</text>
+
+  <rect x="200" y="505" width="500" height="25" rx="12" fill="#e2e8f0"/><text x="450" y="523" text-anchor="middle" class="small">Every hop is signed, narrower than its parent, and bound to the caller's key</text>
+</svg>

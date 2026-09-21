@@ -52,7 +52,7 @@ Clone any of those repos, paste the same line, and check the number yourself. No
 
 </div>
 
-> **Recently added:** Trace-Based Agent Evaluation, Human-in-the-Loop Approval Agent, Document Intake Agent, HR AI Assistant, Art Tourguide with LightRAG | **55 tutorials** and growing
+> **Recently added:** Scoped Delegation Agent, Trace-Based Agent Evaluation, Human-in-the-Loop Approval Agent, Document Intake Agent, HR AI Assistant, Art Tourguide with LightRAG | **56 tutorials** and growing
 
 ## 📫 Stay Updated!
 
@@ -233,6 +233,7 @@ Below is a comprehensive overview of our GenAI agent implementations, organized 
 | 53 | 🔍 **QA**         | [Human-in-the-Loop Approval Agent](all_agents_tutorials/human_in_the_loop_approval_agent.ipynb) | LangGraph | Risk-based approval, in-process checkpoints, auditable tool execution        |
 | 54 | 🔍 **QA**         | [Trace-Based Agent Evaluation](all_agents_tutorials/trace_based_agent_evaluation.ipynb) | Python | Deterministic trace scoring, case diagnostics, regression quality gates     |
 | 55 | 🌱 **Beginner**   | [Agent From Scratch: The While Loop](all_agents_tutorials/agent_while_loop_from_scratch.ipynb) | Pure Python | The minimal agent loop, tool calls, the retry trap, where a rule must live   |
+| 56 | 🌟 **Advanced**   | [Scoped Delegation Agent](all_agents_tutorials/scoped_delegation_agent_langgraph.ipynb) | LangGraph | Signed per-hop warrants, monotonic attenuation, denied escalation, key-bound workers |
 
 Explore our extensive list of GenAI agent implementations, sorted by categories:
 
@@ -782,6 +783,14 @@ Explore our extensive list of GenAI agent implementations, sorted by categories:
 
     #### Additional Resources 📚
     - **[YouTube Explanation](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=genai-agents--readme&click=youtube-while-loop-table&target=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DFN1n_NVD9KM%26list%3DPLBrpE2PttR2k&retarget=0&text=youtube-while-loop-table)**
+
+56. **[Scoped Delegation Agent with LangGraph and Tenuo Warrants](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/scoped_delegation_agent_langgraph.ipynb)**
+
+    #### Overview 🔎
+    A supervisor/worker system where authority travels with the delegation and shrinks at every hop. The supervisor holds a signed, task-scoped warrant and grants each worker a narrower one; an in-process tool node verifies that warrant before a tool runs, so a worker that is prompt-injected into requesting a tool outside its scope gets a denial instead of a side effect. Production should verify again at the API that performs the effect.
+
+    #### Implementation 🛠️
+    Uses Tenuo capability warrants with LangGraph: `TenuoToolNode` as a drop-in for `ToolNode`, one signing key per agent kept out of graph state, and constraints such as `Exact`, `Pattern`, and `Range` on tool arguments. Runs without an API key using scripted planners, one of which deliberately obeys a poisoned knowledge-base article. The tutorial demonstrates and asserts denial of out-of-scope tools, over-limit arguments, borrowed warrants (proof of possession), and expired warrants, and shows that attenuation cannot widen a parent warrant.
 
 ### 🌟 Special Advanced Technique 🌟
 
