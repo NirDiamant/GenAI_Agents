@@ -233,6 +233,7 @@ Below is a comprehensive overview of our GenAI agent implementations, organized 
 | 53 | 🔍 **QA**         | [Human-in-the-Loop Approval Agent](all_agents_tutorials/human_in_the_loop_approval_agent.ipynb) | LangGraph | Risk-based approval, in-process checkpoints, auditable tool execution        |
 | 54 | 🔍 **QA**         | [Trace-Based Agent Evaluation](all_agents_tutorials/trace_based_agent_evaluation.ipynb) | Python | Deterministic trace scoring, case diagnostics, regression quality gates     |
 | 55 | 🌱 **Beginner**   | [Agent From Scratch: The While Loop](all_agents_tutorials/agent_while_loop_from_scratch.ipynb) | Pure Python | The minimal agent loop, tool calls, the retry trap, where a rule must live   |
+| 56 | 🔧 **Framework**  | [Multi-Agent Architectures with Swarms](all_agents_tutorials/swarms_multi_agent_architectures.ipynb) | Swarms | Topology as a variable, sequential/concurrent/hierarchical/DAG, SwarmRouter  |
 
 Explore our extensive list of GenAI agent implementations, sorted by categories:
 
@@ -291,6 +292,18 @@ Explore our extensive list of GenAI agent implementations, sorted by categories:
    - **[Blog Post](https://newsletter.diamant-ai.com/p/model-context-protocol-mcp-explained?r=336pe4&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)**
    - **[Official MCP Documentation](https://modelcontextprotocol.io/introduction)**
    - **[MCP GitHub Repository](https://github.com/modelcontextprotocol)**
+
+56. **[Multi-Agent Architectures with Swarms: Swapping Topology Without Rewriting Orchestration](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/swarms_multi_agent_architectures.ipynb)**
+   
+   #### Overview 🔎
+   Most multi-agent tutorials teach a single topology, which couples your agents to the shape you picked first. This tutorial uses Swarms to define one set of agents and then run those same agents through four orchestration shapes: sequential, concurrent, hierarchical, and an explicit DAG. Switching between them is a one-string change, which turns topology into something you can measure rather than something you commit to on day one.
+
+   #### Implementation 🛠️
+   Builds a reusable `Agent` factory, then runs the identical task through `SequentialWorkflow`, `ConcurrentWorkflow`, `HierarchicalSwarm` and `GraphWorkflow`. Introduces `SwarmRouter` for swapping architectures by string and `AgentRearrange` for a flow DSL where `A -> B, C` mixes sequential and concurrent steps. Closes with a latency and cost comparison against a single-agent baseline, plus the failure mode each shape is prone to.
+
+   #### Additional Resources 📚
+   - **[Swarms GitHub](https://github.com/kyegomez/swarms)**
+   - **[Swarms Documentation](https://docs.swarms.ai)**
 
 ### 🎓 Educational and Research Agents
 
