@@ -142,6 +142,8 @@ Furthermore, this repository serves as a platform for showcasing innovative agen
 
 🧠 **[Agent Memory Techniques](https://github.com/NirDiamant/Agent_Memory_Techniques)** - 30 notebooks on agent memory: vector stores, graphs, Mem0, Zep.
 
+📜 **[OrcaPromptVault](https://github.com/Continuum-AI-Corp/OrcaPromptVault)** - archive of the system prompts and tool schemas 35 shipping AI products are actually sent, 35 of them recorded off the wire with a reproduce command.
+
 ## Join the community
 
 Contributions make this better - propose ideas, share techniques, or give feedback via **[CONTRIBUTING.md](https://github.com/NirDiamant/GenAI_Agents/blob/main/CONTRIBUTING.md)**.
