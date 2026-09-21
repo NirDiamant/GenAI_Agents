@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="560" viewBox="0 0 900 560" font-family="Helvetica, Arial, sans-serif">
+  <rect width="900" height="560" fill="#ffffff"/>
+  <text x="450" y="36" text-anchor="middle" font-size="21" font-weight="bold" fill="#111827">Swarms: One Agent Primitive, Four Orchestration Shapes</text>
+  <text x="450" y="58" text-anchor="middle" font-size="13" fill="#6b7280">SwarmRouter selects the shape at runtime via a single swarm_type string</text>
+
+  <rect x="330" y="80" width="240" height="46" rx="8" fill="#eef2ff" stroke="#4f46e5" stroke-width="2"/>
+  <text x="450" y="109" text-anchor="middle" font-size="15" font-weight="bold" fill="#3730a3">SwarmRouter(swarm_type=...)</text>
+  <line x1="450" y1="126" x2="450" y2="150" stroke="#9ca3af" stroke-width="2"/>
+  <line x1="130" y1="150" x2="770" y2="150" stroke="#9ca3af" stroke-width="2"/>
+
+  <!-- Sequential -->
+  <line x1="130" y1="150" x2="130" y2="176" stroke="#9ca3af" stroke-width="2"/>
+  <text x="130" y="194" text-anchor="middle" font-size="13" font-weight="bold" fill="#111827">SequentialWorkflow</text>
+  <rect x="80" y="208" width="100" height="34" rx="6" fill="#dbeafe" stroke="#2563eb"/>
+  <text x="130" y="230" text-anchor="middle" font-size="12" fill="#1e3a8a">Researcher</text>
+  <line x1="130" y1="242" x2="130" y2="266" stroke="#2563eb" stroke-width="2" marker-end="url(#a)"/>
+  <rect x="80" y="270" width="100" height="34" rx="6" fill="#dbeafe" stroke="#2563eb"/>
+  <text x="130" y="292" text-anchor="middle" font-size="12" fill="#1e3a8a">Analyst</text>
+  <line x1="130" y1="304" x2="130" y2="328" stroke="#2563eb" stroke-width="2" marker-end="url(#a)"/>
+  <rect x="80" y="332" width="100" height="34" rx="6" fill="#dbeafe" stroke="#2563eb"/>
+  <text x="130" y="354" text-anchor="middle" font-size="12" fill="#1e3a8a">Writer</text>
+  <text x="130" y="392" text-anchor="middle" font-size="11" fill="#6b7280">output feeds forward</text>
+
+  <!-- Concurrent -->
+  <line x1="343" y1="150" x2="343" y2="176" stroke="#9ca3af" stroke-width="2"/>
+  <text x="343" y="194" text-anchor="middle" font-size="13" font-weight="bold" fill="#111827">ConcurrentWorkflow</text>
+  <rect x="283" y="208" width="120" height="30" rx="6" fill="#dcfce7" stroke="#16a34a"/>
+  <text x="343" y="228" text-anchor="middle" font-size="12" fill="#14532d">same task in</text>
+  <line x1="313" y1="238" x2="303" y2="268" stroke="#16a34a" stroke-width="2" marker-end="url(#a)"/>
+  <line x1="343" y1="238" x2="343" y2="268" stroke="#16a34a" stroke-width="2" marker-end="url(#a)"/>
+  <line x1="373" y1="238" x2="383" y2="268" stroke="#16a34a" stroke-width="2" marker-end="url(#a)"/>
+  <rect x="270" y="272" width="64" height="30" rx="6" fill="#dcfce7" stroke="#16a34a"/>
+  <text x="302" y="292" text-anchor="middle" font-size="11" fill="#14532d">Agent A</text>
+  <rect x="340" y="272" width="64" height="30" rx="6" fill="#dcfce7" stroke="#16a34a"/>
+  <text x="372" y="292" text-anchor="middle" font-size="11" fill="#14532d">Agent B</text>
+  <text x="343" y="330" text-anchor="middle" font-size="11" fill="#6b7280">results collected</text>
+  <text x="343" y="346" text-anchor="middle" font-size="11" fill="#6b7280">in parallel</text>
+
+  <!-- Hierarchical -->
+  <line x1="557" y1="150" x2="557" y2="176" stroke="#9ca3af" stroke-width="2"/>
+  <text x="557" y="194" text-anchor="middle" font-size="13" font-weight="bold" fill="#111827">HierarchicalSwarm</text>
+  <rect x="507" y="208" width="100" height="32" rx="6" fill="#fef3c7" stroke="#d97706"/>
+  <text x="557" y="229" text-anchor="middle" font-size="12" fill="#78350f">Director</text>
+  <line x1="527" y1="240" x2="505" y2="272" stroke="#d97706" stroke-width="2" marker-end="url(#a)"/>
+  <line x1="587" y1="240" x2="609" y2="272" stroke="#d97706" stroke-width="2" marker-end="url(#a)"/>
+  <rect x="470" y="276" width="70" height="30" rx="6" fill="#fef3c7" stroke="#d97706"/>
+  <text x="505" y="296" text-anchor="middle" font-size="11" fill="#78350f">Worker</text>
+  <rect x="574" y="276" width="70" height="30" rx="6" fill="#fef3c7" stroke="#d97706"/>
+  <text x="609" y="296" text-anchor="middle" font-size="11" fill="#78350f">Worker</text>
+  <line x1="505" y1="306" x2="540" y2="336" stroke="#d97706" stroke-width="1.5" stroke-dasharray="4 3"/>
+  <line x1="609" y1="306" x2="574" y2="336" stroke="#d97706" stroke-width="1.5" stroke-dasharray="4 3"/>
+  <text x="557" y="356" text-anchor="middle" font-size="11" fill="#6b7280">report back, director synthesises</text>
+
+  <!-- Graph -->
+  <line x1="770" y1="150" x2="770" y2="176" stroke="#9ca3af" stroke-width="2"/>
+  <text x="770" y="194" text-anchor="middle" font-size="13" font-weight="bold" fill="#111827">GraphWorkflow</text>
+  <rect x="730" y="208" width="80" height="30" rx="6" fill="#fae8ff" stroke="#a21caf"/>
+  <text x="770" y="228" text-anchor="middle" font-size="11" fill="#701a75">Ingest</text>
+  <line x1="750" y1="238" x2="722" y2="268" stroke="#a21caf" stroke-width="2" marker-end="url(#a)"/>
+  <line x1="790" y1="238" x2="818" y2="268" stroke="#a21caf" stroke-width="2" marker-end="url(#a)"/>
+  <rect x="686" y="272" width="70" height="30" rx="6" fill="#fae8ff" stroke="#a21caf"/>
+  <text x="721" y="292" text-anchor="middle" font-size="11" fill="#701a75">Branch A</text>
+  <rect x="784" y="272" width="70" height="30" rx="6" fill="#fae8ff" stroke="#a21caf"/>
+  <text x="819" y="292" text-anchor="middle" font-size="11" fill="#701a75">Branch B</text>
+  <line x1="721" y1="302" x2="750" y2="332" stroke="#a21caf" stroke-width="2" marker-end="url(#a)"/>
+  <line x1="819" y1="302" x2="790" y2="332" stroke="#a21caf" stroke-width="2" marker-end="url(#a)"/>
+  <rect x="730" y="336" width="80" height="30" rx="6" fill="#fae8ff" stroke="#a21caf"/>
+  <text x="770" y="356" text-anchor="middle" font-size="11" fill="#701a75">Merge</text>
+  <text x="770" y="392" text-anchor="middle" font-size="11" fill="#6b7280">fan-out / fan-in DAG</text>
+
+  <rect x="80" y="430" width="740" height="96" rx="10" fill="#f9fafb" stroke="#d1d5db"/>
+  <text x="100" y="456" font-size="13" font-weight="bold" fill="#111827">The point of the pattern</text>
+  <text x="100" y="480" font-size="12.5" fill="#374151">The same list of Agent objects is passed to every shape. Swapping architecture is a one-string change,</text>
+  <text x="100" y="500" font-size="12.5" fill="#374151">so topology becomes an experiment you can run rather than a rewrite you have to budget for.</text>
+  <text x="100" y="518" font-size="12" fill="#6b7280">SwarmRouter(agents=agents, swarm_type="SequentialWorkflow" | "ConcurrentWorkflow" | "HierarchicalSwarm" | ...)</text>
+
+  <defs><marker id="a" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0,0 L0,6 L7,3 z" fill="#6b7280"/></marker></defs>
+</svg>
