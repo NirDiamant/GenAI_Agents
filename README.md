@@ -52,7 +52,7 @@ Clone any of those repos, paste the same line, and check the number yourself. No
 
 </div>
 
-> **Recently added:** Trace-Based Agent Evaluation, Human-in-the-Loop Approval Agent, Document Intake Agent, HR AI Assistant, Art Tourguide with LightRAG | **55 tutorials** and growing
+> **Recently added:** Trace-Based Agent Evaluation, Human-in-the-Loop Approval Agent, Document Intake Agent, HR AI Assistant, Art Tourguide with LightRAG | **56 tutorials** and growing
 
 ## 📫 Stay Updated!
 
@@ -233,6 +233,7 @@ Below is a comprehensive overview of our GenAI agent implementations, organized 
 | 53 | 🔍 **QA**         | [Human-in-the-Loop Approval Agent](all_agents_tutorials/human_in_the_loop_approval_agent.ipynb) | LangGraph | Risk-based approval, in-process checkpoints, auditable tool execution        |
 | 54 | 🔍 **QA**         | [Trace-Based Agent Evaluation](all_agents_tutorials/trace_based_agent_evaluation.ipynb) | Python | Deterministic trace scoring, case diagnostics, regression quality gates     |
 | 55 | 🌱 **Beginner**   | [Agent From Scratch: The While Loop](all_agents_tutorials/agent_while_loop_from_scratch.ipynb) | Pure Python | The minimal agent loop, tool calls, the retry trap, where a rule must live   |
+| 56 | 🔍 **QA**         | [One-Step Decision Router](all_agents_tutorials/one_step_decision_router.ipynb) | Transformers | Decision from one forward pass, calibration check, temperature scaling, confidence gate |
 
 Explore our extensive list of GenAI agent implementations, sorted by categories:
 
@@ -782,6 +783,14 @@ Explore our extensive list of GenAI agent implementations, sorted by categories:
 
     #### Additional Resources 📚
     - **[YouTube Explanation](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=genai-agents--readme&click=youtube-while-loop-table&target=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DFN1n_NVD9KM%26list%3DPLBrpE2PttR2k&retarget=0&text=youtube-while-loop-table)**
+
+56. **[One-Step Decision Router: Read the Model's Answer Before It Speaks](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/one_step_decision_router.ipynb)**
+
+    #### Overview 🔎
+    Routes real customer messages to the right team by reading an open LLM's decision in a single forward pass, before it writes a word, then tests whether its confidence can be trusted. The same idea behind "System One" decision models such as TypeSafe's Jev, run on an open model you can inspect.
+
+    #### Implementation 🛠️
+    Reads the first-token probabilities of each option from one forward pass (Qwen3 via Transformers, no API key), compares speed and accuracy against the same model writing its answer out, measures calibration with a reliability table and ECE on banking77, fixes it with temperature scaling on held-out data, and routes automatically only above a confidence gate chosen to hit a target accuracy.
 
 ### 🌟 Special Advanced Technique 🌟
 
