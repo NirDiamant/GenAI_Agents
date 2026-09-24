@@ -814,11 +814,12 @@ Explore our extensive list of GenAI agent implementations, sorted by categories:
 
 ## 🛡️ Governance & Safety Resources
 
-As GenAI agents move from demos to production, enforcing behavioral constraints becomes critical. The following open-source tool helps you govern what your agents are allowed to do:
+As GenAI agents move from demos to production, enforcing behavioral constraints becomes critical. The following open-source tools help you govern what your agents are allowed to do:
 
 | Tool | Description | Links |
 |------|-------------|-------|
 | **AgentContract** | Open specification for behavioral contracts on AI agents. Declare what your agent must, must not, and can do — enforced on every run with a tamper-evident audit trail. Works with LangChain, CrewAI, OpenAI Agents SDK, and any custom agent. | [Spec](https://github.com/agentcontract/spec) · [Python](https://github.com/agentcontract/agentcontract-py) · [GitHub Action](https://github.com/agentcontract/agentcontract-action) |
+| **Tenuo** | Task-scoped authorization for AI agents: signed warrants limit which tools an agent may call, with which arguments, and for how long, and can only narrow when delegated. Works with LangGraph, CrewAI, OpenAI Agents SDK, Google ADK, AutoGen, and MCP. | [Website](https://tenuo.ai) · [GitHub](https://github.com/tenuo-ai/tenuo) · [PyPI](https://pypi.org/project/tenuo/) |
 
 ```yaml
 # Example: my-agent.contract.yaml
