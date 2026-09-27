@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="400" viewBox="0 0 960 400" role="img" aria-labelledby="evidence-social-title evidence-social-desc">
+  <title id="evidence-social-title">Evidence-grounded social research agent</title>
+  <desc id="evidence-social-desc">Architecture showing a research goal moving through a typed route, code-owned actions, a read-only social adapter, an evidence gate, a validated ledger, and a source-linked report, with low-confidence and access-barrier paths stopping before completion.</desc>
+  <defs>
+    <marker id="evidence-arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto">
+      <path d="M0,0 L8,4 L0,8 Z" fill="#5f6368"/>
+    </marker>
+    <marker id="evidence-arrow-accent" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto">
+      <path d="M0,0 L8,4 L0,8 Z" fill="#7c3aed"/>
+    </marker>
+    <marker id="evidence-arrow-stop" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto">
+      <path d="M0,0 L8,4 L0,8 Z" fill="#b42318"/>
+    </marker>
+  </defs>
+
+  <rect width="960" height="400" fill="#ffffff"/>
+
+  <rect x="24" y="40" width="280" height="252" rx="8" fill="#fafafa" stroke="#d9d9e3"/>
+  <rect x="328" y="40" width="400" height="252" rx="8" fill="#fafafa" stroke="#d9d9e3"/>
+  <rect x="752" y="40" width="184" height="252" rx="8" fill="#fafafa" stroke="#d9d9e3"/>
+  <rect x="36" y="48" width="120" height="16" fill="#ffffff"/>
+  <rect x="340" y="48" width="128" height="16" fill="#ffffff"/>
+  <rect x="764" y="48" width="80" height="16" fill="#ffffff"/>
+  <text x="40" y="60" fill="#666666" font-family="Trebuchet MS, Verdana, Arial, sans-serif" font-size="8" letter-spacing="1.2">DECISION BOUNDARY</text>
+  <text x="344" y="60" fill="#666666" font-family="Trebuchet MS, Verdana, Arial, sans-serif" font-size="8" letter-spacing="1.2">EVIDENCE BOUNDARY</text>
+  <text x="768" y="60" fill="#666666" font-family="Trebuchet MS, Verdana, Arial, sans-serif" font-size="8" letter-spacing="1.2">OUTPUT</text>
+
+  <line x1="152" y1="140" x2="176" y2="140" stroke="#5f6368" stroke-width="1.2" marker-end="url(#evidence-arrow)"/>
+  <line x1="280" y1="140" x2="352" y2="140" stroke="#7c3aed" stroke-width="1.2" marker-end="url(#evidence-arrow-accent)"/>
+  <line x1="472" y1="140" x2="512" y2="140" stroke="#5f6368" stroke-width="1.2" marker-end="url(#evidence-arrow)"/>
+  <line x1="584" y1="176" x2="584" y2="208" stroke="#5f6368" stroke-width="1.2" marker-end="url(#evidence-arrow)"/>
+  <line x1="512" y1="244" x2="472" y2="244" stroke="#7c3aed" stroke-width="1.2" marker-end="url(#evidence-arrow-accent)"/>
+  <line x1="412" y1="208" x2="412" y2="176" stroke="#5f6368" stroke-width="1" stroke-dasharray="4 4" marker-end="url(#evidence-arrow)"/>
+  <path d="M412,280 V292 Q412,300 420,300 H836 Q844,300 844,292 V176" fill="none" stroke="#7c3aed" stroke-width="1.2" marker-end="url(#evidence-arrow-accent)"/>
+  <line x1="228" y1="176" x2="228" y2="320" stroke="#b42318" stroke-width="1" stroke-dasharray="5 4" marker-end="url(#evidence-arrow-stop)"/>
+  <line x1="616" y1="280" x2="616" y2="320" stroke="#b42318" stroke-width="1" stroke-dasharray="5 4" marker-end="url(#evidence-arrow-stop)"/>
+
+  <rect x="296" y="120" width="40" height="12" rx="2" fill="#ffffff"/>
+  <text x="316" y="128" text-anchor="middle" fill="#7c3aed" font-family="Trebuchet MS, Verdana, Arial, sans-serif" font-size="8" letter-spacing=".8">TYPED</text>
+  <rect x="476" y="120" width="32" height="12" rx="2" fill="#ffffff"/>
+  <text x="492" y="128" text-anchor="middle" fill="#666666" font-family="Trebuchet MS, Verdana, Arial, sans-serif" font-size="8" letter-spacing=".8">READ</text>
+  <rect x="476" y="224" width="32" height="12" rx="2" fill="#ffffff"/>
+  <text x="492" y="232" text-anchor="middle" fill="#7c3aed" font-family="Trebuchet MS, Verdana, Arial, sans-serif" font-size="8" letter-spacing=".5">VALID</text>
+  <rect x="692" y="280" width="40" height="12" rx="2" fill="#ffffff"/>
+  <text x="712" y="288" text-anchor="middle" fill="#7c3aed" font-family="Trebuchet MS, Verdana, Arial, sans-serif" font-size="8" letter-spacing=".8">CITE</text>
+
+  <g>
+    <rect x="48" y="104" width="104" height="72" rx="8" fill="#ececff" stroke="#9370db"/>
+    <text x="100" y="136" text-anchor="middle" fill="#333333" font-family="Trebuchet MS, Verdana, Arial, sans-serif" font-size="12" font-weight="600">Research goal</text>
+    <text x="100" y="152" text-anchor="middle" fill="#666666" font-family="Trebuchet MS, Verdana, Arial, sans-serif" font-size="8">natural language</text>
+  </g>
+  <g>
+    <rect x="176" y="104" width="104" height="72" rx="8" fill="#f3e8ff" stroke="#7c3aed" stroke-width="1.2"/>
+    <text x="228" y="132" text-anchor="middle" fill="#333333" font-family="Trebuchet MS, Verdana, Arial, sans-serif" font-size="12" font-weight="600">Typed route</text>
+    <text x="228" y="148" text-anchor="middle" fill="#666666" font-family="Trebuchet MS, Verdana, Arial, sans-serif" font-size="8">choice + confidence</text>
+  </g>
+  <g>
+    <rect x="352" y="104" width="120" height="72" rx="8" fill="#ececff" stroke="#9370db"/>
+    <text x="412" y="132" text-anchor="middle" fill="#333333" font-family="Trebuchet MS, Verdana, Arial, sans-serif" font-size="12" font-weight="600">Action space</text>
+    <text x="412" y="148" text-anchor="middle" fill="#666666" font-family="Trebuchet MS, Verdana, Arial, sans-serif" font-size="8">search · open · finish</text>
+  </g>
+  <g>
+    <rect x="512" y="104" width="144" height="72" rx="8" fill="#ececff" stroke="#9370db"/>
+    <text x="584" y="132" text-anchor="middle" fill="#333333" font-family="Trebuchet MS, Verdana, Arial, sans-serif" font-size="12" font-weight="600">Read-only adapter</text>
+    <text x="584" y="148" text-anchor="middle" fill="#666666" font-family="Trebuchet MS, Verdana, Arial, sans-serif" font-size="8">cards + opened posts</text>
+  </g>
+  <g>
+    <rect x="512" y="208" width="144" height="72" rx="8" fill="#f3e8ff" stroke="#7c3aed" stroke-width="1.2"/>
+    <text x="584" y="236" text-anchor="middle" fill="#333333" font-family="Trebuchet MS, Verdana, Arial, sans-serif" font-size="12" font-weight="600">Evidence gate</text>
+    <text x="584" y="252" text-anchor="middle" fill="#666666" font-family="Trebuchet MS, Verdana, Arial, sans-serif" font-size="8">URL · schema · access</text>
+  </g>
+  <g>
+    <rect x="352" y="208" width="120" height="72" rx="8" fill="#ececff" stroke="#9370db"/>
+    <text x="412" y="236" text-anchor="middle" fill="#333333" font-family="Trebuchet MS, Verdana, Arial, sans-serif" font-size="12" font-weight="600">Evidence ledger</text>
+    <text x="412" y="252" text-anchor="middle" fill="#666666" font-family="Trebuchet MS, Verdana, Arial, sans-serif" font-size="8">validated sources only</text>
+  </g>
+  <g>
+    <rect x="776" y="104" width="136" height="72" rx="8" fill="#ececff" stroke="#9370db"/>
+    <text x="844" y="132" text-anchor="middle" fill="#333333" font-family="Trebuchet MS, Verdana, Arial, sans-serif" font-size="12" font-weight="600">Research report</text>
+    <text x="844" y="148" text-anchor="middle" fill="#666666" font-family="Trebuchet MS, Verdana, Arial, sans-serif" font-size="8">source-linked claims</text>
+  </g>
+
+  <circle cx="228" cy="328" r="8" fill="#fff4f2" stroke="#b42318"/>
+  <path d="M224,324 L232,332 M232,324 L224,332" stroke="#b42318" stroke-width="1.2"/>
+  <text x="228" y="348" text-anchor="middle" fill="#b42318" font-family="Trebuchet MS, Verdana, Arial, sans-serif" font-size="8">LOW CONFIDENCE</text>
+  <circle cx="616" cy="328" r="8" fill="#fff4f2" stroke="#b42318"/>
+  <path d="M612,324 L620,332 M620,324 L612,332" stroke="#b42318" stroke-width="1.2"/>
+  <text x="616" y="348" text-anchor="middle" fill="#b42318" font-family="Trebuchet MS, Verdana, Arial, sans-serif" font-size="8">ACCESS BARRIER</text>
+
+  <line x1="24" y1="364" x2="936" y2="364" stroke="#e5e5ea"/>
+  <line x1="48" y1="384" x2="72" y2="384" stroke="#7c3aed" stroke-width="1.2" marker-end="url(#evidence-arrow-accent)"/>
+  <text x="84" y="388" fill="#666666" font-family="Trebuchet MS, Verdana, Arial, sans-serif" font-size="8">validated path</text>
+  <line x1="216" y1="384" x2="240" y2="384" stroke="#5f6368" stroke-width="1" stroke-dasharray="4 4" marker-end="url(#evidence-arrow)"/>
+  <text x="252" y="388" fill="#666666" font-family="Trebuchet MS, Verdana, Arial, sans-serif" font-size="8">next decision</text>
+  <line x1="384" y1="384" x2="408" y2="384" stroke="#b42318" stroke-width="1" stroke-dasharray="5 4" marker-end="url(#evidence-arrow-stop)"/>
+  <text x="420" y="388" fill="#666666" font-family="Trebuchet MS, Verdana, Arial, sans-serif" font-size="8">blocked before report</text>
+</svg>
