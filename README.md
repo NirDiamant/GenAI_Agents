@@ -52,7 +52,7 @@ Clone any of those repos, paste the same line, and check the number yourself. No
 
 </div>
 
-> **Recently added:** Trace-Based Agent Evaluation, Human-in-the-Loop Approval Agent, Document Intake Agent, HR AI Assistant, Art Tourguide with LightRAG | **56 tutorials** and growing
+> **Recently added:** Read vs Write: What One AI Answer Costs, Trace-Based Agent Evaluation, Human-in-the-Loop Approval Agent, Document Intake Agent, HR AI Assistant | **57 tutorials** and growing
 
 ## 📫 Stay Updated!
 
@@ -60,11 +60,11 @@ Clone any of those repos, paste the same line, and check the number yourself. No
 <table>
 <tr>
 <td width="25%" align="center" valign="top">
-  <a href="https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=genai-agents--readme&amp;click=youtube-readme-loop&amp;target=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DFN1n_NVD9KM%26list%3DPLBrpE2PttR2k&amp;retarget=0&amp;text=youtube-readme-loop">
-    <img src="https://img.youtube.com/vi/FN1n_NVD9KM/mqdefault.jpg" width="100%" alt="">
-    <br><b>AI Agents Are Just While Loops. That's the Scary Part.</b>
+  <a href="https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=genai-agents--readme&amp;click=youtube-readme-jev&amp;target=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DFo2kisJx92Y%26list%3DPLBrpE2PttR2k&amp;retarget=0&amp;text=youtube-readme-jev">
+    <img src="https://img.youtube.com/vi/Fo2kisJx92Y/mqdefault.jpg" width="100%" alt="">
+    <br><b>The AI That Knows the Answer Before It Speaks [Jev Explained]</b>
   </a><br>
-  <sub>the smallest real agent, the trap it builds for itself, and where a rule has to live — <a href="all_agents_tutorials/agent_while_loop_from_scratch.ipynb">run it</a></sub>
+  <sub>a chatbot that is 100% sure and wrong, and the model that tells you when it isn't sure — <a href="all_agents_tutorials/one_step_decision_router.ipynb">run it</a></sub>
 </td>
 <td align="center">🚀<br><b>Cutting-edge<br>Updates</b></td>
 <td align="center">💡<br><b>Expert<br>Insights</b></td>
@@ -86,15 +86,22 @@ Clone any of those repos, paste the same line, and check the number yourself. No
 *I break these ideas down into short, one-idea-per-episode explainers on YouTube.*
 
 <p align="center">
-  <a href="https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=genai-agents--readme&amp;click=youtube-readme-jev&amp;target=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DFo2kisJx92Y%26list%3DPLBrpE2PttR2k&amp;retarget=0&amp;text=youtube-readme-jev">
-    <img src="https://img.youtube.com/vi/Fo2kisJx92Y/maxresdefault.jpg" width="60%" alt="">
-    <br><b>🆕 The AI That Knows the Answer Before It Speaks [Jev Explained]</b>
+  <a href="https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=genai-agents--readme&amp;click=youtube-readme-energy&amp;target=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D__VIDEO_ID__%26list%3DPLBrpE2PttR2k&amp;retarget=0&amp;text=youtube-readme-energy">
+    <img src="https://img.youtube.com/vi/__VIDEO_ID__/maxresdefault.jpg" width="60%" alt="">
+    <br><b>🆕 Why AI Uses So Much Energy (It's Not the Thinking)</b>
   </a><br>
-  <sub>a fraud report, a chatbot that is 100% sure and wrong, and the model that tells you when it isn't sure — <a href="all_agents_tutorials/one_step_decision_router.ipynb">run the test on your own messages</a></sub>
+  <sub>a power meter on an AI: reading a whole story is cheap, writing the answer is where the energy goes — <a href="all_agents_tutorials/read_vs_write_cost.ipynb">measure it on your machine</a></sub>
 </p>
 
 <table>
 <tr>
+<td width="25%" align="center" valign="top">
+  <a href="https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=genai-agents--readme&amp;click=youtube-readme-loop&amp;target=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DFN1n_NVD9KM%26list%3DPLBrpE2PttR2k&amp;retarget=0&amp;text=youtube-readme-loop">
+    <img src="https://img.youtube.com/vi/FN1n_NVD9KM/mqdefault.jpg" width="100%" alt="">
+    <br><b>AI Agents Are Just While Loops. That's the Scary Part.</b>
+  </a><br>
+  <sub>the smallest real agent, the trap it builds for itself, and where a rule has to live — <a href="all_agents_tutorials/agent_while_loop_from_scratch.ipynb">run it</a></sub>
+</td>
 <td width="25%" align="center" valign="top">
   <a href="https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=genai-agents--readme&amp;click=youtube-readme-llm&amp;target=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DtKXvKKVQ1Dc&amp;retarget=0&amp;text=youtube-readme-llm">
     <img src="https://img.youtube.com/vi/tKXvKKVQ1Dc/mqdefault.jpg" width="100%" alt="">
@@ -241,6 +248,7 @@ Below is a comprehensive overview of our GenAI agent implementations, organized 
 | 54 | 🔍 **QA**         | [Trace-Based Agent Evaluation](all_agents_tutorials/trace_based_agent_evaluation.ipynb) | Python | Deterministic trace scoring, case diagnostics, regression quality gates     |
 | 55 | 🌱 **Beginner**   | [Agent From Scratch: The While Loop](all_agents_tutorials/agent_while_loop_from_scratch.ipynb) | Pure Python | The minimal agent loop, tool calls, the retry trap, where a rule must live   |
 | 56 | 🔍 **QA**         | [One-Step Decision Router](all_agents_tutorials/one_step_decision_router.ipynb) | Transformers | Decision from one forward pass, calibration check, temperature scaling, confidence gate |
+| 57 | 🎓 **Educational** | [Read vs Write: What One AI Answer Costs](all_agents_tutorials/read_vs_write_cost.ipynb) | Transformers | Prefill vs decode timing, memory-bandwidth check, KV-cache growth, batching, optional power metering |
 
 Explore our extensive list of GenAI agent implementations, sorted by categories:
 
@@ -801,6 +809,17 @@ Explore our extensive list of GenAI agent implementations, sorted by categories:
 
     #### Additional Resources 📚
     - **[YouTube Explanation](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=genai-agents--readme&click=youtube-jev-table&target=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DFo2kisJx92Y%26list%3DPLBrpE2PttR2k&retarget=0&text=youtube-jev-table)**
+
+57. **[Read vs Write: Measure What One AI Answer Actually Costs](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/read_vs_write_cost.ipynb)**
+
+    #### Overview 🔎
+    Measures, on your own machine, where the time and energy of an AI answer go: reading the prompt is cheap per token, writing the answer is expensive, and long chats and lone requests make it worse. The companion to the DiamantAI film "Why AI Uses So Much Energy (It's Not the Thinking)".
+
+    #### Implementation 🛠️
+    Times prefill against per-token decode on an open model (Qwen3 via Transformers, no API key, CPU/MPS/CUDA), checks that decode speed times weight size lands near memory bandwidth on two model sizes, grows one KV cache to time written tokens at increasing chat lengths and checks the cache size from the model config, batches 1, 4 and 8 different questions, and optionally converts time into joules with NVML or Apple's `powermetrics`, idle power subtracted.
+
+    #### Additional Resources 📚
+    - **[YouTube Explanation](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=genai-agents--readme&click=youtube-energy-table&target=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D__VIDEO_ID__%26list%3DPLBrpE2PttR2k&retarget=0&text=youtube-energy-table)**
 
 ### 🌟 Special Advanced Technique 🌟
 
