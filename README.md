@@ -579,7 +579,7 @@ Explore our extensive list of GenAI agent implementations, sorted by categories:
     A read-only social research agent that separates typed decisions from browser evidence. It treats discovery cards, opened posts, access barriers, and final citations as different states, so an empty or blocked run cannot silently become a confident report.
 
     #### Implementation 🛠️
-    Uses a dependency-free Python loop with code-owned route and action choices, strict URL and payload validation, a bounded evidence ledger, complete/partial/blocked outcomes, and a source-linked Markdown renderer. The default four-record fixture is synthetic and runs offline; an explicit optional path points to immutable Jev Social v0.1.8 for real Jev decisions and local `socai` browser reads.
+    Uses a dependency-free Python loop with code-owned route and action choices, strict URL and payload validation, a bounded evidence ledger, complete/partial/blocked outcomes, and a source-linked Markdown renderer. The default four-record fixture is synthetic and runs offline; an explicit optional path points to immutable Jev Social v0.1.9 for real Jev decisions and local `socai` browser reads.
 
     #### Additional Resources 📚
     - **[Jev Social](https://github.com/socai-io/jev-social)** — maintained implementation for Instagram, TikTok, and LinkedIn evidence research
