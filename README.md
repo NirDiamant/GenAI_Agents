@@ -86,8 +86,8 @@ Clone any of those repos, paste the same line, and check the number yourself. No
 *I break these ideas down into short, one-idea-per-episode explainers on YouTube.*
 
 <p align="center">
-  <a href="https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=genai-agents--readme&amp;click=youtube-readme-energy&amp;target=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D__VIDEO_ID__%26list%3DPLBrpE2PttR2k&amp;retarget=0&amp;text=youtube-readme-energy">
-    <img src="https://img.youtube.com/vi/__VIDEO_ID__/maxresdefault.jpg" width="60%" alt="">
+  <a href="https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=genai-agents--readme&amp;click=youtube-readme-energy&amp;target=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dw6FgmAtt7oo%26list%3DPLBrpE2PttR2k&amp;retarget=0&amp;text=youtube-readme-energy">
+    <img src="https://img.youtube.com/vi/w6FgmAtt7oo/maxresdefault.jpg" width="60%" alt="">
     <br><b>🆕 Why AI Uses So Much Energy (It's Not the Thinking)</b>
   </a><br>
   <sub>a power meter on an AI: reading a whole story is cheap, writing the answer is where the energy goes — <a href="all_agents_tutorials/read_vs_write_cost.ipynb">measure it on your machine</a></sub>
@@ -819,7 +819,7 @@ Explore our extensive list of GenAI agent implementations, sorted by categories:
     Times prefill against per-token decode on an open model (Qwen3 via Transformers, no API key, CPU/MPS/CUDA), checks that decode speed times weight size lands near memory bandwidth on two model sizes, grows one KV cache to time written tokens at increasing chat lengths and checks the cache size from the model config, batches 1, 4 and 8 different questions, and optionally converts time into joules with NVML or Apple's `powermetrics`, idle power subtracted.
 
     #### Additional Resources 📚
-    - **[YouTube Explanation](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=genai-agents--readme&click=youtube-energy-table&target=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D__VIDEO_ID__%26list%3DPLBrpE2PttR2k&retarget=0&text=youtube-energy-table)**
+    - **[YouTube Explanation](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=genai-agents--readme&click=youtube-energy-table&target=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dw6FgmAtt7oo%26list%3DPLBrpE2PttR2k&retarget=0&text=youtube-energy-table)**
 
 ### 🌟 Special Advanced Technique 🌟
 
