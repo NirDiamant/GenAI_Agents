@@ -52,7 +52,7 @@ orjson==3.10.7
 packaging==24.1
 pandas==2.2.2
 parso==0.8.4
-pillow==10.4.0
+pillow==12.3.0
 platformdirs==4.2.2
 primp==0.6.3
 prompt_toolkit==3.0.47
