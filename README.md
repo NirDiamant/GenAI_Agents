@@ -52,7 +52,7 @@ Clone any of those repos, paste the same line, and check the number yourself. No
 
 </div>
 
-> **Recently added:** Read vs Write: What One AI Answer Costs, Trace-Based Agent Evaluation, Human-in-the-Loop Approval Agent, Document Intake Agent, HR AI Assistant | **57 tutorials** and growing
+> **Recently added:** Darkmoon Findings Triage Agent, Read vs Write: What One AI Answer Costs, Trace-Based Agent Evaluation, Human-in-the-Loop Approval Agent, Document Intake Agent | **58 tutorials** and growing
 
 ## 📫 Stay Updated!
 
@@ -249,6 +249,7 @@ Below is a comprehensive overview of our GenAI agent implementations, organized 
 | 55 | 🌱 **Beginner**   | [Agent From Scratch: The While Loop](all_agents_tutorials/agent_while_loop_from_scratch.ipynb) | Pure Python | The minimal agent loop, tool calls, the retry trap, where a rule must live   |
 | 56 | 🔍 **QA**         | [One-Step Decision Router](all_agents_tutorials/one_step_decision_router.ipynb) | Transformers | Decision from one forward pass, calibration check, temperature scaling, confidence gate |
 | 57 | 🎓 **Educational** | [Read vs Write: What One AI Answer Costs](all_agents_tutorials/read_vs_write_cost.ipynb) | Transformers | Prefill vs decode timing, memory-bandwidth check, KV-cache growth, batching, optional power metering |
+| 58 | 🔍 **QA**         | [Darkmoon Findings Triage Agent](all_agents_tutorials/darkmoon_findings_triage_agent_langgraph.ipynb) | LangGraph | Pentest findings triage, deterministic ranking, grounding verifier with bounded retry |
 
 Explore our extensive list of GenAI agent implementations, sorted by categories:
 
@@ -820,6 +821,14 @@ Explore our extensive list of GenAI agent implementations, sorted by categories:
 
     #### Additional Resources 📚
     - **[YouTube Explanation](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=genai-agents--readme&click=youtube-energy-table&target=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dw6FgmAtt7oo%26list%3DPLBrpE2PttR2k&retarget=0&text=youtube-energy-table)**
+
+58. **[Pentest Findings Triage Agent with Darkmoon and LangGraph](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/darkmoon_findings_triage_agent_langgraph.ipynb)**
+
+    #### Overview 🔎
+    Turns the findings of an autonomous pentest campaign (read from Darkmoon) into a prioritized triage brief for an engineering team, and refuses to ship a brief that is not grounded in the findings: no dropped finding, no invented CVE, remediation text quoted exactly as Darkmoon gave it.
+
+    #### Implementation 🛠️
+    A LangGraph workflow (fetch_findings → rank_findings → write_brief → verify_brief) with a bounded retry from the verifier back to the writer. Findings come through the read-only tools of `langchain-darkmoon` (the scan-launching tool is not given to the agent), ranking and verification are plain code, and only the prose is written by an LLM (gpt-4o-mini). Live use needs a self-hosted Darkmoon Pro instance, since the tools use its Dashboard API (the Darkmoon engine and CLI are open source); the notebook also runs end to end offline against a mock of that API with hand-written sample findings.
 
 ### 🌟 Special Advanced Technique 🌟
 
