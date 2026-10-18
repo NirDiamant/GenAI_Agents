@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 260" width="900" height="260" role="img" aria-label="Darkmoon findings triage agent: fetch, rank, write brief, verify, with a retry loop from verify to write brief">
+  <defs>
+    <marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#334155"/></marker>
+  </defs>
+  <style>text{font-family:Arial,Helvetica,sans-serif;font-size:14px;fill:#0f172a}.s{font-size:11px;fill:#475569}.b{fill:#eef2ff;stroke:#4f46e5;stroke-width:1.5}.l{fill:#fef3c7;stroke:#d97706;stroke-width:1.5}.d{fill:#f1f5f9;stroke:#64748b;stroke-width:1.5}</style>
+  <rect width="900" height="260" fill="#ffffff"/>
+  <rect class="d" x="20" y="40" width="150" height="70" rx="8"/>
+  <text x="95" y="68" text-anchor="middle">fetch_findings</text>
+  <text class="s" x="95" y="88" text-anchor="middle">read-only Darkmoon tools</text>
+  <rect class="b" x="215" y="40" width="150" height="70" rx="8"/>
+  <text x="290" y="68" text-anchor="middle">rank_findings</text>
+  <text class="s" x="290" y="88" text-anchor="middle">status, then CVSS (code)</text>
+  <rect class="l" x="410" y="40" width="150" height="70" rx="8"/>
+  <text x="485" y="68" text-anchor="middle">write_brief</text>
+  <text class="s" x="485" y="88" text-anchor="middle">LLM, ranked data only</text>
+  <rect class="b" x="605" y="40" width="150" height="70" rx="8"/>
+  <text x="680" y="68" text-anchor="middle">verify_brief</text>
+  <text class="s" x="680" y="88" text-anchor="middle">grounding checks (code)</text>
+  <rect class="d" x="800" y="40" width="80" height="70" rx="8"/>
+  <text x="840" y="80" text-anchor="middle">END</text>
+  <path d="M170 75 H213" stroke="#334155" stroke-width="1.5" fill="none" marker-end="url(#a)"/>
+  <path d="M365 75 H408" stroke="#334155" stroke-width="1.5" fill="none" marker-end="url(#a)"/>
+  <path d="M560 75 H603" stroke="#334155" stroke-width="1.5" fill="none" marker-end="url(#a)"/>
+  <path d="M755 75 H798" stroke="#334155" stroke-width="1.5" fill="none" marker-end="url(#a)"/>
+  <text class="s" x="777" y="68" text-anchor="middle">ok</text>
+  <path d="M680 110 V190 H485 V112" stroke="#d97706" stroke-width="1.5" fill="none" stroke-dasharray="5 4" marker-end="url(#a)"/>
+  <text class="s" x="582" y="208" text-anchor="middle">problems found and attempts left: retry with feedback</text>
+  <text class="s" x="20" y="245">Not exposed to the agent: darkmoon_run_pentest (starting a scan stays a human decision)</text>
+</svg>
