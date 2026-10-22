@@ -44,6 +44,6 @@ Building agents starts with understanding what the model underneath is actually 
 
 <div align="center">
 
-**[← Back to the main README](../README.md)** for the full technique table, the book and the course.
+**[← Back to the main README](../README.md)** for the full technique table and the books.
 
 </div>
