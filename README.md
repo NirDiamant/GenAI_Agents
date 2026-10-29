@@ -169,6 +169,8 @@ Contributions make this better - propose ideas, share techniques, or give feedba
 
 Below is a comprehensive overview of our GenAI agent implementations, organized by category and functionality. Each implementation is designed to showcase different aspects of AI agent development, from basic conversational agents to complex multi-agent systems.
 
+> **Updated 2026-10-30:** most of the use-case notebooks below were contributed in late 2024. They now import cleanly on LangChain 1.x and LangGraph 1.x, and model IDs that providers have retired (gpt-3.5-turbo, gpt-4, DALL-E 3, Gemini 1.5, Claude 3, older Groq Llama models) were replaced with current ones. Each notebook still needs its own API keys, and not every notebook was run end to end against live services.
+
 <table width="100%">
   <tr style="background-color:#FBF3DB">
     <td width="4%" align="center">⭐</td>
@@ -238,6 +240,7 @@ Below is a comprehensive overview of our GenAI agent implementations, organized 
 | 55 | 🌱 **Beginner**   | [Agent From Scratch: The While Loop](all_agents_tutorials/agent_while_loop_from_scratch.ipynb) | Pure Python | The minimal agent loop, tool calls, the retry trap, where a rule must live   |
 | 56 | 🔍 **QA**         | [One-Step Decision Router](all_agents_tutorials/one_step_decision_router.ipynb) | Transformers | Decision from one forward pass, calibration check, temperature scaling, confidence gate |
 | 57 | 🎓 **Educational** | [Read vs Write: What One AI Answer Costs](all_agents_tutorials/read_vs_write_cost.ipynb) | Transformers | Prefill vs decode timing, memory-bandwidth check, KV-cache growth, batching, optional power metering |
+| 58 | 🎓 **Educational** | [Context Engineering From Scratch](all_agents_tutorials/context_engineering_from_scratch.ipynb) | Pure Python + OpenAI | Tokens per layer, clearing used tool results, the prompt-cache trade-off, a scored before/after |
 
 Explore our extensive list of GenAI agent implementations, sorted by categories:
 
@@ -809,6 +812,14 @@ Explore our extensive list of GenAI agent implementations, sorted by categories:
 
     #### Additional Resources 📚
     - **[YouTube Explanation](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=genai-agents--readme&click=youtube-energy-table&target=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dw6FgmAtt7oo%26list%3DPLBrpE2PttR2k&retarget=0&text=youtube-energy-table)**
+
+58. **[Context Engineering From Scratch: Clear What the Agent Already Used](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/context_engineering_from_scratch.ipynb)**
+
+    #### Overview 🔎
+    An expense-audit agent checks 30 reports, one per step, and by the last step it is re-reading every report it already finished. The notebook logs the tokens in each layer of every call, clears each report once the agent has answered it, and compares three runs on tokens, dollars, the size of the last call and an exact audit score. It reports what changed (5x fewer tokens, a flat call size) and what did not (quality at this size, and most of the money, because the prompt cache had already absorbed it).
+
+    #### Implementation 🛠️
+    Plain Python and the OpenAI API, no framework. 30 synthetic reports with 11 planted violations and a near-miss in each, a structured answer per report, a ten-line clearing step that swaps a used report for a one-line finding, a batched variant that protects the prompt cache, and an aside showing why the false alarms are fixed in code rather than in the context.
 
 ### 🌟 Special Advanced Technique 🌟
 
