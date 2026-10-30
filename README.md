@@ -171,6 +171,27 @@ Below is a comprehensive overview of our GenAI agent implementations, organized 
 
 > **Updated 2026-10-30:** most of the use-case notebooks below were contributed in late 2024. They now import cleanly on LangChain 1.x and LangGraph 1.x, and model IDs that providers have retired (gpt-3.5-turbo, gpt-4, DALL-E 3, Gemini 1.5, Claude 3, older Groq Llama models) were replaced with current ones. Each notebook still needs its own API keys, and not every notebook was run end to end against live services.
 
+### 🧭 Start here: the 2026 core patterns
+
+New to agents, or coming back after the 2024 notebooks? These teach one pattern each, in the order a build needs them, and most are plain Python plus one SDK, so they keep running when frameworks change. The newest ones score every run against planted answers and report what the pattern did not fix as well as what it did. The chapter numbers are from [*AI Agents Made Simple*](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=genai-agents--readme&click=start-here-book&target=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0HNXRSRH2%3Fmaas%3Dmaas_adg_api_580351185840460851_static_9_573%26ref_%3Daa_maas%26tag%3Dmaas%26aa_campaignid%3Dagents-en%26aa_adgroupid%3Dgithub-readme%26aa_creativeid%3Dgenai-start-here&retarget=0&text=start-here-book), which explains the decisions behind each pattern without code.
+
+| Ch. | Pattern | Notebook |
+|-----|---------|----------|
+| 1 | Do you need an agent? Route first | [One-Step Decision Router](all_agents_tutorials/one_step_decision_router.ipynb) |
+| 2 | The agent loop | [Agent From Scratch: The While Loop](all_agents_tutorials/agent_while_loop_from_scratch.ipynb) |
+| 3 | Workflows before agents | [Workflows First: Gated Contract Review](all_agents_tutorials/workflows_first_from_scratch.ipynb) |
+| 5 | Tools designed for a model | [Designing Tools for Agents](all_agents_tutorials/designing_tools_for_agents.ipynb) |
+| 10 | Skills loaded on demand | [Skills From Scratch](all_agents_tutorials/skills_from_scratch.ipynb) |
+| 11 | Context engineering | [Context Engineering From Scratch](all_agents_tutorials/context_engineering_from_scratch.ipynb) |
+| 12 | Evals from traces | [Trace-Based Agent Evaluation](all_agents_tutorials/trace_based_agent_evaluation.ipynb) |
+| 15 | Humans in the loop | [Human-in-the-Loop Approval Agent](all_agents_tutorials/human_in_the_loop_approval_agent.ipynb) |
+| 16 | What an answer costs | [Read vs Write: What One AI Answer Costs](all_agents_tutorials/read_vs_write_cost.ipynb) |
+| 18 | Plan, then execute | [Plan Then Execute From Scratch](all_agents_tutorials/plan_then_execute_from_scratch.ipynb) |
+| 19 | Reflection with a real check | [Reflection From Scratch](all_agents_tutorials/reflection_from_scratch.ipynb) |
+| 20 | Thinking budgets and search | [Thinking Budgets From Scratch](all_agents_tutorials/thinking_budgets_from_scratch.ipynb) |
+
+Chapter 27, from a while loop to a harness, is planned as a community notebook ([#160](https://github.com/NirDiamant/GenAI_Agents/issues/160)).
+
 <table width="100%">
   <tr style="background-color:#FBF3DB">
     <td width="4%" align="center">⭐</td>
@@ -241,6 +262,12 @@ Below is a comprehensive overview of our GenAI agent implementations, organized 
 | 56 | 🔍 **QA**         | [One-Step Decision Router](all_agents_tutorials/one_step_decision_router.ipynb) | Transformers | Decision from one forward pass, calibration check, temperature scaling, confidence gate |
 | 57 | 🎓 **Educational** | [Read vs Write: What One AI Answer Costs](all_agents_tutorials/read_vs_write_cost.ipynb) | Transformers | Prefill vs decode timing, memory-bandwidth check, KV-cache growth, batching, optional power metering |
 | 58 | 🎓 **Educational** | [Context Engineering From Scratch](all_agents_tutorials/context_engineering_from_scratch.ipynb) | Pure Python + OpenAI | Tokens per layer, clearing used tool results, the prompt-cache trade-off, a scored before/after |
+| 59 | 🎓 **Educational** | [Workflows First: Gated Contract Review](all_agents_tutorials/workflows_first_from_scratch.ipynb) | Pure Python + OpenAI | Gated workflow vs agent, planted broken files, cost and run-to-run spread, scored exactly |
+| 60 | 🎓 **Educational** | [Designing Tools for Agents](all_agents_tutorials/designing_tools_for_agents.ipynb) | Pure Python + OpenAI | Thin API wrapper vs model-designed tools: planted refund tickets, idempotent writes, instructive errors |
+| 61 | 🎓 **Educational** | [Skills From Scratch](all_agents_tutorials/skills_from_scratch.ipynb) | Pure Python + OpenAI | Skill folders, progressive disclosure vs stuffed prompt at 3/10/30 procedures, trigger tests, poisoned skill |
+| 62 | 🎓 **Educational** | [Plan Then Execute From Scratch](all_agents_tutorials/plan_then_execute_from_scratch.ipynb) | Pure Python + OpenAI | Planner, plan checks, assumption-triggered replans; injection test; step-by-step comparison with measured costs |
+| 63 | 🎓 **Educational** | [Reflection From Scratch](all_agents_tutorials/reflection_from_scratch.ipynb) | Pure Python + OpenAI | Self-review vs skeptical reviewer vs failing tests, evidence gate, fixes vs regressions, hidden tests |
+| 64 | 🎓 **Educational** | [Thinking Budgets From Scratch](all_agents_tutorials/thinking_budgets_from_scratch.ipynb) | Pure Python + OpenAI | Reasoning effort none-to-high vs checked retries, vote, picker and cascade on scored SQL |
 
 Explore our extensive list of GenAI agent implementations, sorted by categories:
 
@@ -820,6 +847,54 @@ Explore our extensive list of GenAI agent implementations, sorted by categories:
 
     #### Implementation 🛠️
     Plain Python and the OpenAI API, no framework. 30 synthetic reports with 11 planted violations and a near-miss in each, a structured answer per report, a ten-line clearing step that swaps a used report for a one-line finding, a batched variant that protects the prompt cache, and an aside showing why the false alarms are fixed in code rather than in the context.
+
+59. **[Workflows First: A Gated Contract Review, Measured Against an Agent](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/workflows_first_from_scratch.ipynb)**
+
+    #### Overview 🔎
+    One supplier-contract review, built three ways: a three-step chain, an agent that picks its own steps, and the same chain with code gates between the steps. All three are scored over repeated runs against 18 synthetic files with planted terms, near misses and five files a person must see. Without gates, the chain wrote clean "no flags" memos for all five. The gated workflow caught 4 of the 5 in every run, at about 40% of the agent's cost and half its time per file, while the agent caught 3 or 4 but read an unusual liability clause better. Neither caught a contract from the wrong supplier until a new gate was added, which then caught it in every saved run with zero model calls.
+
+    #### Implementation 🛠️
+    Plain Python and the OpenAI Responses API, no framework. The workflow has a text-layer gate before any model call, a structured extraction with quoted evidence, a sanity and grounding gate with one retry, the policy rules in code, and a memo call. The agent gets the same policy plus read, check-quote and submit tools.
+
+60. **[Designing Tools for Agents: Fix a Refund Agent Without Touching Its Prompt](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/designing_tools_for_agents.ipynb)**
+
+    #### Overview 🔎
+    A support agent resolves 10 refund tickets against a fake store with planted answers, and only its tools change between runs. A thin wrapper generated from the internal API resolved 18 of 30 runs and refunded twice after timeouts. The same wrapper with better descriptions resolved 24 and stopped the double refunds, but the model still could not convert dates to unix timestamps (0 of 48 in the right year). Four tools designed for the model resolved all 30.
+
+    #### Implementation 🛠️
+    Plain Python and the OpenAI SDK with gpt-5.4-mini in a bare tool loop, scored against the store's final state. Four tool sets share one internal API with planted faults: a refund that answers after the tool's timeout, and a search that fails with 200 OK.
+
+61. **[Skills From Scratch: Load a Support Agent's Procedures Only When a Ticket Needs Them](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/skills_from_scratch.ipynb)**
+
+    #### Overview 🔎
+    A support agent with 30 procedures runs 36 tickets with planted answers two ways: every procedure in the system prompt, or one description line per skill with the body loaded through a tool. At 30 procedures, skills cut each call from 10,032 to 2,120 input tokens but cost about 70% more ($3.38 vs $1.98 per 1,000 tickets), because the long prompt was 87% cached and the short one was not, and accuracy did not clearly differ. What broke skill selection was the description: one insistent description pulled its skill into both duplicate-charge tickets in all three runs, and a planted line in a downloaded skill passed a code scanner and reached all six replies.
+
+    #### Implementation 🛠️
+    Plain Python and the OpenAI SDK: skills are SKILL.md folders read at session start, a load_skill tool appends a body on demand, and a strict submit tool makes every answer exactly gradable. It adds a trigger test with near misses, a pattern scanner, and a reply hook that blocks unknown links.
+
+62. **[Plan Then Execute From Scratch: Lock In a Workspace Migration Before the Agent Reads Anything](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/plan_then_execute_from_scratch.ipynb)**
+
+    #### Overview 🔎
+    An account agent migrates a design team between workspaces on a fake admin API with planted ground truth, once choosing each step after the last result and once writing the whole plan first for code to check and run. With one instruction planted in a project description, the step-by-step agent emailed the member list to an outside address in 3 of 8 runs (17 of 32 over four runs), and the planned agent in none. Accuracy tied at 6 of 8, the plan cost about 3x per run ($0.0120 vs $0.0038), and it lost on support tickets whose fix depends on what a lookup finds (4 of 6 fixed vs 6 of 6).
+
+    #### Implementation 🛠️
+    Plain Python and the OpenAI SDK with gpt-5.4-mini. The planner writes items with done-conditions and assumptions, then code checks the plan, runs it, compares every result with what later items assume, and replans only the remaining items while showing the replanner trusted counts and ids only. An ablation reruns the same plans with every check switched off.
+
+63. **[Reflection From Scratch: Who Should Critique the Code an Agent Writes](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/reflection_from_scratch.ipynb)**
+
+    #### Overview 🔎
+    A coding agent implements 12 billing and ops tickets three times each, and hidden tests grade all 36 functions. Each function then gets a second pass from four critics: its own self-review, a fresh skeptical reviewer, the same reviewer behind an evidence gate, and the failing check tests. Self-review moved the score by one function and approved 5 of the 7 it left wrong. The ungated reviewer reported about four problems per function on mostly correct code. The failing tests cost about a tenth as much as that reviewer and never broke a correct function in three runs.
+
+    #### Implementation 🛠️
+    Plain Python and the OpenAI API, no framework. Model code runs in a subprocess, each failure becomes a one-line critique, every critic shares one reviser and a three-round budget, and an evidence gate runs each reviewer finding before it reaches the reviser.
+
+64. **[Thinking Budgets From Scratch: When a Finance Data Agent Should Think Longer, Retry, or Check](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/thinking_budgets_from_scratch.ipynb)**
+
+    #### Overview 🔎
+    A finance data agent writes one SQL query per question over a synthetic subscription warehouse with planted traps, and every answer is scored exactly against an answer key. Raising reasoning effort from none to low lifted the medium questions from 1 to 5 of 6. Higher levels bought nothing more on easy and medium questions, and could not fix a definition the hard questions misread. A low-effort attempt plus a ledger check, escalating to high only when the check failed, got 17 of 18 right with no wrong answers, at about 60% of the cost of using high everywhere.
+
+    #### Implementation 🛠️
+    Plain Python, sqlite3 and the OpenAI SDK with gpt-5.4-mini. It sweeps the effort levels and logs the reasoning tokens, cost and latency the API reports, runs best-of-5 search with three ways of picking a winner (vote, model picker, check), and replays a cascade from the logged calls. Deliberately misread versions of the answer key diagnose each wrong answer and expose what the check cannot see.
 
 ### 🌟 Special Advanced Technique 🌟
 
