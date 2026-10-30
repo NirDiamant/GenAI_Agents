@@ -44,7 +44,7 @@
   <!-- Analyst -->
   <rect x="704" y="232" width="172" height="64" rx="10" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1.5"/>
   <text x="790" y="259" text-anchor="middle" font-size="14" font-weight="bold" fill="#0f172a">Analyst LLM</text>
-  <text x="790" y="278" text-anchor="middle" font-size="11.5" fill="#475569">gpt-4o-mini, grounded</text>
+  <text x="790" y="278" text-anchor="middle" font-size="11.5" fill="#475569">gpt-6-luna, grounded</text>
 
   <!-- Answer -->
   <rect x="704" y="352" width="172" height="56" rx="10" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1.5"/>
