@@ -41,7 +41,7 @@ Welcome to one of the most extensive and dynamic collections of Generative AI (G
 
 </div>
 
-> **Recently added:** Read vs Write: What One AI Answer Costs, Trace-Based Agent Evaluation, Human-in-the-Loop Approval Agent, Document Intake Agent, HR AI Assistant | **57 tutorials** and growing
+> **Recently added:** Thinking Budgets From Scratch, Reflection From Scratch, Plan Then Execute From Scratch, Skills From Scratch, Designing Tools for Agents | **64 tutorials** and growing
 
 ## 📫 Stay Updated!
 
@@ -169,7 +169,7 @@ Contributions make this better - propose ideas, share techniques, or give feedba
 
 Below is a comprehensive overview of our GenAI agent implementations, organized by category and functionality. Each implementation is designed to showcase different aspects of AI agent development, from basic conversational agents to complex multi-agent systems.
 
-> **Updated 2026-10-30:** most of the use-case notebooks below were contributed in late 2024. They now import cleanly on LangChain 1.x and LangGraph 1.x, and model IDs that providers have retired (gpt-3.5-turbo, gpt-4, DALL-E 3, Gemini 1.5, Claude 3, older Groq Llama models) were replaced with current ones. Each notebook still needs its own API keys, and not every notebook was run end to end against live services.
+> **Updated 2026-10-31:** most of the use-case notebooks below were contributed in late 2024. They now import cleanly on LangChain 1.x and LangGraph 1.x, and model IDs that providers have retired or scheduled for retirement (gpt-3.5-turbo, gpt-4, gpt-4o, gpt-4o-mini, DALL-E 3, Gemini 1.5, Claude 3, older Groq Llama models) were replaced with current ones. Each notebook still needs its own API keys, and not every notebook was run end to end against live services.
 
 ### 🧭 Start here: the 2026 core patterns
 
@@ -781,7 +781,7 @@ Explore our extensive list of GenAI agent implementations, sorted by categories:
     A LangGraph agent that accepts arbitrary incoming files (docx, pptx, xlsx, pdf and more), routes them against a live formats list, converts them to faithful LLM-ready markdown through a hosted conversion API, and answers questions grounded in the converted document instead of a lossy text scrape.
 
     #### Implementation 🛠️
-    Uses a deterministic conditional edge for format routing (a lookup, not an LLM call), a submit-upload-poll-download client as the conversion tool, and gpt-4o-mini as a grounded analyst. Includes a naive-extraction comparison showing why tables and reading order survive conversion but not scraping, plus a one-block MCP config that gives Claude Code and Cursor the same capability.
+    Uses a deterministic conditional edge for format routing (a lookup, not an LLM call), a submit-upload-poll-download client as the conversion tool, and gpt-6-luna as a grounded analyst. Includes a naive-extraction comparison showing why tables and reading order survive conversion but not scraping, plus a one-block MCP config that gives Claude Code and Cursor the same capability.
 
 52. **[Social Media Publishing Agent (Publora + LangGraph)](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/social_media_publishing_agent_publora_langgraph.ipynb)**
 
@@ -937,7 +937,7 @@ def run_agent(user_input: str) -> str:
 
 ---
 ## Prerequisites
-- Python 3.9+
+- Python 3.11+ (the shared `requirements.txt` is tested on 3.11)
 - Docker installed and running (required for some agents and setup)
 
 ## Getting Started
@@ -948,11 +948,15 @@ To begin exploring and building GenAI agents:
    ```
    git clone https://github.com/NirDiamant/GenAI_Agents.git
    ```
-2. Navigate to the technique you're interested in:
+2. Install the shared dependencies (individual notebooks install anything extra in their first cell):
+   ```
+   pip install -r requirements.txt
+   ```
+3. Navigate to the technique you're interested in:
    ```
    cd all_agents_tutorials/technique-name
    ```
-3. Follow the detailed implementation guide in each technique's notebook.
+4. Follow the detailed implementation guide in each technique's notebook.
 
 ## 📚 Recommended reading
 
@@ -966,7 +970,9 @@ To begin exploring and building GenAI agents:
 
 ---
 
-## 📚 More from the same author
+## 📚 More from DiamantAI
+
+**[AI Agents Made Simple](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=genai-agents--readme&click=book-footer-agents&target=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0HNXRSRH2%3Fmaas%3Dmaas_adg_api_580351185840460851_static_9_573%26ref_%3Daa_maas%26tag%3Dmaas%26aa_campaignid%3Dagents-en%26aa_adgroupid%3Dgithub-readme%26aa_creativeid%3Dgenai-book-footer-agents&retarget=0&text=book-footer-agents)** - the companion book to this repo: when each agent pattern is worth it, what breaks, and what it costs.
 
 **[Agent Memory Made Simple](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=genai-agents--readme&click=book-footer-am&target=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0HCRMGHCM%3Fmaas%3Dmaas_adg_api_580351185840460851_static_9_573%26ref_%3Daa_maas%26tag%3Dmaas%26aa_campaignid%3Dam-en%26aa_adgroupid%3Dgithub-readme%26aa_creativeid%3Dgenai-book-footer-am&retarget=0&text=book-footer-am)** - the visual guide to memory for AI agents: 30 techniques, zero code required.
 
@@ -977,6 +983,10 @@ To begin exploring and building GenAI agents:
 *To hear when the next book comes out, [follow the author on Amazon](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=genai-agents--readme&click=author-follow-amazon&target=https%3A%2F%2Fwww.amazon.com%2Fstores%2FNir-Diamant%2Fauthor%2FB0DZMTVQHJ&retarget=0&text=author-follow-amazon).*
 
 *Run a course, newsletter, or dev community? You can [earn 25% recommending RAG Made Simple](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=genai-agents--readme&click=affiliate-signup&target=https%3A%2F%2Fnirdiamant.gumroad.com%2Faffiliates&retarget=0&text=affiliate-signup) to your audience.*
+
+**More repos:** [RAG Techniques](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=genai-agents--readme&click=footer-rag-techniques&target=https%3A%2F%2Fgithub.com%2FNirDiamant%2FRAG_Techniques&retarget=0&text=footer-rag-techniques) · [Agents Towards Production](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=genai-agents--readme&click=footer-agents-towards-production&target=https%3A%2F%2Fgithub.com%2FNirDiamant%2Fagents-towards-production&retarget=0&text=footer-agents-towards-production) · [Prompt Engineering](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=genai-agents--readme&click=footer-prompt-engineering&target=https%3A%2F%2Fgithub.com%2FNirDiamant%2FPrompt_Engineering&retarget=0&text=footer-prompt-engineering) · [Agent Memory Techniques](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=genai-agents--readme&click=footer-agent-memory-techniques&target=https%3A%2F%2Fgithub.com%2FNirDiamant%2FAgent_Memory_Techniques&retarget=0&text=footer-agent-memory-techniques)
+
+**Follow along:** [Newsletter](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=genai-agents--readme&click=footer-newsletter&target=https%3A%2F%2Fnewsletter.diamant-ai.com&retarget=0&text=footer-newsletter) · [YouTube](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=genai-agents--readme&click=footer-youtube&target=https%3A%2F%2Fwww.youtube.com%2F%40DiamantAI&retarget=0&text=footer-youtube) · [Discord](https://discord.gg/cA6Aa4uyDX) · [Website](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=genai-agents--readme&click=footer-website&target=https%3A%2F%2Fdiamant-ai.com&retarget=0&text=footer-website) · [Course](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=genai-agents--readme&click=footer-course&target=https%3A%2F%2Fdiamant-ai.com%2Fcourses&retarget=0&text=footer-course)
 
 ## Contributing
 
