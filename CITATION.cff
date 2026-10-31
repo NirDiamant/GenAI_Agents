@@ -9,7 +9,8 @@ authors:
 repository-code: "https://github.com/NirDiamant/GenAI_Agents"
 url: "https://github.com/NirDiamant/GenAI_Agents"
 abstract: >-
-  A community-driven collection of 59 runnable Jupyter notebooks
+  A community-driven collection of 64 agent tutorials, nearly all runnable
+  Jupyter notebooks,
   implementing Generative AI agents, from a single conversational bot to
   multi-agent systems, self-improving agents and complete applications.
   Covers LangGraph, AutoGen and PydanticAI orchestration, memory,

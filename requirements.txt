@@ -1,89 +1,54 @@
-aiohappyeyeballs==2.4.0
-aiohttp==3.14.3
-aiosignal==1.3.1
-annotated-types==0.7.0
-anyio==4.4.0
-asttokens==2.4.1
-attrs==24.2.0
-certifi==2024.8.30
-charset-normalizer==3.3.2
-click==8.1.7
-colorama==0.4.6
-comm==0.2.2
-dataclasses-json==0.6.7
-debugpy==1.8.5
-decorator==5.1.1
-distro==1.9.0
-duckduckgo_search==6.2.13
-executing==2.1.0
-frozenlist==1.4.1
-greenlet==3.0.3
-h11==0.14.0
-httpcore==1.0.5
-httpx==0.27.2
-idna==3.8
-ipykernel==6.29.5
-ipython==8.27.0
-jedi==0.19.1
-jiter==0.5.0
-joblib==1.4.2
-jsonpatch==1.33
-jsonpointer==3.0.0
-jupyter_client==8.6.2
-jupyter_core==5.7.2
-langchain==0.2.16
-langchain-community==0.2.16
-langchain-core==0.2.38
-langchain-experimental==0.0.65
-langchain-openai==0.1.23
-langchain-text-splitters==0.2.4
-langgraph==0.2.18
-langgraph-checkpoint==1.0.9
-langsmith==0.1.114
-marshmallow==3.22.0
-matplotlib-inline==0.1.7
-multidict==6.0.5
-mypy-extensions==1.0.0
-nest-asyncio==1.6.0
-nltk==3.9.1
-numpy==1.26.4
-openai==1.43.0
-orjson==3.10.7
-packaging==24.1
-pandas==2.2.2
-parso==0.8.4
-pillow==10.4.0
-platformdirs==4.2.2
-primp==0.6.3
-prompt_toolkit==3.0.47
-psutil==6.0.0
-pure_eval==0.2.3
-pydantic==2.8.2
-pydantic_core==2.20.1
-Pygments==2.18.0
-python-dateutil==2.9.0.post0
-python-dotenv==1.0.1
-pytz==2024.1
-PyYAML==6.0.2
-pyzmq==26.2.0
-pywin32==306; platform_system == "Windows"
-regex==2024.7.24
-requests==2.32.3
-beautifulsoup4==4.12.3
-six==1.16.0
-sniffio==1.3.1
-SQLAlchemy==2.0.34
-stack-data==0.6.3
-tabulate==0.9.0
-tenacity==8.5.0
-tiktoken==0.7.0
-tornado==6.4.1
-tqdm==4.66.5
-traitlets==5.14.3
-typing-inspect==0.9.0
-typing_extensions==4.12.2
-tzdata==2024.1
-urllib3==2.2.2
-wcwidth==0.2.13
-yarl==1.9.11
-autogen==0.3.0
+# Shared dependencies for the GenAI_Agents notebooks.
+#
+# This is the core stack most notebooks import: LangChain 1.x, LangGraph 1.x,
+# the OpenAI and Anthropic SDKs, PydanticAI and Jupyter. Notebooks that need
+# heavier or framework-specific packages (CrewAI, AutoGen, Swarm, torch and
+# transformers, LightRAG, Playwright, Groq, Ollama, Gemini, ...) install them
+# in their own first cell.
+#
+# Each line is a direct dependency with a tested floor and a cap below the
+# next major version, not an exact pin of the whole tree. The last block sets
+# security floors for packages the stack pulls in.
+#
+# Checked on 2026-10-31: `pip install -r requirements.txt` in a fresh
+# Python 3.11 virtual environment.
+
+# LLM frameworks and SDKs
+langchain>=1.4,<2
+langchain-core>=1.7,<2
+langchain-classic>=1.0,<2
+langchain-community>=0.4,<0.5
+langchain-experimental>=0.4,<0.5
+langchain-openai>=1.7,<2
+langchain-anthropic>=1.7,<2
+langchain-text-splitters>=1.1.2,<2
+langgraph>=1.2,<2
+langmem>=0.0.30,<0.1
+openai>=2,<4
+anthropic>=2,<3
+pydantic>=2.9,<3
+pydantic-ai-slim[openai]>=2.63,<3
+
+# Notebook runtime and helpers
+python-dotenv>=1.2,<2
+ipykernel>=6.29
+ipython>=8.27
+ipywidgets>=8
+nest-asyncio>=1.6
+numpy>=1.26
+pandas>=2.2
+matplotlib>=3.9
+tabulate>=0.9
+tiktoken>=0.8
+requests>=2.33
+beautifulsoup4>=4.12
+ddgs>=9
+
+# Security floors for packages pulled in by the stack above
+aiohttp>=3.14.4
+anyio>=4.14.2
+certifi>=2026.10.18
+nltk>=3.10.4
+pillow>=13.0.0
+tornado>=6.6
+urllib3>=2.8.0

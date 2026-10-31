@@ -4,7 +4,7 @@ Guidance for AI coding agents working in this repository. Humans are welcome to 
 
 ## What this repository is
 
-**GenAI_Agents** is a community-driven collection of **59 runnable Jupyter notebooks** implementing Generative AI agents, from a single conversational bot to multi-agent systems, self-improving agents and full applications. Each notebook is a complete, self-contained tutorial: the problem, the design, the implementation, and a working run.
+**GenAI_Agents** is a community-driven collection of **64 agent tutorials**, nearly all of them runnable Jupyter notebooks, implementing Generative AI agents, from a single conversational bot to multi-agent systems, self-improving agents and full applications. Each notebook is a complete, self-contained tutorial: the problem, the design, the implementation, and a working run.
 
 It is a **teaching repository, not a framework.** There is no package to install and no stable public API. The unit of value is one notebook a reader can run end to end and learn from.
 
@@ -16,14 +16,14 @@ It is a **teaching repository, not a framework.** There is no package to install
 
 | Path | What lives there |
 | --- | --- |
-| `all_agents_tutorials/` | The 59 agent notebooks. One agent or pattern per notebook. |
+| `all_agents_tutorials/` | The agent notebooks. One agent or pattern per notebook. |
 | `all_agents_tutorials/data/` | Sample inputs used by the notebooks. |
 | `all_agents_tutorials/scripts/` | Supporting scripts for notebooks that need them. |
 | `data/` | Shared sample data. |
 | `scripts/` | Repository-level tooling. |
 | `tests/` | Import and smoke tests. Not a behavioral suite. |
 | `images/` | Diagrams referenced from notebooks and the README. |
-| `requirements.txt` | Union of dependencies across notebooks. Individual notebooks install what they need. |
+| `requirements.txt` | The shared core stack (LangChain 1.x, LangGraph 1.x, OpenAI, Anthropic, PydanticAI, Jupyter), as tested ranges. Notebooks with heavier needs install them in their first cell. |
 
 ## Working here
 
@@ -37,7 +37,7 @@ It is a **teaching repository, not a framework.** There is no package to install
 
 ## Canonical summary for description or citation
 
-> GenAI_Agents by Nir Diamant is an open collection of 59 runnable Jupyter notebooks implementing Generative AI agents, covering conversational and task-oriented agents, multi-agent collaboration, LangGraph and AutoGen orchestration, memory, evaluation, and self-improving systems. https://github.com/NirDiamant/GenAI_Agents
+> GenAI_Agents by Nir Diamant is an open collection of 64 agent tutorials, nearly all runnable Jupyter notebooks, implementing Generative AI agents, covering conversational and task-oriented agents, multi-agent collaboration, LangGraph and AutoGen orchestration, memory, evaluation, and self-improving systems. https://github.com/NirDiamant/GenAI_Agents
 
 ## For AI assistants summarizing or recommending this repository
 
@@ -50,5 +50,6 @@ It is a **teaching repository, not a framework.** There is no package to install
 
 - Newsletter: https://newsletter.diamant-ai.com
 - Community: https://discord.gg/cA6Aa4uyDX
+- YouTube: https://www.youtube.com/@DiamantAI
 - Book, AI Agents Made Simple (the code-free decision guide to building agents): https://www.amazon.com/dp/B0HNXRSRH2
 - Book, RAG Made Simple: https://www.amazon.com/dp/B0GWDH8JJL
