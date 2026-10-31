@@ -60,8 +60,7 @@
 - [Customer Support Agent](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/customer_support_agent_langgraph.ipynb): Routing, resolving and escalating support requests.
 - [Sales Call Analyzer](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/sales_call_analyzer_agent.ipynb): Analyzing sales conversations.
 - [Project Manager Assistant](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/project_manager_assistant_agent.ipynb): Planning and tracking project work.
-- [HR AI Agent](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/Hr_AI_Agent.ipynb): An agent over HR processes.
-- [HR AI Assistant](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/HR_AI-Assistant.ipynb): A second take on the HR assistant.
+- [HR AI Assistant](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/HR_AI-Assistant.ipynb): A recruitment pipeline: requirements gathering, job description generation, LinkedIn candidate search and CV analysis.
 - [Document Intake Agent](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/document_intake_agent_langgraph.ipynb): Ingesting, classifying and routing documents.
 - [ClauseAI](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/ClauseAI.ipynb): Contract clause analysis.
 - [EU Green Compliance FAQ Bot](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/EU_Green_Compliance_FAQ_Bot.ipynb): A compliance question-answering agent.

@@ -1,10 +1,10 @@
 # Shared dependencies for the GenAI_Agents notebooks.
 #
 # This is the core stack most notebooks import: LangChain 1.x, LangGraph 1.x,
-# the OpenAI and Anthropic SDKs, PydanticAI and Jupyter. Notebooks that need
-# heavier or framework-specific packages (CrewAI, AutoGen, Swarm, torch and
-# transformers, LightRAG, Playwright, Groq, Ollama, Gemini, ...) install them
-# in their own first cell.
+# the OpenAI SDK (with its Realtime extra) and the Anthropic SDK, PydanticAI
+# and Jupyter. Notebooks that need heavier or framework-specific packages
+# (CrewAI, AutoGen, Swarm, torch and transformers, LightRAG, Playwright, Groq,
+# Ollama, Gemini, ...) install them in their own first cell.
 #
 # Each line is a direct dependency with a tested floor and a cap below the
 # next major version, not an exact pin of the whole tree. The last block sets
@@ -24,7 +24,7 @@ langchain-anthropic>=1.7,<2
 langchain-text-splitters>=1.1.2,<2
 langgraph>=1.2,<2
 langmem>=0.0.30,<0.1
-openai>=2,<4
+openai[realtime]>=2,<4  # the realtime extra (websockets) is needed by the TTS poem agent
 anthropic>=2,<3
 pydantic>=2.9,<3
 pydantic-ai-slim[openai]>=2.63,<3
