@@ -450,7 +450,7 @@ Explore our extensive list of GenAI agent implementations, sorted by categories:
     An advanced text-to-speech (TTS) agent using LangGraph and OpenAI's APIs classifies input text, processes it based on content type, and generates corresponding speech output.
 
     #### Implementation 🛠️
-    Utilizes LangGraph to orchestrate a workflow that classifies input text using GPT models, applies content-specific processing, and converts the processed text to speech using OpenAI's TTS API. The system adapts its output based on the identified content type (general, poem, news, or joke).
+    Utilizes LangGraph to orchestrate a workflow that classifies input text using GPT models, applies content-specific processing, and converts the processed text to speech using OpenAI's Realtime API (gpt-realtime-2.1-mini). The system adapts its output based on the identified content type (general, poem, news, or joke).
 
 18. **[Music Compositor Agent (LangGraph)](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/music_compositor_agent_langgraph.ipynb)**
    
@@ -550,10 +550,10 @@ Explore our extensive list of GenAI agent implementations, sorted by categories:
 28. **[Sales Call Analyzer](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/sales_call_analyzer_agent.ipynb)**
     
     #### Overview 🔎
-    An intelligent system that automates the analysis of sales call recordings by combining audio transcription with advanced natural language processing. The analyzer transcribes audio using OpenAI's Whisper, processes the text using NLP techniques, and generates comprehensive reports including sentiment analysis, key phrases, pain points, and actionable recommendations to improve sales performance.
+    An intelligent system that automates the analysis of sales call recordings by combining audio transcription with advanced natural language processing. The analyzer transcribes audio using OpenAI's gpt-transcribe, processes the text using NLP techniques, and generates comprehensive reports including sentiment analysis, key phrases, pain points, and actionable recommendations to improve sales performance.
 
     #### Implementation 🛠️
-    Utilizes multiple components in a structured workflow: OpenAI Whisper for audio transcription, CrewAI for task automation and agent management, and LangChain for orchestrating the analysis pipeline. The system processes audio through a series of steps from transcription to detailed analysis, leveraging custom agents and tasks to generate structured JSON reports containing insights about customer sentiment, sales opportunities, and recommended improvements.
+    Utilizes multiple components in a structured workflow: OpenAI's gpt-transcribe for audio transcription, CrewAI for task automation and agent management, and LangChain for orchestrating the analysis pipeline. The system processes audio through a series of steps from transcription to detailed analysis, leveraging custom agents and tasks to generate structured JSON reports containing insights about customer sentiment, sales opportunities, and recommended improvements.
 
     #### Additional Resources 📚
     - **[YouTube Explanation](https://www.youtube.com/watch?v=SKAt_PvznDw)**
@@ -797,7 +797,7 @@ Explore our extensive list of GenAI agent implementations, sorted by categories:
     A safe tool-using agent that executes low-risk reads automatically but pauses consequential writes before any side effect. Reviewers can approve, reject, or replace arguments, with every transition recorded for audit.
 
     #### Implementation 🛠️
-    Combines deterministic risk and argument policies with LangGraph interrupts and a notebook-local LangGraph 0.2.76 dependency. Its `InMemorySaver` supports resume only during the Python process lifetime; production restart recovery requires a persistent checkpointer. The tutorial verifies that paused and rejected actions never execute and that reviewer-edited arguments are revalidated.
+    Combines deterministic risk and argument policies with LangGraph 1.x interrupts. Its `InMemorySaver` supports resume only during the Python process lifetime; production restart recovery requires a persistent checkpointer. The tutorial verifies that paused and rejected actions never execute and that reviewer-edited arguments are revalidated.
 
 54. **[Trace-Based Agent Evaluation without an LLM Judge](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/trace_based_agent_evaluation.ipynb)**
 
