@@ -8,16 +8,16 @@ from pathlib import Path
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
 NOTEBOOK = REPO_ROOT / "all_agents_tutorials" / "human_in_the_loop_approval_agent.ipynb"
-TUTORIAL_LANGGRAPH_VERSION = "0.2.76"
+TUTORIAL_LANGGRAPH_MAJOR = "1"  # the notebook and requirements.txt use langgraph>=1.2,<2
 
 
 def has_compatible_langgraph() -> bool:
-    """Run integration tests only with the version pinned by the notebook."""
+    """Run integration tests only with the LangGraph major version the notebook uses."""
     try:
         installed_version = version("langgraph")
     except PackageNotFoundError:
         return False
-    return installed_version == TUTORIAL_LANGGRAPH_VERSION
+    return installed_version.split(".")[0] == TUTORIAL_LANGGRAPH_MAJOR
 
 
 def load_notebook_namespace(include_langgraph: bool = False) -> dict:
@@ -203,7 +203,7 @@ class HumanApprovalAgentTests(unittest.TestCase):
 
 @unittest.skipUnless(
     has_compatible_langgraph(),
-    "requires the notebook-pinned langgraph==0.2.76; other versions skip explicitly",
+    "requires LangGraph 1.x, as installed by the notebook; other versions skip explicitly",
 )
 class LangGraphApprovalTests(unittest.TestCase):
     @classmethod
