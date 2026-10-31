@@ -47,7 +47,10 @@ jobs:
                       continue
                   lines = cell.source.splitlines()
                   if lines and lines[0].lstrip().startswith("%%"):
-                      continue  # cell magic: the body is not Python
+                      magic = lines[0].lstrip()[2:].split()[0] if lines[0].lstrip()[2:].split() else ""
+                      if magic not in {"capture", "time", "timeit", "prun"}:
+                          continue  # e.g. %%bash or %%writefile: the body is not Python
+                      lines = lines[1:]  # these magics wrap ordinary Python, so check the body
                   kept = []
                   for line in lines:
                       stripped = line.lstrip()
