@@ -41,7 +41,7 @@ matplotlib>=3.9
 tabulate>=0.9
 tiktoken>=0.8
 requests>=2.33
-beautifulsoup4>=4.12
+beautifulsoup4>=4.15.0
 ddgs>=9
 
 # Security floors for packages pulled in by the stack above
