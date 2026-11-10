@@ -41,7 +41,7 @@ Welcome to one of the most extensive and dynamic collections of Generative AI (G
 
 </div>
 
-> **Recently added:** Thinking Budgets From Scratch, Reflection From Scratch, Plan Then Execute From Scratch, Skills From Scratch, Designing Tools for Agents | **64 tutorials** and growing
+> **Recently added:** NeuroMAS Joint RL Agents, Thinking Budgets From Scratch, Reflection From Scratch, Plan Then Execute From Scratch, Skills From Scratch | **65 tutorials** and growing
 
 ## 📫 Stay Updated!
 
@@ -268,6 +268,7 @@ Chapter 27, from a while loop to a harness, is planned as a community notebook (
 | 62 | 🎓 **Educational** | [Plan Then Execute From Scratch](all_agents_tutorials/plan_then_execute_from_scratch.ipynb) | Pure Python + OpenAI | Planner, plan checks, assumption-triggered replans; injection test; step-by-step comparison with measured costs |
 | 63 | 🎓 **Educational** | [Reflection From Scratch](all_agents_tutorials/reflection_from_scratch.ipynb) | Pure Python + OpenAI | Self-review vs skeptical reviewer vs failing tests, evidence gate, fixes vs regressions, hidden tests |
 | 64 | 🎓 **Educational** | [Thinking Budgets From Scratch](all_agents_tutorials/thinking_budgets_from_scratch.ipynb) | Pure Python + OpenAI | Reasoning effort none-to-high vs checked retries, vote, picker and cascade on scored SQL |
+| 65 | 🎓 **Educational** | [NeuroMAS Joint RL Agents](all_agents_tutorials/neuromas_joint_rl_agents.ipynb) | Pure PyTorch + PEFT | Role-free agents on one backbone, private message routing, joint REINFORCE from one reward, progressive growth |
 
 Explore our extensive list of GenAI agent implementations, sorted by categories:
 
@@ -363,6 +364,15 @@ Explore our extensive list of GenAI agent implementations, sorted by categories:
 
     #### Additional Resources 📚
     - **[YouTube Explanation](https://www.youtube.com/watch?v=qsdiTGkB8mk)** 
+
+65. **[NeuroMAS: Train a Network of LLM Agents from One Final Reward](https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/neuromas_joint_rl_agents.ipynb)**
+
+    #### Overview 🔎
+    Treats a multi-agent system as a neural network whose neurons are language models. Role-free agents pass private text messages through layers, and every agent trains jointly from one reward: whether the final answer was correct.
+
+    #### Implementation 🛠️
+    Built from scratch in PyTorch and PEFT. Each agent is a small LoRA adapter on one frozen Qwen3-0.6B backbone, trained with REINFORCE and a per-agent EMA baseline. A trained NeuroMAS-3 grows into larger networks by reusing its adapters.
+
 
 ### 💼 Business and Professional Agents
 
