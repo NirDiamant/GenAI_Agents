@@ -40,7 +40,7 @@ pandas>=2.2
 matplotlib>=3.9
 tabulate>=0.9
 tiktoken>=0.8
-requests>=2.33
+requests>=2.34.2
 beautifulsoup4>=4.12
 ddgs>=9
 
